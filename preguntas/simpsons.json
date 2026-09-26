@@ -884,7 +884,7 @@
   {
     "id": "simp_064",
     "enunciado": "Cuando Bart se tropieza en vivo y tira la escenografía en el show de Krusty, ¿qué frase espontánea lo convierte en una celebridad millonaria?",
-    "opciones": ["\"Fue sin querer\"", "\"Yo no fui (I didn\\'t do it)\"", "\"Nadie lo vio\"", "\"No me miren a mí\""],
+    "opciones": ["\"Fue sin querer\"", "\"Yo no fui (I didn't do it)\"", "\"Nadie lo vio\"", "\"No me miren a mí\""],
     "respuestaCorrecta": 1,
     "explicacion": "El sketch \"Yo no fui\" convirtió a Bart en un fenómeno mediático masivo con camisetas, discos y merchandising de todo tipo.",
     "dificultad": "facil",

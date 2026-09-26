@@ -2380,7 +2380,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "fam_005",
+    "id": "cine_171",
     "enunciado": "¿Qué famoso personaje de Disney tiene como mascota a un ratón llamado Mickey?",
     "opciones": ["Pato Donald", "Goofy (Tribilín)", "Pluto (el perro es de Mickey)", "Minnie Mouse"],
     "respuestaCorrecta": 3,
@@ -2394,7 +2394,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "fam_006",
+    "id": "cine_172",
     "enunciado": "¿Qué fruta es famosa por ser la casa bajo el mar de Bob Esponja en Fondo de Bikini?",
     "opciones": ["Una sandía", "Una piña (ananá)", "Un coco", "Una manzana"],
     "respuestaCorrecta": 1,
