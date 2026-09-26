@@ -1,17 +1,17 @@
 [
   {
     "id": "cult_001",
-    "enunciado": "¿Cuál es el río más largo del mundo?",
-    "opciones": ["Río Nilo", "Río Amazonas", "Río Yangtsé", "Río Misisipi"],
+    "enunciado": "Â¿CuÃ¡l es el rÃ­o mÃ¡s caudaloso del mundo?",
+    "opciones": ["RÃ­o Nilo", "RÃ­o Amazonas", "RÃ­o YangtsÃ©", "RÃ­o Misisipi"],
     "respuestaCorrecta": 1,
-    "explicacion": "Según las mediciones geográficas modernas satelitales más rigurosas, el Río Amazonas en América del Sur es el más largo y caudaloso del planeta.",
+    "explicacion": "Lleva mÃ¡s agua que los siete rÃ­os que le siguen juntos, y aporta casi una quinta parte de toda el agua dulce que llega a los ocÃ©anos.",
     "dificultad": "facil",
     "modosPermitidos": ["supervivencia", "supremo", "familia"],
     "grupoVariantes": "longest_river",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2025-10-01"
+    "revision": 2,
+    "fechaActualizacion": "2026-09-26"
   },
   {
     "id": "cult_002",
@@ -155,20 +155,6 @@
   },
   {
     "id": "cult_012",
-    "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
-    "opciones": ["Júpiter", "Saturno", "Neptuno", "Urano"],
-    "respuestaCorrecta": 0,
-    "explicacion": "Júpiter mide aproximadamente once veces más que la Tierra de lado a lado y es el mayor de los ocho planetas.",
-    "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
-    "grupoVariantes": "planeta_mas_grande",
-    "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
-  },
-  {
-    "id": "cult_013",
     "enunciado": "¿En qué país se encuentra Machu Picchu?",
     "opciones": ["Bolivia", "Perú", "Ecuador", "Colombia"],
     "respuestaCorrecta": 1,
@@ -182,7 +168,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_014",
+    "id": "cult_013",
     "enunciado": "¿Qué océano es el más extenso del planeta?",
     "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"],
     "respuestaCorrecta": 2,
@@ -196,7 +182,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_015",
+    "id": "cult_014",
     "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
     "opciones": ["Mercurio", "Venus", "Júpiter", "Marte"],
     "respuestaCorrecta": 3,
@@ -210,7 +196,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_016",
+    "id": "cult_015",
     "enunciado": "¿En qué país está el Taj Mahal?",
     "opciones": ["India", "Nepal", "Pakistán", "Bangladés"],
     "respuestaCorrecta": 0,
@@ -224,7 +210,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_017",
+    "id": "cult_016",
     "enunciado": "¿Qué gas toman las plantas del aire para realizar la fotosíntesis?",
     "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Helio"],
     "respuestaCorrecta": 1,
@@ -238,7 +224,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_018",
+    "id": "cult_017",
     "enunciado": "¿Qué continente alberga el desierto del Sahara?",
     "opciones": ["Asia", "Oceanía", "África", "América"],
     "respuestaCorrecta": 2,
@@ -252,7 +238,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_019",
+    "id": "cult_018",
     "enunciado": "¿Cuál es el satélite natural de la Tierra?",
     "opciones": ["Europa", "Titán", "Fobos", "La Luna"],
     "respuestaCorrecta": 3,
@@ -266,7 +252,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_020",
+    "id": "cult_019",
     "enunciado": "¿En qué país se encuentra la Gran Muralla?",
     "opciones": ["China", "Japón", "Mongolia", "Corea del Sur"],
     "respuestaCorrecta": 0,
@@ -280,7 +266,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_021",
+    "id": "cult_020",
     "enunciado": "¿Qué instrumento se usa para observar objetos muy pequeños?",
     "opciones": ["Telescopio", "Microscopio", "Periscopio", "Barómetro"],
     "respuestaCorrecta": 1,
@@ -294,7 +280,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_022",
+    "id": "cult_021",
     "enunciado": "¿Qué planeta tiene anillos especialmente visibles?",
     "opciones": ["Marte", "Venus", "Saturno", "Mercurio"],
     "respuestaCorrecta": 2,
@@ -308,7 +294,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_023",
+    "id": "cult_022",
     "enunciado": "¿En qué continente se encuentra Egipto?",
     "opciones": ["Europa", "Asia", "Oceanía", "África"],
     "respuestaCorrecta": 3,
@@ -322,7 +308,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_024",
+    "id": "cult_023",
     "enunciado": "¿Qué órgano impulsa la sangre por el cuerpo?",
     "opciones": ["Corazón", "Pulmón", "Hígado", "Estómago"],
     "respuestaCorrecta": 0,
@@ -336,7 +322,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_025",
+    "id": "cult_024",
     "enunciado": "¿Qué animal es un mamífero marino?",
     "opciones": ["Tiburón", "Delfín", "Atún", "Pulpo"],
     "respuestaCorrecta": 1,
@@ -350,7 +336,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_026",
+    "id": "cult_025",
     "enunciado": "¿Cuál de estos instrumentos tiene teclas blancas y negras?",
     "opciones": ["Violín", "Trompeta", "Piano", "Flauta"],
     "respuestaCorrecta": 2,
@@ -364,7 +350,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_027",
+    "id": "cult_026",
     "enunciado": "¿Qué figura geométrica tiene tres lados?",
     "opciones": ["Cuadrado", "Pentágono", "Hexágono", "Triángulo"],
     "respuestaCorrecta": 3,
@@ -378,7 +364,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_028",
+    "id": "cult_027",
     "enunciado": "¿Qué planeta es el más caliente del sistema solar?",
     "opciones": ["Venus", "Mercurio", "Marte", "Júpiter"],
     "respuestaCorrecta": 0,
@@ -392,7 +378,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_029",
+    "id": "cult_028",
     "enunciado": "¿En qué país se encuentra la antigua ciudad de Petra?",
     "opciones": ["Egipto", "Jordania", "Grecia", "Turquía"],
     "respuestaCorrecta": 1,
@@ -406,7 +392,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_030",
+    "id": "cult_029",
     "enunciado": "¿Qué elemento químico representa el símbolo Au?",
     "opciones": ["Plata", "Cobre", "Oro", "Aluminio"],
     "respuestaCorrecta": 2,
@@ -420,7 +406,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_031",
+    "id": "cult_030",
     "enunciado": "¿Qué parte de la célula contiene la mayor parte del ADN humano?",
     "opciones": ["Membrana", "Citoplasma", "Ribosoma", "Núcleo"],
     "respuestaCorrecta": 3,
@@ -434,7 +420,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_032",
+    "id": "cult_031",
     "enunciado": "¿Qué artista pintó «La noche estrellada»?",
     "opciones": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Paul Cézanne"],
     "respuestaCorrecta": 0,
@@ -448,7 +434,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_033",
+    "id": "cult_032",
     "enunciado": "¿Qué cordillera recorre el oeste de América del Sur?",
     "opciones": ["Alpes", "Andes", "Himalaya", "Pirineos"],
     "respuestaCorrecta": 1,
@@ -462,7 +448,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_034",
+    "id": "cult_033",
     "enunciado": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
     "opciones": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Johannes Kepler"],
     "respuestaCorrecta": 2,
@@ -476,7 +462,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_035",
+    "id": "cult_034",
     "enunciado": "¿Cuál es la capital de Canadá?",
     "opciones": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
     "respuestaCorrecta": 3,
@@ -490,7 +476,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_036",
+    "id": "cult_035",
     "enunciado": "¿Qué molécula transporta oxígeno en los glóbulos rojos?",
     "opciones": ["Hemoglobina", "Insulina", "Colágeno", "Melanina"],
     "respuestaCorrecta": 0,
@@ -504,7 +490,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_037",
+    "id": "cult_036",
     "enunciado": "¿Qué civilización construyó Machu Picchu?",
     "opciones": ["Maya", "Inca", "Azteca", "Olmeca"],
     "respuestaCorrecta": 1,
@@ -518,7 +504,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_038",
+    "id": "cult_037",
     "enunciado": "¿Qué elemento químico tiene el símbolo Na?",
     "opciones": ["Nitrógeno", "Neón", "Sodio", "Níquel"],
     "respuestaCorrecta": 2,
@@ -532,7 +518,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_039",
+    "id": "cult_038",
     "enunciado": "¿En qué océano se encuentra la fosa de las Marianas?",
     "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
     "respuestaCorrecta": 3,
@@ -546,7 +532,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_040",
+    "id": "cult_039",
     "enunciado": "¿Qué autora escribió «Frankenstein»?",
     "opciones": ["Mary Shelley", "Jane Austen", "Emily Brontë", "Virginia Woolf"],
     "respuestaCorrecta": 0,
@@ -560,7 +546,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_041",
+    "id": "cult_040",
     "enunciado": "¿Qué país tiene a Lisboa como capital?",
     "opciones": ["España", "Portugal", "Italia", "Grecia"],
     "respuestaCorrecta": 1,
@@ -574,7 +560,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_042",
+    "id": "cult_041",
     "enunciado": "¿Qué planeta tarda aproximadamente 12 años terrestres en orbitar el Sol?",
     "opciones": ["Marte", "Saturno", "Júpiter", "Neptuno"],
     "respuestaCorrecta": 2,
@@ -588,7 +574,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_043",
+    "id": "cult_042",
     "enunciado": "¿Qué astrónomo defendió un modelo con el Sol en el centro del sistema planetario?",
     "opciones": ["Ptolomeo", "Tycho Brahe", "Edwin Hubble", "Nicolás Copérnico"],
     "respuestaCorrecta": 3,
@@ -602,7 +588,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_044",
+    "id": "cult_043",
     "enunciado": "¿Qué elemento químico representa el símbolo W?",
     "opciones": ["Wolframio", "Plata", "Estaño", "Mercurio"],
     "respuestaCorrecta": 0,
@@ -616,7 +602,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_045",
+    "id": "cult_044",
     "enunciado": "¿Qué escritor creó al personaje de Sherlock Holmes?",
     "opciones": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Wilkie Collins"],
     "respuestaCorrecta": 1,
@@ -630,7 +616,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_046",
+    "id": "cult_045",
     "enunciado": "¿En qué año llegó a la Luna la misión Apolo 11?",
     "opciones": ["1965", "1967", "1969", "1972"],
     "respuestaCorrecta": 2,
@@ -644,7 +630,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_047",
+    "id": "cult_046",
     "enunciado": "¿Qué científico recibió el Nobel de Física de 1921?",
     "opciones": ["Niels Bohr", "Max Planck", "Ernest Rutherford", "Albert Einstein"],
     "respuestaCorrecta": 3,
@@ -658,7 +644,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_048",
+    "id": "cult_047",
     "enunciado": "¿Qué civilización tuvo a Tenochtitlan como capital?",
     "opciones": ["Mexica", "Inca", "Maya", "Olmeca"],
     "respuestaCorrecta": 0,
@@ -672,7 +658,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_049",
+    "id": "cult_048",
     "enunciado": "¿Qué artista pintó «La persistencia de la memoria», famosa por sus relojes blandos?",
     "opciones": ["Joan Miró", "Salvador Dalí", "René Magritte", "Max Ernst"],
     "respuestaCorrecta": 1,
@@ -686,7 +672,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_050",
+    "id": "cult_049",
     "enunciado": "¿Qué planeta gira alrededor del Sol entre Saturno y Neptuno?",
     "opciones": ["Marte", "Júpiter", "Urano", "Venus"],
     "respuestaCorrecta": 2,
@@ -700,7 +686,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_051",
+    "id": "cult_050",
     "enunciado": "¿Qué emperador ordenó construir el Taj Mahal?",
     "opciones": ["Akbar", "Jahangir", "Aurangzeb", "Shah Jahan"],
     "respuestaCorrecta": 3,
@@ -714,7 +700,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_052",
+    "id": "cult_051",
     "enunciado": "¿Qué estrella ilumina la Tierra durante el día?",
     "opciones": ["El Sol", "Sirio", "Polaris", "Betelgeuse"],
     "respuestaCorrecta": 0,
@@ -728,7 +714,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_053",
+    "id": "cult_052",
     "enunciado": "¿En qué país se encuentra la Torre Eiffel?",
     "opciones": ["Bélgica", "Francia", "Italia", "Alemania"],
     "respuestaCorrecta": 1,
@@ -742,7 +728,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_054",
+    "id": "cult_053",
     "enunciado": "¿Qué animal es conocido por construir represas?",
     "opciones": ["Nutria", "Castor", "Capibara", "Marmota"],
     "respuestaCorrecta": 1,
@@ -756,7 +742,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_055",
+    "id": "cult_054",
     "enunciado": "¿Qué instrumento mide la temperatura?",
     "opciones": ["Barómetro", "Higrómetro", "Anemómetro", "Termómetro"],
     "respuestaCorrecta": 3,
@@ -770,7 +756,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_056",
+    "id": "cult_055",
     "enunciado": "¿Cuál es el ingrediente principal del guacamole?",
     "opciones": ["Aguacate", "Tomate", "Pepino", "Pimiento"],
     "respuestaCorrecta": 0,
@@ -784,7 +770,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_057",
+    "id": "cult_056",
     "enunciado": "¿Qué país tiene forma de bota en los mapas?",
     "opciones": ["Grecia", "Italia", "Croacia", "Portugal"],
     "respuestaCorrecta": 1,
@@ -798,7 +784,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_058",
+    "id": "cult_057",
     "enunciado": "¿Cuántos colores tiene un arcoíris en su descripción tradicional?",
     "opciones": ["Cinco", "Seis", "Siete", "Ocho"],
     "respuestaCorrecta": 2,
@@ -812,7 +798,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_059",
+    "id": "cult_058",
     "enunciado": "¿Qué animal pone huevos y tiene pico de pato?",
     "opciones": ["Pangolín", "Armadillo", "Equidna", "Ornitorrinco"],
     "respuestaCorrecta": 3,
@@ -826,7 +812,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_060",
+    "id": "cult_059",
     "enunciado": "¿Qué planeta está más cerca del Sol?",
     "opciones": ["Mercurio", "Venus", "Tierra", "Marte"],
     "respuestaCorrecta": 0,
@@ -840,7 +826,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_061",
+    "id": "cult_060",
     "enunciado": "¿Cuál es la capital de Japón?",
     "opciones": ["Osaka", "Tokio", "Kioto", "Sapporo"],
     "respuestaCorrecta": 1,
@@ -854,7 +840,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_062",
+    "id": "cult_061",
     "enunciado": "¿Qué ave es famosa por no poder volar y vivir en la Antártida?",
     "opciones": ["Albatros", "Petrel", "Pingüino", "Cormorán"],
     "respuestaCorrecta": 2,
@@ -868,7 +854,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_063",
+    "id": "cult_062",
     "enunciado": "¿Cuántas patas tiene una araña?",
     "opciones": ["Cuatro", "Seis", "Diez", "Ocho"],
     "respuestaCorrecta": 3,
@@ -882,7 +868,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_064",
+    "id": "cult_063",
     "enunciado": "¿Qué océano separa principalmente América de Europa?",
     "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
     "respuestaCorrecta": 0,
@@ -896,7 +882,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_065",
+    "id": "cult_064",
     "enunciado": "¿De qué fruta se obtienen las pasas?",
     "opciones": ["Ciruelas", "Uvas", "Higos", "Cerezas"],
     "respuestaCorrecta": 1,
@@ -910,7 +896,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_066",
+    "id": "cult_065",
     "enunciado": "¿Qué parte de una planta suele absorber agua del suelo?",
     "opciones": ["Flor", "Fruto", "Raíz", "Semilla"],
     "respuestaCorrecta": 2,
@@ -924,7 +910,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_067",
+    "id": "cult_066",
     "enunciado": "¿Qué deporte se juega con una raqueta y un volante?",
     "opciones": ["Tenis", "Squash", "Pádel", "Bádminton"],
     "respuestaCorrecta": 3,
@@ -938,7 +924,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_068",
+    "id": "cult_067",
     "enunciado": "¿Qué causa principalmente las estaciones del año en la Tierra?",
     "opciones": ["La inclinación del eje terrestre", "La distancia diaria al Sol", "Las fases de la Luna", "Las mareas oceánicas"],
     "respuestaCorrecta": 0,
@@ -952,7 +938,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_069",
+    "id": "cult_068",
     "enunciado": "¿Qué hermanos realizaron un vuelo motorizado histórico en 1903?",
     "opciones": ["Los Lumière", "Los Wright", "Los Grimm", "Los Montgolfier"],
     "respuestaCorrecta": 1,
@@ -966,7 +952,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_070",
+    "id": "cult_069",
     "enunciado": "¿Qué naturalista propuso la selección natural como mecanismo evolutivo?",
     "opciones": ["Gregor Mendel", "Louis Pasteur", "Charles Darwin", "Carl Linneo"],
     "respuestaCorrecta": 2,
@@ -980,7 +966,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_071",
+    "id": "cult_070",
     "enunciado": "¿Cuál es la capital de Nueva Zelanda?",
     "opciones": ["Auckland", "Christchurch", "Hamilton", "Wellington"],
     "respuestaCorrecta": 3,
@@ -994,7 +980,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_072",
+    "id": "cult_071",
     "enunciado": "¿Qué órgano produce la insulina?",
     "opciones": ["Páncreas", "Hígado", "Riñón", "Bazo"],
     "respuestaCorrecta": 0,
@@ -1008,7 +994,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_073",
+    "id": "cult_072",
     "enunciado": "¿Qué artista pintó el techo de la Capilla Sixtina?",
     "opciones": ["Rafael", "Miguel Ángel", "Caravaggio", "Botticelli"],
     "respuestaCorrecta": 1,
@@ -1022,7 +1008,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_074",
+    "id": "cult_073",
     "enunciado": "¿Qué país alberga el templo de Angkor Wat?",
     "opciones": ["Tailandia", "Vietnam", "Camboya", "Laos"],
     "respuestaCorrecta": 2,
@@ -1036,7 +1022,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_075",
+    "id": "cult_074",
     "enunciado": "¿Qué unidad se utiliza para medir la intensidad de la corriente eléctrica?",
     "opciones": ["Voltio", "Vatio", "Ohmio", "Amperio"],
     "respuestaCorrecta": 3,
@@ -1050,7 +1036,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_076",
+    "id": "cult_075",
     "enunciado": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
     "opciones": ["Gravedad", "Magnetismo", "Fricción", "Electricidad"],
     "respuestaCorrecta": 0,
@@ -1064,7 +1050,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_077",
+    "id": "cult_076",
     "enunciado": "¿Qué escritora creó al detective Hércules Poirot?",
     "opciones": ["Dorothy Sayers", "Agatha Christie", "Patricia Highsmith", "P. D. James"],
     "respuestaCorrecta": 1,
@@ -1078,7 +1064,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_078",
+    "id": "cult_077",
     "enunciado": "¿En qué país se encuentran las islas Galápagos?",
     "opciones": ["Perú", "Colombia", "Ecuador", "Chile"],
     "respuestaCorrecta": 2,
@@ -1092,7 +1078,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_079",
+    "id": "cult_078",
     "enunciado": "¿Qué órgano del cuerpo humano filtra la sangre y produce orina?",
     "opciones": ["Hígado", "Páncreas", "Pulmón", "Riñón"],
     "respuestaCorrecta": 3,
@@ -1106,7 +1092,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_080",
+    "id": "cult_079",
     "enunciado": "¿Qué movimiento de la Tierra produce la sucesión del día y la noche?",
     "opciones": ["Rotación", "Traslación", "Precesión", "Nutación"],
     "respuestaCorrecta": 0,
@@ -1120,7 +1106,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_081",
+    "id": "cult_080",
     "enunciado": "¿Qué instrumento mide la presión atmosférica?",
     "opciones": ["Higrómetro", "Barómetro", "Anemómetro", "Termómetro"],
     "respuestaCorrecta": 1,
@@ -1134,7 +1120,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_082",
+    "id": "cult_081",
     "enunciado": "¿Qué planeta tiene una luna llamada Titán?",
     "opciones": ["Júpiter", "Neptuno", "Saturno", "Urano"],
     "respuestaCorrecta": 2,
@@ -1148,7 +1134,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_083",
+    "id": "cult_082",
     "enunciado": "¿Cómo se llama el cambio del agua líquida a vapor?",
     "opciones": ["Condensación", "Solidificación", "Fusión", "Evaporación"],
     "respuestaCorrecta": 3,
@@ -1162,7 +1148,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_084",
+    "id": "cult_083",
     "enunciado": "¿Qué luna de Neptuno posee una órbita retrógrada?",
     "opciones": ["Tritón", "Europa", "Encélado", "Calisto"],
     "respuestaCorrecta": 0,
@@ -1176,7 +1162,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_085",
+    "id": "cult_084",
     "enunciado": "¿Qué elemento químico tiene el símbolo K?",
     "opciones": ["Calcio", "Potasio", "Cobalto", "Criptón"],
     "respuestaCorrecta": 1,
@@ -1190,7 +1176,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_086",
+    "id": "cult_085",
     "enunciado": "¿Qué científico propuso la deriva continental en el siglo XX?",
     "opciones": ["James Hutton", "Charles Lyell", "Alfred Wegener", "Nicolas Steno"],
     "respuestaCorrecta": 2,
@@ -1204,7 +1190,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_087",
+    "id": "cult_086",
     "enunciado": "¿Qué luna de Júpiter es conocida por su intensa actividad volcánica?",
     "opciones": ["Europa", "Ganímedes", "Calisto", "Ío"],
     "respuestaCorrecta": 3,
@@ -1218,7 +1204,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_088",
+    "id": "cult_087",
     "enunciado": "¿Qué arquitecto diseñó la cúpula de la catedral de Florencia?",
     "opciones": ["Filippo Brunelleschi", "Donato Bramante", "Andrea Palladio", "Gian Lorenzo Bernini"],
     "respuestaCorrecta": 0,
@@ -1232,7 +1218,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_089",
+    "id": "cult_088",
     "enunciado": "¿Qué escritora publicó «Orgullo y prejuicio»?",
     "opciones": ["Charlotte Brontë", "Jane Austen", "George Eliot", "Mary Shelley"],
     "respuestaCorrecta": 1,
@@ -1246,7 +1232,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_090",
+    "id": "cult_089",
     "enunciado": "¿Qué isla mediterránea alberga el volcán Etna?",
     "opciones": ["Cerdeña", "Creta", "Sicilia", "Córcega"],
     "respuestaCorrecta": 2,
@@ -1260,7 +1246,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_091",
+    "id": "cult_090",
     "enunciado": "¿Qué matemático es célebre por su teorema sobre triángulos rectángulos?",
     "opciones": ["Euclides", "Arquímedes", "Tales", "Pitágoras"],
     "respuestaCorrecta": 3,
@@ -1274,7 +1260,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_092",
+    "id": "cult_091",
     "enunciado": "¿Cómo se llama el gato blanco que se convirtió en meme al aparecer sentado frente a una ensalada mientras una mujer le grita?",
     "opciones": ["Smudge the Cat", "Grumpy Cat", "Nyan Cat", "Keyboard Cat"],
     "respuestaCorrecta": 0,
@@ -1288,7 +1274,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_093",
+    "id": "cult_092",
     "enunciado": "En el popular meme de dos paneles donde Drake rechaza algo con la mano y luego aprueba otra cosa sonriendo, ¿de qué video musical salieron esas imágenes?",
     "opciones": ["God's Plan", "Hotline Bling", "In My Feelings", "One Dance"],
     "respuestaCorrecta": 1,
@@ -1302,7 +1288,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_094",
+    "id": "cult_093",
     "enunciado": "¿Qué apodo recibió en internet la niña que sonríe con picardía a la cámara mientras de fondo arde una casa en llamas?",
     "opciones": ["Fire Baby", "Evil Zoe", "Disaster Girl", "Burn Child"],
     "respuestaCorrecta": 2,
@@ -1316,7 +1302,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_095",
+    "id": "cult_094",
     "enunciado": "¿De qué raza era Balltze, el famoso perro de Hong Kong conocido mundialmente en los memes como «Cheems»?",
     "opciones": ["Pug", "Akita Inu", "Corgi", "Shiba Inu"],
     "respuestaCorrecta": 3,
@@ -1330,7 +1316,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_096",
+    "id": "cult_095",
     "enunciado": "En el clásico meme del «novio distraído» que camina con su novia y voltea a mirar a otra mujer, ¿de dónde provino la imagen original?",
     "opciones": ["De un banco de fotos de stock", "De una escena de telenovela mexicana", "De un comercial de perfume", "De una comedia cinematográfica"],
     "respuestaCorrecta": 0,
@@ -1344,7 +1330,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_097",
+    "id": "cult_096",
     "enunciado": "¿Qué cantante interpreta la canción «Never Gonna Give You Up», utilizada en la famosa broma cibernética del «Rickroll»?",
     "opciones": ["George Michael", "Rick Astley", "Boy George", "Bryan Adams"],
     "respuestaCorrecta": 1,
@@ -1358,7 +1344,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_098",
+    "id": "cult_097",
     "enunciado": "Durante la pandemia de 2020 se viralizó el meme de los portadores de ataúdes bailando con música electrónica. ¿De qué país africano es originaria esta tradición?",
     "opciones": ["Nigeria", "Kenia", "Ghana", "Senegal"],
     "respuestaCorrecta": 2,
@@ -1372,7 +1358,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_099",
+    "id": "cult_098",
     "enunciado": "El hombre mayor cuya sonrisa forzada parece disimular un profundo dolor existencial es conocido en internet como:",
     "opciones": ["Sad Grandpa", "Tired Thomas", "Pained Peter", "Hide the Pain Harold"],
     "respuestaCorrecta": 3,
@@ -1386,7 +1372,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_100",
+    "id": "cult_099",
     "enunciado": "¿Por qué gesto cómico característico se convirtió Khaby Lame en el creador con más seguidores de todo TikTok?",
     "opciones": ["Extender las palmas de las manos en silencio señalando la solución obvia", "Bailar breakdance en un supermercado", "Gritar '¡Siuuu!' mirando fijamente a la cámara", "Ponerse unas gafas de sol pixeladas de Thug Life"],
     "respuestaCorrecta": 0,
@@ -1400,7 +1386,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_101",
+    "id": "cult_100",
     "enunciado": "En el meme del hombre sonriendo y tocándose la sien con el dedo para justificar razonamientos disparatados, ¿cómo se llama el personaje interpretado por Kayode Ewumi?",
     "opciones": ["Big Shaq", "Roll Safe", "Eddie Murphy", "Cobi Jones"],
     "respuestaCorrecta": 1,
@@ -1414,7 +1400,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_102",
+    "id": "cult_101",
     "enunciado": "El meme surrealista del rostro humano en 3D sobre un cuerpo ejecutivo frente a flechas financieras ascendentes lleva escrita la palabra:",
     "opciones": ["Money", "Rich", "Stonks", "Profit"],
     "respuestaCorrecta": 2,
@@ -1428,7 +1414,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_103",
+    "id": "cult_102",
     "enunciado": "La perrita Shiba Inu cuya foto de 2010 con las patas cruzadas y mirada de reojo inspiró el meme original de «Doge» y una famosa criptomoneda se llamaba:",
     "opciones": ["Kira", "Akira", "Mochi", "Kabosu"],
     "respuestaCorrecta": 3,
@@ -1442,7 +1428,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_104",
+    "id": "cult_103",
     "enunciado": "En el histórico video viral mexicano de YouTube de 2006 «La caída de Edgar», ¿qué frase desesperada grita Edgar antes de caer al agua?",
     "opciones": ["¡Ya güey, por favor!", "¡No me empujes primo!", "¡Ayúdame virgencita!", "¡Te voy a demandar güey!"],
     "respuestaCorrecta": 0,
@@ -1456,7 +1442,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_105",
+    "id": "cult_104",
     "enunciado": "La mujer que llora y grita apuntando con el dedo en el meme del gato en la mesa se llama Taylor Armstrong. ¿En qué reality show ocurrió esa escena?",
     "opciones": ["Keeping Up with the Kardashians", "The Real Housewives of Beverly Hills", "Jersey Shore", "Dance Moms"],
     "respuestaCorrecta": 1,
@@ -1470,7 +1456,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_106",
+    "id": "cult_105",
     "enunciado": "En el meme del perro tomando café pacíficamente mientras su casa arde en llamas y dice «This is Fine», ¿quién es el autor del cómic original?",
     "opciones": ["Matt Groening", "Jim Davis", "KC Green", "Quino"],
     "respuestaCorrecta": 2,
@@ -1484,7 +1470,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_107",
+    "id": "cult_106",
     "enunciado": "El chef turco Nusret Gökçe se convirtió en el meme «Salt Bae» en 2017 por su peculiar estilo para salar la carne. ¿Cuál era su movimiento característico?",
     "opciones": ["Lanzar la sal girando en el aire", "Soplar la sal desde una cuchara de plata", "Esparcir la sal usando pinzas de fuego", "Dejar caer la sal desde lo alto haciéndola rebotar en su antebrazo"],
     "respuestaCorrecta": 3,
@@ -1498,7 +1484,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_108",
+    "id": "cult_107",
     "enunciado": "El personaje de la rana «Pepe the Frog» (origen de Feels Good Man / Feels Bad Man) fue creado originalmente por el dibujante Matt Furie en el cómic titulado:",
     "opciones": ["Boy's Club", "Frog Land", "Green Guy", "Meme Comics"],
     "respuestaCorrecta": 0,
@@ -1512,7 +1498,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_109",
+    "id": "cult_108",
     "enunciado": "La gata con permanente expresión de disgusto que conquistó internet en 2012 y protagonizó millones de memes («Grumpy Cat») se llamaba realmente:",
     "opciones": ["Frowny", "Tardar Sauce", "Angry Bella", "Sour Cream"],
     "respuestaCorrecta": 1,
@@ -1526,7 +1512,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_110",
+    "id": "cult_109",
     "enunciado": "En el meme de signos de interrogación alrededor de la cabeza de un jugador con cara de desconcierto absoluto, ¿qué basquetbolista de la NBA aparece?",
     "opciones": ["LeBron James", "Shaquille O'Neal", "Nick Young", "Russell Westbrook"],
     "respuestaCorrecta": 2,
@@ -1540,7 +1526,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_111",
+    "id": "cult_110",
     "enunciado": "El fenómeno viral de YouTube y TikTok sobre cabezas humanas saliendo de inodoros cantando («Skibidi Toilet») fue creado por el animador Alexey Gerasimov en el canal:",
     "opciones": ["Smosh", "PewDiePie", "MrBeast", "DaFuq!?Boom!"],
     "respuestaCorrecta": 3,
@@ -1554,7 +1540,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_112",
+    "id": "cult_111",
     "enunciado": "En el audio viral de redes «Afedo, camínate, por favor, no te duermas», ¿qué animal protagonizaba el cómico reclamo al negarse a seguir caminando?",
     "opciones": ["Un perro chihuahua", "Un loro que no quería volar", "Un gato gordo acostado", "Una tortuga marina"],
     "respuestaCorrecta": 0,
@@ -1568,7 +1554,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_113",
+    "id": "cult_112",
     "enunciado": "En 2004, Gary Brolsma grabó uno de los primeros virales globales bailando frente a su webcam al ritmo de «Dragostea Din Tei». ¿De qué banda moldava era la canción?",
     "opciones": ["Gojira", "O-Zone", "Akcent", "Inna"],
     "respuestaCorrecta": 1,
@@ -1582,7 +1568,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_114",
+    "id": "cult_113",
     "enunciado": "En el histórico video casero británico de YouTube subido en 2007 que superó 800 millones de visitas, ¿qué le hace el bebé Charlie a su hermano Harry?",
     "opciones": ["Le derrama la leche en la cabeza", "Le arrebata su juguete preferido", "Le muerde el dedo con fuerza", "Le empuja la torre de bloques"],
     "respuestaCorrecta": 2,
@@ -1596,7 +1582,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_115",
+    "id": "cult_114",
     "enunciado": "En el meme «Success Kid», donde un bebé en la playa aprieta el puño con expresión de triunfo épico, ¿qué tenía realmente en su mano el pequeño Sam Griner?",
     "opciones": ["Una pequeña caracola", "Una moneda brillante", "Un cangrejo diminuto", "Un puñado de arena que se estaba por comer"],
     "respuestaCorrecta": 3,
@@ -1610,7 +1596,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_116",
+    "id": "cult_115",
     "enunciado": "El video ochentoso del gato con camisa azul tocando un teclado («Keyboard Cat») fue grabado en 1984 por Charlie Schmidt. ¿Cuál era el nombre real de la gata?",
     "opciones": ["Fatso", "Felix", "Oscar", "Mittens"],
     "respuestaCorrecta": 0,
@@ -1624,7 +1610,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_117",
+    "id": "cult_116",
     "enunciado": "El meme de 2011 del gato con cuerpo de galleta Pop-Tart volando por el espacio con una estela de arcoíris («Nyan Cat») fue ilustrado originalmente por el artista:",
     "opciones": ["David Thorne", "Chris Torres (PRguitarman)", "Tom Fulp", "Shmooky"],
     "respuestaCorrecta": 1,
@@ -1638,7 +1624,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_118",
+    "id": "cult_117",
     "enunciado": "En el célebre video de 2005 donde un jugador arruina un plan meticuloso en World of Warcraft al grito de «¡Leeroy Jenkins!», ¿qué comida dijo que al menos le quedaba tras morir todos?",
     "opciones": ["Pizza fría", "Cerveza enlatada", "Pollo frito ('At least I have chicken')", "Hamburguesa doble"],
     "respuestaCorrecta": 2,
@@ -1652,7 +1638,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_119",
+    "id": "cult_118",
     "enunciado": "En 2013 se viralizó insertar alaridos de cabras que gritan como humanos en canciones de estrellas pop. ¿Qué hit de Taylor Swift fue el más emblemático de esta ola?",
     "opciones": ["Shake It Off", "Blank Space", "Bad Blood", "I Knew You Were Trouble"],
     "respuestaCorrecta": 3,
@@ -1666,7 +1652,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_120",
+    "id": "cult_119",
     "enunciado": "Uno de los primeros memes de internet a fines de los 90, la frase en inglés roto «All Your Base Are Belong to Us», pertenecía a la versión europea de Sega Mega Drive del videojuego:",
     "opciones": ["Zero Wing", "Gradius II", "R-Type", "Thunder Force III"],
     "respuestaCorrecta": 0,
@@ -1680,7 +1666,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_121",
+    "id": "cult_120",
     "enunciado": "El estilo visual clásico de los memes de «Doge» (palabras breves flotando en colores sobre la foto del perro) se caracteriza por utilizar la tipografía:",
     "opciones": ["Impact", "Comic Sans MS", "Papyrus", "Arial Black"],
     "respuestaCorrecta": 1,
@@ -1694,7 +1680,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_122",
+    "id": "cult_121",
     "enunciado": "¿Qué dios de la mitología nórdica porta el poderoso martillo Mjolnir y domina el trueno y la fuerza?",
     "opciones": ["Thor", "Loki", "Odín", "Balder"],
     "respuestaCorrecta": 0,
@@ -1708,7 +1694,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_123",
+    "id": "cult_122",
     "enunciado": "¿Cuál es la única de las Siete Maravillas del Mundo Antiguo que todavía sigue en pie hoy en día?",
     "opciones": ["El Coloso de Rodas", "La Gran Pirámide de Guiza", "El Faro de Alejandría", "Los Jardines Colgantes de Babilonia"],
     "respuestaCorrecta": 1,
@@ -1722,7 +1708,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_124",
+    "id": "cult_123",
     "enunciado": "En el clásico del cine 'El mago de Oz' (1939), ¿de qué color eran los emblemáticos zapatitos mágicos de Dorothy?",
     "opciones": ["Dorados", "Plateados", "Rojos de rubí", "Esmeralda brillante"],
     "respuestaCorrecta": 2,
@@ -1736,7 +1722,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_125",
+    "id": "cult_124",
     "enunciado": "¿Qué legendario velocista jamaicano ostenta el récord mundial masculino de los 100 y 200 metros planos?",
     "opciones": ["Carl Lewis", "Tyson Gay", "Yohan Blake", "Usain Bolt"],
     "respuestaCorrecta": 3,
@@ -1750,7 +1736,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_126",
+    "id": "cult_125",
     "enunciado": "Según la mitología griega, ¿cuál era la única parte vulnerable en todo el cuerpo del invencible héroe Aquiles?",
     "opciones": ["El talón", "El hombro izquierdo", "La nuca", "El pecho"],
     "respuestaCorrecta": 0,
@@ -1764,7 +1750,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_127",
+    "id": "cult_126",
     "enunciado": "¿En qué ciudad se encuentra el famoso anfiteatro Flavio, conocido mundialmente como el Coliseo?",
     "opciones": ["Florencia", "Roma", "Nápoles", "Milán"],
     "respuestaCorrecta": 1,
@@ -1778,7 +1764,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_128",
+    "id": "cult_127",
     "enunciado": "¿Qué célebre actor interpretó a Don Vito Corleone en la obra maestra cinematográfica 'El Padrino' (1972)?",
     "opciones": ["Al Pacino", "Robert De Niro", "Marlon Brando", "James Caan"],
     "respuestaCorrecta": 2,
@@ -1792,7 +1778,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_129",
+    "id": "cult_128",
     "enunciado": "¿Qué nadador estadounidense es el deportista olímpico más condecorado de todos los tiempos con 28 medallas?",
     "opciones": ["Mark Spitz", "Ian Thorpe", "Ryan Lochte", "Michael Phelps"],
     "respuestaCorrecta": 3,
@@ -1806,7 +1792,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_130",
+    "id": "cult_129",
     "enunciado": "¿Quién era el dios griego del mar, los terremotos y los caballos, hermano de Zeus y Hades?",
     "opciones": ["Poseidón", "Ares", "Hermes", "Dionisio"],
     "respuestaCorrecta": 0,
@@ -1820,7 +1806,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_131",
+    "id": "cult_130",
     "enunciado": "La imponente estatua del Cristo Redentor con los brazos abiertos se alza sobre la cima del cerro Corcovado en:",
     "opciones": ["Buenos Aires", "Río de Janeiro", "Bogotá", "Santiago de Chile"],
     "respuestaCorrecta": 1,
@@ -1834,7 +1820,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_132",
+    "id": "cult_131",
     "enunciado": "En la emblemática película 'Casablanca' (1942), ¿qué instrumento musical toca Sam en el café de Rick?",
     "opciones": ["El saxofón", "El violín", "El piano", "La trompeta"],
     "respuestaCorrecta": 2,
@@ -1848,7 +1834,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_133",
+    "id": "cult_132",
     "enunciado": "¿En qué país nacieron los Juegos Olímpicos en la Antigüedad y se celebraron los primeros Juegos modernos en 1896?",
     "opciones": ["Italia", "Francia", "Egipto", "Grecia"],
     "respuestaCorrecta": 3,
@@ -1862,7 +1848,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_134",
+    "id": "cult_133",
     "enunciado": "En la mitología nórdica, ¿cómo se llama el majestuoso salón celestial al que los guerreros caídos en batalla eran llevados por las valquirias?",
     "opciones": ["Valhalla", "Asgard", "Helheim", "Midgard"],
     "respuestaCorrecta": 0,
@@ -1876,7 +1862,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_135",
+    "id": "cult_134",
     "enunciado": "La monumental ciudad arqueológica excavada directamente en la roca arenisca rosada de Petra se encuentra en:",
     "opciones": ["Líbano", "Jordania", "Egipto", "Siria"],
     "respuestaCorrecta": 1,
@@ -1890,7 +1876,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_136",
+    "id": "cult_135",
     "enunciado": "En la célebre escena de la ducha en 'Psicosis' (1960) de Alfred Hitchcock, ¿qué producto utilizó el director para simular la sangre espesa?",
     "opciones": ["Kétchup diluido", "Pintura al temple roja", "Jarabe de chocolate", "Mermelada de frambuesa"],
     "respuestaCorrecta": 2,
@@ -1904,7 +1890,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_137",
+    "id": "cult_136",
     "enunciado": "En los Juegos Olímpicos de Montreal 1976, ¿quién fue la primera gimnasta de la historia en obtener una calificación perfecta de 10.0?",
     "opciones": ["Olga Korbut", "Larisa Latynina", "Mary Lou Retton", "Nadia Comaneci"],
     "respuestaCorrecta": 3,
@@ -1918,7 +1904,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_138",
+    "id": "cult_137",
     "enunciado": "Según el mito griego, ¿qué bestia con cuerpo de hombre y cabeza de toro habitaba en el laberinto de Creta?",
     "opciones": ["El Minotauro", "El Centauro", "La Quimera", "El Sátiro"],
     "respuestaCorrecta": 0,
@@ -1932,7 +1918,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_139",
+    "id": "cult_138",
     "enunciado": "La colosal Gran Muralla China fue construida y reforzada a lo largo de los siglos principalmente para repeler las incursiones de:",
     "opciones": ["Los navegantes japoneses", "Los pueblos nómadas del norte", "Los imperios de la India", "Las legiones de Medio Oriente"],
     "respuestaCorrecta": 1,
@@ -1946,7 +1932,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_140",
+    "id": "cult_139",
     "enunciado": "¿Qué director británico y maestro del suspense se caracterizaba por hacer un breve cameo mudo en prácticamente todas sus películas?",
     "opciones": ["Stanley Kubrick", "Billy Wilder", "Alfred Hitchcock", "John Huston"],
     "respuestaCorrecta": 2,
@@ -1960,7 +1946,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_141",
+    "id": "cult_140",
     "enunciado": "En los Juegos Olímpicos de Berlín 1936, el velocista afroamericano Jesse Owens desmontó las teorías raciales del régimen nazi al ganar cuatro oros en:",
     "opciones": ["Lucha grecorromana y boxeo", "Natación y saltos", "Gimnasia y halterofilia", "Atletismo (100m, 200m, longitud y 4x100m)"],
     "respuestaCorrecta": 3,
@@ -1974,7 +1960,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_142",
+    "id": "cult_141",
     "enunciado": "¿Qué castigo eterno impusieron los dioses del Olimpo a Sísifo por haber engañado a la muerte?",
     "opciones": ["Empujar una roca gigante cuesta arriba para verla rodar al llegar a la cima", "Estar atado a un árbol con agua que retrocedía al intentar beber", "Sostener la bóveda del cielo sobre sus hombros para siempre", "Remar sin descanso en una barca sin remos en el inframundo"],
     "respuestaCorrecta": 0,
@@ -1988,7 +1974,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_143",
+    "id": "cult_142",
     "enunciado": "¿A qué civilización precolombina pertenecía la majestuosa pirámide escalonada de Kukulkán en Chichén Itzá?",
     "opciones": ["Inca", "Maya", "Azteca", "Tolteca"],
     "respuestaCorrecta": 1,
@@ -2002,7 +1988,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_144",
+    "id": "cult_143",
     "enunciado": "¿Qué película épica de 1959 protagonizada por Charlton Heston pasó a la historia por su vibrante carrera de cuadrigas de nueve minutos rodada sin efectos digitales?",
     "opciones": ["Espartaco", "Cleopatra", "Ben-Hur", "Quo Vadis"],
     "respuestaCorrecta": 2,
@@ -2016,7 +2002,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_145",
+    "id": "cult_144",
     "enunciado": "¿Qué legendario boxeador encendió el pebetero olímpico en los Juegos de Atlanta 1996 en uno de los momentos más conmovedores del deporte?",
     "opciones": ["Mike Tyson", "Joe Frazier", "George Foreman", "Muhammad Ali"],
     "respuestaCorrecta": 3,
@@ -2030,7 +2016,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_146",
+    "id": "cult_145",
     "enunciado": "En la cosmología nórdica, ¿cómo se llama la colosal serpiente marina que rodea todo el mundo mortal mordiéndose su propia cola?",
     "opciones": ["Jörmungandr", "Níðhöggr", "Fenrir", "Surtr"],
     "respuestaCorrecta": 0,
@@ -2044,7 +2030,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_147",
+    "id": "cult_146",
     "enunciado": "El Coloso de Rodas, una de las Maravillas del Mundo Antiguo de más de 30 metros de altura erigida en la entrada portuaria, representaba al dios del Sol:",
     "opciones": ["Apolo", "Helios", "Ra", "Hermes"],
     "respuestaCorrecta": 1,
@@ -2058,7 +2044,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_148",
+    "id": "cult_147",
     "enunciado": "En el rodaje de 'El resplandor' (1980), ¿qué objeto real rompió Jack Nicholson con un hacha porque las piezas de utilería se destrozaban demasiado rápido?",
     "opciones": ["Una puerta de hierro forjado", "Una pared de ladrillos huecos", "Una puerta maciza de madera real", "Un panel de caoba antigua"],
     "respuestaCorrecta": 2,
@@ -2072,7 +2058,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_149",
+    "id": "cult_148",
     "enunciado": "El fondista etíope Abebe Bikila asombró al mundo en los Juegos Olímpicos de Roma 1960 al ganar la maratón con récord mundial corriendo:",
     "opciones": ["Con calzado de cuero artesanal", "De espaldas los últimos 500 metros", "Llevando una bandera en alto", "Completamente descalzo"],
     "respuestaCorrecta": 3,
@@ -2086,7 +2072,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_150",
+    "id": "cult_149",
     "enunciado": "¿Qué titánide y madre de los dioses olímpicos engañó a su esposo Cronos entregándole una piedra envuelta en pañales para salvar a su hijo Zeus recién nacido?",
     "opciones": ["Rea", "Gea", "Temis", "Mnemosine"],
     "respuestaCorrecta": 0,
@@ -2100,7 +2086,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_151",
+    "id": "cult_150",
     "enunciado": "La emblemática frase «Francamente, querida, me importa un bledo» en 'Lo que el viento se llevó' (1939) casi fue censurada en su estreno por violar:",
     "opciones": ["La Enmienda de decencia de Hollywood", "El Código Hays de producción cinematográfica", "La Ordenanza moral de Los Ángeles", "El Acta de buenas costumbres de la Motion Picture"],
     "respuestaCorrecta": 1,
@@ -2114,7 +2100,7 @@
     "fechaActualizacion": "2026-09-25"
   },
   {
-    "id": "cult_152",
+    "id": "cult_151",
     "enunciado": "¿Cuál es el mamífero más grande que existe en todo el planeta Tierra?",
     "opciones": ["Elefante africano", "Ballena azul", "Tiburón ballena", "Jirafa"],
     "respuestaCorrecta": 1,
@@ -2128,21 +2114,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_153",
-    "enunciado": "¿Cuántas patas tiene una araña común?",
-    "opciones": ["6 patas", "8 patas", "10 patas", "12 patas"],
-    "respuestaCorrecta": 1,
-    "explicacion": "Las arañas pertenecen a la clase de los arácnidos y se distinguen de los insectos (que tienen 6) por poseer exactamente 8 patas.",
-    "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
-    "grupoVariantes": "spider_legs",
-    "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2025-10-01"
-  },
-  {
-    "id": "cult_154",
+    "id": "cult_152",
     "enunciado": "¿De qué color es la caja negra de los aviones comerciales para que sea fácil encontrarla?",
     "opciones": ["Negro mate", "Naranja brillante", "Rojo fluorescente", "Amarillo limón"],
     "respuestaCorrecta": 1,
@@ -2156,7 +2128,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_155",
+    "id": "cult_153",
     "enunciado": "¿Cuál es el único mamífero capaz de volar activamente batiendo sus alas?",
     "opciones": ["Ardilla voladora", "Murciélago", "Lemur volador", "Pez volador"],
     "respuestaCorrecta": 1,
@@ -2170,7 +2142,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_156",
+    "id": "cult_154",
     "enunciado": "¿Cuántos días tiene un año bisiesto?",
     "opciones": ["364 días", "365 días", "366 días", "367 días"],
     "respuestaCorrecta": 2,
@@ -2184,7 +2156,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_157",
+    "id": "cult_155",
     "enunciado": "¿Cuál es el gas que necesitan los seres humanos respirar del aire para poder vivir?",
     "opciones": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Helio"],
     "respuestaCorrecta": 1,
@@ -2198,7 +2170,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_158",
+    "id": "cult_156",
     "enunciado": "¿Qué país es el inventor de la pizza moderna y la pasta?",
     "opciones": ["Francia", "Italia", "España", "Grecia"],
     "respuestaCorrecta": 1,
@@ -2212,7 +2184,7 @@
     "fechaActualizacion": "2025-10-01"
   },
   {
-    "id": "cult_159",
+    "id": "cult_157",
     "enunciado": "¿En qué ciudad colombiana nació Shakira?",
     "opciones": ["Cartagena", "Barranquilla", "Medellín", "Cali"],
     "respuestaCorrecta": 1,
@@ -2226,7 +2198,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_160",
+    "id": "cult_158",
     "enunciado": "¿Qué cantante grabó con Bizarrap la «Music Session #53», que rompió récords en 2023?",
     "opciones": ["Shakira", "Karol G", "Becky G", "Natti Natasha"],
     "respuestaCorrecta": 0,
@@ -2240,7 +2212,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_161",
+    "id": "cult_159",
     "enunciado": "¿Qué canción de Shakira fue el himno oficial del Mundial de Sudáfrica 2010?",
     "opciones": ["La La La", "Hips Don't Lie", "Waka Waka", "La Tortura"],
     "respuestaCorrecta": 2,
@@ -2254,7 +2226,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_162",
+    "id": "cult_160",
     "enunciado": "¿De qué país es el cantautor Ricardo Arjona?",
     "opciones": ["México", "Honduras", "El Salvador", "Guatemala"],
     "respuestaCorrecta": 3,
@@ -2268,7 +2240,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_163",
+    "id": "cult_161",
     "enunciado": "¿En qué serie de Disney Channel se hizo famosa Tini Stoessel?",
     "opciones": ["Violetta", "Soy Luna", "Patito Feo", "Chiquititas"],
     "respuestaCorrecta": 0,
@@ -2282,7 +2254,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_164",
+    "id": "cult_162",
     "enunciado": "¿Con qué apodo se conoce a María Becerra?",
     "opciones": ["La Reina del Pop", "La Nena de Argentina", "La Chica del Barrio", "La Princesa del Trap"],
     "respuestaCorrecta": 1,
@@ -2296,7 +2268,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_165",
+    "id": "cult_163",
     "enunciado": "¿En qué ciudad argentina nació Abel Pintos?",
     "opciones": ["Rosario", "Mar del Plata", "Bahía Blanca", "Neuquén"],
     "respuestaCorrecta": 2,
@@ -2310,7 +2282,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_166",
+    "id": "cult_164",
     "enunciado": "¿De qué ciudad bonaerense, famosa por su basílica, es Luciano Pereyra?",
     "opciones": ["San Antonio de Areco", "Pergamino", "Chivilcoy", "Luján"],
     "respuestaCorrecta": 3,
@@ -2324,7 +2296,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_167",
+    "id": "cult_165",
     "enunciado": "¿Cuál es el disco más vendido de la historia de la música?",
     "opciones": ["Thriller", "Back in Black", "The Dark Side of the Moon", "Bad"],
     "respuestaCorrecta": 0,
@@ -2338,7 +2310,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_168",
+    "id": "cult_166",
     "enunciado": "¿En qué ciudad inglesa nacieron los cuatro integrantes de los Beatles?",
     "opciones": ["Mánchester", "Liverpool", "Londres", "Birmingham"],
     "respuestaCorrecta": 1,
@@ -2352,7 +2324,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_169",
+    "id": "cult_167",
     "enunciado": "¿Qué cantante es conocido como «el Rey del Pop»?",
     "opciones": ["Prince", "Elvis Presley", "Michael Jackson", "Stevie Wonder"],
     "respuestaCorrecta": 2,
@@ -2366,7 +2338,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_170",
+    "id": "cult_168",
     "enunciado": "¿Qué cantante es conocido como «el Rey del Rock and Roll»?",
     "opciones": ["Chuck Berry", "Little Richard", "Jerry Lee Lewis", "Elvis Presley"],
     "respuestaCorrecta": 3,
@@ -2380,7 +2352,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_171",
+    "id": "cult_169",
     "enunciado": "¿Qué banda argentina lideraba Gustavo Cerati?",
     "opciones": ["Soda Stereo", "Los Enanitos Verdes", "Virus", "Los Abuelos de la Nada"],
     "respuestaCorrecta": 0,
@@ -2394,7 +2366,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_172",
+    "id": "cult_170",
     "enunciado": "¿Qué cantante argentina era conocida como «la Negra»?",
     "opciones": ["Violeta Parra", "Mercedes Sosa", "Soledad Pastorutti", "Teresa Parodi"],
     "respuestaCorrecta": 1,
@@ -2408,7 +2380,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_173",
+    "id": "cult_171",
     "enunciado": "¿Qué cantante es apodado «el Sol de México»?",
     "opciones": ["Juan Gabriel", "Alejandro Fernández", "Luis Miguel", "Marco Antonio Solís"],
     "respuestaCorrecta": 2,
@@ -2422,7 +2394,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_174",
+    "id": "cult_172",
     "enunciado": "¿Qué banda irlandesa lidera el cantante Bono?",
     "opciones": ["Coldplay", "The Cranberries", "Radiohead", "U2"],
     "respuestaCorrecta": 3,
@@ -2436,7 +2408,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_175",
+    "id": "cult_173",
     "enunciado": "¿Qué banda de rock tiene como logo una boca con la lengua afuera?",
     "opciones": ["The Rolling Stones", "The Who", "Led Zeppelin", "Aerosmith"],
     "respuestaCorrecta": 0,
@@ -2450,7 +2422,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_176",
+    "id": "cult_174",
     "enunciado": "¿Quién fue la voz principal de la banda Queen?",
     "opciones": ["David Bowie", "Freddie Mercury", "Elton John", "Mick Jagger"],
     "respuestaCorrecta": 1,
@@ -2464,7 +2436,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_177",
+    "id": "cult_175",
     "enunciado": "¿Qué canción de Luis Fonsi y Daddy Yankee fue durante años el video más visto de YouTube?",
     "opciones": ["Gasolina", "Bailando", "Despacito", "Danza Kuduro"],
     "respuestaCorrecta": 2,
@@ -2478,7 +2450,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_178",
+    "id": "cult_176",
     "enunciado": "¿Qué dúo español hizo bailar a todo el planeta con «Macarena» en los años 90?",
     "opciones": ["Estopa", "Café Quijano", "Andy & Lucas", "Los del Río"],
     "respuestaCorrecta": 3,
@@ -2492,7 +2464,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_179",
+    "id": "cult_177",
     "enunciado": "¿Qué cantante interpretó «La copa de la vida», himno del Mundial de Francia 98?",
     "opciones": ["Ricky Martin", "Chayanne", "Enrique Iglesias", "Marc Anthony"],
     "respuestaCorrecta": 0,
@@ -2506,7 +2478,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_180",
+    "id": "cult_178",
     "enunciado": "¿Qué cantante británica lanzó el disco «21», con el éxito «Rolling in the Deep»?",
     "opciones": ["Amy Winehouse", "Adele", "Duffy", "Florence Welch"],
     "respuestaCorrecta": 1,
@@ -2520,7 +2492,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_181",
+    "id": "cult_179",
     "enunciado": "¿De qué país es el grupo ABBA?",
     "opciones": ["Noruega", "Dinamarca", "Suecia", "Finlandia"],
     "respuestaCorrecta": 2,
@@ -2534,7 +2506,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_182",
+    "id": "cult_180",
     "enunciado": "¿De qué país es el grupo BTS?",
     "opciones": ["Japón", "China", "Tailandia", "Corea del Sur"],
     "respuestaCorrecta": 3,
@@ -2548,7 +2520,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_183",
+    "id": "cult_181",
     "enunciado": "¿Qué cantante canadiense se hizo mundialmente famoso con «Baby» en 2010?",
     "opciones": ["Justin Bieber", "Shawn Mendes", "Drake", "The Weeknd"],
     "respuestaCorrecta": 0,
@@ -2562,7 +2534,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_184",
+    "id": "cult_182",
     "enunciado": "¿Qué compositor escribió su Novena Sinfonía estando casi totalmente sordo?",
     "opciones": ["Mozart", "Beethoven", "Bach", "Chopin"],
     "respuestaCorrecta": 1,
@@ -2576,7 +2548,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_185",
+    "id": "cult_183",
     "enunciado": "¿Qué compositor italiano creó «Las cuatro estaciones»?",
     "opciones": ["Bach", "Händel", "Vivaldi", "Haydn"],
     "respuestaCorrecta": 2,
@@ -2590,7 +2562,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_186",
+    "id": "cult_184",
     "enunciado": "¿De qué país es el productor Bizarrap?",
     "opciones": ["España", "México", "Colombia", "Argentina"],
     "respuestaCorrecta": 3,
@@ -2604,7 +2576,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_187",
+    "id": "cult_185",
     "enunciado": "¿Qué disco de Shakira de 1998 incluye «Ciega, sordomuda» y «Ojos así»?",
     "opciones": ["¿Dónde están los ladrones?", "Pies descalzos", "Servicio de lavandería", "Fijación oral"],
     "respuestaCorrecta": 0,
@@ -2618,7 +2590,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_188",
+    "id": "cult_186",
     "enunciado": "¿Con qué artista compartió Shakira el show de medio tiempo del Super Bowl 2020?",
     "opciones": ["Beyoncé", "Jennifer Lopez", "Rihanna", "Katy Perry"],
     "respuestaCorrecta": 1,
@@ -2632,7 +2604,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_189",
+    "id": "cult_187",
     "enunciado": "¿En qué disco de Ricardo Arjona se incluyó el clásico «Historia de taxi»?",
     "opciones": ["Jesús, verbo no sustantivo", "Si el norte fuera el sur", "Animal nocturno", "Sin daños a terceros"],
     "respuestaCorrecta": 2,
@@ -2646,7 +2618,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_190",
+    "id": "cult_188",
     "enunciado": "¿A qué se dedicaba Ricardo Arjona antes de triunfar como cantante?",
     "opciones": ["Era médico", "Era abogado", "Era periodista", "Era maestro de escuela"],
     "respuestaCorrecta": 3,
@@ -2660,7 +2632,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_191",
+    "id": "cult_189",
     "enunciado": "¿En qué predio porteño hizo Tini seis shows en su gira 2022-23, todo un récord?",
     "opciones": ["El Hipódromo de Palermo", "El Luna Park", "El Movistar Arena", "El Estadio Obras"],
     "respuestaCorrecta": 0,
@@ -2674,7 +2646,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_192",
+    "id": "cult_190",
     "enunciado": "¿Con qué cantante grabó Tini el éxito «Miénteme» en 2022?",
     "opciones": ["Emilia", "María Becerra", "Nicki Nicole", "Lali"],
     "respuestaCorrecta": 1,
@@ -2688,7 +2660,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_193",
+    "id": "cult_191",
     "enunciado": "¿En qué estadio fue María Becerra la primera mujer argentina en hacer un show propio, en 2024?",
     "opciones": ["La Bombonera", "Vélez Sarsfield", "River Plate", "Estadio Único de La Plata"],
     "respuestaCorrecta": 2,
@@ -2702,7 +2674,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_194",
+    "id": "cult_192",
     "enunciado": "¿En qué club de fútbol llegó a probarse Luciano Pereyra cuando era adolescente?",
     "opciones": ["River Plate", "Independiente", "Racing Club", "Boca Juniors"],
     "respuestaCorrecta": 3,
@@ -2716,7 +2688,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_195",
+    "id": "cult_193",
     "enunciado": "¿Qué banda dio en el festival Live Aid de 1985 una de las actuaciones más recordadas de la historia?",
     "opciones": ["Queen", "U2", "The Who", "Dire Straits"],
     "respuestaCorrecta": 0,
@@ -2730,7 +2702,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_196",
+    "id": "cult_194",
     "enunciado": "¿En qué año se realizó el legendario festival de Woodstock?",
     "opciones": ["1967", "1969", "1971", "1973"],
     "respuestaCorrecta": 1,
@@ -2744,7 +2716,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_197",
+    "id": "cult_195",
     "enunciado": "¿Qué artista dio un show gratuito ante más de 2 millones de personas en Copacabana, en 2025?",
     "opciones": ["Madonna", "Beyoncé", "Lady Gaga", "Rihanna"],
     "respuestaCorrecta": 2,
@@ -2758,7 +2730,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_198",
+    "id": "cult_196",
     "enunciado": "¿Cómo se llama la gira de Taylor Swift que se convirtió en la más recaudadora de la historia?",
     "opciones": ["Reputation Tour", "Red Tour", "1989 World Tour", "The Eras Tour"],
     "respuestaCorrecta": 3,
@@ -2772,7 +2744,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_199",
+    "id": "cult_197",
     "enunciado": "¿Con qué frase se despidió Cerati del público en el último concierto de Soda Stereo, en 1997?",
     "opciones": ["«Gracias totales»", "«Hasta siempre»", "«Nos vemos pronto»", "«Buenas noches, Buenos Aires»"],
     "respuestaCorrecta": 0,
@@ -2786,7 +2758,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_200",
+    "id": "cult_198",
     "enunciado": "¿Con qué banda se hizo conocido Charly García en los años 70?",
     "opciones": ["Serú Girán", "Sui Generis", "La Máquina de Hacer Pájaros", "Almendra"],
     "respuestaCorrecta": 1,
@@ -2800,7 +2772,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_201",
+    "id": "cult_199",
     "enunciado": "¿Qué disco de Fito Páez es considerado el más vendido de la historia del rock argentino?",
     "opciones": ["Circo Beat", "Giros", "El amor después del amor", "Euforia"],
     "respuestaCorrecta": 2,
@@ -2814,7 +2786,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_202",
+    "id": "cult_200",
     "enunciado": "¿Qué banda argentina lideraba el Indio Solari?",
     "opciones": ["Los Piojos", "La Renga", "Divididos", "Los Redondos"],
     "respuestaCorrecta": 3,
@@ -2828,7 +2800,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_203",
+    "id": "cult_201",
     "enunciado": "¿Qué cantante de cuarteto era conocido como «el Potro»?",
     "opciones": ["Rodrigo Bueno", "La Mona Jiménez", "Leo Mattioli", "Walter Olmos"],
     "respuestaCorrecta": 0,
@@ -2842,7 +2814,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_204",
+    "id": "cult_202",
     "enunciado": "¿Qué cantante de cumbia hizo famosa «No me arrepiento de este amor»?",
     "opciones": ["Lía Crucet", "Gilda", "Gladys la Bomba Tucumana", "Karina"],
     "respuestaCorrecta": 1,
@@ -2856,7 +2828,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_205",
+    "id": "cult_203",
     "enunciado": "¿Qué canción de Queen dura casi seis minutos y no tiene estribillo?",
     "opciones": ["We Will Rock You", "Don't Stop Me Now", "Bohemian Rhapsody", "Somebody to Love"],
     "respuestaCorrecta": 2,
@@ -2870,7 +2842,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_206",
+    "id": "cult_204",
     "enunciado": "¿Qué banda británica lanzó el disco «The Dark Side of the Moon»?",
     "opciones": ["Led Zeppelin", "The Who", "Genesis", "Pink Floyd"],
     "respuestaCorrecta": 3,
@@ -2884,7 +2856,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_207",
+    "id": "cult_205",
     "enunciado": "¿Qué canción infantil superó a «Despacito» como el video más visto de YouTube?",
     "opciones": ["Baby Shark", "Johny Johny Yes Papa", "Wheels on the Bus", "El Pollito Pío"],
     "respuestaCorrecta": 0,
@@ -2898,7 +2870,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_208",
+    "id": "cult_206",
     "enunciado": "¿En qué grupo juvenil puertorriqueño empezó su carrera Ricky Martin?",
     "opciones": ["Los Chicos", "Menudo", "Magneto", "Parchís"],
     "respuestaCorrecta": 1,
@@ -2912,7 +2884,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_209",
+    "id": "cult_207",
     "enunciado": "¿Con qué grupo se hizo famosa Beyoncé antes de su carrera solista?",
     "opciones": ["TLC", "Spice Girls", "Destiny's Child", "En Vogue"],
     "respuestaCorrecta": 2,
@@ -2926,7 +2898,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_210",
+    "id": "cult_208",
     "enunciado": "¿Qué cantante lanzó el clásico «Like a Virgin» en 1984?",
     "opciones": ["Cyndi Lauper", "Whitney Houston", "Janet Jackson", "Madonna"],
     "respuestaCorrecta": 3,
@@ -2940,7 +2912,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_211",
+    "id": "cult_209",
     "enunciado": "¿Qué integrante de los Beatles fue asesinado en Nueva York en 1980?",
     "opciones": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
     "respuestaCorrecta": 0,
@@ -2954,7 +2926,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_212",
+    "id": "cult_210",
     "enunciado": "¿Qué disco de los Beatles tiene en la tapa a la banda cruzando una senda peatonal?",
     "opciones": ["Let It Be", "Abbey Road", "Revolver", "Help!"],
     "respuestaCorrecta": 1,
@@ -2968,7 +2940,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_213",
+    "id": "cult_211",
     "enunciado": "¿Qué banda hizo 10 shows en el estadio de River en 2022, récord histórico para ese estadio?",
     "opciones": ["U2", "Roger Waters", "Coldplay", "The Rolling Stones"],
     "respuestaCorrecta": 2,
@@ -2982,7 +2954,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_214",
+    "id": "cult_212",
     "enunciado": "¿Qué trapero argentino fue el primer artista de su país en dar un show en el nuevo Bernabéu, en 2024?",
     "opciones": ["Paulo Londra", "Trueno", "Wos", "Duki"],
     "respuestaCorrecta": 3,
@@ -2996,7 +2968,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_215",
+    "id": "cult_213",
     "enunciado": "¿Cómo se llamó el primer disco de Shakira, grabado cuando tenía 13 años?",
     "opciones": ["Magia", "Peligro", "Pies descalzos", "Servicio de lavandería"],
     "respuestaCorrecta": 0,
@@ -3010,7 +2982,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_216",
+    "id": "cult_214",
     "enunciado": "¿En qué canción camerunesa de los años 80 se inspira «Waka Waka», de Shakira?",
     "opciones": ["Pata Pata", "Zangaléwa", "Soweto Blues", "Yeke Yeke"],
     "respuestaCorrecta": 1,
@@ -3024,7 +2996,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_217",
+    "id": "cult_215",
     "enunciado": "¿Qué significaba el llamativo gesto con la lengua que hizo Shakira en el Super Bowl 2020?",
     "opciones": ["Un saludo colombiano", "Un paso de baile africano", "Un grito árabe de celebración", "Una seña para sus hijos"],
     "respuestaCorrecta": 2,
@@ -3038,7 +3010,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_218",
+    "id": "cult_216",
     "enunciado": "¿Qué canción de Arjona se pregunta quién inventó a las mujeres, para darle las gracias?",
     "opciones": ["Señora de las cuatro décadas", "Te conozco", "Historia de taxi", "Mujeres"],
     "respuestaCorrecta": 3,
@@ -3052,7 +3024,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_219",
+    "id": "cult_217",
     "enunciado": "¿Qué folclorista descubrió a Luciano Pereyra cuando cantaba en confiterías de su ciudad?",
     "opciones": ["Horacio Guarany", "El Chaqueño Palavecino", "Jorge Rojas", "Soledad Pastorutti"],
     "respuestaCorrecta": 0,
@@ -3066,7 +3038,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_220",
+    "id": "cult_218",
     "enunciado": "¿Qué músico produjo el primer disco de Abel Pintos, en 1997?",
     "opciones": ["Charly García", "León Gieco", "Víctor Heredia", "Litto Nebbia"],
     "respuestaCorrecta": 1,
@@ -3080,7 +3052,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_221",
+    "id": "cult_219",
     "enunciado": "¿De qué ciudad del conurbano bonaerense es María Becerra?",
     "opciones": ["Lanús", "Avellaneda", "Quilmes", "Lomas de Zamora"],
     "respuestaCorrecta": 2,
@@ -3094,7 +3066,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_222",
+    "id": "cult_220",
     "enunciado": "¿En qué año tocaron los Rolling Stones por primera vez en la Argentina?",
     "opciones": ["1989", "1991", "1993", "1995"],
     "respuestaCorrecta": 3,
@@ -3108,7 +3080,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_223",
+    "id": "cult_221",
     "enunciado": "¿En qué año dio Michael Jackson sus shows en el estadio de River Plate?",
     "opciones": ["1993", "1995", "1997", "1999"],
     "respuestaCorrecta": 0,
@@ -3122,7 +3094,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_224",
+    "id": "cult_222",
     "enunciado": "¿En qué estadio porteño tocó Queen en su primera visita a la Argentina, en 1981?",
     "opciones": ["Ferro Carril Oeste", "Vélez Sarsfield", "River Plate", "Huracán"],
     "respuestaCorrecta": 1,
@@ -3136,7 +3108,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_225",
+    "id": "cult_223",
     "enunciado": "¿Qué obra de Pink Floyd montó Roger Waters en Berlín en 1990, tras la caída del Muro?",
     "opciones": ["Animals", "Wish You Were Here", "The Wall", "The Final Cut"],
     "respuestaCorrecta": 2,
@@ -3150,7 +3122,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_226",
+    "id": "cult_224",
     "enunciado": "¿En qué ciudad murió Carlos Gardel en un accidente de avión, en 1935?",
     "opciones": ["Bogotá", "Cali", "Barranquilla", "Medellín"],
     "respuestaCorrecta": 3,
@@ -3164,7 +3136,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_227",
+    "id": "cult_225",
     "enunciado": "¿Qué músico argentino compuso «Libertango» y revolucionó el tango con su bandoneón?",
     "opciones": ["Astor Piazzolla", "Aníbal Troilo", "Osvaldo Pugliese", "Horacio Salgán"],
     "respuestaCorrecta": 0,
@@ -3178,7 +3150,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_228",
+    "id": "cult_226",
     "enunciado": "¿A qué edad compuso Mozart sus primeras piezas musicales?",
     "opciones": ["Tres años", "Cinco años", "Ocho años", "Diez años"],
     "respuestaCorrecta": 1,
@@ -3192,7 +3164,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_229",
+    "id": "cult_227",
     "enunciado": "¿En qué año murió el papa Francisco?",
     "opciones": ["2022", "2023", "2024", "2025"],
     "respuestaCorrecta": 3,
@@ -3206,7 +3178,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_230",
+    "id": "cult_228",
     "enunciado": "¿Qué nombre eligió el cardenal Robert Prevost al ser elegido papa en 2025?",
     "opciones": ["León XIV", "Juan Pablo III", "Pío XIII", "Benedicto XVII"],
     "respuestaCorrecta": 0,
@@ -3220,7 +3192,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_231",
+    "id": "cult_229",
     "enunciado": "¿En qué año murió la reina Isabel II del Reino Unido?",
     "opciones": ["2020", "2021", "2022", "2023"],
     "respuestaCorrecta": 2,
@@ -3234,7 +3206,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_232",
+    "id": "cult_230",
     "enunciado": "¿Quién sucedió a Isabel II en el trono británico?",
     "opciones": ["Carlos III", "Guillermo V", "Eduardo IX", "Jorge VII"],
     "respuestaCorrecta": 0,
@@ -3248,7 +3220,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_233",
+    "id": "cult_231",
     "enunciado": "¿En qué año comenzó la invasión rusa a gran escala de Ucrania?",
     "opciones": ["2014", "2018", "2022", "2024"],
     "respuestaCorrecta": 2,
@@ -3262,7 +3234,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_234",
+    "id": "cult_232",
     "enunciado": "¿A qué se dedicaba Volodímir Zelenski antes de ser presidente de Ucrania?",
     "opciones": ["Era militar de carrera", "Era banquero", "Era futbolista", "Era actor y comediante"],
     "respuestaCorrecta": 3,
@@ -3276,7 +3248,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_235",
+    "id": "cult_233",
     "enunciado": "¿En qué año murió Diego Armando Maradona?",
     "opciones": ["2019", "2020", "2021", "2022"],
     "respuestaCorrecta": 1,
@@ -3290,7 +3262,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_236",
+    "id": "cult_234",
     "enunciado": "¿En qué año murió Pelé?",
     "opciones": ["2021", "2022", "2023", "2024"],
     "respuestaCorrecta": 1,
@@ -3304,7 +3276,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_237",
+    "id": "cult_235",
     "enunciado": "¿Cómo murió la estrella de la NBA Kobe Bryant en 2020?",
     "opciones": ["En un accidente de helicóptero", "En un choque de auto", "De un infarto", "En un accidente de avión comercial"],
     "respuestaCorrecta": 0,
@@ -3318,7 +3290,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_238",
+    "id": "cult_236",
     "enunciado": "¿En qué ciudad murió Liam Payne, ex One Direction, en 2024?",
     "opciones": ["Madrid", "Miami", "Londres", "Buenos Aires"],
     "respuestaCorrecta": 3,
@@ -3332,7 +3304,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_239",
+    "id": "cult_237",
     "enunciado": "¿Qué actor de «Friends» murió en octubre de 2023?",
     "opciones": ["David Schwimmer", "Matt LeBlanc", "Tom Selleck", "Matthew Perry"],
     "respuestaCorrecta": 3,
@@ -3346,7 +3318,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_240",
+    "id": "cult_238",
     "enunciado": "¿En qué ciudad china se detectaron los primeros casos de COVID-19?",
     "opciones": ["Wuhan", "Pekín", "Shanghái", "Hong Kong"],
     "respuestaCorrecta": 0,
@@ -3360,7 +3332,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_241",
+    "id": "cult_239",
     "enunciado": "¿Qué empresa lanzó ChatGPT a fines de 2022?",
     "opciones": ["Google", "OpenAI", "Microsoft", "Meta"],
     "respuestaCorrecta": 1,
@@ -3374,7 +3346,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_242",
+    "id": "cult_240",
     "enunciado": "¿Qué nombre le puso Elon Musk a Twitter después de comprarlo?",
     "opciones": ["Nexus", "X", "Bird", "Link"],
     "respuestaCorrecta": 1,
@@ -3388,7 +3360,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_243",
+    "id": "cult_241",
     "enunciado": "¿A qué comediante abofeteó Will Smith en la ceremonia de los Oscar 2022?",
     "opciones": ["Kevin Hart", "Dave Chappelle", "Chris Rock", "Jimmy Kimmel"],
     "respuestaCorrecta": 2,
@@ -3402,7 +3374,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_244",
+    "id": "cult_242",
     "enunciado": "¿Qué naufragio iba a visitar el sumergible Titan cuando implotó en 2023?",
     "opciones": ["El del Lusitania", "El del Andrea Doria", "El del Britannic", "El del Titanic"],
     "respuestaCorrecta": 3,
@@ -3416,7 +3388,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_245",
+    "id": "cult_243",
     "enunciado": "¿Qué catedral reabrió sus puertas en diciembre de 2024, tras el incendio de 2019?",
     "opciones": ["Notre-Dame de París", "La Sagrada Familia", "La catedral de Colonia", "La catedral de Milán"],
     "respuestaCorrecta": 0,
@@ -3430,7 +3402,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_246",
+    "id": "cult_244",
     "enunciado": "¿Qué herramienta usó Javier Milei como símbolo de campaña para prometer recortes del gasto?",
     "opciones": ["Un martillo", "Una motosierra", "Una tijera", "Un hacha"],
     "respuestaCorrecta": 1,
@@ -3444,7 +3416,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_247",
+    "id": "cult_245",
     "enunciado": "¿En qué parte del cuerpo fue herido Donald Trump en el atentado de julio de 2024?",
     "opciones": ["En el brazo", "En el hombro", "En la oreja", "En la mano"],
     "respuestaCorrecta": 2,
@@ -3458,7 +3430,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_248",
+    "id": "cult_246",
     "enunciado": "¿A qué ciudad fue trasladado Nicolás Maduro tras ser capturado por Estados Unidos en 2026?",
     "opciones": ["Miami", "Washington", "Houston", "Nueva York"],
     "respuestaCorrecta": 3,
@@ -3472,7 +3444,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_249",
+    "id": "cult_247",
     "enunciado": "¿Qué selección ganó el Mundial 2026 tras vencer a Argentina en la final?",
     "opciones": ["España", "Francia", "Brasil", "Inglaterra"],
     "respuestaCorrecta": 0,
@@ -3486,7 +3458,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_250",
+    "id": "cult_248",
     "enunciado": "¿Qué dirigente venezolana ganó el Premio Nobel de la Paz 2025?",
     "opciones": ["Delcy Rodríguez", "María Corina Machado", "Lilian Tintori", "Luisa Ortega Díaz"],
     "respuestaCorrecta": 1,
@@ -3500,7 +3472,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_251",
+    "id": "cult_249",
     "enunciado": "¿Qué robaron del Museo del Louvre en octubre de 2025, en un golpe de apenas siete minutos?",
     "opciones": ["La Mona Lisa", "Una escultura griega", "Joyas de la Corona francesa", "Cuadros de Monet"],
     "respuestaCorrecta": 2,
@@ -3514,7 +3486,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_252",
+    "id": "cult_250",
     "enunciado": "¿Qué ícono del heavy metal murió en 2025, pocos días después de su concierto de despedida?",
     "opciones": ["Lemmy Kilmister", "Ronnie James Dio", "Bruce Dickinson", "Ozzy Osbourne"],
     "respuestaCorrecta": 3,
@@ -3528,7 +3500,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_253",
+    "id": "cult_251",
     "enunciado": "¿Qué grupo retomó el control de Afganistán en agosto de 2021?",
     "opciones": ["Los talibanes", "Al Qaeda", "El Estado Islámico", "Hezbolá"],
     "respuestaCorrecta": 0,
@@ -3542,7 +3514,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_254",
+    "id": "cult_252",
     "enunciado": "¿Qué dos países quedaron casi totalmente sin luz en el gran apagón del 28 de abril de 2025?",
     "opciones": ["Francia e Italia", "España y Portugal", "Alemania y Austria", "Bélgica y Países Bajos"],
     "respuestaCorrecta": 1,
@@ -3556,7 +3528,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_255",
+    "id": "cult_253",
     "enunciado": "¿Qué misión de la NASA llevó en 2026 a cuatro astronautas alrededor de la Luna?",
     "opciones": ["Apolo 18", "Gemini 2", "Artemis II", "Orion Luna"],
     "respuestaCorrecta": 2,
@@ -3570,7 +3542,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_256",
+    "id": "cult_254",
     "enunciado": "¿Qué legendario diseñador italiano, famoso por su color rojo, murió en enero de 2026?",
     "opciones": ["Giorgio Armani", "Gianni Versace", "Roberto Cavalli", "Valentino Garavani"],
     "respuestaCorrecta": 3,
@@ -3584,7 +3556,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_257",
+    "id": "cult_255",
     "enunciado": "¿En qué país sudamericano fue misionero y obispo el papa León XIV?",
     "opciones": ["Perú", "Bolivia", "Ecuador", "Colombia"],
     "respuestaCorrecta": 0,
@@ -3598,7 +3570,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_258",
+    "id": "cult_256",
     "enunciado": "¿Dónde fue sepultado el papa Francisco, rompiendo una tradición de más de un siglo?",
     "opciones": ["En la Basílica de San Pedro", "En Santa María la Mayor", "En San Juan de Letrán", "En Castel Gandolfo"],
     "respuestaCorrecta": 1,
@@ -3612,7 +3584,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_259",
+    "id": "cult_257",
     "enunciado": "¿Qué ex primer ministro japonés fue asesinado en 2022 durante un acto de campaña?",
     "opciones": ["Yoshihide Suga", "Fumio Kishida", "Shinzo Abe", "Junichiro Koizumi"],
     "respuestaCorrecta": 2,
@@ -3626,7 +3598,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_260",
+    "id": "cult_258",
     "enunciado": "¿Qué líder opositor ruso murió en 2024 en una prisión del Ártico?",
     "opciones": ["Borís Nemtsov", "Garri Kaspárov", "Mijaíl Jodorkovski", "Alexéi Navalni"],
     "respuestaCorrecta": 3,
@@ -3640,7 +3612,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_261",
+    "id": "cult_259",
     "enunciado": "¿Qué grupo de mercenarios encabezó una rebelión armada contra Moscú en junio de 2023?",
     "opciones": ["El Grupo Wagner", "La Legión Extranjera", "Blackwater", "El Batallón Azov"],
     "respuestaCorrecta": 0,
@@ -3654,7 +3626,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_262",
+    "id": "cult_260",
     "enunciado": "¿A qué país huyó Bashar al Asad tras la caída de su gobierno en Siria, en diciembre de 2024?",
     "opciones": ["Irán", "Rusia", "Turquía", "Líbano"],
     "respuestaCorrecta": 1,
@@ -3668,7 +3640,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_263",
+    "id": "cult_261",
     "enunciado": "¿Qué evento fue atacado por Hamás el 7 de octubre de 2023, donde murieron más de 360 personas?",
     "opciones": ["Un partido de fútbol", "Una boda", "Un festival de música", "Una maratón"],
     "respuestaCorrecta": 2,
@@ -3682,7 +3654,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_264",
+    "id": "cult_262",
     "enunciado": "¿Cuántos días duró la guerra entre Israel e Irán de junio de 2025?",
     "opciones": ["7", "12", "21", "30"],
     "respuestaCorrecta": 1,
@@ -3696,7 +3668,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_265",
+    "id": "cult_263",
     "enunciado": "¿Qué empresa de ciberseguridad causó el apagón informático global de julio de 2024 con una actualización fallida?",
     "opciones": ["Kaspersky", "McAfee", "Norton", "CrowdStrike"],
     "respuestaCorrecta": 3,
@@ -3710,7 +3682,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_266",
+    "id": "cult_264",
     "enunciado": "¿En el show de qué banda se volvió viral en 2025 una «kiss cam» que expuso a un CEO con una compañera de trabajo?",
     "opciones": ["Coldplay", "U2", "Maroon 5", "Imagine Dragons"],
     "respuestaCorrecta": 0,
@@ -3724,7 +3696,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_267",
+    "id": "cult_265",
     "enunciado": "¿Qué princesa británica anunció en 2024 que estaba en tratamiento contra el cáncer?",
     "opciones": ["Meghan, duquesa de Sussex", "Catalina, princesa de Gales", "La princesa Ana", "La princesa Beatriz"],
     "respuestaCorrecta": 1,
@@ -3738,7 +3710,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_268",
+    "id": "cult_266",
     "enunciado": "¿Cómo se tituló en español el libro de memorias del príncipe Harry, publicado en 2023?",
     "opciones": ["Más allá del trono", "El hijo menor", "En la sombra", "La otra corona"],
     "respuestaCorrecta": 2,
@@ -3752,7 +3724,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_269",
+    "id": "cult_267",
     "enunciado": "¿Qué futbolista portugués del Liverpool murió en un accidente de auto en julio de 2025?",
     "opciones": ["Rafael Leão", "João Félix", "Bernardo Silva", "Diogo Jota"],
     "respuestaCorrecta": 3,
@@ -3766,7 +3738,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_270",
+    "id": "cult_268",
     "enunciado": "¿Qué actor ganador del Oscar fue hallado sin vida junto a su esposa en su casa de Nuevo México en 2025?",
     "opciones": ["Gene Hackman", "Jack Nicholson", "Michael Caine", "Dustin Hoffman"],
     "respuestaCorrecta": 0,
@@ -3780,7 +3752,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_271",
+    "id": "cult_269",
     "enunciado": "¿Qué animales estudió durante décadas Jane Goodall, fallecida en 2025?",
     "opciones": ["Gorilas", "Chimpancés", "Orangutanes", "Elefantes"],
     "respuestaCorrecta": 1,
@@ -3794,7 +3766,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_272",
+    "id": "cult_270",
     "enunciado": "¿Qué famoso festival de cine independiente fundó Robert Redford, fallecido en 2025?",
     "opciones": ["Tribeca", "Telluride", "Sundance", "Toronto"],
     "respuestaCorrecta": 2,
@@ -3808,7 +3780,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_273",
+    "id": "cult_271",
     "enunciado": "¿Por qué película ganó el Oscar a mejor actriz Diane Keaton, fallecida en 2025?",
     "opciones": ["El Padrino", "Manhattan", "Reds", "Annie Hall"],
     "respuestaCorrecta": 3,
@@ -3822,7 +3794,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_274",
+    "id": "cult_272",
     "enunciado": "¿Qué actor de «Top Gun», que había perdido la voz por un cáncer de garganta, murió en 2025?",
     "opciones": ["Val Kilmer", "Tom Cruise", "Anthony Edwards", "Tom Skerritt"],
     "respuestaCorrecta": 0,
@@ -3836,7 +3808,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_275",
+    "id": "cult_273",
     "enunciado": "¿Qué escritor peruano, autor de «La ciudad y los perros», murió en abril de 2025?",
     "opciones": ["Julio Ramón Ribeyro", "Mario Vargas Llosa", "Alfredo Bryce Echenique", "Ciro Alegría"],
     "respuestaCorrecta": 1,
@@ -3850,7 +3822,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_276",
+    "id": "cult_274",
     "enunciado": "¿Cómo murió el expresidente chileno Sebastián Piñera en 2024?",
     "opciones": ["En un choque de auto", "De un infarto", "En un accidente de helicóptero", "En un accidente de avión"],
     "respuestaCorrecta": 2,
@@ -3864,7 +3836,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_277",
+    "id": "cult_275",
     "enunciado": "¿Qué expresidente de Estados Unidos murió en diciembre de 2024, a los 100 años?",
     "opciones": ["George H. W. Bush", "Gerald Ford", "Ronald Reagan", "Jimmy Carter"],
     "respuestaCorrecta": 3,
@@ -3878,7 +3850,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_278",
+    "id": "cult_276",
     "enunciado": "¿Qué presidente asumió en Chile en 2022 con 36 años, el más joven de su historia?",
     "opciones": ["Gabriel Boric", "Giorgio Jackson", "José Antonio Kast", "Sebastián Sichel"],
     "respuestaCorrecta": 0,
@@ -3892,7 +3864,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_279",
+    "id": "cult_277",
     "enunciado": "¿En qué causa judicial quedó firme en 2025 la condena a Cristina Kirchner?",
     "opciones": ["Hotesur", "Vialidad", "Cuadernos", "Memorándum"],
     "respuestaCorrecta": 1,
@@ -3906,7 +3878,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_280",
+    "id": "cult_278",
     "enunciado": "¿A cuántos años de prisión fue condenado Jair Bolsonaro en 2025 por intentar un golpe de Estado?",
     "opciones": ["12", "18", "27", "35"],
     "respuestaCorrecta": 2,
@@ -3920,7 +3892,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_281",
+    "id": "cult_279",
     "enunciado": "¿Qué película ganó el Oscar a mejor película en 2026?",
     "opciones": ["Pecadores", "Frankenstein", "Una batalla tras otra", "Hamnet"],
     "respuestaCorrecta": 2,
@@ -3934,7 +3906,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_282",
+    "id": "cult_280",
     "enunciado": "¿Por dónde desfilaron los atletas en la ceremonia inaugural de París 2024?",
     "opciones": ["Por los Campos Elíseos", "Por el estadio de Francia", "Por el Palacio de Versalles", "Por el río Sena, en barcos"],
     "respuestaCorrecta": 3,
@@ -3948,7 +3920,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_283",
+    "id": "cult_281",
     "enunciado": "¿Qué dos países sufrieron el devastador terremoto de febrero de 2023?",
     "opciones": ["Turquía y Siria", "Irán e Irak", "Grecia y Turquía", "Líbano y Siria"],
     "respuestaCorrecta": 0,
@@ -3962,7 +3934,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_284",
+    "id": "cult_282",
     "enunciado": "¿Qué región española sufrió en octubre de 2024 las inundaciones de la DANA, con más de 200 muertos?",
     "opciones": ["Andalucía", "Valencia", "Cataluña", "Galicia"],
     "respuestaCorrecta": 1,
@@ -3976,7 +3948,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_285",
+    "id": "cult_283",
     "enunciado": "¿Cuál es la central nuclear más grande de Europa, ocupada por Rusia desde 2022?",
     "opciones": ["Chernóbil", "Rivne", "Zaporiyia", "Jmelnitski"],
     "respuestaCorrecta": 2,
@@ -3990,7 +3962,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_286",
+    "id": "cult_284",
     "enunciado": "¿De qué país es László Krasznahorkai, Premio Nobel de Literatura 2025?",
     "opciones": ["Rumania", "Polonia", "Chequia", "Hungría"],
     "respuestaCorrecta": 3,
@@ -4004,7 +3976,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_287",
+    "id": "cult_285",
     "enunciado": "¿Qué astronauta de Artemis II se convirtió en la primera mujer en viajar alrededor de la Luna?",
     "opciones": ["Christina Koch", "Jessica Meir", "Sunita Williams", "Anne McClain"],
     "respuestaCorrecta": 0,
@@ -4018,7 +3990,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_288",
+    "id": "cult_286",
     "enunciado": "¿Cómo se llamó la operación de Estados Unidos que capturó a Nicolás Maduro en 2026?",
     "opciones": ["Causa Justa", "Resolución Absoluta", "Lanza de Neptuno", "Tormenta del Desierto"],
     "respuestaCorrecta": 1,
@@ -4032,7 +4004,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_289",
+    "id": "cult_287",
     "enunciado": "¿Qué líder de Hezbolá murió en un bombardeo israelí en Beirut en septiembre de 2024?",
     "opciones": ["Naim Qassem", "Ismail Haniyeh", "Hasán Nasralá", "Yahya Sinwar"],
     "respuestaCorrecta": 2,
@@ -4046,7 +4018,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_290",
+    "id": "cult_288",
     "enunciado": "¿Qué candidato presidencial fue asesinado en Ecuador en agosto de 2023?",
     "opciones": ["Daniel Noboa", "Andrés Arauz", "Jan Topić", "Fernando Villavicencio"],
     "respuestaCorrecta": 3,
@@ -4060,7 +4032,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_291",
+    "id": "cult_289",
     "enunciado": "¿Qué país del Pacífico sufrió en 2022 una erupción volcánica submarina que se oyó a miles de kilómetros?",
     "opciones": ["Tonga", "Fiyi", "Samoa", "Vanuatu"],
     "respuestaCorrecta": 0,
@@ -4074,7 +4046,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_292",
+    "id": "cult_290",
     "enunciado": "¿En qué país asiático los militares dieron un golpe de Estado en 2021 y detuvieron a Aung San Suu Kyi?",
     "opciones": ["Tailandia", "Myanmar", "Camboya", "Laos"],
     "respuestaCorrecta": 1,
@@ -4088,7 +4060,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_293",
+    "id": "cult_291",
     "enunciado": "¿Qué país africano vive desde abril de 2023 una guerra entre su ejército y las Fuerzas de Apoyo Rápido?",
     "opciones": ["Etiopía", "Somalia", "Sudán", "Chad"],
     "respuestaCorrecta": 2,
@@ -4102,7 +4074,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_294",
+    "id": "cult_292",
     "enunciado": "¿En qué año se hizo efectiva la salida del Reino Unido de la Unión Europea?",
     "opciones": ["2016", "2018", "2020", "2022"],
     "respuestaCorrecta": 2,
@@ -4116,7 +4088,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_295",
+    "id": "cult_293",
     "enunciado": "¿Qué reina europea abdicó en enero de 2024 tras 52 años en el trono?",
     "opciones": ["Beatriz de los Países Bajos", "Silvia de Suecia", "Sofía de España", "Margarita II de Dinamarca"],
     "respuestaCorrecta": 3,
@@ -4130,7 +4102,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_296",
+    "id": "cult_294",
     "enunciado": "¿Qué empresa operaba el sumergible Titan, que implotó en 2023?",
     "opciones": ["OceanGate", "Blue Origin", "SpaceX", "DeepSea Tours"],
     "respuestaCorrecta": 0,
@@ -4144,7 +4116,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_297",
+    "id": "cult_295",
     "enunciado": "¿Qué país fue el primero en adoptar el bitcoin como moneda de curso legal, en 2021?",
     "opciones": ["Venezuela", "El Salvador", "Argentina", "Paraguay"],
     "respuestaCorrecta": 1,
@@ -4158,7 +4130,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_298",
+    "id": "cult_296",
     "enunciado": "¿Quién ganó el Balón de Oro al mejor jugador del Mundial 2026?",
     "opciones": ["Lamine Yamal", "Lionel Messi", "Rodri", "Kylian Mbappé"],
     "respuestaCorrecta": 2,
@@ -4172,7 +4144,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_299",
+    "id": "cult_297",
     "enunciado": "¿Qué prócer creó la bandera argentina?",
     "opciones": ["Manuel Belgrano", "José de San Martín", "Domingo F. Sarmiento", "Mariano Moreno"],
     "respuestaCorrecta": 0,
@@ -4186,7 +4158,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_300",
+    "id": "cult_298",
     "enunciado": "¿Qué fecha patria recuerda la Revolución de Mayo de 1810?",
     "opciones": ["El 9 de julio", "El 25 de mayo", "El 20 de junio", "El 17 de agosto"],
     "respuestaCorrecta": 1,
@@ -4200,7 +4172,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_301",
+    "id": "cult_299",
     "enunciado": "¿En qué ciudad se declaró la Independencia argentina en 1816?",
     "opciones": ["Buenos Aires", "Córdoba", "Salta", "San Miguel de Tucumán"],
     "respuestaCorrecta": 3,
@@ -4214,7 +4186,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_302",
+    "id": "cult_300",
     "enunciado": "¿Qué prócer cruzó la cordillera de los Andes para liberar Chile y Perú?",
     "opciones": ["José de San Martín", "Manuel Belgrano", "Martín Miguel de Güemes", "Juan Lavalle"],
     "respuestaCorrecta": 0,
@@ -4228,7 +4200,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_303",
+    "id": "cult_301",
     "enunciado": "¿Qué obra de José Hernández es el gran poema gauchesco argentino?",
     "opciones": ["Don Segundo Sombra", "Martín Fierro", "Santos Vega", "Fausto"],
     "respuestaCorrecta": 1,
@@ -4242,7 +4214,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_304",
+    "id": "cult_302",
     "enunciado": "¿Con qué apodo es recordada la primera dama Eva Duarte de Perón?",
     "opciones": ["La Señora", "Evangelina", "La Dama de Blanco", "Evita"],
     "respuestaCorrecta": 3,
@@ -4256,7 +4228,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_305",
+    "id": "cult_303",
     "enunciado": "¿Qué invento para escribir lleva en la Argentina el apellido de su creador?",
     "opciones": ["El lápiz", "La lapicera fuente", "El marcador", "La birome"],
     "respuestaCorrecta": 3,
@@ -4270,7 +4242,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_306",
+    "id": "cult_304",
     "enunciado": "¿Cuál es la montaña más alta de América?",
     "opciones": ["El Aconcagua", "El Ojos del Salado", "El Fitz Roy", "El Tupungato"],
     "respuestaCorrecta": 0,
@@ -4284,7 +4256,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_307",
+    "id": "cult_305",
     "enunciado": "¿Qué famosas cataratas comparten la Argentina y Brasil?",
     "opciones": ["Las del Niágara", "Las del Iguazú", "Las Victoria", "Las del Ángel"],
     "respuestaCorrecta": 1,
@@ -4298,7 +4270,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_308",
+    "id": "cult_306",
     "enunciado": "¿Qué ciudad argentina se promociona como «el fin del mundo»?",
     "opciones": ["Río Gallegos", "El Calafate", "Puerto Madryn", "Ushuaia"],
     "respuestaCorrecta": 3,
@@ -4312,7 +4284,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_309",
+    "id": "cult_307",
     "enunciado": "¿Cuántas provincias tiene la Argentina?",
     "opciones": ["21", "22", "23", "24"],
     "respuestaCorrecta": 2,
@@ -4326,7 +4298,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_310",
+    "id": "cult_308",
     "enunciado": "¿Sobre qué avenida porteña se levanta el Obelisco?",
     "opciones": ["La 9 de Julio", "Corrientes", "Santa Fe", "De Mayo"],
     "respuestaCorrecta": 0,
@@ -4340,7 +4312,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_311",
+    "id": "cult_309",
     "enunciado": "¿Qué infusión, que se toma con bombilla, es la bebida nacional argentina?",
     "opciones": ["El té", "El mate", "El café", "El mate cocido"],
     "respuestaCorrecta": 1,
@@ -4354,7 +4326,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_312",
+    "id": "cult_310",
     "enunciado": "¿Qué dulce nació, según la leyenda, de una leche con azúcar olvidada en el fuego en 1829?",
     "opciones": ["El flan", "El dulce de leche", "El arroz con leche", "La mazamorra"],
     "respuestaCorrecta": 1,
@@ -4368,7 +4340,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_313",
+    "id": "cult_311",
     "enunciado": "¿Qué herramienta de piedras atadas con tiras de cuero usaban los gauchos para atrapar animales?",
     "opciones": ["El lazo", "El rebenque", "Las boleadoras", "El facón"],
     "respuestaCorrecta": 2,
@@ -4382,7 +4354,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_314",
+    "id": "cult_312",
     "enunciado": "¿Qué golosina argentina lleva dos tapas unidas con dulce de leche y suele estar bañada en chocolate?",
     "opciones": ["El bombón", "El conito", "El turrón", "El alfajor"],
     "respuestaCorrecta": 3,
@@ -4396,7 +4368,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_315",
+    "id": "cult_313",
     "enunciado": "¿Qué conductora es famosa por sus almuerzos televisados y la frase «Como te ven, te tratan»?",
     "opciones": ["Mirtha Legrand", "Susana Giménez", "Moria Casán", "Nélida Lobato"],
     "respuestaCorrecta": 0,
@@ -4410,7 +4382,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_316",
+    "id": "cult_314",
     "enunciado": "¿Qué conductora es conocida como «la Diva de los teléfonos»?",
     "opciones": ["Mirtha Legrand", "Susana Giménez", "Graciela Alfano", "Moria Casán"],
     "respuestaCorrecta": 1,
@@ -4424,7 +4396,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_317",
+    "id": "cult_315",
     "enunciado": "¿Qué dibujante argentino creó a Mafalda?",
     "opciones": ["Fontanarrosa", "Caloi", "Quino", "Divito"],
     "respuestaCorrecta": 2,
@@ -4438,7 +4410,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_318",
+    "id": "cult_316",
     "enunciado": "¿Qué historieta argentina de ciencia ficción narra una nevada mortal sobre Buenos Aires?",
     "opciones": ["Patoruzú", "Nippur de Lagash", "Mort Cinder", "El Eternauta"],
     "respuestaCorrecta": 3,
@@ -4452,7 +4424,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_319",
+    "id": "cult_317",
     "enunciado": "¿Cómo se llama la sede del Poder Ejecutivo argentino, en Plaza de Mayo?",
     "opciones": ["La Casa Rosada", "El Cabildo", "El Palacio San Martín", "La Quinta de Olivos"],
     "respuestaCorrecta": 0,
@@ -4466,7 +4438,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_320",
+    "id": "cult_318",
     "enunciado": "¿Qué conductor presentaba los programas «Videomatch» y «ShowMatch»?",
     "opciones": ["Guido Kaczka", "Marcelo Tinelli", "Jorge Rial", "Mario Pergolini"],
     "respuestaCorrecta": 1,
@@ -4480,7 +4452,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_321",
+    "id": "cult_319",
     "enunciado": "¿En qué barrio porteño está la colorida calle Caminito?",
     "opciones": ["San Telmo", "Palermo", "La Boca", "Barracas"],
     "respuestaCorrecta": 2,
@@ -4494,7 +4466,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_322",
+    "id": "cult_320",
     "enunciado": "¿Qué comida es tradición comer los días 29 de cada mes en la Argentina?",
     "opciones": ["Empanadas", "Milanesas", "Ravioles", "Ñoquis"],
     "respuestaCorrecta": 3,
@@ -4508,7 +4480,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_323",
+    "id": "cult_321",
     "enunciado": "¿Qué fecha patria es el Día de la Bandera en la Argentina?",
     "opciones": ["El 20 de junio", "El 25 de mayo", "El 9 de julio", "El 17 de agosto"],
     "respuestaCorrecta": 0,
@@ -4522,7 +4494,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_324",
+    "id": "cult_322",
     "enunciado": "¿Qué medio de transporte se inventó en Buenos Aires en 1928, cuando unos taxistas empezaron a compartir viajes?",
     "opciones": ["El subte", "El colectivo", "El remís", "El trolebús"],
     "respuestaCorrecta": 1,
@@ -4536,7 +4508,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_325",
+    "id": "cult_323",
     "enunciado": "¿En qué ciudad de Córdoba se hace el festival de folclore más famoso del país?",
     "opciones": ["Villa Carlos Paz", "Jesús María", "Cosquín", "Alta Gracia"],
     "respuestaCorrecta": 2,
@@ -4550,7 +4522,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_326",
+    "id": "cult_324",
     "enunciado": "¿Qué productora creó «Chiquititas», «Rebelde Way» y «Casi Ángeles»?",
     "opciones": ["Adrián Suar", "Nicolás Repetto", "Marcela Tinayre", "Cris Morena"],
     "respuestaCorrecta": 3,
@@ -4564,7 +4536,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_327",
+    "id": "cult_325",
     "enunciado": "¿En qué ciudad francesa murió José de San Martín, en 1850?",
     "opciones": ["Boulogne-sur-Mer", "París", "Marsella", "Lyon"],
     "respuestaCorrecta": 0,
@@ -4578,7 +4550,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_328",
+    "id": "cult_326",
     "enunciado": "¿Cuál fue la única batalla que libró San Martín en territorio argentino?",
     "opciones": ["Maipú", "San Lorenzo", "Chacabuco", "Tucumán"],
     "respuestaCorrecta": 1,
@@ -4592,7 +4564,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_329",
+    "id": "cult_327",
     "enunciado": "¿Qué presidente es considerado el «padre del aula» y homenajeado en el Día del Maestro?",
     "opciones": ["Bartolomé Mitre", "Nicolás Avellaneda", "Domingo F. Sarmiento", "Julio A. Roca"],
     "respuestaCorrecta": 2,
@@ -4606,7 +4578,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_330",
+    "id": "cult_328",
     "enunciado": "¿Qué libro de Sarmiento plantea el dilema entre «civilización y barbarie»?",
     "opciones": ["Martín Fierro", "Amalia", "El matadero", "Facundo"],
     "respuestaCorrecta": 3,
@@ -4620,7 +4592,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_331",
+    "id": "cult_329",
     "enunciado": "¿En qué año fue la Guerra de Malvinas?",
     "opciones": ["1978", "1980", "1982", "1984"],
     "respuestaCorrecta": 2,
@@ -4634,7 +4606,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_332",
+    "id": "cult_330",
     "enunciado": "¿Qué ley de 1912 estableció el voto secreto y obligatorio para los varones?",
     "opciones": ["La Ley Sáenz Peña", "La Ley Avellaneda", "La Ley Roca", "La Ley Yrigoyen"],
     "respuestaCorrecta": 0,
@@ -4648,7 +4620,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_333",
+    "id": "cult_331",
     "enunciado": "¿Qué presidente asumió en 1983 con el regreso de la democracia?",
     "opciones": ["Carlos Menem", "Raúl Alfonsín", "Ítalo Luder", "Arturo Frondizi"],
     "respuestaCorrecta": 1,
@@ -4662,7 +4634,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_334",
+    "id": "cult_332",
     "enunciado": "¿Qué transporte se inauguró en Buenos Aires en 1913, el primero de su tipo en Latinoamérica?",
     "opciones": ["El tranvía", "El colectivo", "El subte", "El tren eléctrico"],
     "respuestaCorrecta": 2,
@@ -4676,7 +4648,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_335",
+    "id": "cult_333",
     "enunciado": "¿Qué cardiocirujano argentino desarrolló la técnica del bypass coronario?",
     "opciones": ["Luis F. Leloir", "Bernardo Houssay", "César Milstein", "René Favaloro"],
     "respuestaCorrecta": 3,
@@ -4690,7 +4662,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_336",
+    "id": "cult_334",
     "enunciado": "¿Qué argentino ganó en 1947 el primer Nobel de ciencias de Latinoamérica?",
     "opciones": ["Bernardo Houssay", "Luis F. Leloir", "César Milstein", "René Favaloro"],
     "respuestaCorrecta": 0,
@@ -4704,7 +4676,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_337",
+    "id": "cult_335",
     "enunciado": "¿Qué Nobel argentino inventó la salsa golf?",
     "opciones": ["Bernardo Houssay", "Luis F. Leloir", "César Milstein", "Adolfo Pérez Esquivel"],
     "respuestaCorrecta": 1,
@@ -4718,7 +4690,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_338",
+    "id": "cult_336",
     "enunciado": "¿Qué glaciar de Santa Cruz es famoso por los derrumbes de su pared de hielo?",
     "opciones": ["El Upsala", "El Viedma", "El Perito Moreno", "El Spegazzini"],
     "respuestaCorrecta": 2,
@@ -4732,7 +4704,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_339",
+    "id": "cult_337",
     "enunciado": "¿Cuál es la provincia argentina más grande en superficie?",
     "opciones": ["Santa Cruz", "Chubut", "Córdoba", "Buenos Aires"],
     "respuestaCorrecta": 3,
@@ -4746,7 +4718,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_340",
+    "id": "cult_338",
     "enunciado": "¿Cómo se llama el famoso cerro multicolor de Purmamarca, en Jujuy?",
     "opciones": ["De los Siete Colores", "Del Arcoíris", "De las Mil Tonalidades", "Cerro Pintado"],
     "respuestaCorrecta": 0,
@@ -4760,7 +4732,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_341",
+    "id": "cult_339",
     "enunciado": "¿Qué río, entre la Argentina y Uruguay, es considerado el más ancho del mundo?",
     "opciones": ["El Paraná", "El Río de la Plata", "El Uruguay", "El Iguazú"],
     "respuestaCorrecta": 1,
@@ -4774,7 +4746,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_342",
+    "id": "cult_340",
     "enunciado": "¿Qué palabra del lunfardo significa «trabajo»?",
     "opciones": ["Morfi", "Mina", "Laburo", "Guita"],
     "respuestaCorrecta": 2,
@@ -4788,7 +4760,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_343",
+    "id": "cult_341",
     "enunciado": "¿Qué significa «bondi» en el habla popular argentina?",
     "opciones": ["Dinero", "Amigo", "Problema", "Colectivo"],
     "respuestaCorrecta": 3,
@@ -4802,7 +4774,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_344",
+    "id": "cult_342",
     "enunciado": "¿Qué danza folclórica se baila en pareja revoleando pañuelos?",
     "opciones": ["La zamba", "El malambo", "El chamamé", "El pericón"],
     "respuestaCorrecta": 0,
@@ -4816,7 +4788,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_345",
+    "id": "cult_343",
     "enunciado": "¿Qué danza folclórica de zapateo era una competencia de destreza entre gauchos?",
     "opciones": ["La zamba", "El malambo", "El gato", "La chacarera"],
     "respuestaCorrecta": 1,
@@ -4830,7 +4802,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_346",
+    "id": "cult_344",
     "enunciado": "¿En qué provincia se celebra la Fiesta Nacional de la Empanada?",
     "opciones": ["Salta", "Catamarca", "Tucumán", "Jujuy"],
     "respuestaCorrecta": 2,
@@ -4844,7 +4816,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_347",
+    "id": "cult_345",
     "enunciado": "¿Con qué humorista formó Alberto Olmedo una famosa dupla en el cine de los 80?",
     "opciones": ["Tato Bores", "Juan Carlos Calabró", "Carlos Balá", "Jorge Porcel"],
     "respuestaCorrecta": 3,
@@ -4858,7 +4830,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_348",
+    "id": "cult_346",
     "enunciado": "¿Cómo se llama el hermanito menor de Mafalda?",
     "opciones": ["Guille", "Felipe", "Manolito", "Miguelito"],
     "respuestaCorrecta": 0,
@@ -4872,7 +4844,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_349",
+    "id": "cult_347",
     "enunciado": "¿Qué gaucho de historieta creó Roberto Fontanarrosa?",
     "opciones": ["Patoruzú", "Inodoro Pereyra", "Isidoro Cañones", "Don Nicola"],
     "respuestaCorrecta": 1,
@@ -4886,7 +4858,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_350",
+    "id": "cult_348",
     "enunciado": "¿Qué escritor argentino es autor de «El Aleph» y «Ficciones»?",
     "opciones": ["Julio Cortázar", "Ernesto Sabato", "Jorge Luis Borges", "Adolfo Bioy Casares"],
     "respuestaCorrecta": 2,
@@ -4900,7 +4872,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_351",
+    "id": "cult_349",
     "enunciado": "¿Qué novela de Julio Cortázar puede leerse saltando capítulos en otro orden?",
     "opciones": ["Bestiario", "Los premios", "Final del juego", "Rayuela"],
     "respuestaCorrecta": 3,
@@ -4914,7 +4886,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_352",
+    "id": "cult_350",
     "enunciado": "¿Qué humorista creó a personajes como Micky Vainilla y Bombita Rodríguez?",
     "opciones": ["Diego Capusotto", "Alfredo Casero", "Fabio Alberti", "Martín Rechimuzzi"],
     "respuestaCorrecta": 0,
@@ -4928,7 +4900,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_353",
+    "id": "cult_351",
     "enunciado": "¿Qué heroína de la independencia peleó en el Alto Perú y fue ascendida a generala del Ejército argentino?",
     "opciones": ["Macacha Güemes", "Juana Azurduy", "Mariquita Sánchez", "María Remedios del Valle"],
     "respuestaCorrecta": 1,
@@ -4942,7 +4914,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_354",
+    "id": "cult_352",
     "enunciado": "¿Qué ciudad bonaerense es famosa por su Fiesta de la Tradición, con desfiles de gauchos?",
     "opciones": ["Chascomús", "Tandil", "San Antonio de Areco", "Luján"],
     "respuestaCorrecta": 2,
@@ -4956,7 +4928,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_355",
+    "id": "cult_353",
     "enunciado": "¿Qué crucero argentino fue hundido por un submarino británico en la Guerra de Malvinas?",
     "opciones": ["El ARA 25 de Mayo", "El ARA Santísima Trinidad", "El ARA Almirante Irízar", "El ARA General Belgrano"],
     "respuestaCorrecta": 3,
@@ -4970,7 +4942,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_356",
+    "id": "cult_354",
     "enunciado": "¿Qué arrojaban los vecinos desde los techos durante las Invasiones Inglesas, según la tradición?",
     "opciones": ["Aceite hirviendo", "Agua helada", "Arena caliente", "Brea encendida"],
     "respuestaCorrecta": 0,
@@ -4984,7 +4956,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_357",
+    "id": "cult_355",
     "enunciado": "¿Quién fue el primer latinoamericano en ganar un Premio Nobel?",
     "opciones": ["Bernardo Houssay", "Carlos Saavedra Lamas", "Gabriela Mistral", "Adolfo Pérez Esquivel"],
     "respuestaCorrecta": 1,
@@ -4998,7 +4970,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_358",
+    "id": "cult_356",
     "enunciado": "¿Qué hito logró en 1917 el argentino Quirino Cristiani con su película «El Apóstol»?",
     "opciones": ["Primera película a color", "Primer filme con sonido", "Primer largometraje animado", "Primer dibujo en 3D"],
     "respuestaCorrecta": 2,
@@ -5012,7 +4984,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_359",
+    "id": "cult_357",
     "enunciado": "¿Quién escribió la letra del Himno Nacional Argentino?",
     "opciones": ["Blas Parera", "Esteban Echeverría", "Bartolomé Mitre", "Vicente López y Planes"],
     "respuestaCorrecta": 3,
@@ -5026,7 +4998,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_360",
+    "id": "cult_358",
     "enunciado": "¿Qué pueblo originario de la Patagonia inspiró la leyenda de los «gigantes» que vio Magallanes?",
     "opciones": ["Los tehuelches", "Los mapuches", "Los guaraníes", "Los wichís"],
     "respuestaCorrecta": 0,
@@ -5040,7 +5012,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_361",
+    "id": "cult_359",
     "enunciado": "¿Quién fue el primer presidente de la Argentina?",
     "opciones": ["Bartolomé Mitre", "Bernardino Rivadavia", "Justo José de Urquiza", "Domingo F. Sarmiento"],
     "respuestaCorrecta": 1,
@@ -5054,7 +5026,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_362",
+    "id": "cult_360",
     "enunciado": "¿En qué año se sancionó la Constitución Nacional argentina?",
     "opciones": ["1810", "1816", "1853", "1880"],
     "respuestaCorrecta": 2,
@@ -5068,7 +5040,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_363",
+    "id": "cult_361",
     "enunciado": "¿Cuál es el monumento más antiguo de Buenos Aires, ubicado en Plaza de Mayo?",
     "opciones": ["El Obelisco", "El Cabildo", "La Pirámide de Mayo", "La estatua de Belgrano"],
     "respuestaCorrecta": 2,
@@ -5082,7 +5054,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_364",
+    "id": "cult_362",
     "enunciado": "¿Qué día de la semana marchan desde 1977 las Madres de Plaza de Mayo?",
     "opciones": ["Los lunes", "Los viernes", "Los domingos", "Los jueves"],
     "respuestaCorrecta": 3,
@@ -5096,7 +5068,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_365",
+    "id": "cult_363",
     "enunciado": "¿Qué técnica de identificación desarrolló el argentino Juan Vucetich?",
     "opciones": ["La de huellas dactilares", "La de análisis de ADN", "La del identikit", "La de la foto policial"],
     "respuestaCorrecta": 0,
@@ -5110,7 +5082,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_366",
+    "id": "cult_364",
     "enunciado": "¿En qué año votaron las mujeres por primera vez en una elección nacional argentina?",
     "opciones": ["1912", "1947", "1951", "1983"],
     "respuestaCorrecta": 2,
@@ -5124,7 +5096,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_367",
+    "id": "cult_365",
     "enunciado": "¿Qué parque nacional de La Rioja es Patrimonio de la Humanidad junto con Ischigualasto?",
     "opciones": ["El Leoncito", "Talampaya", "Los Cardones", "Quebrada del Condorito"],
     "respuestaCorrecta": 1,
@@ -5138,7 +5110,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_368",
+    "id": "cult_366",
     "enunciado": "¿Qué conductor presentaba «Feliz Domingo», el clásico programa de juegos para estudiantes?",
     "opciones": ["Pipo Mancera", "Juan Alberto Badía", "Silvio Soldán", "Leonardo Simons"],
     "respuestaCorrecta": 2,
@@ -5152,7 +5124,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_369",
+    "id": "cult_367",
     "enunciado": "¿Cuál es el animal terrestre más rápido del mundo?",
     "opciones": ["El guepardo", "El león", "El antílope", "El caballo"],
     "respuestaCorrecta": 0,
@@ -5166,7 +5138,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_370",
+    "id": "cult_368",
     "enunciado": "¿Cuál es el animal más alto del mundo?",
     "opciones": ["La jirafa", "El elefante", "El avestruz", "El camello"],
     "respuestaCorrecta": 0,
@@ -5180,7 +5152,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_371",
+    "id": "cult_369",
     "enunciado": "¿Qué animal es llamado «el rey de la selva», aunque en realidad vive en la sabana?",
     "opciones": ["El tigre", "El leopardo", "El gorila", "El león"],
     "respuestaCorrecta": 3,
@@ -5194,7 +5166,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_372",
+    "id": "cult_370",
     "enunciado": "¿Cuántas patas tienen los insectos?",
     "opciones": ["4", "6", "8", "10"],
     "respuestaCorrecta": 1,
@@ -5208,7 +5180,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_373",
+    "id": "cult_371",
     "enunciado": "¿Qué come principalmente el oso panda?",
     "opciones": ["Bambú", "Pescado", "Frutas", "Miel"],
     "respuestaCorrecta": 0,
@@ -5222,7 +5194,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_374",
+    "id": "cult_372",
     "enunciado": "¿Qué reptil es famoso por cambiar de color?",
     "opciones": ["La iguana", "El camaleón", "El lagarto overo", "La salamandra"],
     "respuestaCorrecta": 1,
@@ -5236,7 +5208,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_375",
+    "id": "cult_373",
     "enunciado": "¿En qué animal se transforma una oruga?",
     "opciones": ["En una abeja", "En un escarabajo", "En una mariposa", "En una libélula"],
     "respuestaCorrecta": 2,
@@ -5250,7 +5222,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_376",
+    "id": "cult_374",
     "enunciado": "¿Qué alimento producen las abejas?",
     "opciones": ["Jalea de frutas", "Azúcar", "Néctar", "Miel"],
     "respuestaCorrecta": 3,
@@ -5264,7 +5236,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_377",
+    "id": "cult_375",
     "enunciado": "¿Qué animal lleva a su cría dentro de una bolsa en la panza?",
     "opciones": ["El canguro", "El koala", "El mono", "El castor"],
     "respuestaCorrecta": 0,
@@ -5278,7 +5250,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_378",
+    "id": "cult_376",
     "enunciado": "¿Qué animal australiano come hojas de eucalipto y duerme casi todo el día?",
     "opciones": ["El canguro", "El koala", "El wombat", "El perezoso"],
     "respuestaCorrecta": 1,
@@ -5292,7 +5264,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_379",
+    "id": "cult_377",
     "enunciado": "¿Cuál es el ave más grande del mundo?",
     "opciones": ["El cóndor", "El águila", "El avestruz", "El pelícano"],
     "respuestaCorrecta": 2,
@@ -5306,7 +5278,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_380",
+    "id": "cult_378",
     "enunciado": "¿Qué pajarito puede volar hacia atrás?",
     "opciones": ["El gorrión", "La golondrina", "El hornero", "El colibrí"],
     "respuestaCorrecta": 3,
@@ -5320,7 +5292,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_381",
+    "id": "cult_379",
     "enunciado": "¿Cuántos brazos tiene un pulpo?",
     "opciones": ["6", "8", "10", "12"],
     "respuestaCorrecta": 1,
@@ -5334,7 +5306,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_382",
+    "id": "cult_380",
     "enunciado": "¿Cuál es el animal terrestre más grande del mundo?",
     "opciones": ["El elefante africano", "El rinoceronte", "El hipopótamo", "La jirafa"],
     "respuestaCorrecta": 0,
@@ -5348,7 +5320,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_383",
+    "id": "cult_381",
     "enunciado": "¿Cómo se llama la cría del caballo?",
     "opciones": ["Ternero", "Potrillo", "Cordero", "Cachorro"],
     "respuestaCorrecta": 1,
@@ -5362,7 +5334,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_384",
+    "id": "cult_382",
     "enunciado": "¿Qué animal es famoso por su lentitud y vive colgado de los árboles?",
     "opciones": ["El koala", "El mono aullador", "El perezoso", "El oso hormiguero"],
     "respuestaCorrecta": 2,
@@ -5376,7 +5348,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_385",
+    "id": "cult_383",
     "enunciado": "¿Qué animal puede vivir más de 100 años?",
     "opciones": ["El cocodrilo", "La iguana", "El elefante", "La tortuga gigante"],
     "respuestaCorrecta": 3,
@@ -5390,7 +5362,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_386",
+    "id": "cult_384",
     "enunciado": "¿Cómo se llama el recorrido del agua que se evapora, forma nubes y vuelve como lluvia?",
     "opciones": ["El ciclo del agua", "La fotosíntesis", "La erosión", "La marea"],
     "respuestaCorrecta": 0,
@@ -5404,7 +5376,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_387",
+    "id": "cult_385",
     "enunciado": "¿Cómo se llama el sonido que hace el león?",
     "opciones": ["Aullido", "Rugido", "Bramido", "Graznido"],
     "respuestaCorrecta": 1,
@@ -5418,7 +5390,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_388",
+    "id": "cult_386",
     "enunciado": "¿Cuál fue el primer animal domesticado por el ser humano?",
     "opciones": ["El gato", "La vaca", "El perro", "El caballo"],
     "respuestaCorrecta": 2,
@@ -5432,7 +5404,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_389",
+    "id": "cult_387",
     "enunciado": "¿Qué ave es el símbolo mundial de la paz?",
     "opciones": ["El cisne", "La gaviota", "El colibrí", "La paloma"],
     "respuestaCorrecta": 3,
@@ -5446,7 +5418,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_390",
+    "id": "cult_388",
     "enunciado": "¿Qué insecto brilla en la oscuridad durante las noches de verano?",
     "opciones": ["La luciérnaga", "El grillo", "La mariquita", "La polilla"],
     "respuestaCorrecta": 0,
@@ -5460,7 +5432,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_391",
+    "id": "cult_389",
     "enunciado": "¿Qué animal africano tiene el cuerpo cubierto de rayas blancas y negras?",
     "opciones": ["El okapi", "La cebra", "La gacela", "El ñu"],
     "respuestaCorrecta": 1,
@@ -5474,7 +5446,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_392",
+    "id": "cult_390",
     "enunciado": "¿Qué animal lleva su casa en la espalda?",
     "opciones": ["La lombriz", "La babosa", "El caracol", "El ciempiés"],
     "respuestaCorrecta": 2,
@@ -5488,7 +5460,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_393",
+    "id": "cult_391",
     "enunciado": "¿Qué animal pasa el invierno durmiendo en una cueva?",
     "opciones": ["El lobo", "El zorro", "El ciervo", "El oso"],
     "respuestaCorrecta": 3,
@@ -5502,7 +5474,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_394",
+    "id": "cult_392",
     "enunciado": "¿Qué ave nocturna puede girar la cabeza casi por completo?",
     "opciones": ["El búho", "El murciélago", "El halcón", "El cuervo"],
     "respuestaCorrecta": 0,
@@ -5516,7 +5488,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_395",
+    "id": "cult_393",
     "enunciado": "¿Qué animal doméstico ronronea cuando está tranquilo?",
     "opciones": ["El perro", "El gato", "El conejo", "El hámster"],
     "respuestaCorrecta": 1,
@@ -5530,7 +5502,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_396",
+    "id": "cult_394",
     "enunciado": "¿Qué ave es capaz de imitar la voz humana?",
     "opciones": ["La paloma", "El gorrión", "El loro", "El canario"],
     "respuestaCorrecta": 2,
@@ -5544,7 +5516,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_397",
+    "id": "cult_395",
     "enunciado": "¿Qué guarda el camello en su joroba?",
     "opciones": ["Agua", "Leche", "Aire", "Grasa"],
     "respuestaCorrecta": 3,
@@ -5558,7 +5530,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_398",
+    "id": "cult_396",
     "enunciado": "¿Qué árbol es el más alto del mundo?",
     "opciones": ["La secuoya roja", "El eucalipto", "El pino", "La araucaria"],
     "respuestaCorrecta": 0,
@@ -5572,7 +5544,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_399",
+    "id": "cult_397",
     "enunciado": "¿Cuál es el desierto más grande del mundo?",
     "opciones": ["El Sahara", "La Antártida", "El de Gobi", "El de Atacama"],
     "respuestaCorrecta": 1,
@@ -5586,7 +5558,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_400",
+    "id": "cult_398",
     "enunciado": "¿Qué animal marino pierde y reemplaza miles de dientes a lo largo de su vida?",
     "opciones": ["El delfín", "La orca", "El tiburón", "La morena"],
     "respuestaCorrecta": 2,
@@ -5600,7 +5572,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_401",
+    "id": "cult_399",
     "enunciado": "¿Cuál es el felino más grande del mundo?",
     "opciones": ["El león", "El yaguareté", "El leopardo", "El tigre"],
     "respuestaCorrecta": 3,
@@ -5614,7 +5586,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_402",
+    "id": "cult_400",
     "enunciado": "¿De qué color es la piel del oso polar, debajo de su pelaje?",
     "opciones": ["Negra", "Blanca", "Rosada", "Gris"],
     "respuestaCorrecta": 0,
@@ -5628,7 +5600,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_403",
+    "id": "cult_401",
     "enunciado": "¿Qué animal marino puede regenerar un brazo si lo pierde?",
     "opciones": ["El cangrejo", "La estrella de mar", "La medusa", "El erizo de mar"],
     "respuestaCorrecta": 1,
@@ -5642,7 +5614,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_404",
+    "id": "cult_402",
     "enunciado": "¿Cuántos meses dura el embarazo de una elefanta?",
     "opciones": ["9", "12", "18", "22"],
     "respuestaCorrecta": 3,
@@ -5656,7 +5628,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_405",
+    "id": "cult_403",
     "enunciado": "¿Cuál es el ave voladora más grande de la cordillera de los Andes?",
     "opciones": ["El águila mora", "El jote", "El cóndor andino", "El carancho"],
     "respuestaCorrecta": 2,
@@ -5670,7 +5642,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_406",
+    "id": "cult_404",
     "enunciado": "¿Qué pariente salvaje de la llama vive en la Patagonia?",
     "opciones": ["La alpaca", "El huemul", "El pudú", "El guanaco"],
     "respuestaCorrecta": 3,
@@ -5684,7 +5656,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_407",
+    "id": "cult_405",
     "enunciado": "¿Qué ballena llega cada año a Península Valdés, en Chubut, para tener sus crías?",
     "opciones": ["La ballena franca austral", "La ballena azul", "La orca", "La ballena jorobada"],
     "respuestaCorrecta": 0,
@@ -5698,7 +5670,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_408",
+    "id": "cult_406",
     "enunciado": "¿Cuál es el ave nacional de la Argentina?",
     "opciones": ["El cóndor", "El hornero", "El ñandú", "El benteveo"],
     "respuestaCorrecta": 1,
@@ -5712,7 +5684,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_409",
+    "id": "cult_407",
     "enunciado": "¿Cuál es la flor nacional de la Argentina?",
     "opciones": ["El jacarandá", "La pasionaria", "El ceibo", "El lapacho"],
     "respuestaCorrecta": 2,
@@ -5726,7 +5698,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_410",
+    "id": "cult_408",
     "enunciado": "¿Qué árbol produce las bellotas?",
     "opciones": ["El pino", "El sauce", "El álamo", "El roble"],
     "respuestaCorrecta": 3,
@@ -5740,7 +5712,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_411",
+    "id": "cult_409",
     "enunciado": "¿Cuál es la selva tropical más grande del mundo?",
     "opciones": ["La Amazonia", "La del Congo", "La de Borneo", "La Yunga"],
     "respuestaCorrecta": 0,
@@ -5754,7 +5726,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_412",
+    "id": "cult_410",
     "enunciado": "¿Cómo se llama el fenómeno de luces de colores que aparece en el cielo cerca de los polos?",
     "opciones": ["Arcoíris lunar", "Aurora", "Estrella fugaz", "Espejismo"],
     "respuestaCorrecta": 1,
@@ -5768,7 +5740,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_413",
+    "id": "cult_411",
     "enunciado": "¿En qué animal es el macho el que lleva los huevos y da a luz a las crías?",
     "opciones": ["El pingüino emperador", "El pulpo", "El caballito de mar", "La rana"],
     "respuestaCorrecta": 2,
@@ -5782,7 +5754,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_414",
+    "id": "cult_412",
     "enunciado": "¿Cuántas veces su propio peso puede levantar una hormiga?",
     "opciones": ["10", "20", "50", "100"],
     "respuestaCorrecta": 2,
@@ -5796,7 +5768,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_415",
+    "id": "cult_413",
     "enunciado": "¿Qué hacen los delfines para poder dormir sin ahogarse?",
     "opciones": ["Duermen en la orilla", "Duermen con la cabeza afuera", "No duermen nunca", "Duermen con medio cerebro a la vez"],
     "respuestaCorrecta": 3,
@@ -5810,7 +5782,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_416",
+    "id": "cult_414",
     "enunciado": "¿Qué animal mitológico es el animal nacional de Escocia?",
     "opciones": ["El unicornio", "El dragón", "El grifo", "El fénix"],
     "respuestaCorrecta": 0,
@@ -5824,7 +5796,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_417",
+    "id": "cult_415",
     "enunciado": "¿Cómo se llama un grupo de peces que nadan juntos?",
     "opciones": ["Manada", "Cardumen", "Bandada", "Enjambre"],
     "respuestaCorrecta": 1,
@@ -5838,7 +5810,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_418",
+    "id": "cult_416",
     "enunciado": "¿Qué serpiente hace sonar la punta de su cola como advertencia?",
     "opciones": ["La coral", "La yarará", "La de cascabel", "La boa"],
     "respuestaCorrecta": 2,
@@ -5852,7 +5824,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_419",
+    "id": "cult_417",
     "enunciado": "¿Por qué las hojas de muchos árboles se ponen amarillas y rojas en otoño?",
     "opciones": ["Porque se congelan", "Porque les falta agua", "Porque se oxidan con el viento", "Porque pierden la clorofila"],
     "respuestaCorrecta": 3,
@@ -5866,7 +5838,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_420",
+    "id": "cult_418",
     "enunciado": "¿Qué alimento, que muchos creen un fruto seco, crece bajo tierra?",
     "opciones": ["El maní", "La nuez", "La almendra", "La castaña"],
     "respuestaCorrecta": 0,
@@ -5880,7 +5852,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_421",
+    "id": "cult_419",
     "enunciado": "¿Qué alimento, que usamos como verdura, es en realidad una fruta para la botánica?",
     "opciones": ["La zanahoria", "El tomate", "La lechuga", "La papa"],
     "respuestaCorrecta": 1,
@@ -5894,7 +5866,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_422",
+    "id": "cult_420",
     "enunciado": "¿Cuál es el felino más grande de América, que habita en el norte argentino?",
     "opciones": ["El puma", "El ocelote", "El yaguareté", "El gato montés"],
     "respuestaCorrecta": 2,
@@ -5908,7 +5880,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_423",
+    "id": "cult_421",
     "enunciado": "¿Qué ave corredora de la pampa es pariente del avestruz?",
     "opciones": ["El chajá", "La martineta", "El tero", "El ñandú"],
     "respuestaCorrecta": 3,
@@ -5922,7 +5894,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_424",
+    "id": "cult_422",
     "enunciado": "¿Qué son los corales que forman los arrecifes?",
     "opciones": ["Animales", "Plantas", "Rocas", "Algas"],
     "respuestaCorrecta": 0,
@@ -5936,7 +5908,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_425",
+    "id": "cult_423",
     "enunciado": "¿Qué otro mamífero pone huevos, además del ornitorrinco?",
     "opciones": ["El armadillo", "El equidna", "El pangolín", "El erizo"],
     "respuestaCorrecta": 1,
@@ -5950,7 +5922,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_426",
+    "id": "cult_424",
     "enunciado": "¿Qué animal tiene huellas digitales casi idénticas a las humanas?",
     "opciones": ["El chimpancé", "El mapache", "El koala", "El oso panda"],
     "respuestaCorrecta": 2,
@@ -5964,7 +5936,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_427",
+    "id": "cult_425",
     "enunciado": "¿Qué ave hace cada año la migración más larga del reino animal?",
     "opciones": ["La golondrina", "El albatros", "La cigüeña", "El charrán ártico"],
     "respuestaCorrecta": 3,
@@ -5978,7 +5950,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_428",
+    "id": "cult_426",
     "enunciado": "¿Qué planta tiene la flor más grande del mundo y huele a carne podrida?",
     "opciones": ["La rafflesia", "El nenúfar gigante", "El girasol", "La orquídea"],
     "respuestaCorrecta": 0,
@@ -5992,7 +5964,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_429",
+    "id": "cult_427",
     "enunciado": "¿Qué animal marino es llamado «inmortal» porque puede volver a ser joven?",
     "opciones": ["Un pulpo", "Una medusa", "Una esponja", "Un caballito de mar"],
     "respuestaCorrecta": 1,
@@ -6006,7 +5978,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_430",
+    "id": "cult_428",
     "enunciado": "¿Qué animal tiene el cerebro más grande del planeta?",
     "opciones": ["La ballena azul", "El elefante", "El cachalote", "La orca"],
     "respuestaCorrecta": 2,
@@ -6020,7 +5992,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_431",
+    "id": "cult_429",
     "enunciado": "¿Qué animal de colores brillantes es de los más venenosos del mundo?",
     "opciones": ["La serpiente coral", "La mariquita", "El pez payaso", "La rana dardo"],
     "respuestaCorrecta": 3,
@@ -6034,7 +6006,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_432",
+    "id": "cult_430",
     "enunciado": "Si a un tigre le afeitaran todo el pelaje, ¿cómo se vería su piel?",
     "opciones": ["Rayada", "Anaranjada lisa", "Blanca", "Negra"],
     "respuestaCorrecta": 0,
@@ -6048,7 +6020,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_433",
+    "id": "cult_431",
     "enunciado": "¿Qué gigante de la pampa, a pesar de su tamaño, técnicamente no es un árbol sino una hierba?",
     "opciones": ["El algarrobo", "El ombú", "El ceibo", "El caldén"],
     "respuestaCorrecta": 1,
@@ -6062,7 +6034,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_434",
+    "id": "cult_432",
     "enunciado": "¿Qué tipo de nube, alta y con forma de yunque, trae las tormentas eléctricas?",
     "opciones": ["Cirro", "Estrato", "Cumulonimbo", "Altocúmulo"],
     "respuestaCorrecta": 2,
@@ -6076,7 +6048,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_435",
+    "id": "cult_433",
     "enunciado": "¿Qué ave pone el huevo más grande en proporción a su tamaño?",
     "opciones": ["El avestruz", "El pingüino", "La gallina", "El kiwi"],
     "respuestaCorrecta": 3,
@@ -6090,7 +6062,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_436",
+    "id": "cult_434",
     "enunciado": "¿Qué animal tiene la mordida más poderosa jamás medida?",
     "opciones": ["El cocodrilo de agua salada", "El tiburón blanco", "El hipopótamo", "El yaguareté"],
     "respuestaCorrecta": 0,
@@ -6104,7 +6076,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_437",
+    "id": "cult_435",
     "enunciado": "¿Qué animal del Ártico tiene un largo colmillo en espiral que inspiró la leyenda del unicornio?",
     "opciones": ["La morsa", "El narval", "La beluga", "El elefante marino"],
     "respuestaCorrecta": 1,
@@ -6118,7 +6090,7 @@
     "fechaActualizacion": "2026-09-26"
   },
   {
-    "id": "cult_438",
+    "id": "cult_436",
     "enunciado": "¿Cuántos años se calcula que vivió un tiburón de Groenlandia, el vertebrado más longevo conocido?",
     "opciones": ["100", "200", "400", "1000"],
     "respuestaCorrecta": 2,
