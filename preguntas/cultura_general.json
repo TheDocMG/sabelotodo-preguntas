@@ -1,10 +1,10 @@
 [
   {
     "id": "cult_001",
-    "enunciado": "Â¿CuÃ¡l es el rÃ­o mÃ¡s caudaloso del mundo?",
-    "opciones": ["RÃ­o Nilo", "RÃ­o Amazonas", "RÃ­o YangtsÃ©", "RÃ­o Misisipi"],
+    "enunciado": "¿Cuál es el río más caudaloso del mundo?",
+    "opciones": ["Río Nilo", "Río Amazonas", "Río Yangtsé", "Río Misisipi"],
     "respuestaCorrecta": 1,
-    "explicacion": "Lleva mÃ¡s agua que los siete rÃ­os que le siguen juntos, y aporta casi una quinta parte de toda el agua dulce que llega a los ocÃ©anos.",
+    "explicacion": "Lleva más agua que los siete ríos que le siguen juntos, y aporta casi una quinta parte de toda el agua dulce que llega a los océanos.",
     "dificultad": "facil",
     "modosPermitidos": ["supervivencia", "supremo", "familia"],
     "grupoVariantes": "longest_river",
