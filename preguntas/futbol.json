@@ -1160,5 +1160,19 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2025-10-01"
+  },
+    {
+    "id": "fut_084",
+    "enunciado": "¿Qué club tiene el récord de más Copas Libertadores ganadas?",
+    "opciones": ["Boca Juniors", "Independiente", "Peñarol", "River Plate"],
+    "respuestaCorrecta": 1,
+    "explicacion": "Independiente de Avellaneda ganó 7 Libertadores (1964, 1965, 1972, 1973, 1974, 1975 y 1984), incluidas cuatro seguidas. Boca lo sigue con 6.",
+    "dificultad": "medio",
+    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "grupoVariantes": "libertadores_record",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-26"
   }
 ]
