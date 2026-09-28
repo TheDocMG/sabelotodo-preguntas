@@ -2,11 +2,21 @@
   {
     "id": "fri_001",
     "enunciado": "¿Cómo se llama la icónica cafetería de Nueva York donde se reúnen los seis protagonistas de Friends?",
-    "opciones": ["Central Perk", "Green Cafe", "Manhattan Beans", "Monk's Diner"],
+    "opciones": [
+      "Central Perk",
+      "Green Cafe",
+      "Manhattan Beans",
+      "Monk's Diner"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Central Perk es la famosa cafetería del Greenwich Village atendida por Gunther y donde Rachel trabajó como camarera.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "central_perk",
     "activa": true,
     "aptaFamilia": true,
@@ -16,11 +26,21 @@
   {
     "id": "fri_002",
     "enunciado": "¿Cuál es la profesión académica del personaje Ross Geller?",
-    "opciones": ["Arqueólogo", "Paleontólogo", "Historiador", "Biólogo marino"],
+    "opciones": [
+      "Arqueólogo",
+      "Paleontólogo",
+      "Historiador",
+      "Biólogo marino"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Ross Geller tiene un doctorado en paleontología y trabaja en el Museo de Historia Natural y luego como profesor.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "ross_profession",
     "activa": true,
     "aptaFamilia": true,
@@ -30,11 +50,21 @@
   {
     "id": "fri_003",
     "enunciado": "¿Cuál es la famosa frase de coqueteo característica de Joey Tribbiani?",
-    "opciones": ["\"We were on a break!\"", "\"How you doin'?\"", "\"Could I BE any more...?\"", "\"Oh... my... God!\""],
+    "opciones": [
+      "\"We were on a break!\"",
+      "\"How you doin'?\"",
+      "\"Could I BE any more...?\"",
+      "\"Oh... my... God!\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "\"How you doin'?\" (\"¿Cómo va eso?\") es la infalible frase de seducción de Joey con las mujeres.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "joey_catchphrase",
     "activa": true,
     "aptaFamilia": true,
@@ -44,11 +74,21 @@
   {
     "id": "fri_004",
     "enunciado": "¿Cuál es el nombre de la canción más famosa compuesta y cantada por Phoebe Buffay?",
-    "opciones": ["Two of Them Kissed", "Smelly Cat (Gato Apestoso)", "Sticky Shoes", "Holiday Song"],
+    "opciones": [
+      "Two of Them Kissed",
+      "Smelly Cat (Gato Apestoso)",
+      "Sticky Shoes",
+      "Holiday Song"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "\"Smelly Cat\" es el hit acústico por excelencia de Phoebe que incluso tuvo un video musical en la serie.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "smelly_cat",
     "activa": true,
     "aptaFamilia": true,
@@ -58,11 +98,21 @@
   {
     "id": "fri_005",
     "enunciado": "¿Cuántas veces se divorció Ross Geller a lo largo de las diez temporadas de Friends?",
-    "opciones": ["Una vez", "Dos veces", "Tres veces", "Cuatro veces"],
+    "opciones": [
+      "Una vez",
+      "Dos veces",
+      "Tres veces",
+      "Cuatro veces"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Ross se divorció tres veces: de Carol Willick, de Emily Waltham y de Rachel Green en Las Vegas.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "ross_divorces",
     "activa": true,
     "aptaFamilia": true,
@@ -72,11 +122,21 @@
   {
     "id": "fri_006",
     "enunciado": "En el concurso de preguntas por el departamento, ¿qué responde Rachel cuando le preguntan por el trabajo de Chandler Bing?",
-    "opciones": ["Contador estadístico", "¡Es un Transponster!", "Analista de datos", "Ejecutivo de cuentas"],
+    "opciones": [
+      "Contador estadístico",
+      "¡Es un Transponster!",
+      "Analista de datos",
+      "Ejecutivo de cuentas"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Rachel grita desesperada \"¡Es un Transponster!\", a lo que Monica responde furiosa: \"¡Eso ni siquiera es una palabra real!\", perdiendo su departamento.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "chandler_transponster",
     "activa": true,
     "aptaFamilia": true,
@@ -86,11 +146,21 @@
   {
     "id": "fri_007",
     "enunciado": "¿Cómo se llamaba el mono capuchino mascota de Ross en la primera temporada?",
-    "opciones": ["Marcel", "Chico", "George", "Barnaby"],
+    "opciones": [
+      "Marcel",
+      "Chico",
+      "George",
+      "Barnaby"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Marcel era el travieso mono capuchino de Ross que adoraba la canción \"The Lion Sleeps Tonight\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "marcel_monkey",
     "activa": true,
     "aptaFamilia": true,
@@ -100,11 +170,21 @@
   {
     "id": "fri_008",
     "enunciado": "¿Qué animal de granja compraron Joey y Chandler para criar en su apartamento?",
-    "opciones": ["Un cerdo y una oveja", "Un pollito y un pato", "Un conejo y un loro", "Una cabra"],
+    "opciones": [
+      "Un cerdo y una oveja",
+      "Un pollito y un pato",
+      "Un conejo y un loro",
+      "Una cabra"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Joey y Chandler criaron un pollito (The Chick) y un pato (The Duck) con devoción paternal.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "chick_duck",
     "activa": true,
     "aptaFamilia": true,
@@ -114,11 +194,21 @@
   {
     "id": "fri_009",
     "enunciado": "¿Cuál de los seis amigos es el hermano mayor de Monica Geller?",
-    "opciones": ["Ross Geller", "Joey Tribbiani", "Chandler Bing", "Gunther"],
+    "opciones": [
+      "Ross Geller",
+      "Joey Tribbiani",
+      "Chandler Bing",
+      "Gunther"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Ross Geller es el hermano mayor consentido de Monica, hijo preferido de Jack y Judy Geller.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_geller_brother",
     "activa": true,
     "aptaFamilia": true,
@@ -128,11 +218,21 @@
   {
     "id": "fri_010",
     "enunciado": "¿A qué profesión se dedica Monica Geller principalmente a lo largo de la serie?",
-    "opciones": ["Diseñadora de modas", "Chef / Cocinera profesional", "Masajista terapéutica", "Actriz de teatro"],
+    "opciones": [
+      "Diseñadora de modas",
+      "Chef / Cocinera profesional",
+      "Masajista terapéutica",
+      "Actriz de teatro"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Monica es una talentosa y ultra perfeccionista chef que llega a ser jefa de cocina en restaurantes de lujo como Javu.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_monica_job",
     "activa": true,
     "aptaFamilia": true,
@@ -142,11 +242,21 @@
   {
     "id": "fri_011",
     "enunciado": "¿Cómo se llama el barista de cabello rubio platinado del Central Perk que está secretamente enamorado de Rachel?",
-    "opciones": ["Paul", "Tag Jones", "Gunther", "Mike Hannigan"],
+    "opciones": [
+      "Paul",
+      "Tag Jones",
+      "Gunther",
+      "Mike Hannigan"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Gunther (interpretado por James Michael Tyler) atendió la barra del Central Perk durante 10 temporadas suspirando por Rachel.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_gunther",
     "activa": true,
     "aptaFamilia": true,
@@ -156,11 +266,21 @@
   {
     "id": "fri_012",
     "enunciado": "¿Qué prenda lleva Rachel Green puesta en la primera escena del episodio piloto cuando entra corriendo y empapada al Central Perk?",
-    "opciones": ["Un uniforme de graduación", "Un traje sastre ejecutivo", "Un pijama de franela", "Un vestido de novia blanco empapado"],
+    "opciones": [
+      "Un uniforme de graduación",
+      "Un traje sastre ejecutivo",
+      "Un pijama de franela",
+      "Un vestido de novia blanco empapado"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Rachel escapa de su boda con el ortodoncista Barry Farber vestida de novia y busca a su amiga Monica en Nueva York.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_pilot_rachel",
     "activa": true,
     "aptaFamilia": true,
@@ -170,11 +290,21 @@
   {
     "id": "fri_013",
     "enunciado": "¿Qué palabra en inglés grita histéricamente Ross mientras intenta subir un sofá por la escalera con ayuda de Chandler y Rachel?",
-    "opciones": ["¡PIVOT! (¡Pivote / Gira!)", "¡LIFT! (¡Levanta!)", "¡PUSH! (¡Empuja!)", "¡HOLD! (¡Sostén!)"],
+    "opciones": [
+      "¡PIVOT! (¡Pivote / Gira!)",
+      "¡LIFT! (¡Levanta!)",
+      "¡PUSH! (¡Empuja!)",
+      "¡HOLD! (¡Sostén!)"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El grito \"PIVOT! PIVOT! PIVOT!\" de Ross mientras Chandler le suplica que se calle es una de las escenas cómicas más célebres de la serie.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_pivot",
     "activa": true,
     "aptaFamilia": true,
@@ -184,11 +314,21 @@
   {
     "id": "fri_014",
     "enunciado": "¿Cómo se llama la hermana gemela idéntica de Phoebe Buffay con quien tiene una relación distante?",
-    "opciones": ["Amy Green", "Ursula Buffay", "Jill Green", "Regina Phalange"],
+    "opciones": [
+      "Amy Green",
+      "Ursula Buffay",
+      "Jill Green",
+      "Regina Phalange"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Ursula Buffay trabaja como camarera en el restaurante Riff's y apareció originalmente en la serie Mad About You.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_phoebe_twin",
     "activa": true,
     "aptaFamilia": true,
@@ -198,11 +338,21 @@
   {
     "id": "fri_015",
     "enunciado": "¿Con cuál de sus mejores amigos se casa Monica Geller al final de la séptima temporada?",
-    "opciones": ["Joey Tribbiani", "Richard Burke", "Chandler Bing", "Pete Becker"],
+    "opciones": [
+      "Joey Tribbiani",
+      "Richard Burke",
+      "Chandler Bing",
+      "Pete Becker"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Monica y Chandler comenzaron su romance secreto en Londres y consolidaron una de las historias de amor más queridas de la televisión.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_monica_chandler_wedding",
     "activa": true,
     "aptaFamilia": true,
@@ -212,11 +362,21 @@
   {
     "id": "fri_016",
     "enunciado": "¿Cuál es el postre tradicional inglés que Rachel arruina en Acción de Gracias al mezclar mermelada y crema con carne y guisantes?",
-    "opciones": ["Un Cheesecake de Nueva York", "Un Tiramisú casero", "Un Apple Pie americano", "Un Trifle inglés tradicional"],
+    "opciones": [
+      "Un Cheesecake de Nueva York",
+      "Un Tiramisú casero",
+      "Un Apple Pie americano",
+      "Un Trifle inglés tradicional"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Las páginas del recetario se pegaron y Rachel preparó medio trifle dulce y medio pastel de carne (Shepherd's pie), que a Joey le encantó de todas formas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_rachel_trifle",
     "activa": true,
     "aptaFamilia": true,
@@ -226,11 +386,21 @@
   {
     "id": "fri_017",
     "enunciado": "¿Qué célebre frase repite obsesivamente Ross Geller para justificar haber estado con otra mujer la noche de su discusión con Rachel?",
-    "opciones": ["\"¡Estábamos en un descanso!\" (\"We were on a break!\")", "\"¡Fue un error de una sola noche!\"", "\"¡No sabía lo que estaba haciendo!\"", "\"¡Tú me empujaste a hacerlo!\""],
+    "opciones": [
+      "\"¡Estábamos en un descanso!\" (\"We were on a break!\")",
+      "\"¡Fue un error de una sola noche!\"",
+      "\"¡No sabía lo que estaba haciendo!\"",
+      "\"¡Tú me empujaste a hacerlo!\""
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La discusión sobre si realmente \"estaban en un descanso\" fue el debate cómico continuo entre Ross y Rachel durante todas las temporadas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_on_a_break",
     "activa": true,
     "aptaFamilia": true,
@@ -240,11 +410,21 @@
   {
     "id": "fri_018",
     "enunciado": "¿Cómo se llama el querido pingüino de peluche de Joey con el que duerme todas las noches?",
-    "opciones": ["Waddles", "Hugsy (Abrazín)", "Barnaby", "Chilly"],
+    "opciones": [
+      "Waddles",
+      "Hugsy (Abrazín)",
+      "Barnaby",
+      "Chilly"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Hugsy es el fiel compañero de Joey que no quería prestarle ni a la pequeña Emma.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_hugsy",
     "activa": true,
     "aptaFamilia": true,
@@ -254,11 +434,21 @@
   {
     "id": "fri_019",
     "enunciado": "¿Cuál es el nombre falso y alter ego que Phoebe suele inventar cada vez que necesita una identidad ficticia?",
-    "opciones": ["Veronica Hastings", "Amanda Buffay", "Regina Phalange", "Priscilla Beaulieu"],
+    "opciones": [
+      "Veronica Hastings",
+      "Amanda Buffay",
+      "Regina Phalange",
+      "Priscilla Beaulieu"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Regina Phalange es el alter ego habitual de Phoebe, incluso salvando el viaje de Rachel advirtiendo que el avión no tenía \"falange izquierda\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_regina_phalange",
     "activa": true,
     "aptaFamilia": true,
@@ -268,11 +458,21 @@
   {
     "id": "fri_020",
     "enunciado": "¿En qué clásica telenovela estadounidense interpreta Joey al renombrado neurocirujano Dr. Drake Ramoray?",
-    "opciones": ["General Hospital", "All My Children", "Passions", "Days of Our Lives (Los días de nuestras vidas)"],
+    "opciones": [
+      "General Hospital",
+      "All My Children",
+      "Passions",
+      "Days of Our Lives (Los días de nuestras vidas)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Joey obtuvo el papel soñado del Dr. Drake Ramoray en Days of Our Lives, hasta que los guionistas lo tiraron por el pozo de un ascensor.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_joey_drake_ramoray",
     "activa": true,
     "aptaFamilia": true,
@@ -282,11 +482,21 @@
   {
     "id": "fri_021",
     "enunciado": "¿Cuál es la inconfundible frase de apertura y la estridente risa nasal que caracteriza a Janice Litman?",
-    "opciones": ["\"¡Oh... Dios... mío!\" (\"Oh... My... God!\")", "\"¡Adivinen quién llegó!\"", "\"¡Miren nada más!\"", "\"¡Hola, cosita hermosa!\""],
+    "opciones": [
+      "\"¡Oh... Dios... mío!\" (\"Oh... My... God!\")",
+      "\"¡Adivinen quién llegó!\"",
+      "\"¡Miren nada más!\"",
+      "\"¡Hola, cosita hermosa!\""
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Janice, interpretada por Maggie Wheeler, se volvió leyenda con su risa similar a una ametralladora y su \"Oh... My... God!\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_janice_omg",
     "activa": true,
     "aptaFamilia": true,
@@ -296,11 +506,21 @@
   {
     "id": "fri_022",
     "enunciado": "¿Quién es el respetado oftalmólogo y viejo amigo de los padres de Monica con quien ella vive un intenso romance maduro?",
-    "opciones": ["El Dr. Timothy Burke", "El Dr. Richard Burke", "Pete Becker", "Chip Matthews"],
+    "opciones": [
+      "El Dr. Timothy Burke",
+      "El Dr. Richard Burke",
+      "Pete Becker",
+      "Chip Matthews"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Richard Burke (interpretado por Tom Selleck) fue uno de los grandes amores de Monica, aunque rompieron porque él no deseaba tener más hijos.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_richard_burke",
     "activa": true,
     "aptaFamilia": true,
@@ -310,11 +530,21 @@
   {
     "id": "fri_023",
     "enunciado": "¿Qué nombre eligen Rachel y Ross para su hija recién nacida al final de la octava temporada?",
-    "opciones": ["Isabella", "Delilah", "Emma", "Sophie"],
+    "opciones": [
+      "Isabella",
+      "Delilah",
+      "Emma",
+      "Sophie"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Monica tenía reservado el nombre \"Emma\" desde niña para su futura hija, pero se lo regaló con amor a Rachel cuando vio cuánto le gustaba.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_baby_emma",
     "activa": true,
     "aptaFamilia": true,
@@ -324,11 +554,21 @@
   {
     "id": "fri_024",
     "enunciado": "¿Cómo se llamaba el cascarrabias vecino del piso inferior que golpeaba el techo con un palo de escoba cuando hacían ruido?",
-    "opciones": ["El Sr. Treeger", "El Sr. Zelner", "El Sr. Geller", "El Sr. Heckles"],
+    "opciones": [
+      "El Sr. Treeger",
+      "El Sr. Zelner",
+      "El Sr. Geller",
+      "El Sr. Heckles"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El Sr. Heckles siempre afirmaba que los pasos interrumpían a sus animales imaginarios. Al morir, les dejó todas sus curiosas pertenencias.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_mr_heckles",
     "activa": true,
     "aptaFamilia": true,
@@ -338,11 +578,21 @@
   {
     "id": "fri_025",
     "enunciado": "¿En qué ciudad europea se casan Ross y Emily Waltham, donde Ross comete el grave error de decir \"te tomo a ti, Rachel\"?",
-    "opciones": ["Londres", "París", "Dublín", "Roma"],
+    "opciones": [
+      "Londres",
+      "París",
+      "Dublín",
+      "Roma"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La boda en Londres fue el clímax de la cuarta temporada, donde Ross pronunció el nombre de Rachel en lugar del de Emily en el altar.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_london_wedding",
     "activa": true,
     "aptaFamilia": true,
@@ -352,11 +602,21 @@
   {
     "id": "fri_026",
     "enunciado": "¿Qué actor interpreta a Mike Hannigan, el carismático pianista que termina casándose con Phoebe en una boda bajo la nieve?",
-    "opciones": ["Hank Azaria", "Paul Rudd", "Dermot Mulroney", "Jon Favreau"],
+    "opciones": [
+      "Hank Azaria",
+      "Paul Rudd",
+      "Dermot Mulroney",
+      "Jon Favreau"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Paul Rudd se incorporó en las temporadas finales como Mike, logrando una química perfecta con Lisa Kudrow hasta su emotiva boda nevada.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_mike_hannigan",
     "activa": true,
     "aptaFamilia": true,
@@ -366,11 +626,21 @@
   {
     "id": "fri_027",
     "enunciado": "¿Qué regla inquebrantable de conducta tiene Joey Tribbiani cuando comparte una comida con una cita o un amigo?",
-    "opciones": ["Siempre exige comer primero", "Nunca come vegetales crudos", "\"¡Joey no comparte la comida!\" (\"Joey doesn't share food!\")", "Solo come si hay pizza de dos pisos"],
+    "opciones": [
+      "Siempre exige comer primero",
+      "Nunca come vegetales crudos",
+      "\"¡Joey no comparte la comida!\" (\"Joey doesn't share food!\")",
+      "Solo come si hay pizza de dos pisos"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Joey no tolera que nadie tome ni una sola papa frita de su plato, proclamando con orgullo que Joey no comparte comida.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_joey_food",
     "activa": true,
     "aptaFamilia": true,
@@ -380,11 +650,21 @@
   {
     "id": "fri_028",
     "enunciado": "¿Qué prenda de vestir le causa a Ross una pesadilla cómica al quedarse pegada a sus piernas por el sudor en el baño de su cita?",
-    "opciones": ["Una camisa de seda brillante", "Unos zapatos de bowling apretados", "Un chaleco de lana tejido", "Unos pantalones de cuero negro muy ajustados"],
+    "opciones": [
+      "Una camisa de seda brillante",
+      "Unos zapatos de bowling apretados",
+      "Un chaleco de lana tejido",
+      "Unos pantalones de cuero negro muy ajustados"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Ross intentó despegárselos con loción y talco, formando una pasta que le impidió volver a subírselos.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_leather_pants",
     "activa": true,
     "aptaFamilia": true,
@@ -394,11 +674,21 @@
   {
     "id": "fri_029",
     "enunciado": "¿A qué país de Medio Oriente finge mudarse Chandler para poder cortar definitivamente con Janice sin tener que decírselo en persona?",
-    "opciones": ["Yemen", "Omán", "Egipto", "Jordania"],
+    "opciones": [
+      "Yemen",
+      "Omán",
+      "Egipto",
+      "Jordania"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Chandler terminó comprando un pasaje de avión real a Yemen (calle Yemen número 15) porque Janice lo acompañó hasta la mismísima puerta de embarque.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_yemen",
     "activa": true,
     "aptaFamilia": true,
@@ -408,11 +698,21 @@
   {
     "id": "fri_030",
     "enunciado": "¿Cómo se llama el científico novio de Phoebe (interpretado por Hank Azaria) que debió mudarse a Minsk por una investigación?",
-    "opciones": ["Roger", "David", "Gary", "Duncan"],
+    "opciones": [
+      "Roger",
+      "David",
+      "Gary",
+      "Duncan"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "David \"el chico científico\" era el gran amor intermitente de Phoebe antes de que ella conociera a Mike.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_david_scientist",
     "activa": true,
     "aptaFamilia": true,
@@ -422,11 +722,21 @@
   {
     "id": "fri_031",
     "enunciado": "¿En qué icónica tienda por departamentos de lujo de Nueva York trabaja Rachel como compradora asistente antes de Ralph Lauren?",
-    "opciones": ["Macy's", "Barneys New York", "Bloomingdale's", "Saks Fifth Avenue"],
+    "opciones": [
+      "Macy's",
+      "Barneys New York",
+      "Bloomingdale's",
+      "Saks Fifth Avenue"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Rachel consiguió el puesto en Bloomingdale's gracias a Mark Robinson, lo que disparó los primeros celos enfermizos de Ross.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_bloomingdales",
     "activa": true,
     "aptaFamilia": true,
@@ -436,11 +746,21 @@
   {
     "id": "fri_032",
     "enunciado": "¿Qué extravagante nombre legal adopta Phoebe al descubrir que puede cambiarse el nombre libremente tras casarse con Mike?",
-    "opciones": ["Regina Phalange Primera", "Lady Phoebe von Buffay", "Reina del Acordeón", "Princesa Consuela Banana Hammock"],
+    "opciones": [
+      "Regina Phalange Primera",
+      "Lady Phoebe von Buffay",
+      "Reina del Acordeón",
+      "Princesa Consuela Banana Hammock"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Al descubrir que \"banana hammock\" significaba slip de baño masculino (sunga), decidió quedarse como Phoebe Buffay-Hannigan.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_princesa_consuela",
     "activa": true,
     "aptaFamilia": true,
@@ -450,11 +770,21 @@
   {
     "id": "fri_033",
     "enunciado": "¿Qué singular objeto dorado enmarca la mirilla de la puerta principal violeta del apartamento de Monica?",
-    "opciones": ["El marco dorado de un espejo que se rompió por accidente", "Un portarretratos traído de Grecia", "Una moldura de reloj de pared antiguo", "Un adorno navideño pintado a mano"],
+    "opciones": [
+      "El marco dorado de un espejo que se rompió por accidente",
+      "Un portarretratos traído de Grecia",
+      "Una moldura de reloj de pared antiguo",
+      "Un adorno navideño pintado a mano"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Originalmente era un espejo con marco, pero un integrante del equipo de escenografía rompió el cristal y decidieron colgar solo el marco dorado sobre la mirilla.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_yellow_frame",
     "activa": true,
     "aptaFamilia": true,
@@ -464,11 +794,21 @@
   {
     "id": "fri_034",
     "enunciado": "¿Cuál es el vergonzoso segundo nombre (middle name) de Chandler Bing que sus padres eligieron?",
-    "opciones": ["Francis", "Muriel", "Eustace", "Marion"],
+    "opciones": [
+      "Francis",
+      "Muriel",
+      "Eustace",
+      "Marion"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Chandler M. Bing reveló que su inicial M correspondía al nombre Muriel, una tradición familiar que intentaba mantener oculta a toda costa.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_middle_name",
     "activa": true,
     "aptaFamilia": true,
@@ -478,11 +818,21 @@
   {
     "id": "fri_035",
     "enunciado": "En el célebre juego de preguntas por los departamentos, ¿cómo se llamaba la abuela de Ross y Monica en cuyo departamento ellos vivían?",
-    "opciones": ["Gladys", "Sylvia", "Althea", "Gertrude"],
+    "opciones": [
+      "Gladys",
+      "Sylvia",
+      "Althea",
+      "Gertrude"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Monica y Ross vivían en el departamento heredado con renta congelada de su abuela Althea. Chandler respondió correctamente la pregunta en el juego.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_grandma_althea",
     "activa": true,
     "aptaFamilia": true,
@@ -492,11 +842,21 @@
   {
     "id": "fri_036",
     "enunciado": "¿Qué fobia o aversión irracional confiesa Chandler tener en la temporada 7, obligando a Monica a ocultar un cachorrito de Phoebe?",
-    "opciones": ["A las palomas", "A las ranas", "A los gatos sin pelo", "A los perros"],
+    "opciones": [
+      "A las palomas",
+      "A las ranas",
+      "A los gatos sin pelo",
+      "A los perros"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Chandler confesó que no odiaba a los perros por alergia, sino que les tenía un terror inexplicable porque no sabía qué estaban pensando.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_dogs",
     "activa": true,
     "aptaFamilia": true,
@@ -506,11 +866,21 @@
   {
     "id": "fri_037",
     "enunciado": "¿Qué estrella de cine de Hollywood apareció como el severo padre de Elizabeth (novia estudiante de Ross) tras perder una apuesta con Matthew Perry?",
-    "opciones": ["Bruce Willis", "Robin Williams", "Brad Pitt", "Sylvester Stallone"],
+    "opciones": [
+      "Bruce Willis",
+      "Robin Williams",
+      "Brad Pitt",
+      "Sylvester Stallone"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Bruce Willis actuó como Paul Stevens y donó su sueldo a organizaciones benéficas tras perder una apuesta con Perry sobre el éxito de \"The Whole Nine Yards\". Ganó un Emmy por su papel.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_bruce_willis",
     "activa": true,
     "aptaFamilia": true,
@@ -520,11 +890,21 @@
   {
     "id": "fri_038",
     "enunciado": "¿Cuántas páginas por ambos lados tenía la carta que Rachel le entregó a Ross en la casa de la playa de Montauk?",
-    "opciones": ["12 páginas", "18 páginas (¡por ambos lados!)", "24 páginas", "8 páginas"],
+    "opciones": [
+      "12 páginas",
+      "18 páginas (¡por ambos lados!)",
+      "24 páginas",
+      "8 páginas"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Rachel le exigió a Ross que leyera su carta de 18 páginas por ambos lados. Ross se quedó dormido en la madrugada y fingió haberla leído.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_18_pages",
     "activa": true,
     "aptaFamilia": true,
@@ -534,11 +914,21 @@
   {
     "id": "fri_039",
     "enunciado": "¿Qué excéntrico magnate de la tecnología (interpretado por Jon Favreau) fue novio de Monica y se obsesionó con ser campeón de la UFC?",
-    "opciones": ["Alan", "Chip Matthews", "Pete Becker", "Richard Crosby"],
+    "opciones": [
+      "Alan",
+      "Chip Matthews",
+      "Pete Becker",
+      "Richard Crosby"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Pete Becker era un multimillonario del software que compró a Monica un restaurante, pero cuya obsesión por ser \"Ultimate Fighting Champion\" le provocaba palizas constantes.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_pete_becker",
     "activa": true,
     "aptaFamilia": true,
@@ -548,11 +938,21 @@
   {
     "id": "fri_040",
     "enunciado": "¿Cómo se llama la madre biológica de Phoebe Buffay que vivía en Montauk, interpretada por Teri Garr?",
-    "opciones": ["Lily Buffay", "Frances Buffay", "Ursula May", "Phoebe Abbott"],
+    "opciones": [
+      "Lily Buffay",
+      "Frances Buffay",
+      "Ursula May",
+      "Phoebe Abbott"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Phoebe descubrió en la playa que Phoebe Abbott era en realidad su verdadera madre biológica, y no solo una amiga de la familia.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_phoebe_abbott",
     "activa": true,
     "aptaFamilia": true,
@@ -562,11 +962,21 @@
   {
     "id": "fri_041",
     "enunciado": "En el episodio de Acción de Gracias de la temporada 8, ¿cómo se llamaba el club anti-Rachel fundado por Ross y su amigo Will Colbert (Brad Pitt)?",
-    "opciones": ["\"I Hate Rachel Green Club\" (El Club Odio a Rachel Green)", "\"Anti-Rachel League\"", "\"The High School Avengers\"", "\"Club de los Rechazados de Lincoln\""],
+    "opciones": [
+      "\"I Hate Rachel Green Club\" (El Club Odio a Rachel Green)",
+      "\"Anti-Rachel League\"",
+      "\"The High School Avengers\"",
+      "\"Club de los Rechazados de Lincoln\""
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Will Colbert (Brad Pitt) y Ross crearon el club en la secundaria e inventaron el falso rumor de que Rachel tenía hermafroditismo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_i_hate_rachel_club",
     "activa": true,
     "aptaFamilia": true,
@@ -576,11 +986,21 @@
   {
     "id": "fri_042",
     "enunciado": "¿Qué elemento culinario secreto de Monica en el sándwich de sobras de Acción de Gracias de Ross lo volvía tan irresistible para él?",
-    "opciones": ["Un toque de mostaza con miel casera", "Una rebanada de pan extra en el medio empapada en salsa (el \"Moist Maker\")", "Queso brie gratinado con trufas", "Cebollas caramelizadas con vino tinto"],
+    "opciones": [
+      "Un toque de mostaza con miel casera",
+      "Una rebanada de pan extra en el medio empapada en salsa (el \"Moist Maker\")",
+      "Queso brie gratinado con trufas",
+      "Cebollas caramelizadas con vino tinto"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Ross enloqueció y fue suspendido en su trabajo cuando un colega se comió su sándwich con el \"Moist Maker\" y tiró la mitad a la basura.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_moist_maker",
     "activa": true,
     "aptaFamilia": true,
@@ -590,11 +1010,21 @@
   {
     "id": "fri_043",
     "enunciado": "¿A qué exitosa profesión se dedicaba Nora Tyler Bing, la glamorosa madre de Chandler interpretada por Morgan Fairchild?",
-    "opciones": ["Actriz de ópera en Broadway", "Crítica gastronómica del New York Times", "Escritora superventas de novelas románticas eróticas", "Agente inmobiliaria de celebridades"],
+    "opciones": [
+      "Actriz de ópera en Broadway",
+      "Crítica gastronómica del New York Times",
+      "Escritora superventas de novelas románticas eróticas",
+      "Agente inmobiliaria de celebridades"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Nora Tyler Bing vendía millones de copias de sus novelas eróticas explícitas e incluso besó a Ross en un restaurante durante una cena.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_mother",
     "activa": true,
     "aptaFamilia": true,
@@ -604,11 +1034,21 @@
   {
     "id": "fri_044",
     "enunciado": "¿Cómo se llamaba el show drag burlesque de Las Vegas encabezado por el padre de Chandler, Charles Bing?",
-    "opciones": ["Fabulous Vegas Queens", "The Bing Extravaganza", "Glitz and Glamour", "Viva Las Gaygas"],
+    "opciones": [
+      "Fabulous Vegas Queens",
+      "The Bing Extravaganza",
+      "Glitz and Glamour",
+      "Viva Las Gaygas"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Chandler y Monica viajaron a Las Vegas para invitar a su padre a su boda, viéndolo actuar bajo el nombre artístico de Helena Handbasket en \"Viva Las Gaygas\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_viva_las_gaygas",
     "activa": true,
     "aptaFamilia": true,
@@ -618,11 +1058,21 @@
   {
     "id": "fri_045",
     "enunciado": "¿Cómo se llama la primera esposa de Ross, que lo dejó al descubrir su homosexualidad tras varios años de matrimonio?",
-    "opciones": ["Carol Willick", "Susan Bunch", "Emily Waltham", "Mona"],
+    "opciones": [
+      "Carol Willick",
+      "Susan Bunch",
+      "Emily Waltham",
+      "Mona"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Carol Willick (madre de Ben) se separó de Ross para formar una pareja con Susan Bunch, manteniendo una relación de coparentalidad con Ross.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_carol_willick",
     "activa": true,
     "aptaFamilia": true,
@@ -632,11 +1082,21 @@
   {
     "id": "fri_046",
     "enunciado": "¿Qué nombre le dio Phoebe a la escalofriante obra de arte tridimensional que incluía una muñeca tuerta saliendo de un marco?",
-    "opciones": ["Glynnis", "Gladys", "Helga", "Agnes"],
+    "opciones": [
+      "Glynnis",
+      "Gladys",
+      "Helga",
+      "Agnes"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Phoebe intentaba regalarle la terrorífica obra Gladys a Monica y Rachel, quienes se la pasaban en secreto para no tenerla en su casa.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_gladys",
     "activa": true,
     "aptaFamilia": true,
@@ -646,11 +1106,21 @@
   {
     "id": "fri_047",
     "enunciado": "¿Qué insólito disfraz inventa Ross para enseñarle a su hijo Ben la historia de Janucá al no encontrar un traje de Santa Claus?",
-    "opciones": ["El Castor Macabeo", "La Tortuga de la Tierra Santa", "El Armadillo Navideño (The Holiday Armadillo)", "El Koala de las Luces"],
+    "opciones": [
+      "El Castor Macabeo",
+      "La Tortuga de la Tierra Santa",
+      "El Armadillo Navideño (The Holiday Armadillo)",
+      "El Koala de las Luces"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Ross se presentó como el amigo de Santa Claus mitad texano y mitad judío: \"¡El Armadillo Navideño!\", para gran sorpresa de Ben y Chandler.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_holiday_armadillo",
     "activa": true,
     "aptaFamilia": true,
@@ -660,11 +1130,21 @@
   {
     "id": "fri_048",
     "enunciado": "¿Qué apodo deportivo tenía Monica cuando jugaba como arquera de hockey sobre césped en la secundaria debido a su peso?",
-    "opciones": ["\"The Brick Wall\"", "\"Moni the Crusher\"", "\"The Heavy Stopper\"", "\"Big Fat Goalie\" (La portera gorda)"],
+    "opciones": [
+      "\"The Brick Wall\"",
+      "\"Moni the Crusher\"",
+      "\"The Heavy Stopper\"",
+      "\"Big Fat Goalie\" (La portera gorda)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Monica recordó con nostalgia y gracia que su equipo la apodaba la arquera gorda porque cubría prácticamente todo el arco.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_big_fat_goalie",
     "activa": true,
     "aptaFamilia": true,
@@ -674,11 +1154,21 @@
   {
     "id": "fri_049",
     "enunciado": "¿Cuál de los seis protagonistas de Friends fue la única actriz que NUNCA recibió una nominación al premio Emmy por su papel en la serie?",
-    "opciones": ["Courteney Cox (Monica Geller)", "Lisa Kudrow (Phoebe Buffay)", "Jennifer Aniston (Rachel Green)", "Matt LeBlanc (Joey Tribbiani)"],
+    "opciones": [
+      "Courteney Cox (Monica Geller)",
+      "Lisa Kudrow (Phoebe Buffay)",
+      "Jennifer Aniston (Rachel Green)",
+      "Matt LeBlanc (Joey Tribbiani)"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Lisa Kudrow ganó un Emmy en 1998, Aniston en 2002, y Perry, LeBlanc y Schwimmer fueron nominados, siendo Courteney Cox la única excluida por la Academia.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_emmy_nominations",
     "activa": true,
     "aptaFamilia": true,
@@ -688,11 +1178,21 @@
   {
     "id": "fri_050",
     "enunciado": "¿Cómo bautizó Rachel al carísimo gato de raza esfinge sin pelaje que compró por 1.000 dólares creyendo que era pura elegancia?",
-    "opciones": ["Fluffy", "Mrs. Whiskerson", "Princess Sphynx", "Baldy"],
+    "opciones": [
+      "Fluffy",
+      "Mrs. Whiskerson",
+      "Princess Sphynx",
+      "Baldy"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "El gato bufaba agresivamente y Rachel terminó vendiéndoselo a Gunther por 1.500 dólares con la esperanza de que ella fuera a visitarlo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_mrs_whiskerson",
     "activa": true,
     "aptaFamilia": true,
@@ -702,11 +1202,21 @@
   {
     "id": "fri_051",
     "enunciado": "¿Cómo llamaban Joey y Chandler a la estatua de cerámica de perro blanco gigante que compró Joey con su primer gran cheque de telenovela?",
-    "opciones": ["Buster", "Caesar", "Pat the Dog", "Sparky"],
+    "opciones": [
+      "Buster",
+      "Caesar",
+      "Pat the Dog",
+      "Sparky"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Pat the Dog fue comprado en la juerga de compras de Joey, confiscado por deudas y luego recuperado por Ross para levantar el ánimo de Joey.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_pat_the_dog",
     "activa": true,
     "aptaFamilia": true,
@@ -716,11 +1226,21 @@
   {
     "id": "fri_052",
     "enunciado": "¿Cómo se llama el medio hermano de Phoebe, un joven excéntrico que adora quemar cosas y cuyos trillizos gesta Phoebe?",
-    "opciones": ["Roy Buffay", "Thomas Buffay", "Gary Buffay", "Frank Buffay Jr."],
+    "opciones": [
+      "Roy Buffay",
+      "Thomas Buffay",
+      "Gary Buffay",
+      "Frank Buffay Jr."
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Frank Jr. (interpretado por Giovanni Ribisi) se casó con su exprofesora Alice Knight y le pidió a Phoebe que fuera su madre sustituta para concebir a Frank Jr. Jr., Leslie y Chandler.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_frank_jr",
     "activa": true,
     "aptaFamilia": true,
@@ -730,11 +1250,21 @@
   {
     "id": "fri_053",
     "enunciado": "¿Qué explícita canción de rap noventero es la única que logra hacer reír y calmar a la bebé Emma cuando Ross y Rachel se la cantan?",
-    "opciones": ["\"Baby Got Back\" de Sir Mix-a-Lot", "\"Ice Ice Baby\" de Vanilla Ice", "\"U Can't Touch This\" de MC Hammer", "\"Rump Shaker\" de Wreckx-n-Effect"],
+    "opciones": [
+      "\"Baby Got Back\" de Sir Mix-a-Lot",
+      "\"Ice Ice Baby\" de Vanilla Ice",
+      "\"U Can't Touch This\" de MC Hammer",
+      "\"Rump Shaker\" de Wreckx-n-Effect"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Ross descubrió avergonzado que cantarle \"I like big butts and I cannot lie\" a Emma la hacía estallar de risa, y luego Rachel se sumó con entusiasmo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_baby_got_back",
     "activa": true,
     "aptaFamilia": true,
@@ -744,11 +1274,21 @@
   {
     "id": "fri_054",
     "enunciado": "En el episodio en que todos descubren el noviazgo de Monica y Chandler, ¿cuál es el enredado trabalenguas que formula Phoebe?",
-    "opciones": ["\"Si ellos saben que sabemos, sabrán que no sabemos nada\"", "\"Ellos no saben que nosotros sabemos que ellos saben que nosotros sabemos\"", "\"Nadie sabe nada pero todos sabemos que ellos saben\"", "\"Ellos saben que sabemos, pero fingiremos no saberlo\""],
+    "opciones": [
+      "\"Si ellos saben que sabemos, sabrán que no sabemos nada\"",
+      "\"Ellos no saben que nosotros sabemos que ellos saben que nosotros sabemos\"",
+      "\"Nadie sabe nada pero todos sabemos que ellos saben\"",
+      "\"Ellos saben que sabemos, pero fingiremos no saberlo\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La escalada de secretos y planes de contraespionaje entre Phoebe-Rachel y Monica-Chandler culminó con la memorable frase: \"They don't know that we know they know we know!\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_they_dont_know",
     "activa": true,
     "aptaFamilia": true,
@@ -758,11 +1298,21 @@
   {
     "id": "fri_055",
     "enunciado": "¿Cuántas zonas erógenas femeninas dibuja y numera Monica en un papel para enseñarle a Chandler cómo complacer a Kathy en la cama?",
-    "opciones": ["5 (cinco)", "9 (nueve)", "7 (siete)", "12 (doce)"],
+    "opciones": [
+      "5 (cinco)",
+      "9 (nueve)",
+      "7 (siete)",
+      "12 (doce)"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Monica dibuja el diagrama con 7 zonas numeradas y termina gritando eufórica: \"¡Siete! ¡Siete! ¡Siete!... ¡Siete!\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_seven_zones",
     "activa": true,
     "aptaFamilia": true,
@@ -772,11 +1322,21 @@
   {
     "id": "fri_056",
     "enunciado": "¿Cómo se llamaba la segunda tétrica muñeca artística que creó Phoebe para hacerle compañía a Gladys y regalársela a Rachel?",
-    "opciones": ["Beatrice", "Agnes", "Matilda", "Glynnis"],
+    "opciones": [
+      "Beatrice",
+      "Agnes",
+      "Matilda",
+      "Glynnis"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Cuando Rachel y Monica se peleaban por deshacerse de Gladys, Phoebe les reveló que tenía otra creación idéntica llamada Glynnis.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_glynnis",
     "activa": true,
     "aptaFamilia": true,
@@ -786,11 +1346,21 @@
   {
     "id": "fri_057",
     "enunciado": "¿Qué instrumento musical tradicional intenta aprender a tocar Ross en secreto para tocarlo en la boda de Monica y Chandler?",
-    "opciones": ["La gaita escocesa", "El acordeón alpino", "El sitar indio", "El banjo country"],
+    "opciones": [
+      "La gaita escocesa",
+      "El acordeón alpino",
+      "El sitar indio",
+      "El banjo country"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Ross quería homenajear las raíces escocesas de Chandler tocando la gaita, pero su interpretación de \"Celebration\" de Kool & the Gang desató las carcajadas de Phoebe y del elenco.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_ross_bagpipes",
     "activa": true,
     "aptaFamilia": true,
@@ -800,11 +1370,21 @@
   {
     "id": "fri_058",
     "enunciado": "¿A qué capital europea estaba a punto de mudarse Rachel para asumir un puesto en Louis Vuitton antes de bajarse del avión por amor a Ross?",
-    "opciones": ["Londres", "París", "Milán", "Madrid"],
+    "opciones": [
+      "Londres",
+      "París",
+      "Milán",
+      "Madrid"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Rachel tenía todo listo para mudarse a París con Emma, pero en el último momento decidió bajarse del avión (\"I got off the plane\") para quedarse con Ross.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_got_off_the_plane",
     "activa": true,
     "aptaFamilia": true,
@@ -814,11 +1394,21 @@
   {
     "id": "fri_059",
     "enunciado": "¿En qué ciudad transcurre la serie Friends?",
-    "opciones": ["Nueva York", "Chicago", "Los Ángeles", "Boston"],
+    "opciones": [
+      "Nueva York",
+      "Chicago",
+      "Los Ángeles",
+      "Boston"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Los amigos viven en Manhattan, aunque la serie se filmó casi entera en estudios de Burbank, California, con público en vivo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_ciudad",
     "activa": true,
     "aptaFamilia": true,
@@ -828,11 +1418,21 @@
   {
     "id": "fri_060",
     "enunciado": "¿Cuántas temporadas tuvo Friends?",
-    "opciones": ["8", "9", "10", "12"],
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Terminó en 2004, y el último capítulo lo vieron más de 52 millones de personas solo en Estados Unidos.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_temporadas",
     "activa": true,
     "aptaFamilia": true,
@@ -842,11 +1442,21 @@
   {
     "id": "fri_061",
     "enunciado": "¿En qué año se estrenó Friends?",
-    "opciones": ["1992", "1994", "1996", "1998"],
+    "opciones": [
+      "1992",
+      "1994",
+      "1996",
+      "1998"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Se estrenó en septiembre de 1994 en la cadena NBC y se convirtió en una de las comedias más vistas de la historia.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_estreno",
     "activa": true,
     "aptaFamilia": true,
@@ -856,11 +1466,21 @@
   {
     "id": "fri_062",
     "enunciado": "¿Qué actriz interpretó a Rachel Green?",
-    "opciones": ["Courteney Cox", "Lisa Kudrow", "Helen Hunt", "Jennifer Aniston"],
+    "opciones": [
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Helen Hunt",
+      "Jennifer Aniston"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Su corte de pelo, bautizado «The Rachel», fue furor en los años 90, aunque ella misma confesó que nunca le gustó.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_actriz_rachel",
     "activa": true,
     "aptaFamilia": true,
@@ -870,11 +1490,21 @@
   {
     "id": "fri_063",
     "enunciado": "¿Qué actriz interpretó a Monica Geller?",
-    "opciones": ["Jennifer Aniston", "Courteney Cox", "Lisa Kudrow", "Teri Hatcher"],
+    "opciones": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Teri Hatcher"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Antes de Friends ya era conocida por bailar con Bruce Springsteen en el video de «Dancing in the Dark», en 1984.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_emmy_nominations",
     "activa": true,
     "aptaFamilia": true,
@@ -884,11 +1514,21 @@
   {
     "id": "fri_064",
     "enunciado": "¿Qué actriz interpretó a Phoebe Buffay?",
-    "opciones": ["Lisa Kudrow", "Jennifer Aniston", "Courteney Cox", "Calista Flockhart"],
+    "opciones": [
+      "Lisa Kudrow",
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Calista Flockhart"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Ganó un Emmy por este papel en 1998. Además, interpretaba a Ursula, la gemela de Phoebe, en otra comedia de la época.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_phoebe_twin",
     "activa": true,
     "aptaFamilia": true,
@@ -898,11 +1538,21 @@
   {
     "id": "fri_065",
     "enunciado": "¿Qué actor interpretó a Joey Tribbiani?",
-    "opciones": ["David Schwimmer", "Matthew Perry", "Paul Rudd", "Matt LeBlanc"],
+    "opciones": [
+      "David Schwimmer",
+      "Matthew Perry",
+      "Paul Rudd",
+      "Matt LeBlanc"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Al terminar Friends protagonizó «Joey», una serie derivada sobre su personaje que duró solo dos temporadas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "joey_catchphrase",
     "activa": true,
     "aptaFamilia": true,
@@ -912,11 +1562,21 @@
   {
     "id": "fri_066",
     "enunciado": "¿Qué actor interpretó a Chandler Bing?",
-    "opciones": ["Matthew Perry", "Matt LeBlanc", "David Schwimmer", "Hank Azaria"],
+    "opciones": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Hank Azaria"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Aportaba muchas ideas para los chistes de Chandler, y su forma de remarcar las palabras al hablar se volvió el sello del personaje.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "matthew_perry",
     "activa": true,
     "aptaFamilia": true,
@@ -926,11 +1586,21 @@
   {
     "id": "fri_067",
     "enunciado": "¿Qué actor interpretó a Ross Geller?",
-    "opciones": ["Matthew Perry", "David Schwimmer", "Matt LeBlanc", "Tom Selleck"],
+    "opciones": [
+      "Matthew Perry",
+      "David Schwimmer",
+      "Matt LeBlanc",
+      "Tom Selleck"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Además de actuar, dirigió varios episodios de la serie. Fue el primer actor elegido: los creadores escribieron el papel pensando en él.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_actor_ross",
     "activa": true,
     "aptaFamilia": true,
@@ -940,11 +1610,21 @@
   {
     "id": "fri_068",
     "enunciado": "¿A qué se dedica Phoebe Buffay para ganarse la vida?",
-    "opciones": ["Es enfermera", "Es masajista", "Es peluquera", "Es camarera"],
+    "opciones": [
+      "Es enfermera",
+      "Es masajista",
+      "Es peluquera",
+      "Es camarera"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Además de hacer masajes, canta sus canciones con la guitarra en el Central Perk. De adolescente vivió en la calle.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_phoebe_masajista",
     "activa": true,
     "aptaFamilia": true,
@@ -954,11 +1634,21 @@
   {
     "id": "fri_069",
     "enunciado": "¿Cuál fue el primer trabajo de Rachel tras dejar a su novio plantado en el altar?",
-    "opciones": ["Vendedora de ropa", "Secretaria", "Niñera", "Camarera en el Central Perk"],
+    "opciones": [
+      "Vendedora de ropa",
+      "Secretaria",
+      "Niñera",
+      "Camarera en el Central Perk"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Era tan mala moza que se equivocaba con casi todos los pedidos. Aun así, fue su primer paso para independizarse de su padre.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_rachel_camarera",
     "activa": true,
     "aptaFamilia": true,
@@ -968,11 +1658,21 @@
   {
     "id": "fri_070",
     "enunciado": "¿Qué personaje de Friends es famoso por usar el sarcasmo para todo?",
-    "opciones": ["Chandler", "Joey", "Ross", "Phoebe"],
+    "opciones": [
+      "Chandler",
+      "Joey",
+      "Ross",
+      "Phoebe"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Él mismo admite que hace chistes cuando se pone nervioso. Su forma de remarcar las palabras al hablar se volvió su sello.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_sarcasmo",
     "activa": true,
     "aptaFamilia": true,
@@ -982,11 +1682,21 @@
   {
     "id": "fri_071",
     "enunciado": "¿Qué obsesión tiene Monica Geller?",
-    "opciones": ["El gimnasio", "El orden y la limpieza", "Las compras", "Los horóscopos"],
+    "opciones": [
+      "El gimnasio",
+      "El orden y la limpieza",
+      "Las compras",
+      "Los horóscopos"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Organiza hasta las toallas por categorías, y no soporta que nadie cambie de lugar ni un almohadón de su departamento.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_monica_limpieza",
     "activa": true,
     "aptaFamilia": true,
@@ -996,11 +1706,21 @@
   {
     "id": "fri_072",
     "enunciado": "Según Phoebe, ¿qué animal es Rachel para Ross, porque se emparejan de por vida?",
-    "opciones": ["Su langosta", "Su cisne", "Su pingüino", "Su paloma"],
+    "opciones": [
+      "Su langosta",
+      "Su cisne",
+      "Su pingüino",
+      "Su paloma"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Phoebe asegura que las langostas viejas caminan por el fondo del mar tomadas de las pinzas. La frase se volvió un símbolo del amor en la serie.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_langosta",
     "activa": true,
     "aptaFamilia": true,
@@ -1010,11 +1730,21 @@
   {
     "id": "fri_073",
     "enunciado": "¿En qué ciudad se casan borrachos Ross y Rachel al final de la quinta temporada?",
-    "opciones": ["Atlantic City", "Reno", "Miami", "Las Vegas"],
+    "opciones": [
+      "Atlantic City",
+      "Reno",
+      "Miami",
+      "Las Vegas"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Al día siguiente no recordaban casi nada. Ross, avergonzado por sumar otro divorcio, tardó en animarse a tramitar la anulación.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_boda_vegas",
     "activa": true,
     "aptaFamilia": true,
@@ -1024,11 +1754,21 @@
   {
     "id": "fri_074",
     "enunciado": "¿Cómo se llama el hijo de Ross y su primera esposa, Carol?",
-    "opciones": ["Ben", "Jack", "Frank", "Richard"],
+    "opciones": [
+      "Ben",
+      "Jack",
+      "Frank",
+      "Richard"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Nació en la primera temporada, y Carol lo cría junto a su pareja, Susan, con la que Ross tiene una relación muy tensa.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_holiday_armadillo",
     "activa": true,
     "aptaFamilia": true,
@@ -1038,11 +1778,21 @@
   {
     "id": "fri_075",
     "enunciado": "¿Con qué amigo del grupo tuvo Rachel un romance en las últimas temporadas?",
-    "opciones": ["Chandler", "Joey", "Gunther", "Mike"],
+    "opciones": [
+      "Chandler",
+      "Joey",
+      "Gunther",
+      "Mike"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Su romance generó muchas situaciones incómodas con Ross, que intentaba fingir a toda costa que no le molestaba para nada.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_rachel_joey",
     "activa": true,
     "aptaFamilia": true,
@@ -1052,11 +1802,21 @@
   {
     "id": "fri_076",
     "enunciado": "¿Qué dejan los seis amigos sobre la mesada en la escena final de la serie?",
-    "opciones": ["Sus tazas de café", "Sus llaves", "Una carta", "Una foto grupal"],
+    "opciones": [
+      "Sus tazas de café",
+      "Sus llaves",
+      "Una carta",
+      "Una foto grupal"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Dejan las llaves del departamento de Monica y salen juntos a tomar un último café, cerrando diez años de historia.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_final_llaves",
     "activa": true,
     "aptaFamilia": true,
@@ -1066,11 +1826,21 @@
   {
     "id": "fri_077",
     "enunciado": "¿Qué vicio intenta dejar Chandler una y otra vez a lo largo de la serie?",
-    "opciones": ["El café", "Las apuestas", "Los videojuegos", "El cigarrillo"],
+    "opciones": [
+      "El café",
+      "Las apuestas",
+      "Los videojuegos",
+      "El cigarrillo"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Lo deja y vuelve a fumar varias veces a lo largo de la serie, y sus amigos siempre lo presionan para que abandone el cigarrillo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_fuma",
     "activa": true,
     "aptaFamilia": true,
@@ -1080,11 +1850,21 @@
   {
     "id": "fri_078",
     "enunciado": "¿De qué color son las paredes del departamento de Monica?",
-    "opciones": ["Violeta", "Amarillo", "Verde", "Celeste"],
+    "opciones": [
+      "Violeta",
+      "Amarillo",
+      "Verde",
+      "Celeste"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "En la vida real sería carísimo, pero en la serie se explica que era de la abuela de Monica y ella lo alquila a un precio congelado.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_yellow_frame",
     "activa": true,
     "aptaFamilia": true,
@@ -1094,11 +1874,21 @@
   {
     "id": "fri_079",
     "enunciado": "¿Cuántos protagonistas tiene Friends?",
-    "opciones": ["4", "5", "6", "7"],
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Tres mujeres y tres hombres: Rachel, Monica, Phoebe, Ross, Chandler y Joey. En las últimas temporadas cobraban lo mismo cada uno.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_protagonistas",
     "activa": true,
     "aptaFamilia": true,
@@ -1108,11 +1898,21 @@
   {
     "id": "fri_080",
     "enunciado": "¿Con quién comparte departamento Joey durante gran parte de la serie?",
-    "opciones": ["Con Ross", "Con Gunther", "Con Chandler", "Con Mike"],
+    "opciones": [
+      "Con Ross",
+      "Con Gunther",
+      "Con Chandler",
+      "Con Mike"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Se volvieron inseparables, y cuando Chandler se mudó con Monica, a Joey le costó muchísimo quedarse solo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_joey_chandler_depto",
     "activa": true,
     "aptaFamilia": true,
@@ -1122,11 +1922,21 @@
   {
     "id": "fri_081",
     "enunciado": "¿Qué muebles tienen Joey y Chandler frente al televisor?",
-    "opciones": ["Un sofá cama", "Dos pufs", "Una hamaca", "Dos sillones reclinables"],
+    "opciones": [
+      "Un sofá cama",
+      "Dos pufs",
+      "Una hamaca",
+      "Dos sillones reclinables"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Los compraron con el primer gran cheque de Joey, y pasaban horas recostados en ellos mirando televisión.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_reclinables",
     "activa": true,
     "aptaFamilia": true,
@@ -1136,11 +1946,21 @@
   {
     "id": "fri_082",
     "enunciado": "¿Qué serie de playa miran fanáticos Joey y Chandler todas las semanas?",
-    "opciones": ["Guardianes de la bahía", "Beverly Hills 90210", "Melrose Place", "Salvados por la campana"],
+    "opciones": [
+      "Guardianes de la bahía",
+      "Beverly Hills 90210",
+      "Melrose Place",
+      "Salvados por la campana"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El programa, conocido en inglés como «Baywatch», era un ritual sagrado para los dos, que no se lo perdían por nada.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_baywatch",
     "activa": true,
     "aptaFamilia": true,
@@ -1150,11 +1970,21 @@
   {
     "id": "fri_083",
     "enunciado": "¿Cómo apodan los amigos al vecino de enfrente que siempre está desnudo?",
-    "opciones": ["El exhibicionista", "El tipo desnudo feo", "El vecino loco", "El señor de enfrente"],
+    "opciones": [
+      "El exhibicionista",
+      "El tipo desnudo feo",
+      "El vecino loco",
+      "El señor de enfrente"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Nunca se le ve la cara. En la temporada 5, Ross hasta intenta alquilar su departamento cuando él se muda.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_vecino_desnudo",
     "activa": true,
     "aptaFamilia": true,
@@ -1164,11 +1994,21 @@
   {
     "id": "fri_084",
     "enunciado": "¿De qué color es el famoso sillón del Central Perk?",
-    "opciones": ["Rojo", "Verde", "Naranja", "Marrón"],
+    "opciones": [
+      "Rojo",
+      "Verde",
+      "Naranja",
+      "Marrón"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "En el café casi siempre estaba libre para los protagonistas, algo que muchos fans señalaron como el gran misterio de la serie.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_sillon_naranja",
     "activa": true,
     "aptaFamilia": true,
@@ -1178,11 +2018,21 @@
   {
     "id": "fri_085",
     "enunciado": "¿Cuál es el apellido de Joey?",
-    "opciones": ["Geller", "Bing", "Green", "Tribbiani"],
+    "opciones": [
+      "Geller",
+      "Bing",
+      "Green",
+      "Tribbiani"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Viene de una gran familia italoestadounidense de Queens, y es el único varón entre sus muchos hermanos.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "joey_catchphrase",
     "activa": true,
     "aptaFamilia": true,
@@ -1192,11 +2042,21 @@
   {
     "id": "fri_086",
     "enunciado": "¿Cuántos hijos tiene Ross al final de la serie?",
-    "opciones": ["1", "2", "3", "4"],
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Tiene un hijo con su primera esposa y una hija con Rachel. Cada uno nació en una etapa muy distinta de su vida.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_hijos_ross",
     "activa": true,
     "aptaFamilia": true,
@@ -1206,11 +2066,21 @@
   {
     "id": "fri_087",
     "enunciado": "¿A qué rubro se pasa Chandler cuando cambia de carrera en la temporada 9?",
-    "opciones": ["La cocina", "La publicidad", "La docencia", "El periodismo"],
+    "opciones": [
+      "La cocina",
+      "La publicidad",
+      "La docencia",
+      "El periodismo"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Dejó un trabajo que odiaba y empezó de cero como pasante, a pesar de tener muchos más años que sus compañeros.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_publicidad",
     "activa": true,
     "aptaFamilia": true,
@@ -1220,11 +2090,21 @@
   {
     "id": "fri_088",
     "enunciado": "¿Cómo se llama el novio al que Rachel deja plantado en el altar en el primer capítulo?",
-    "opciones": ["Paolo", "Tag", "Barry", "Joshua"],
+    "opciones": [
+      "Paolo",
+      "Tag",
+      "Barry",
+      "Joshua"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Era ortodoncista, y al final terminó casándose con Mindy, la mejor amiga de Rachel desde la escuela, que había sido su dama de honor.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_barry",
     "activa": true,
     "aptaFamilia": true,
@@ -1234,11 +2114,21 @@
   {
     "id": "fri_089",
     "enunciado": "¿Cómo se llaman los mellizos que adoptan Monica y Chandler?",
-    "opciones": ["Ben y Emma", "Frank y Alice", "Joey y Rachel", "Jack y Erica"],
+    "opciones": [
+      "Ben y Emma",
+      "Frank y Alice",
+      "Joey y Rachel",
+      "Jack y Erica"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Esperaban un solo bebé, pero en el parto descubrieron que eran dos. La nena lleva el nombre de su madre biológica.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_mellizos",
     "activa": true,
     "aptaFamilia": true,
@@ -1248,11 +2138,21 @@
   {
     "id": "fri_090",
     "enunciado": "¿En qué ciudad empezó la relación secreta entre Monica y Chandler?",
-    "opciones": ["Londres", "París", "Las Vegas", "Montauk"],
+    "opciones": [
+      "Londres",
+      "París",
+      "Las Vegas",
+      "Montauk"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Pasó durante un viaje del grupo por un casamiento. Lo mantuvieron en secreto durante meses, hasta que los amigos los descubrieron.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_london_wedding",
     "activa": true,
     "aptaFamilia": true,
@@ -1262,11 +2162,21 @@
   {
     "id": "fri_091",
     "enunciado": "¿Cómo empiezan en inglés los títulos de casi todos los episodios de Friends?",
-    "opciones": ["«Friends and...»", "«The One...»", "«Episode of...»", "«When the...»"],
+    "opciones": [
+      "«Friends and...»",
+      "«The One...»",
+      "«Episode of...»",
+      "«When the...»"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La idea era que se nombraran como lo hacen los fans en la vida real: «el del pavo», «el de la boda»...",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_titulos",
     "activa": true,
     "aptaFamilia": true,
@@ -1276,11 +2186,21 @@
   {
     "id": "fri_092",
     "enunciado": "¿Qué se pone Monica en la cabeza para hacer reír a Chandler en un Día de Acción de Gracias?",
-    "opciones": ["Una calabaza", "Una fuente", "Un pavo", "Un gorro de peregrino"],
+    "opciones": [
+      "Una calabaza",
+      "Una fuente",
+      "Un pavo",
+      "Un gorro de peregrino"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Además le sumó unos anteojos de sol y un fez. En esa escena, Chandler le dice «te amo» por primera vez.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_pavo_cabeza",
     "activa": true,
     "aptaFamilia": true,
@@ -1290,11 +2210,21 @@
   {
     "id": "fri_093",
     "enunciado": "¿Qué concepto de karate le explica Ross a Rachel y Phoebe, basado en un tipo de sushi?",
-    "opciones": ["Sashimi", "Nigiri", "Wasabi", "Unagi"],
+    "opciones": [
+      "Sashimi",
+      "Nigiri",
+      "Wasabi",
+      "Unagi"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Ross dice que es un estado de alerta total, pero en realidad unagi es la palabra japonesa para la anguila.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_unagi",
     "activa": true,
     "aptaFamilia": true,
@@ -1304,11 +2234,21 @@
   {
     "id": "fri_094",
     "enunciado": "¿Qué se hace Ross antes de una cita, que lo deja con los dientes fosforescentes?",
-    "opciones": ["Un blanqueamiento", "Unas carillas", "Una limpieza", "Un tatuaje"],
+    "opciones": [
+      "Un blanqueamiento",
+      "Unas carillas",
+      "Una limpieza",
+      "Un tatuaje"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Se excedió con el producto, y bajo la luz negra de la casa de su cita sus dientes brillaban como un cartel de neón.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_dientes_ross",
     "activa": true,
     "aptaFamilia": true,
@@ -1318,11 +2258,21 @@
   {
     "id": "fri_095",
     "enunciado": "¿Qué tratamiento estético le sale mal a Ross, que termina bronceado solo de frente?",
-    "opciones": ["Una limpieza facial", "Un bronceado en cabina", "Una depilación", "Un peeling"],
+    "opciones": [
+      "Una limpieza facial",
+      "Un bronceado en cabina",
+      "Una depilación",
+      "Un peeling"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "No entendió cuándo darse vuelta en la cabina de bronceado en aerosol y volvió a meterse varias veces, empeorando todo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_bronceado_ross",
     "activa": true,
     "aptaFamilia": true,
@@ -1332,11 +2282,21 @@
   {
     "id": "fri_096",
     "enunciado": "¿Qué idioma intenta aprender Joey para una audición, sin lograr decir nada coherente?",
-    "opciones": ["Italiano", "Alemán", "Francés", "Japonés"],
+    "opciones": [
+      "Italiano",
+      "Alemán",
+      "Francés",
+      "Japonés"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Phoebe intenta enseñarle con toda la paciencia del mundo, pero Joey solo logra decir sonidos que no significan nada.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_joey_frances",
     "activa": true,
     "aptaFamilia": true,
@@ -1346,11 +2306,21 @@
   {
     "id": "fri_097",
     "enunciado": "¿Por qué Chandler odia el Día de Acción de Gracias?",
-    "opciones": ["Es alérgico al pavo", "Lo despidieron ese día", "Se rompió una pierna", "Sus padres le anunciaron su divorcio ese día"],
+    "opciones": [
+      "Es alérgico al pavo",
+      "Lo despidieron ese día",
+      "Se rompió una pierna",
+      "Sus padres le anunciaron su divorcio ese día"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Tenía nueve años cuando, en plena cena de Acción de Gracias, sus padres le contaron que se iban a separar.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_accion_gracias",
     "activa": true,
     "aptaFamilia": true,
@@ -1360,11 +2330,21 @@
   {
     "id": "fri_098",
     "enunciado": "¿Qué descubre Chandler detrás de una puerta cerrada del departamento de Monica?",
-    "opciones": ["Un armario lleno de desorden", "Un gato escondido", "Fotos de su ex", "Una caja fuerte"],
+    "opciones": [
+      "Un armario lleno de desorden",
+      "Un gato escondido",
+      "Fotos de su ex",
+      "Una caja fuerte"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La obsesiva por el orden tenía un rincón secreto donde metía todo lo que no quería que nadie viera. Chandler no lo podía creer.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_armario_secreto",
     "activa": true,
     "aptaFamilia": true,
@@ -1374,11 +2354,21 @@
   {
     "id": "fri_099",
     "enunciado": "¿Qué estrella de Hollywood interpretó a Susie, una excompañera de escuela que se venga de Chandler?",
-    "opciones": ["Sandra Bullock", "Julia Roberts", "Meg Ryan", "Winona Ryder"],
+    "opciones": [
+      "Sandra Bullock",
+      "Julia Roberts",
+      "Meg Ryan",
+      "Winona Ryder"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Chandler le había hecho una broma cruel de chicos. Ella se vengó dejándolo en ropa interior encerrado en el baño de un restaurante.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_julia_roberts",
     "activa": true,
     "aptaFamilia": true,
@@ -1388,11 +2378,21 @@
   {
     "id": "fri_100",
     "enunciado": "¿Qué actor interpretó al Dr. Richard Burke, el novio mayor de Monica?",
-    "opciones": ["Bruce Willis", "Alec Baldwin", "Tom Selleck", "Harrison Ford"],
+    "opciones": [
+      "Bruce Willis",
+      "Alec Baldwin",
+      "Tom Selleck",
+      "Harrison Ford"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Era famoso por la serie «Magnum», y su bigote es casi un personaje más en sus apariciones en Friends.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_richard_burke",
     "activa": true,
     "aptaFamilia": true,
@@ -1402,11 +2402,21 @@
   {
     "id": "fri_101",
     "enunciado": "¿Qué actor hizo de un stripper veterano en la despedida de soltera de Phoebe?",
-    "opciones": ["Jack Black", "Ben Stiller", "Danny Glover", "Danny DeVito"],
+    "opciones": [
+      "Jack Black",
+      "Ben Stiller",
+      "Danny Glover",
+      "Danny DeVito"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Su personaje, el «oficial Goodbody», llega tarde, con poco entusiasmo, y termina ofendido por los comentarios de las chicas.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_danny_devito",
     "activa": true,
     "aptaFamilia": true,
@@ -1416,11 +2426,21 @@
   {
     "id": "fri_102",
     "enunciado": "¿Cómo se llama el joven asistente del que se enamora Rachel en su trabajo?",
-    "opciones": ["Tag", "Joshua", "Paolo", "Mark"],
+    "opciones": [
+      "Tag",
+      "Joshua",
+      "Paolo",
+      "Mark"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Lo contrató solo porque le gustaba, aunque era pésimo en su trabajo. La relación terminó porque era mucho más inmaduro que ella.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_tag",
     "activa": true,
     "aptaFamilia": true,
@@ -1430,11 +2450,21 @@
   {
     "id": "fri_103",
     "enunciado": "¿Qué vehículo usa Phoebe, que heredó de su abuela?",
-    "opciones": ["Una moto", "Un taxi", "Una camioneta", "Una casa rodante"],
+    "opciones": [
+      "Una moto",
+      "Un taxi",
+      "Una camioneta",
+      "Una casa rodante"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Era el viejo taxi con el que trabajaba su abuela. En él lleva a los amigos a varias escapadas fuera de la ciudad.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_taxi_phoebe",
     "activa": true,
     "aptaFamilia": true,
@@ -1444,11 +2474,21 @@
   {
     "id": "fri_104",
     "enunciado": "¿En qué barrio de Manhattan viven los protagonistas de Friends?",
-    "opciones": ["Harlem", "Upper East Side", "Greenwich Village", "Brooklyn"],
+    "opciones": [
+      "Harlem",
+      "Upper East Side",
+      "Greenwich Village",
+      "Brooklyn"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El edificio de la fachada existe de verdad y se volvió un punto turístico obligado para los fans de la serie.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_barrio",
     "activa": true,
     "aptaFamilia": true,
@@ -1458,11 +2498,21 @@
   {
     "id": "fri_105",
     "enunciado": "¿Qué banda interpretó «I'll Be There for You», el tema de apertura de Friends?",
-    "opciones": ["Hootie & the Blowfish", "Counting Crows", "Barenaked Ladies", "The Rembrandts"],
+    "opciones": [
+      "Hootie & the Blowfish",
+      "Counting Crows",
+      "Barenaked Ladies",
+      "The Rembrandts"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "La famosa fuente donde bailan los amigos en la presentación no está en Nueva York: se filmó en un estudio de California.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_tema_apertura",
     "activa": true,
     "aptaFamilia": true,
@@ -1472,11 +2522,21 @@
   {
     "id": "fri_106",
     "enunciado": "¿Qué deporte juegan los amigos por la «Copa Geller» en un Día de Acción de Gracias?",
-    "opciones": ["Fútbol americano", "Básquet", "Béisbol", "Vóley"],
+    "opciones": [
+      "Fútbol americano",
+      "Básquet",
+      "Béisbol",
+      "Vóley"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El trofeo es un muñeco trol clavado a un trozo de madera, y Ross y Monica compiten por él desde la adolescencia.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_copa_geller",
     "activa": true,
     "aptaFamilia": true,
@@ -1486,11 +2546,21 @@
   {
     "id": "fri_107",
     "enunciado": "¿En qué año se emitió el especial de reencuentro del elenco de Friends?",
-    "opciones": ["2019", "2020", "2021", "2022"],
+    "opciones": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Los seis volvieron al set original para recordar anécdotas, junto a invitados famosos y fans de todo el mundo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_reencuentro",
     "activa": true,
     "aptaFamilia": true,
@@ -1500,11 +2570,21 @@
   {
     "id": "fri_108",
     "enunciado": "¿Cuánto cobraba cada protagonista por episodio en las últimas temporadas?",
-    "opciones": ["100.000 dólares", "500.000 dólares", "1 millón de dólares", "2 millones de dólares"],
+    "opciones": [
+      "100.000 dólares",
+      "500.000 dólares",
+      "1 millón de dólares",
+      "2 millones de dólares"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Negociaron siempre en bloque, los seis juntos, para cobrar exactamente lo mismo y evitar celos dentro del elenco.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_salario",
     "activa": true,
     "aptaFamilia": true,
@@ -1514,11 +2594,21 @@
   {
     "id": "fri_109",
     "enunciado": "¿En qué país hizo Joey un comercial de lápiz labial para hombres?",
-    "opciones": ["Italia", "Francia", "Corea del Sur", "Japón"],
+    "opciones": [
+      "Italia",
+      "Francia",
+      "Corea del Sur",
+      "Japón"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El producto se llamaba «Ichiban». Joey aceptó porque creía que nadie en Estados Unidos iba a ver el aviso.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_joey_japon",
     "activa": true,
     "aptaFamilia": true,
@@ -1528,11 +2618,21 @@
   {
     "id": "fri_110",
     "enunciado": "¿Dentro de qué objeto pasa Chandler un día entero para demostrarle a Joey que está arrepentido?",
-    "opciones": ["Una caja", "Un armario", "Una bañera", "Una carpa"],
+    "opciones": [
+      "Una caja",
+      "Un armario",
+      "Una bañera",
+      "Una carpa"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Había besado a la novia de Joey, Kathy. El castigo era pasar Acción de Gracias encerrado para pensar en lo que hizo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_chandler_caja",
     "activa": true,
     "aptaFamilia": true,
@@ -1542,11 +2642,21 @@
   {
     "id": "fri_111",
     "enunciado": "¿Qué muestra el video casero que hace que Rachel corra a besar a Ross?",
-    "opciones": ["Que Ross le escribió una canción", "Que Ross iba a llevarla a su baile de graduación", "Que Ross la salvó de un accidente", "Que Ross le compró un anillo"],
+    "opciones": [
+      "Que Ross le escribió una canción",
+      "Que Ross iba a llevarla a su baile de graduación",
+      "Que Ross la salvó de un accidente",
+      "Que Ross le compró un anillo"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Su cita se había demorado, y Ross, vestido de esmoquin, estaba listo para acompañarla. Ella nunca se había enterado.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_video_graduacion",
     "activa": true,
     "aptaFamilia": true,
@@ -1556,11 +2666,21 @@
   {
     "id": "fri_112",
     "enunciado": "¿Qué actriz interpretó a Amy, la hermana de Rachel, papel con el que ganó un Emmy?",
-    "opciones": ["Reese Witherspoon", "Alicia Silverstone", "Christina Applegate", "Sarah Jessica Parker"],
+    "opciones": [
+      "Reese Witherspoon",
+      "Alicia Silverstone",
+      "Christina Applegate",
+      "Sarah Jessica Parker"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Amy es egoísta y superficial, y en sus visitas se la pasa confundiendo los nombres de todos los amigos de su hermana.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_amy_applegate",
     "activa": true,
     "aptaFamilia": true,
@@ -1570,11 +2690,21 @@
   {
     "id": "fri_113",
     "enunciado": "¿Cómo se llama el seductor italiano con quien sale Rachel en la primera temporada?",
-    "opciones": ["Marco", "Luca", "Giorgio", "Paolo"],
+    "opciones": [
+      "Marco",
+      "Luca",
+      "Giorgio",
+      "Paolo"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Ross lo odiaba en silencio, y la relación terminó cuando Paolo intentó seducir a Phoebe durante un masaje.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_paolo",
     "activa": true,
     "aptaFamilia": true,
@@ -1584,11 +2714,21 @@
   {
     "id": "fri_114",
     "enunciado": "¿Qué postre robado del pasillo se comen a escondidas Rachel y Chandler?",
-    "opciones": ["Un cheesecake", "Un pastel de manzana", "Unos brownies", "Un flan"],
+    "opciones": [
+      "Un cheesecake",
+      "Un pastel de manzana",
+      "Unos brownies",
+      "Un flan"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Estaba destinado a una vecina, pero era tan rico que terminaron comiéndolo hasta del piso cuando se les cayó.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "friends_cheesecake",
     "activa": true,
     "aptaFamilia": true,
@@ -1598,11 +2738,20 @@
   {
     "id": "fri_115",
     "enunciado": "¿A qué zona se mudan Monica y Chandler con sus hijos al final de la serie?",
-    "opciones": ["Nueva Jersey", "Westchester", "Long Island", "Connecticut"],
+    "opciones": [
+      "Nueva Jersey",
+      "Westchester",
+      "Long Island",
+      "Connecticut"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Querían una casa con jardín para criar a sus mellizos, lejos del ruido de Manhattan. La mudanza precipitó el final del grupo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_mudanza_westchester",
     "activa": true,
     "aptaFamilia": false,
@@ -1612,11 +2761,20 @@
   {
     "id": "fri_116",
     "enunciado": "¿Cómo se llaman los trillizos que Phoebe gestó para su hermano y su esposa?",
-    "opciones": ["Frank, Alice y Joey", "Tom, Mary y Ross", "Frank Jr. Jr., Leslie y Chandler", "Ben, Emma y Jack"],
+    "opciones": [
+      "Frank, Alice y Joey",
+      "Tom, Mary y Ross",
+      "Frank Jr. Jr., Leslie y Chandler",
+      "Ben, Emma y Jack"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Uno de los nombres era un homenaje a Chandler, aunque al final resultó ser el de una niña. Phoebe les tomó mucho cariño.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_frank_jr",
     "activa": true,
     "aptaFamilia": false,
@@ -1626,11 +2784,20 @@
   {
     "id": "fri_117",
     "enunciado": "¿Cómo se llama el inquietante compañero de departamento que tuvo Chandler cuando Joey se mudó?",
-    "opciones": ["Gunther", "Paolo", "Mike", "Eddie"],
+    "opciones": [
+      "Gunther",
+      "Paolo",
+      "Mike",
+      "Eddie"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Era tan extraño que Chandler terminó sacándolo del departamento sin que él se diera cuenta, hasta que Joey volvió.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_eddie",
     "activa": true,
     "aptaFamilia": false,
@@ -1640,11 +2807,20 @@
   {
     "id": "fri_118",
     "enunciado": "¿Cuántas hermanas tiene Joey Tribbiani?",
-    "opciones": ["3", "5", "7", "9"],
+    "opciones": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Es el único varón de la familia. En un episodio, Chandler besa a una de ellas en una fiesta y no recuerda cuál era.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_hermanas_joey",
     "activa": true,
     "aptaFamilia": false,
@@ -1654,11 +2830,20 @@
   {
     "id": "fri_119",
     "enunciado": "¿Cómo llama Joey a su sillón reclinable favorito?",
-    "opciones": ["Carmen", "Rosita", "Lola", "Betty"],
+    "opciones": [
+      "Carmen",
+      "Rosita",
+      "Lola",
+      "Betty"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Lo quiere tanto que se enoja con Rachel cuando ella lo rompe. Para él, sentarse en otro lugar a mirar tele es imposible.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_rosita",
     "activa": true,
     "aptaFamilia": false,
@@ -1668,11 +2853,20 @@
   {
     "id": "fri_120",
     "enunciado": "¿Cómo se llamaba el informe semanal de Chandler, cuya sigla en inglés causaba risa?",
-    "opciones": ["DORKS", "BINGO", "WENUS", "SNORE"],
+    "opciones": [
+      "DORKS",
+      "BINGO",
+      "WENUS",
+      "SNORE"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Era el resumen de sus datos de trabajo, algo tan aburrido que ninguno de sus amigos sabía bien a qué se dedicaba.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_wenus",
     "activa": true,
     "aptaFamilia": false,
@@ -1682,11 +2876,20 @@
   {
     "id": "fri_121",
     "enunciado": "¿Qué actriz queda en la lista de famosas permitidas de Ross, por culpa de un consejo de Chandler?",
-    "opciones": ["Winona Ryder", "Uma Thurman", "Michelle Pfeiffer", "Isabella Rossellini"],
+    "opciones": [
+      "Winona Ryder",
+      "Uma Thurman",
+      "Michelle Pfeiffer",
+      "Isabella Rossellini"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Chandler lo convenció de quitarla porque era «internacional». Justo después, ella entró al Central Perk y Ross quiso aprovechar la chance.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_lista_ross",
     "activa": true,
     "aptaFamilia": false,
@@ -1696,11 +2899,20 @@
   {
     "id": "fri_122",
     "enunciado": "¿Qué actriz interpretó a Jill, la hermana menor de Rachel?",
-    "opciones": ["Reese Witherspoon", "Christina Applegate", "Kirsten Dunst", "Drew Barrymore"],
+    "opciones": [
+      "Reese Witherspoon",
+      "Christina Applegate",
+      "Kirsten Dunst",
+      "Drew Barrymore"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "En su visita sale con Ross solo para molestar a Rachel, y las dos hermanas terminan peleadas por culpa de él.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_jill_witherspoon",
     "activa": true,
     "aptaFamilia": false,
@@ -1710,11 +2922,20 @@
   {
     "id": "fri_123",
     "enunciado": "¿Qué número tiene el departamento de Monica?",
-    "opciones": ["5", "19", "20", "22"],
+    "opciones": [
+      "5",
+      "19",
+      "20",
+      "22"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "En los primeros capítulos era el 5, pero lo cambiaron porque parecía estar en un piso demasiado bajo del edificio.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_numero_depto",
     "activa": true,
     "aptaFamilia": false,
@@ -1724,11 +2945,20 @@
   {
     "id": "fri_124",
     "enunciado": "¿Quiénes crearon la serie Friends?",
-    "opciones": ["Chuck Lorre y Bill Prady", "Larry David y Jerry Seinfeld", "Marta Kauffman y David Crane", "Darren Star y Michael Patrick King"],
+    "opciones": [
+      "Chuck Lorre y Bill Prady",
+      "Larry David y Jerry Seinfeld",
+      "Marta Kauffman y David Crane",
+      "Darren Star y Michael Patrick King"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Se inspiraron en su propia juventud en Nueva York, cuando eran veinteañeros con amigos que eran casi una familia.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_creadores",
     "activa": true,
     "aptaFamilia": false,
@@ -1738,11 +2968,20 @@
   {
     "id": "fri_125",
     "enunciado": "¿De qué se disfraza Ross en la fiesta de Halloween, mezclando una papa y un satélite?",
-    "opciones": ["De Papanauta", "De Potatrón", "De Satelipapa", "De Spudnik"],
+    "opciones": [
+      "De Papanauta",
+      "De Potatrón",
+      "De Satelipapa",
+      "De Spudnik"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Nadie entiende su disfraz, y todos creen que va vestido de algo muy distinto. Ross se pasa la fiesta explicándolo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_spudnik",
     "activa": true,
     "aptaFamilia": false,
@@ -1752,11 +2991,20 @@
   {
     "id": "fri_126",
     "enunciado": "¿Qué comida prepara Ross en la incómoda cena con Rachel y Joey, cuando insiste en que «está bien»?",
-    "opciones": ["Fajitas", "Pizza", "Lasaña", "Tacos"],
+    "opciones": [
+      "Fajitas",
+      "Pizza",
+      "Lasaña",
+      "Tacos"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Tomó demasiado vino y gritaba una y otra vez que estaba todo bien, cuando era evidente que no lo estaba.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_fajitas",
     "activa": true,
     "aptaFamilia": false,
@@ -1766,11 +3014,20 @@
   {
     "id": "fri_127",
     "enunciado": "¿Qué apodo tenía el novio de Monica que era muy divertido, pero solo cuando bebía?",
-    "opciones": ["Crazy Pete", "Fun Bobby", "Party Mike", "Happy Tim"],
+    "opciones": [
+      "Crazy Pete",
+      "Fun Bobby",
+      "Party Mike",
+      "Happy Tim"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Cuando Monica le pidió que dejara la bebida, Bobby se volvió aburridísimo, y ella descubrió que ya no le gustaba.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_fun_bobby",
     "activa": true,
     "aptaFamilia": false,
@@ -1780,15 +3037,264 @@
   {
     "id": "fri_128",
     "enunciado": "¿Cómo se llamaba la serie en la que Joey actuaba junto a un robot?",
-    "opciones": ["Robo-Joey", "Detective Metal", "Mac y C.H.E.E.S.E.", "El compañero de acero"],
+    "opciones": [
+      "Robo-Joey",
+      "Detective Metal",
+      "Mac y C.H.E.E.S.E.",
+      "El compañero de acero"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "C.H.E.E.S.E. era una sigla en inglés, y el papel le dio a Joey uno de los pocos protagónicos de su carrera en la serie.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "friends_mac_cheese",
     "activa": true,
     "aptaFamilia": false,
     "revision": 1,
     "fechaActualizacion": "2026-09-26"
+  },
+  {
+    "id": "fri_129",
+    "enunciado": "¿Cómo se llama la agente que consigue audiciones para Joey?",
+    "opciones": [
+      "Estelle Leonard",
+      "Nora Bing",
+      "Sandra Green",
+      "Judy Geller"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Estelle representa a Joey durante años y le consigue castings mientras fuma sin pausa; su relación profesional es peculiar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "joey_agente_estelle",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_130",
+    "enunciado": "¿En qué universidad enseña Ross paleontología en Friends?",
+    "opciones": [
+      "Universidad de Columbia",
+      "Universidad de Nueva York",
+      "Universidad de Boston",
+      "Universidad de Yale"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ross deja el museo para dar clases en la NYU; su primera conferencia lo pone tan nervioso que adopta un acento británico.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ross_profesor_nyu",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_131",
+    "enunciado": "¿Qué instrumento suele tocar Phoebe mientras canta en el Central Perk?",
+    "opciones": [
+      "Ukelele",
+      "Teclado",
+      "Guitarra",
+      "Arpa"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las canciones originales de Phoebe suelen ser tan extrañas como pegadizas; su actuación en el café es una tradición del grupo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "phoebe_instrumento_cafe",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_132",
+    "enunciado": "¿Cómo se llama la madre de Ross y Monica?",
+    "opciones": [
+      "Sandra Green",
+      "Nora Bing",
+      "Gloria Tribbiani",
+      "Judy Geller"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Judy suele elogiar a Ross y criticar a Monica, una dinámica familiar que la serie convierte en fuente de humor.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "geller_madre_judy",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_133",
+    "enunciado": "¿Qué marca estaba detrás de la receta de galletas de la abuela de Phoebe?",
+    "opciones": [
+      "Nestlé Toll House",
+      "Pepperidge Farm",
+      "Mrs. Fields",
+      "Famous Amos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Monica intenta reproducir una receta familiar perdida y descubre que el secreto estaba impreso en una bolsa de chispas de chocolate.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "phoebe_receta_toll_house",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_134",
+    "enunciado": "¿Cómo se llama la bailarina que vive con Joey y provoca tensiones con Chandler?",
+    "opciones": [
+      "Kathy",
+      "Janine Lecroix",
+      "Erin",
+      "Angela Delvecchio"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Janine comparte el departamento con Joey y luego sale con él; sus antipatías hacia Monica y Chandler complican la convivencia.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "joey_companera_janine",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_135",
+    "enunciado": "¿Cómo se llama el padre de Ross y Monica Geller?",
+    "opciones": [
+      "Leonard Green",
+      "Frank Buffay",
+      "Jack Geller",
+      "Charles Bing"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Jack reparte bromas y comentarios incómodos en las reuniones familiares; Ross y Monica reciben de él una atención muy distinta.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "geller_padre_jack",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_136",
+    "enunciado": "¿A quién le regala Ross una bicicleta para ayudarle a aprender a andar?",
+    "opciones": [
+      "Rachel Green",
+      "Monica Geller",
+      "Joey Tribbiani",
+      "Phoebe Buffay"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Phoebe nunca había tenido bicicleta de niña; Ross le compra una y después descubre que aprender a montar requiere paciencia.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ross_regalo_bicicleta_phoebe",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_137",
+    "enunciado": "¿Qué nombre tiene el restaurante donde Monica trabaja con uniforme de los años cincuenta?",
+    "opciones": [
+      "Moondance Diner",
+      "Alessandro’s",
+      "Javu",
+      "Iridium"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El local obliga a Monica a llevar una peluca rubia y bailar sobre el mostrador; el empleo llega tras perder su puesto como chef.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "monica_moondance_diner",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_138",
+    "enunciado": "¿Qué libro esconde Joey dentro del congelador porque le da miedo leerlo?",
+    "opciones": [
+      "It",
+      "El resplandor",
+      "El exorcista",
+      "Drácula"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Joey guarda El resplandor en el congelador para sentirse a salvo; Rachel hace lo propio con un libro que la entristece.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "joey_libro_congelador",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
   }
 ]
