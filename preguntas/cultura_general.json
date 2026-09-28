@@ -12716,7 +12716,7 @@
   },
   {
     "id": "cult_537",
-    "enunciado": "¿En «Cupido», de Tini,  según «cuando estábamos bien», qué lanzó Cupido antes de que la relación se complicara??",
+    "enunciado": "¿En «Cupido», de Tini, según «cuando estábamos bien», qué lanzó Cupido antes de que la relación se complicara?",
     "opciones": [
       "Una flecha",
       "Una moneda",
@@ -12734,12 +12734,12 @@
     "grupoVariantes": "letra_tini_cupido_flecha",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_538",
-    "enunciado": "¿En «Miénteme», de Tini y María Becerra,  según «dime que esta noche», qué serían al día siguiente de pasar la noche juntos??",
+    "enunciado": "¿En «Miénteme», de Tini y María Becerra, según «dime que esta noche», qué serían al día siguiente de pasar la noche juntos?",
     "opciones": [
       "Novios",
       "Amigos",
@@ -12757,12 +12757,12 @@
     "grupoVariantes": "letra_tini_mienteme_amigos",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_539",
-    "enunciado": "¿En «Sinvergüenza», de Emanero, Karina, J Mena y Ángela Torres,  según «Ya no quiero», qué dos regalos ya no quiere la voz que canta??",
+    "enunciado": "¿En «Sinvergüenza», de Emanero, Karina, J Mena y Ángela Torres, según «Ya no quiero», qué dos regalos ya no quiere la voz que canta?",
     "opciones": [
       "Joyas y perfumes",
       "Cartas y bombones",
@@ -12781,12 +12781,12 @@
     "grupoVariantes": "letra_emanero_sinverguenza_regalos",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_540",
-    "enunciado": "¿En «Fama de diabla», de Emanero, La K’onga y David Bisbal,  según «anda robando», qué le roba la mujer al narrador??",
+    "enunciado": "¿En «Fama de diabla», de Emanero, La K’onga y David Bisbal, según «anda robando», qué le roba la mujer al narrador?",
     "opciones": [
       "La billetera",
       "Las llaves",
@@ -12805,12 +12805,12 @@
     "grupoVariantes": "letra_emanero_fama_diabla_robo",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_541",
-    "enunciado": "¿En «Si un día estás sola», de Emanero, Big One y Valentino Merlo,  según «Quise mandarte un mensaje», por qué no puede escribirle al principio??",
+    "enunciado": "¿En «Si un día estás sola», de Emanero, Big One y Valentino Merlo, según «Quise mandarte un mensaje», por qué no puede escribirle al principio?",
     "opciones": [
       "Lo tiene bloqueado",
       "Perdió el celular",
@@ -12829,12 +12829,12 @@
     "grupoVariantes": "letra_emanero_dia_sola_bloqueo",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_542",
-    "enunciado": "¿En «Butakera», de La Joaqui, Alan Gómez y El Noba, si «no es la nave»,  según «No es la nave», qué es lo importante??",
+    "enunciado": "¿En «Butakera», de La Joaqui, Alan Gómez y El Noba, si «no es la nave», según «No es la nave», qué es lo importante?",
     "opciones": [
       "El motor",
       "El piloto",
@@ -12852,12 +12852,12 @@
     "grupoVariantes": "letra_joaqui_butakera_piloto",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_543",
-    "enunciado": "¿En «Monoblock», de La Joaqui,  según «En los monoblock», qué calzado lleva puesto al decir que está sentada en el barrio??",
+    "enunciado": "¿En «Monoblock», de La Joaqui, según «En los monoblock», qué calzado lleva puesto al decir que está sentada en el barrio?",
     "opciones": [
       "Unas botas",
       "Unas sandalias",
@@ -12875,12 +12875,12 @@
     "grupoVariantes": "letra_joaqui_monoblock_crocs",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_544",
-    "enunciado": "¿En «Amor de vago», de La T y la M y Malandro de América,  según «Es que me tiene loco», qué rasgo de ella lo tiene «loco»??",
+    "enunciado": "¿En «Amor de vago», de La T y la M y Malandro de América, según «Es que me tiene loco», qué rasgo de ella lo tiene «loco»?",
     "opciones": [
       "Su forma de llamarlo",
       "Su modo de bailar",
@@ -12899,12 +12899,12 @@
     "grupoVariantes": "letra_tyml_amor_vago_mirada",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_545",
-    "enunciado": "¿En «Pa’ la selección», de La T y la M,  según «una cumbia, asado y», qué bebida acompaña a la cumbia y el asado??",
+    "enunciado": "¿En «Pa’ la selección», de La T y la M, según «una cumbia, asado y», qué bebida acompaña a la cumbia y el asado?",
     "opciones": [
       "Fernet",
       "Mate",
@@ -12923,12 +12923,12 @@
     "grupoVariantes": "letra_tyml_pa_seleccion_fernet",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_546",
-    "enunciado": "¿En «Waka Waka (Esto es África)», de Shakira, tras quitarse el polvo,  según «Quítate el polvo», qué debe hacer quien recibe el golpe??",
+    "enunciado": "¿En «Waka Waka (Esto es África)», de Shakira, tras quitarse el polvo, según «Quítate el polvo», qué debe hacer quien recibe el golpe?",
     "opciones": [
       "Volver a casa",
       "Ponerse de pie",
@@ -12947,12 +12947,12 @@
     "grupoVariantes": "letra_shakira_waka_levantarse",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_547",
-    "enunciado": "¿En «La morocha», de Luck Ra y BM,  según «se muere de ganas», qué ritmo quiere bailar la protagonista??",
+    "enunciado": "¿En «La morocha», de Luck Ra y BM, según «se muere de ganas», qué ritmo quiere bailar la protagonista?",
     "opciones": [
       "Cumbia",
       "Salsa",
@@ -12971,12 +12971,12 @@
     "grupoVariantes": "letra_luckra_morocha_cuarteto",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_548",
-    "enunciado": "¿En «Vivir mi vida», de Marc Anthony,  según «¿Y para qué llorar?», qué dos acciones promete hacer la voz del estribillo??",
+    "enunciado": "¿En «Vivir mi vida», de Marc Anthony, según «Y para qué llorar», qué dos acciones promete hacer la voz del estribillo?",
     "opciones": [
       "Correr y saltar",
       "Dormir y soñar",
@@ -12995,12 +12995,12 @@
     "grupoVariantes": "letra_marc_anthony_vivir_reir_bailar",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_549",
-    "enunciado": "¿En «Corazón vacío», de María Becerra, mientras ella siente frío,  según «yo muero de frío», a quién le da calor su expareja??",
+    "enunciado": "¿En «Corazón vacío», de María Becerra, mientras ella siente frío, según «yo muero de frío», a quién le da calor su expareja?",
     "opciones": [
       "A otra mujer",
       "A su familia",
@@ -13018,12 +13018,12 @@
     "grupoVariantes": "letra_becerra_corazon_vacio_frio",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_550",
-    "enunciado": "¿En «Un x100to», de Grupo Frontera y Bad Bunny,  según «Me queda un por ciento», para qué usará el «un por ciento» que le queda??",
+    "enunciado": "¿En «Un x100to», de Grupo Frontera y Bad Bunny, según «Me queda un por ciento», para qué usará el «un por ciento» que le queda?",
     "opciones": [
       "Para volver a bailar",
       "Para pedir perdón",
@@ -13042,12 +13042,12 @@
     "grupoVariantes": "letra_frontera_unx100to_disculpa",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_551",
-    "enunciado": "¿En «Hola perdida», de Luck Ra y Khea,  según «por más que tenga fama», a quién admite tener fama de llamar??",
+    "enunciado": "¿En «Hola perdida», de Luck Ra y Khea, según «por más que tenga fama», a quién admite tener fama de llamar?",
     "opciones": [
       "A su hermano",
       "A su jefe",
@@ -13065,12 +13065,12 @@
     "grupoVariantes": "letra_luckra_hola_perdida_ex",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_552",
-    "enunciado": "¿En «Que me falte todo», de Luck Ra y Abel Pintos,  según «que me falte todo», con quién quiere pasar otra madrugada aunque no tenga nada??",
+    "enunciado": "¿En «Que me falte todo», de Luck Ra y Abel Pintos, según «que me falte todo», con quién quiere pasar otra madrugada aunque no tenga nada?",
     "opciones": [
       "Con sus amigos",
       "Con su familia",
@@ -13089,12 +13089,12 @@
     "grupoVariantes": "letra_luckra_me_falte_todo_madrugada",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_553",
-    "enunciado": "¿En «La Triple T», de Tini,  según «ya no tomo agua», qué bebida menciona al decir que ya no toma agua??",
+    "enunciado": "¿En «La Triple T», de Tini, según «ya no tomo agua», qué bebida menciona al decir que ya no toma agua?",
     "opciones": [
       "Martini",
       "Fernet",
@@ -13112,12 +13112,12 @@
     "grupoVariantes": "letra_tini_triple_t_martini",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_554",
-    "enunciado": "¿En la «BZRP Music Sessions, Vol. 53», de Shakira y Bizarrap,  según «Cambiaste un Rolex por un», qué reloj reemplaza al Rolex??",
+    "enunciado": "¿En la «BZRP Music Sessions, Vol. 53», de Shakira y Bizarrap, según «Cambiaste un Rolex por un», qué reloj reemplaza al Rolex?",
     "opciones": [
       "Un Swatch",
       "Un Casio",
@@ -13135,12 +13135,12 @@
     "grupoVariantes": "letra_shakira_bzrp_casio",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_555",
-    "enunciado": "¿En «La bicicleta», de Carlos Vives y Shakira,  según «le gusta Barcelona», qué ciudad colombiana aparece junto a Barcelona??",
+    "enunciado": "¿En «La bicicleta», de Carlos Vives y Shakira, según «le gusta Barcelona», qué ciudad colombiana aparece junto a Barcelona?",
     "opciones": [
       "Medellín",
       "Cartagena",
@@ -13159,12 +13159,12 @@
     "grupoVariantes": "letra_vives_bicicleta_barranquilla",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_556",
-    "enunciado": "¿En «La loto», de Tini, Becky G y Anitta, si se va la luz,  según «si se va la luz», qué propone encender la letra??",
+    "enunciado": "¿En «La loto», de Tini, Becky G y Anitta, si se va la luz, según «si se va la luz», qué propone encender la letra?",
     "opciones": [
       "Una linterna",
       "Una lámpara",
@@ -13182,12 +13182,12 @@
     "grupoVariantes": "letra_tini_loto_vela",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_557",
-    "enunciado": "¿En «Traidora», de La Joaqui y DJ Alex,  según «No compres con la gilada», qué pide que no crean sobre ella??",
+    "enunciado": "¿En «Traidora», de La Joaqui y DJ Alex, según «No compres con la gilada», qué pide que no crean sobre ella?",
     "opciones": [
       "Los rumores ajenos",
       "Los mensajes viejos",
@@ -13205,12 +13205,12 @@
     "grupoVariantes": "letra_joaqui_traidora_rumores",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_558",
-    "enunciado": "¿En «Quiero creer», de Luck Ra, La T y la M y Rusherking,  según «Hoy te llamé», qué oye al llamar y no conseguir respuesta??",
+    "enunciado": "¿En «Quiero creer», de Luck Ra, La T y la M y Rusherking, según «Hoy te llamé», qué oye al llamar y no conseguir respuesta?",
     "opciones": [
       "Una canción",
       "El contestador",
@@ -13229,12 +13229,12 @@
     "grupoVariantes": "letra_luckra_quiero_creer_contestador",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_559",
-    "enunciado": "¿En «Ojitos rojos», de Ke Personajes y Grupo Frontera,  según «en el cel no me queda un espacio», qué no borra del celular??",
+    "enunciado": "¿En «Ojitos rojos», de Ke Personajes y Grupo Frontera, según «en el cel no me queda un espacio», qué no borra del celular?",
     "opciones": [
       "Los videos del viaje",
       "Las notas de voz",
@@ -13253,12 +13253,12 @@
     "grupoVariantes": "letra_ke_personajes_ojitos_fotos",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_560",
-    "enunciado": "¿En «We Are One (Ole Ola)», de Pitbull, Jennifer Lopez y Claudia Leitte,  según «Show the world», qué objeto invita a levantar al cielo??",
+    "enunciado": "¿En «We Are One (Ole Ola)», de Pitbull, Jennifer Lopez y Claudia Leitte, según «Show the world», qué objeto invita a levantar al cielo?",
     "opciones": [
       "Las camisetas",
       "Las bufandas",
@@ -13277,12 +13277,12 @@
     "grupoVariantes": "letra_pitbull_we_are_one_banderas",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_561",
-    "enunciado": "¿En «Muchachos», de La Mosca,  según «la final con los brazucas», en qué estadio fue la final ganada a Brasil??",
+    "enunciado": "¿En «Muchachos», de La Mosca, según «la final con los brazucas», en qué estadio fue la final ganada a Brasil?",
     "opciones": [
       "El Maracaná",
       "El Monumental",
@@ -13301,12 +13301,12 @@
     "grupoVariantes": "letra_lamosca_muchachos_maracana",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_562",
-    "enunciado": "¿En «Maldita foto», de Tini y Manuel Turizo,  según «los besos que nos dimos», en qué ciudad sitúa la letra los besos recordados??",
+    "enunciado": "¿En «Maldita foto», de Tini y Manuel Turizo, según «los besos que nos dimos», en qué ciudad sitúa la letra los besos recordados?",
     "opciones": [
       "Medellín",
       "Buenos Aires",
@@ -13325,12 +13325,12 @@
     "grupoVariantes": "letra_tini_maldita_foto_baires",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_563",
-    "enunciado": "¿En «Muñecas», de Tini, La Joaqui y Steve Aoki,  según «hoy hay lluvia de», qué bebida se menciona al destapar botellas para salir??",
+    "enunciado": "¿En «Muñecas», de Tini, La Joaqui y Steve Aoki, según «hoy hay lluvia de», qué bebida se menciona al destapar botellas para salir?",
     "opciones": [
       "Sidra",
       "Fernet",
@@ -13348,12 +13348,12 @@
     "grupoVariantes": "letra_tini_munecas_moet",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_564",
-    "enunciado": "¿En «Color esperanza», de Diego Torres,  según «cambiar el aire depende de ti», qué se puede abrir para cambiar el aire??",
+    "enunciado": "¿En «Color esperanza», de Diego Torres, según «cambiar el aire depende de ti», qué se puede abrir para cambiar el aire?",
     "opciones": [
       "Las puertas",
       "Las cortinas",
@@ -13372,12 +13372,12 @@
     "grupoVariantes": "letra_diego_torres_color_ventanas",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_565",
-    "enunciado": "¿En «Dos besitos», de La Joaqui, Salastkbron y Gusty DJ,  según «se pone re loca», dónde dice la letra que alguien la vio??",
+    "enunciado": "¿En «Dos besitos», de La Joaqui, Salastkbron y Gusty DJ, según «se pone re loca», dónde dice la letra que alguien la vio?",
     "opciones": [
       "En YouTube",
       "En TikTok",
@@ -13395,12 +13395,12 @@
     "grupoVariantes": "letra_joaqui_dos_besitos_youtube",
     "activa": true,
     "aptaFamilia": false,
-    "revision": 1,
+    "revision": 2,
     "fechaActualizacion": "2026-09-28"
   },
   {
     "id": "cult_566",
-    "enunciado": "¿En «La peligrosa», de Emanero, David Bisbal y Luciano Pereyra,  según «Ya te agendé», con qué nombre guarda a la expareja en sus contactos??",
+    "enunciado": "¿En «La peligrosa», de Emanero, David Bisbal y Luciano Pereyra, según «Ya te agendé», con qué nombre guarda a la expareja en sus contactos?",
     "opciones": [
       "La Bandida",
       "La Peligrosa",
@@ -13418,6 +13418,725 @@
     "grupoVariantes": "letra_emanero_peligrosa_contacto",
     "activa": true,
     "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_567",
+    "enunciado": "¿En qué país africano se encuentra el monte Kilimanjaro?",
+    "opciones": [
+      "Tanzania",
+      "Kenia",
+      "Uganda",
+      "Etiopía"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Aunque está cerca de la frontera con Kenia, el Kilimanjaro se levanta en Tanzania y reúne tres conos volcánicos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_kilimanjaro_tanzania",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_568",
+    "enunciado": "¿En qué océano se encuentra Madagascar?",
+    "opciones": [
+      "Atlántico",
+      "Índico",
+      "Pacífico",
+      "Antártico"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El canal de Mozambique separa la isla de África continental; allí evolucionaron especies únicas, como los lémures.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_madagascar_indico",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_569",
+    "enunciado": "¿Qué dos mares conecta el canal de Suez?",
+    "opciones": [
+      "Negro y Caspio",
+      "Báltico y del Norte",
+      "Mediterráneo y Rojo",
+      "Arábigo y de Java"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Esta vía atraviesa Egipto y permite navegar entre Europa y Asia sin rodear el extremo sur de África.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_suez_mares",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_570",
+    "enunciado": "¿Qué dos países comparten las aguas del lago Titicaca?",
+    "opciones": [
+      "Chile y Argentina",
+      "Ecuador y Colombia",
+      "Brasil y Paraguay",
+      "Perú y Bolivia"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Situado en el altiplano andino, el lago contiene islas habitadas y es central en la tradición de los pueblos locales.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_titicaca_paises",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_571",
+    "enunciado": "¿Qué dos continentes separa el estrecho de Gibraltar?",
+    "opciones": [
+      "Europa y África",
+      "Asia y Oceanía",
+      "América y Asia",
+      "Europa y Asia"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En su punto más angosto, este paso entre España y Marruecos comunica el Mediterráneo con el Atlántico.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_gibraltar_continentes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_572",
+    "enunciado": "¿En qué mar desemboca el río Danubio?",
+    "opciones": [
+      "Mar Báltico",
+      "Mar Negro",
+      "Mar Caspio",
+      "Mar Adriático"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Después de atravesar gran parte de Europa, el Danubio forma un extenso delta compartido por Rumania y Ucrania.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_danubio_mar_negro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_573",
+    "enunciado": "¿A qué diosa estaba dedicado el Partenón de Atenas?",
+    "opciones": [
+      "Hera",
+      "Artemisa",
+      "Atenea",
+      "Afrodita"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El templo se alzó en la Acrópolis durante el siglo V a. C.; su nombre alude a Atenea Partenos, protectora de la ciudad.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "grecia_partenon_atenea",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_574",
+    "enunciado": "¿Qué volcán sepultó Pompeya durante la Antigüedad?",
+    "opciones": [
+      "Etna",
+      "Estrómboli",
+      "Vulcano",
+      "Vesubio"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La erupción del año 79 dejó edificios y objetos bajo cenizas y otros materiales, preservando escenas de la vida romana.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_pompeya_vesubio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_575",
+    "enunciado": "¿Qué hermanos están ligados, según la leyenda, a la fundación de Roma?",
+    "opciones": [
+      "Rómulo y Remo",
+      "Cástor y Pólux",
+      "Caín y Abel",
+      "Héctor y Paris"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El relato cuenta que una loba amamantó a los gemelos; Rómulo acabó dando su nombre a la nueva ciudad.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_fundacion_gemelos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_576",
+    "enunciado": "¿Cómo se llamaba la asamblea de aristócratas que asesoraba a los magistrados en la República romana?",
+    "opciones": [
+      "Areópago",
+      "Senado",
+      "Ágora",
+      "Consejo de los Quinientos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Aunque nació como órgano consultivo, el Senado acumuló gran influencia en las finanzas y la política exterior de Roma.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_senado_republica",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_577",
+    "enunciado": "¿Quién se convirtió en el primer emperador romano tras las guerras civiles?",
+    "opciones": [
+      "Nerón",
+      "Trajano",
+      "Augusto",
+      "Constantino"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Octavio recibió el título de Augusto en el 27 a. C.; mantuvo instituciones republicanas mientras concentraba el poder.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_augusto_primer_emperador",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_578",
+    "enunciado": "¿En qué tipo de combate vencieron los griegos a los persas en Salamina?",
+    "opciones": [
+      "Terrestre",
+      "De caballería",
+      "De asedio",
+      "Naval"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En el 480 a. C., la flota griega aprovechó el estrecho para maniobrar frente a los barcos de Jerjes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "grecia_salamina_naval",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_579",
+    "enunciado": "¿Qué estrecho divide la ciudad de Estambul entre Europa y Asia?",
+    "opciones": [
+      "Bósforo",
+      "Dardanelos",
+      "Gibraltar",
+      "Mesina"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El Bósforo conecta el mar Negro con el mar de Mármara; sus orillas pertenecen a una misma ciudad en dos continentes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_bosforo_estambul",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_580",
+    "enunciado": "¿Qué lago de América del Norte es el mayor lago de agua dulce del mundo por superficie?",
+    "opciones": [
+      "Michigan",
+      "Superior",
+      "Hurón",
+      "Ontario"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Superior destaca por su superficie, mientras que el Baikal, en Siberia, sobresale por su profundidad y volumen.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_lago_superior_superficie",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_581",
+    "enunciado": "¿En qué país se extiende principalmente el desierto de Atacama?",
+    "opciones": [
+      "Perú",
+      "Bolivia",
+      "Chile",
+      "Argentina"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Atacama ocupa el norte chileno; algunos de sus sectores registran una aridez extrema y albergan observatorios astronómicos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_atacama_chile",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_582",
+    "enunciado": "¿En qué país forma su gran delta el río Mekong antes de llegar al mar?",
+    "opciones": [
+      "Camboya",
+      "Laos",
+      "Tailandia",
+      "Vietnam"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Tras recorrer el Sudeste Asiático, el Mekong se abre en varios brazos que riegan una de las grandes regiones arroceras.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_mekong_delta_vietnam",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_583",
+    "enunciado": "¿En qué país se encuentra el cabo de Buena Esperanza?",
+    "opciones": [
+      "Sudáfrica",
+      "Namibia",
+      "Mozambique",
+      "Madagascar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El cabo es un hito de la navegación austral, aunque el punto más meridional de África es el cercano cabo Agulhas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_cabo_buena_esperanza_pais",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_584",
+    "enunciado": "¿Cuál es la isla más grande del mundo si se considera que Australia es un continente?",
+    "opciones": [
+      "Nueva Guinea",
+      "Groenlandia",
+      "Borneo",
+      "Madagascar"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La enorme masa de hielo de Groenlandia cubre la mayor parte de su territorio; Nueva Guinea le sigue en superficie.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_groenlandia_isla_mayor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_585",
+    "enunciado": "¿Cuántos reyes gobernaban simultáneamente en la antigua Esparta?",
+    "opciones": [
+      "Uno",
+      "Tres",
+      "Dos",
+      "Cuatro"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La doble monarquía espartana repartía funciones militares y religiosas entre dos linajes reales distintos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "grecia_esparta_dos_reyes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_586",
+    "enunciado": "¿Qué imperio enfrentaron los atenienses en la batalla de Maratón del 490 a. C.?",
+    "opciones": [
+      "Romano",
+      "Cartaginés",
+      "Egipcio",
+      "Persa"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La victoria ateniense frenó esa expedición persa; una década después, Jerjes intentó una invasión mayor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "grecia_maraton_persas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_587",
+    "enunciado": "¿Qué general romano cruzó el Rubicón con sus tropas y desató una guerra civil?",
+    "opciones": [
+      "Julio César",
+      "Pompeyo",
+      "Escipión",
+      "Marco Antonio"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En el 49 a. C., cruzar ese río con un ejército desafió la autoridad senatorial y marcó un punto de no retorno.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_cesar_rubicon",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_588",
+    "enunciado": "¿Contra qué ciudad combatió Roma en las guerras púnicas?",
+    "opciones": [
+      "Corinto",
+      "Cartago",
+      "Alejandría",
+      "Antioquía"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los tres conflictos enfrentaron a las dos potencias por el control del Mediterráneo occidental entre los siglos III y II a. C.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_guerras_punicas_cartago",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_589",
+    "enunciado": "¿Qué transportaban los acueductos romanos hacia ciudades y poblaciones?",
+    "opciones": [
+      "Aceite",
+      "Vino",
+      "Agua",
+      "Grano"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Su pendiente calculada permitía que el agua fluyera por gravedad desde manantiales lejanos hasta fuentes y baños.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_acueductos_agua",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_590",
+    "enunciado": "¿Qué castigo votaban los atenienses al escribir un nombre en fragmentos de cerámica llamados óstraka?",
+    "opciones": [
+      "La multa",
+      "La prisión",
+      "La confiscación",
+      "El destierro"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El ostracismo apartaba durante diez años a un ciudadano considerado peligroso, sin quitarle sus bienes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "grecia_ostracismo_destierro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_591",
+    "enunciado": "¿Qué país está rodeado por completo por territorio sudafricano?",
+    "opciones": [
+      "Lesoto",
+      "Esuatini",
+      "Botsuana",
+      "Namibia"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Lesoto es un enclave soberano en el sur de África; incluso su punto más bajo está a más de mil metros de altitud.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_lesoto_enclave",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_592",
+    "enunciado": "¿Qué estrecho separa Alaska del extremo oriental de Rusia?",
+    "opciones": [
+      "Magallanes",
+      "Bering",
+      "Davis",
+      "Dinamarca"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El estrecho de Bering conecta el océano Pacífico con el Ártico y contiene las islas Diómedes, de ambos países.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_bering_alaska_rusia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_593",
+    "enunciado": "¿Qué país comparte con Indonesia la isla de Timor?",
+    "opciones": [
+      "Papúa Nueva Guinea",
+      "Malasia",
+      "Timor Oriental",
+      "Brunéi"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Timor Oriental ocupa la mitad oriental de la isla y también el enclave de Oecusse, situado en la parte indonesia.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geo_timor_isla_pais",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_594",
+    "enunciado": "¿Cómo se llamó la primera gran recopilación escrita de leyes de la República romana?",
+    "opciones": [
+      "Código de Justiniano",
+      "Edicto Perpetuo",
+      "Constitución Antoniniana",
+      "Ley de las Doce Tablas"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Las normas se expusieron públicamente en el siglo V a. C.; así los ciudadanos podían conocer las reglas aplicables.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_doce_tablas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_595",
+    "enunciado": "¿Qué emperador implantó una tetrarquía para repartir el gobierno del Imperio romano?",
+    "opciones": [
+      "Diocleciano",
+      "Adriano",
+      "Calígula",
+      "Vespasiano"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Desde fines del siglo III, el sistema contó con dos augustos y dos césares para administrar un imperio enorme.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "roma_diocleciano_tetrarquia",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_596",
+    "enunciado": "¿Qué emperador firmó junto a Licinio el acuerdo de tolerancia religiosa de Milán en el año 313?",
+    "opciones": [
+      "Teodosio",
+      "Constantino",
+      "Nerón",
+      "Trajano"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El acuerdo permitió el culto cristiano y la devolución de bienes confiscados; el cristianismo no pasó aún a ser religión oficial.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "roma_constantino_milan_313",
+    "activa": true,
+    "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
   }
