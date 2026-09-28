@@ -2,11 +2,21 @@
   {
     "id": "simp_001",
     "enunciado": "¿Cómo se llama la ciudad ficticia donde vive la familia Simpson?",
-    "opciones": ["Shelbyville", "Springfield", "Capital City", "Ogdenville"],
+    "opciones": [
+      "Shelbyville",
+      "Springfield",
+      "Capital City",
+      "Ogdenville"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Springfield es el hogar de Homero, Marge, Bart, Lisa y Maggie creado por Matt Groening.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_town",
     "activa": true,
     "aptaFamilia": true,
@@ -16,11 +26,21 @@
   {
     "id": "simp_002",
     "enunciado": "¿Cuál es la bebida alcohólica preferida de Homero Simpson en la taberna de Moe?",
-    "opciones": ["Cerveza Fudd", "Cerveza Duff", "Flameado de Moe", "Buzz Cola"],
+    "opciones": [
+      "Cerveza Fudd",
+      "Cerveza Duff",
+      "Flameado de Moe",
+      "Buzz Cola"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La Cerveza Duff es la marca icónica patrocinada por Duffman en la serie.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "duff_beer",
     "activa": true,
     "aptaFamilia": true,
@@ -30,11 +50,21 @@
   {
     "id": "simp_003",
     "enunciado": "¿Cómo se llama el mejor amigo de Bart Simpson que usa anteojos y pelo azul?",
-    "opciones": ["Martin Prince", "Milhouse Van Houten", "Nelson Muntz", "Ralph Wiggum"],
+    "opciones": [
+      "Martin Prince",
+      "Milhouse Van Houten",
+      "Nelson Muntz",
+      "Ralph Wiggum"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Milhouse Mussolini Van Houten es el leal y torpe mejor amigo de Bart en la escuela primaria.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "milhouse_name",
     "activa": true,
     "aptaFamilia": true,
@@ -44,11 +74,21 @@
   {
     "id": "simp_004",
     "enunciado": "¿Cuál es el trabajo exacto de Homero Simpson en la Planta Nuclear de Springfield?",
-    "opciones": ["Ingeniero Jefe", "Inspector de Seguridad del Sector 7-G", "Gerente de Mantenimiento", "Electricista"],
+    "opciones": [
+      "Ingeniero Jefe",
+      "Inspector de Seguridad del Sector 7-G",
+      "Gerente de Mantenimiento",
+      "Electricista"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Homero fue contratado como Inspector de Seguridad Nuclear en el Sector 7-G por el Sr. Burns.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "homer_job",
     "activa": true,
     "aptaFamilia": true,
@@ -58,11 +98,21 @@
   {
     "id": "simp_005",
     "enunciado": "¿Cuál es el instrumento musical que toca Lisa Simpson con pasión en la escuela y en su casa?",
-    "opciones": ["Clarinete", "Saxofón Barítono", "Trombón", "Flauta Traversa"],
+    "opciones": [
+      "Clarinete",
+      "Saxofón Barítono",
+      "Trombón",
+      "Flauta Traversa"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Lisa toca el saxofón barítono inspirada por el legendario músico de jazz Encías Sangrantes Murphy.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "lisa_instrument",
     "activa": true,
     "aptaFamilia": true,
@@ -72,11 +122,21 @@
   {
     "id": "simp_006",
     "enunciado": "¿Cómo se llama el payaso de la televisión que es el ídolo absoluto de Bart y Lisa?",
-    "opciones": ["Krusty el Payaso", "Bob Patiño", "Gabbo", "Bumblebee Man"],
+    "opciones": [
+      "Krusty el Payaso",
+      "Bob Patiño",
+      "Gabbo",
+      "Bumblebee Man"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Herschel Shmoikel Pinchas Yerucham Krustofsky es Krusty el Payaso, presentador de su propio show.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "krusty_name",
     "activa": true,
     "aptaFamilia": true,
@@ -86,11 +146,21 @@
   {
     "id": "simp_007",
     "enunciado": "¿Cuál es el nombre del perro fiel de la familia Simpson adoptado en el especial de Navidad?",
-    "opciones": ["Bola de Nieve II", "Ayudante de Santa", "Prócer", "Laddie"],
+    "opciones": [
+      "Bola de Nieve II",
+      "Ayudante de Santa",
+      "Prócer",
+      "Laddie"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Ayudante de Santa (Santa's Little Helper en inglés) fue rescatado por Homero y Bart de las carreras de galgos.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpson_dog",
     "activa": true,
     "aptaFamilia": true,
@@ -100,11 +170,21 @@
   {
     "id": "simp_008",
     "enunciado": "¿Cuál es el segundo nombre completo de Homero Simpson revelado en el episodio de los hippies?",
-    "opciones": ["Jeremiah", "Jay", "Javier", "Jordan"],
+    "opciones": [
+      "Jeremiah",
+      "Jay",
+      "Javier",
+      "Jordan"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Homero descubrió en un mural hippie que la \"J\" en Homer J. Simpson correspondía simplemente a \"Jay\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "homer_middle_name",
     "activa": true,
     "aptaFamilia": true,
@@ -114,11 +194,21 @@
   {
     "id": "simp_009",
     "enunciado": "¿Quién disparó al Sr. Burns en el famoso misterio de dos partes de Los Simpsons?",
-    "opciones": ["Smithers", "Homero Simpson", "Maggie Simpson", "Barney Gumble"],
+    "opciones": [
+      "Smithers",
+      "Homero Simpson",
+      "Maggie Simpson",
+      "Barney Gumble"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La bebé Maggie Simpson disparó accidentalmente cuando el Sr. Burns intentó quitarle su paleta dulce.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "who_shot_burns",
     "activa": true,
     "aptaFamilia": true,
@@ -128,11 +218,21 @@
   {
     "id": "simp_010",
     "enunciado": "¿Cómo se llama el gato doméstico de color negro que acompaña a la familia Simpson en casi todas las temporadas clásicas?",
-    "opciones": ["Félix", "Bola de Nieve II", "Bigotes", "Tomás"],
+    "opciones": [
+      "Félix",
+      "Bola de Nieve II",
+      "Bigotes",
+      "Tomás"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Bola de Nieve II (Snowball II) es el fiel gato negro de Lisa y la familia tras la muerte del Bola de Nieve original.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cat",
     "activa": true,
     "aptaFamilia": true,
@@ -142,11 +242,21 @@
   {
     "id": "simp_011",
     "enunciado": "En el aclamado episodio del monorriel de Springfield, ¿cómo bautizó Homero a la zarigüeya grande que habitaba en el panel eléctrico?",
-    "opciones": ["Chispita", "Cuca", "Blinky", "Pelusa"],
+    "opciones": [
+      "Chispita",
+      "Cuca",
+      "Blinky",
+      "Pelusa"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Al abrir el compartimento repleto de zarigüeyas, Homero sonríe con ternura y dice la mítica frase: \"A la grande le puse Cuca\".",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_monorail_possum",
     "activa": true,
     "aptaFamilia": true,
@@ -156,11 +266,21 @@
   {
     "id": "simp_012",
     "enunciado": "En las vacaciones de invierno en la nieve, ¿qué exclamación icónica pronuncia Homero al ver a Flanders con su ceñido traje térmico?",
-    "opciones": ["¡Maldito Flanders presumido!", "¡Flanders arruina el esquí!", "¡Estúpido y sensual Flanders!", "¡Qué traje tan ridículo!"],
+    "opciones": [
+      "¡Maldito Flanders presumido!",
+      "¡Flanders arruina el esquí!",
+      "¡Estúpido y sensual Flanders!",
+      "¡Qué traje tan ridículo!"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La frase \"¡Estúpido y sensual Flanders!\" se convirtió en uno de los memes más universales e inmarchitables de internet.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_stupid_sexy_flanders",
     "activa": true,
     "aptaFamilia": true,
@@ -170,11 +290,21 @@
   {
     "id": "simp_013",
     "enunciado": "Cuando Lisa decide dejar de comer carne, ¿qué frase cantan en trencito Homero y Bart al ritmo de conga para mofarse de ella?",
-    "opciones": ["La carne da vigor", "Comer verduras da dolor", "Las plantas no tienen sabor", "No vives de ensalada"],
+    "opciones": [
+      "La carne da vigor",
+      "Comer verduras da dolor",
+      "Las plantas no tienen sabor",
+      "No vives de ensalada"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "\"¡No vives de ensalada! ¡No vives de ensalada!\" es el himno carnívoro coreado por Homero, Bart e insólitamente secundado por Marge.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_dont_win_friends_salad",
     "activa": true,
     "aptaFamilia": true,
@@ -184,11 +314,21 @@
   {
     "id": "simp_014",
     "enunciado": "¿Cómo se llama el pez anaranjado de tres ojos mutado por los vertidos nucleares de la planta del Sr. Burns?",
-    "opciones": ["Blinky", "Ojos Locos", "Nemo", "Mutante"],
+    "opciones": [
+      "Blinky",
+      "Ojos Locos",
+      "Nemo",
+      "Mutante"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Blinky el pez de tres ojos arruinó la campaña de Burns a gobernador cuando Marge se lo sirvió cocinado en su propia mesa.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_blinky",
     "activa": true,
     "aptaFamilia": true,
@@ -198,11 +338,21 @@
   {
     "id": "simp_015",
     "enunciado": "En el capítulo de la huelga nuclear, ¿qué frase en eco taladra la mente de Homero antes de darse cuenta de que debe negociar el convenio?",
-    "opciones": ["\"¡Más dinero... menos horas de guardia!\"", "\"¡Sin tele ni cerveza... pierdo la cabeza!\"", "\"¡Plan dental... Lisa necesita frenos!\"", "\"¡Trabajadores unidos... jamás vencidos!\""],
+    "opciones": [
+      "\"¡Más dinero... menos horas de guardia!\"",
+      "\"¡Sin tele ni cerveza... pierdo la cabeza!\"",
+      "\"¡Plan dental... Lisa necesita frenos!\"",
+      "\"¡Trabajadores unidos... jamás vencidos!\""
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La secuencia donde la voz de Lenny (\"¡Plan dental!\") y la de Marge (\"Lisa necesita frenos\") rebotan sin parar en su mente es una joya cómica.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_dental_plan",
     "activa": true,
     "aptaFamilia": true,
@@ -212,11 +362,21 @@
   {
     "id": "simp_016",
     "enunciado": "¿Cuál es el nombre del negocio exclusivo para personas zurdas que Ned Flanders abre en el centro comercial de Springfield?",
-    "opciones": ["El Rincón Zurdo", "El Zurdozador (The Leftorium)", "Zurdos Unidos", "Mundo Izquierdo"],
+    "opciones": [
+      "El Rincón Zurdo",
+      "El Zurdozador (The Leftorium)",
+      "Zurdos Unidos",
+      "Mundo Izquierdo"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "El Zurdozador (The Leftorium) vendía artículos de todo tipo adaptados exclusivamente para personas zurdas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_leftorium",
     "activa": true,
     "aptaFamilia": true,
@@ -226,11 +386,21 @@
   {
     "id": "simp_017",
     "enunciado": "En la escuela primaria de Springfield, ¿qué adjetivo ficticio utiliza la maestra Edna Krabappel al defender la palabra inventada \"agrandecer\" (embiggen)?",
-    "opciones": ["Exquisita", "Elocuente", "Cromulenta", "Auténtica"],
+    "opciones": [
+      "Exquisita",
+      "Elocuente",
+      "Cromulenta",
+      "Auténtica"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Krabappel afirma: \"No sé por qué la critican, es una palabra muy cromulenta\", término que incluso llegó a ser añadido a diccionarios en inglés.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cromulent",
     "activa": true,
     "aptaFamilia": true,
@@ -240,11 +410,21 @@
   {
     "id": "simp_018",
     "enunciado": "Cuando Homero atiende apresurado el teléfono saliendo del baño cubierto sólo con una toalla, ¿qué disparate le grita al interlocutor?",
-    "opciones": ["\"No puedo oírlo porque estoy empapado\"", "\"Hable más despacio que me estoy secando\"", "\"Llame a Moe que aquí no vive nadie\"", "\"Hable más fuerte que tengo una toalla\""],
+    "opciones": [
+      "\"No puedo oírlo porque estoy empapado\"",
+      "\"Hable más despacio que me estoy secando\"",
+      "\"Llame a Moe que aquí no vive nadie\"",
+      "\"Hable más fuerte que tengo una toalla\""
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Homero atiende diciendo con total convicción absurda: \"Hable más fuerte que tengo una toalla\", uno de los gags favoritos de los fans.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_towel_phone",
     "activa": true,
     "aptaFamilia": true,
@@ -254,11 +434,21 @@
   {
     "id": "simp_019",
     "enunciado": "¿Cómo se llamó el cuarteto vocal estilo barbería integrado por Homero, Apu, el Director Skinner y Barney que ganó un Grammy?",
-    "opciones": ["Los Borbotones (The Be Sharps)", "Los Cuatro Ases", "Las Voces de Springfield", "Los Galanes del Micrófono"],
+    "opciones": [
+      "Los Borbotones (The Be Sharps)",
+      "Los Cuatro Ases",
+      "Las Voces de Springfield",
+      "Los Galanes del Micrófono"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Los Borbotones (The Be Sharps) triunfaron en todo el mundo con canciones como \"Bebé a bordo\" antes de separarse pacíficamente.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_be_sharps",
     "activa": true,
     "aptaFamilia": true,
@@ -268,11 +458,21 @@
   {
     "id": "simp_020",
     "enunciado": "¿Cómo se llama la milenaria y misteriosa sociedad secreta de Springfield de la que Homero descubre ser \"El Elegido\"?",
-    "opciones": ["La Orden de la Rosa", "Los Magios (The Stonecutters)", "Los Illuminati de Jebediah", "El Círculo de la Cerveza"],
+    "opciones": [
+      "La Orden de la Rosa",
+      "Los Magios (The Stonecutters)",
+      "Los Illuminati de Jebediah",
+      "El Círculo de la Cerveza"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Los Magios (The Stonecutters) gozaban de privilegios insólitos como sillas cómodas y lugares preferenciales de estacionamiento.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_stonecutters",
     "activa": true,
     "aptaFamilia": true,
@@ -282,11 +482,21 @@
   {
     "id": "simp_021",
     "enunciado": "¿Cuál es el superhéroe de historietas venerado por Bart y Milhouse cuyo grito de guerra es \"¡A darle, átomos!\"?",
-    "opciones": ["Capitán Átomo", "Hombre Neutrón", "El Hombre Radiactivo", "Rayo Cósmico"],
+    "opciones": [
+      "Capitán Átomo",
+      "Hombre Neutrón",
+      "El Hombre Radiactivo",
+      "Rayo Cósmico"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El Hombre Radiactivo (Radioactive Man) y su fiel compañero Chico Fisión son las máximas estrellas del cómic en Springfield.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_radioactive_man",
     "activa": true,
     "aptaFamilia": true,
@@ -296,11 +506,21 @@
   {
     "id": "simp_022",
     "enunciado": "En el episodio donde Bart desafía la espiritualidad y le vende su alma a Milhouse en un papelito, ¿cuánto dinero cobra por ella?",
-    "opciones": ["50 dólares", "10 dólares", "50 centavos", "5 dólares"],
+    "opciones": [
+      "50 dólares",
+      "10 dólares",
+      "50 centavos",
+      "5 dólares"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Bart le vende su alma por 5 dólares a Milhouse para comprar esponjas con forma de dinosaurio que crecen con el agua.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_barts_soul",
     "activa": true,
     "aptaFamilia": true,
@@ -310,11 +530,21 @@
   {
     "id": "simp_023",
     "enunciado": "¿Cuáles son los nombres de los dos alienígenas verdes con tentáculos y un solo ojo que observan y conspiran contra la Tierra?",
-    "opciones": ["Kang y Kodos", "Morbo y Lrrr", "Zim y Gir", "Rigel y Vega"],
+    "opciones": [
+      "Kang y Kodos",
+      "Morbo y Lrrr",
+      "Zim y Gir",
+      "Rigel y Vega"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Kang y Kodos provienen del planeta Rigel VII y son los presentadores recurrentes de las Noches de Brujas de Los Simpsons.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_kang_kodos",
     "activa": true,
     "aptaFamilia": true,
@@ -324,11 +554,21 @@
   {
     "id": "simp_024",
     "enunciado": "¿Cómo se llama el entrañable y andrajoso oso de peluche de la niñez del Sr. Burns que termina en poder de Maggie Simpson?",
-    "opciones": ["Barnaby", "Bobo", "Teddy", "Pompon"],
+    "opciones": [
+      "Barnaby",
+      "Bobo",
+      "Teddy",
+      "Pompon"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Bobo pasó por las manos de Charles Lindbergh, Adolf Hitler y el hielo polar antes de llegar a la cuna de Maggie Simpson.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bobo",
     "activa": true,
     "aptaFamilia": true,
@@ -338,11 +578,21 @@
   {
     "id": "simp_025",
     "enunciado": "¿Cuál era el ingrediente medicinal secreto del trago que Homero inventó y Moe le robó para triunfar comercialmente?",
-    "opciones": ["Pastillas efervescentes", "Alcohol fino medicinal", "Aspirina triturada", "Jarabe para la tos de niños"],
+    "opciones": [
+      "Pastillas efervescentes",
+      "Alcohol fino medicinal",
+      "Aspirina triturada",
+      "Jarabe para la tos de niños"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "La receta original del Flameado de Homero (bautizado Flameado de Moe) requería mezclar licores con jarabe para la tos y prenderle fuego.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_flaming_moe",
     "activa": true,
     "aptaFamilia": true,
@@ -352,11 +602,21 @@
   {
     "id": "simp_026",
     "enunciado": "En Cabo de Miedos, cuando los agentes del FBI intentan instruir a Homero para protegerse de Bob Patiño, ¿qué nuevo apellido no logra asimilar?",
-    "opciones": ["Señor Pérez", "Señor Anderson", "Señor Thompson", "Señor Brown"],
+    "opciones": [
+      "Señor Pérez",
+      "Señor Anderson",
+      "Señor Thompson",
+      "Señor Brown"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Pese a que el agente le pisa el pie repitiéndole \"Hola, Señor Thompson\", Homero sólo voltea al vecino susurrando \"Creo que le habla a usted\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_mr_thompson",
     "activa": true,
     "aptaFamilia": true,
@@ -366,11 +626,21 @@
   {
     "id": "simp_027",
     "enunciado": "En \"Sólo se muda dos veces\", ¿cómo se llama la utópica ciudad planificada donde la familia vive mientras Homero trabaja para Hank Scorpio?",
-    "opciones": ["Capital City", "Shelbyville", "North Haverbrook", "Cypress Creek"],
+    "opciones": [
+      "Capital City",
+      "Shelbyville",
+      "North Haverbrook",
+      "Cypress Creek"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Cypress Creek contaba con hamacas en el sector de trabajo, robótica avanzada y viviendas de lujo proporcionadas por Globex Corporation.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cypress_creek",
     "activa": true,
     "aptaFamilia": true,
@@ -380,11 +650,21 @@
   {
     "id": "simp_028",
     "enunciado": "Durante la misión espacial de la NASA de Homero con Buzz Aldrin, ¿qué bocadillo abre a escondidas arruinando el instrumental de vuelo?",
-    "opciones": ["Un paquete de papas fritas", "Un tarro de maníes tostados", "Una bolsa de malvaviscos", "Una barra de chocolate amargo"],
+    "opciones": [
+      "Un paquete de papas fritas",
+      "Un tarro de maníes tostados",
+      "Una bolsa de malvaviscos",
+      "Una barra de chocolate amargo"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Las papas fritas flotando en gravedad cero provocan una divertida escena donde Homero se desliza en el aire devorándolas todas.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_space_chips",
     "activa": true,
     "aptaFamilia": true,
@@ -394,11 +674,21 @@
   {
     "id": "simp_029",
     "enunciado": "¿Cómo apodaban en la planta nuclear a Frank Grimes, el estricto profesional que colapsó mentalmente por culpa de Homero?",
-    "opciones": ["Frankie el Sabio", "Grimey (o Grimy)", "Don Amargado", "El Cerebrito"],
+    "opciones": [
+      "Frankie el Sabio",
+      "Grimey (o Grimy)",
+      "Don Amargado",
+      "El Cerebrito"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Pese a que detestaba que lo llamaran \"Grimey\", Homero insistía cariñosamente en tratarlo con ese apodo hasta el trágico desenlace.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_frank_grimes",
     "activa": true,
     "aptaFamilia": true,
@@ -408,11 +698,21 @@
   {
     "id": "simp_030",
     "enunciado": "En el Festival de Cine de Springfield, ¿cuál fue el conmovedor título de la película biográfica de Barney Gumble que ganó el festival?",
-    "opciones": ["La última botella vacía", "Un brindis al olvido", "No lloren por mí, ya estoy muerto", "Lágrimas en la taberna"],
+    "opciones": [
+      "La última botella vacía",
+      "Un brindis al olvido",
+      "No lloren por mí, ya estoy muerto",
+      "Lágrimas en la taberna"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "\"No lloren por mí, ya estoy muerto\" conmovió al mismísimo jurado presidido por Jay Sherman, otorgándole el galardón principal.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_barney_movie",
     "activa": true,
     "aptaFamilia": true,
@@ -422,11 +722,21 @@
   {
     "id": "simp_031",
     "enunciado": "En la Noche de Brujas donde Homero firma un pacto demoníaco a cambio de una rosquilla, ¿quién resulta ser el Diablo?",
-    "opciones": ["El alcalde Diamante", "El Sr. Burns", "Moe Szyslak", "Ned Flanders"],
+    "opciones": [
+      "El alcalde Diamante",
+      "El Sr. Burns",
+      "Moe Szyslak",
+      "Ned Flanders"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Ned Flanders aparece con cuernos y cola explicando con una sonrisa bonachona: \"Siempre es el que menos imaginas\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_devil_flanders",
     "activa": true,
     "aptaFamilia": true,
@@ -436,11 +746,21 @@
   {
     "id": "simp_032",
     "enunciado": "En el célebre gag donde Homero retrocede y se desvanece lentamente en el jardín de Flanders (convertido en meme mundial), ¿en qué se camufla?",
-    "opciones": ["Un seto de arbustos verdes", "Una pila de abono orgánico", "El tronco de un manzano", "Un montón de ropa tendida"],
+    "opciones": [
+      "Un seto de arbustos verdes",
+      "Una pila de abono orgánico",
+      "El tronco de un manzano",
+      "Un montón de ropa tendida"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La animación de Homero hundiéndose de espaldas en el tupido arbusto verde es uno de los gifs más compartidos de la historia digital.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_homer_bushes",
     "activa": true,
     "aptaFamilia": true,
@@ -450,11 +770,21 @@
   {
     "id": "simp_033",
     "enunciado": "Al marcharse de Cypress Creek, ¿qué franquicia de fútbol americano le obsequia Hank Scorpio a Homero, dejándolo algo desilusionado?",
-    "opciones": ["Miami Dolphins", "Denver Broncos", "Dallas Cowboys", "San Francisco 49ers"],
+    "opciones": [
+      "Miami Dolphins",
+      "Denver Broncos",
+      "Dallas Cowboys",
+      "San Francisco 49ers"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Homero anhelaba ser dueño de los Dallas Cowboys y suspira frustrado viendo a los Denver Broncos tropezar en su propio patio.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_denver_broncos",
     "activa": true,
     "aptaFamilia": true,
@@ -464,11 +794,21 @@
   {
     "id": "simp_034",
     "enunciado": "En la clásica disputa vecinal entre Springfield y Shelbyville, ¿qué preciado árbol comunitario es hurtado por los chicos de Shelbyville?",
-    "opciones": ["El manzano histórico", "El roble de la fundación", "El limonero de Springfield", "El sauce centenario"],
+    "opciones": [
+      "El manzano histórico",
+      "El roble de la fundación",
+      "El limonero de Springfield",
+      "El sauce centenario"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Bart encabeza una cruzada de rescate para recuperar el árbol de limones sagrado plantado desde la fundación de la ciudad.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lemon_tree",
     "activa": true,
     "aptaFamilia": true,
@@ -478,11 +818,21 @@
   {
     "id": "simp_035",
     "enunciado": "Cuando Moe busca atraer familias a su negocio transformándolo en un restaurante temático infantil, ¿cómo lo nombra?",
-    "opciones": ["La Taberna Alegre de Moe", "Hamburguesas y Sonrisas Moe", "El Rincón de las Rosquillas", "Restaurante Familiar El Tío Moe"],
+    "opciones": [
+      "La Taberna Alegre de Moe",
+      "Hamburguesas y Sonrisas Moe",
+      "El Rincón de las Rosquillas",
+      "Restaurante Familiar El Tío Moe"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "En \"El Tío Moe\" los meseros llevaban gorros extravagantes y servían \"papas fritas sonrientes\" hasta que el estrés colmó la paciencia de Moe.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_uncle_moes",
     "activa": true,
     "aptaFamilia": true,
@@ -492,11 +842,21 @@
   {
     "id": "simp_036",
     "enunciado": "En la granja familiar, ¿cómo se llamaba la adictiva hortaliza mutada con sabor a ceniza creada accidentalmente por Homero al plantar semillas con plutonio?",
-    "opciones": ["Tomaco (Tomacco)", "Patatate", "Tabacoria", "Nicotomate"],
+    "opciones": [
+      "Tomaco (Tomacco)",
+      "Patatate",
+      "Tabacoria",
+      "Nicotomate"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El Tomaco sabía espantoso pero contenía un porcentaje tan alto de nicotina que enloqueció a todo el pueblo y a los animales.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_tomacco",
     "activa": true,
     "aptaFamilia": true,
@@ -506,11 +866,21 @@
   {
     "id": "simp_037",
     "enunciado": "Cuando Marge intenta frecuentar el exclusivo club de campo, ¿de qué legendaria casa de alta costura es el elegante traje rosa que refacciona mil veces?",
-    "opciones": ["Christian Dior", "Chanel", "Gucci", "Versace"],
+    "opciones": [
+      "Christian Dior",
+      "Chanel",
+      "Gucci",
+      "Versace"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Marge compró el clásico conjunto Chanel por 90 dólares en una tienda de saldos y lo descosió y readaptó una y otra vez.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_marge_chanel",
     "activa": true,
     "aptaFamilia": true,
@@ -520,11 +890,21 @@
   {
     "id": "simp_038",
     "enunciado": "¿Por qué motivo el mánager Nigel despidió al Jefe Gorgory (Clancy Wiggum) de los Borbotones antes de lanzar su primer álbum?",
-    "opciones": ["No sabía cantar afinado", "Llegaba tarde a todos los ensayos", "Tenía un estilo demasiado idéntico al de Village People", "Se negó a viajar en avión"],
+    "opciones": [
+      "No sabía cantar afinado",
+      "Llegaba tarde a todos los ensayos",
+      "Tenía un estilo demasiado idéntico al de Village People",
+      "Se negó a viajar en avión"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Nigel señaló que un policía uniformado en el grupo resultaba un calco descarado de Village People, permitiendo la entrada de Barney.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_wiggum_be_sharps",
     "activa": true,
     "aptaFamilia": true,
@@ -534,11 +914,21 @@
   {
     "id": "simp_039",
     "enunciado": "Cuando Homero debuta como boxeador debido a su insólita resistencia a los golpes en la cabeza, ¿quién asume como su mánager y entrenador?",
-    "opciones": ["El Jardinero Willie", "Barney Gumble", "Apu Nahasapeemapetilon", "Moe Szyslak"],
+    "opciones": [
+      "El Jardinero Willie",
+      "Barney Gumble",
+      "Apu Nahasapeemapetilon",
+      "Moe Szyslak"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Moe utilizó su pasado pugilístico (donde peleaba con apodos como \"Moe el del Golpe Rápido\") para entrenar y guiar la carrera de Homero.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_homer_boxer",
     "activa": true,
     "aptaFamilia": true,
@@ -548,11 +938,21 @@
   {
     "id": "simp_040",
     "enunciado": "En el jingle del comercial televisivo de \"Don Barredora\", ¿cuál es la primera línea cantada por el propio Homero en español latino?",
-    "opciones": ["\"Me llamas Don Barredora, es lindo mi nombre, te limpio la nieve...\"", "\"Si nieva en tu calle, Don Barredora no falla...\"", "\"Viene Don Barredora a salvar tu motor...\"", "\"Con pala y camión, Barredora es campeón...\""],
+    "opciones": [
+      "\"Me llamas Don Barredora, es lindo mi nombre, te limpio la nieve...\"",
+      "\"Si nieva en tu calle, Don Barredora no falla...\"",
+      "\"Viene Don Barredora a salvar tu motor...\"",
+      "\"Con pala y camión, Barredora es campeón...\""
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El pegadizo jingle \"Me llamas Don Barredora, es lindo mi nombre, te limpio la nieve a bajo coste\" es un clásico imborrable.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_mr_plow_jingle",
     "activa": true,
     "aptaFamilia": true,
@@ -562,11 +962,21 @@
   {
     "id": "simp_041",
     "enunciado": "¿Cuál era el auténtico nombre del prócer fundador Jebediah Springfield, quien en realidad era un pirata y criminal despiadado?",
-    "opciones": ["Chester Lampwick", "Hans Sprungfeld", "Shelbyville Manhattan", "Cyrus Vance"],
+    "opciones": [
+      "Chester Lampwick",
+      "Hans Sprungfeld",
+      "Shelbyville Manhattan",
+      "Cyrus Vance"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Lisa descubrió en el museo que Jebediah era en verdad Hans Sprungfeld, un prófugo con lengua de plata que intentó matar a George Washington.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_hans_sprungfeld",
     "activa": true,
     "aptaFamilia": true,
@@ -576,11 +986,21 @@
   {
     "id": "simp_042",
     "enunciado": "En el recuerdo de su cautiverio en la guerra de Vietnam, ¿cuál era el número de prisionero del Director Skinner (homenaje a Jean Valjean)?",
-    "opciones": ["11380", "90210", "24601", "74205"],
+    "opciones": [
+      "11380",
+      "90210",
+      "24601",
+      "74205"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El número 24601 es un célebre homenaje de los guionistas al recluso Jean Valjean de \"Los Miserables\" de Víctor Hugo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_skinner_prisoner_number",
     "activa": true,
     "aptaFamilia": true,
@@ -590,11 +1010,21 @@
   {
     "id": "simp_043",
     "enunciado": "En el controversial episodio de la novena temporada, ¿cuál es la verdadera identidad del ex soldado que usurpó el lugar de Seymour Skinner?",
-    "opciones": ["Joey Jo-Jo Shabadoo", "Karl Henderson", "Artie Ziff", "Armando Barreda (Armin Tamzarian)"],
+    "opciones": [
+      "Joey Jo-Jo Shabadoo",
+      "Karl Henderson",
+      "Artie Ziff",
+      "Armando Barreda (Armin Tamzarian)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El juez Snyder ordenó bajo pena de tortura que jamás se volviera a mencionar el nombre de Armando Barreda en Springfield.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_armin_tamzarian",
     "activa": true,
     "aptaFamilia": true,
@@ -604,11 +1034,21 @@
   {
     "id": "simp_044",
     "enunciado": "¿Cuál es el número y calle oficial y canónica de la residencia de la familia Simpson en Springfield?",
-    "opciones": ["742 Avenida Siempreviva (Evergreen Terrace)", "123 Calle Siempreviva", "432 Avenida de las Palmeras", "109 Pasaje Falso"],
+    "opciones": [
+      "742 Avenida Siempreviva (Evergreen Terrace)",
+      "123 Calle Siempreviva",
+      "432 Avenida de las Palmeras",
+      "109 Pasaje Falso"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "742 Evergreen Terrace (Avenida Siempreviva) es la dirección definitiva y más consistente a lo largo de toda la serie.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_evergreen_address",
     "activa": true,
     "aptaFamilia": true,
@@ -618,11 +1058,21 @@
   {
     "id": "simp_045",
     "enunciado": "Tras arruinarse financieramente por culpa del coche diseñado por Homero, ¿con qué invento recupera la fortuna Herbert Powell?",
-    "opciones": ["Un dispensador doméstico de cerveza", "Un traductor del llanto de los bebés", "Una alarma automática para niños traviesos", "Una cafetera con reloj despertador"],
+    "opciones": [
+      "Un dispensador doméstico de cerveza",
+      "Un traductor del llanto de los bebés",
+      "Una alarma automática para niños traviesos",
+      "Una cafetera con reloj despertador"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Herb usó a la bebé Maggie como sujeto de pruebas y construyó el revolucionario traductor que interpretaba los balbuceos infantiles.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_herb_powell_invention",
     "activa": true,
     "aptaFamilia": true,
@@ -632,11 +1082,21 @@
   {
     "id": "simp_046",
     "enunciado": "En \"Cabo de Miedos\", ¿qué famosa opereta de Gilbert y Sullivan interpreta Bob Patiño a petición de Bart para demorar su asesinato?",
-    "opciones": ["Los Piratas de Penzance", "El Mikado", "H.M.S. Pinafore", "La Góndola Dorada"],
+    "opciones": [
+      "Los Piratas de Penzance",
+      "El Mikado",
+      "H.M.S. Pinafore",
+      "La Góndola Dorada"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Bob Patiño no pudo resistirse a su vanidad artística e interpretó \"H.M.S. Pinafore\" con escenografía incluida hasta encallar en Springfield.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cape_feare_operetta",
     "activa": true,
     "aptaFamilia": true,
@@ -646,11 +1106,21 @@
   {
     "id": "simp_047",
     "enunciado": "¿Qué icónico guionista y luego célebre presentador de late night de la TV estadounidense escribió el histórico episodio del Monorriel?",
-    "opciones": ["David Letterman", "Jimmy Fallon", "Jay Leno", "Conan O'Brien"],
+    "opciones": [
+      "David Letterman",
+      "Jimmy Fallon",
+      "Jay Leno",
+      "Conan O'Brien"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Conan O'Brien fue uno de los guionistas estrella de la edad dorada de la serie y escribió episodios cumbre como 'Marge contra el monorriel'.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_conan_monorail",
     "activa": true,
     "aptaFamilia": true,
@@ -660,11 +1130,21 @@
   {
     "id": "simp_048",
     "enunciado": "En la temporada 12, ¿qué insólito objeto incrustado en el cerebro de Homero desde los seis años era la causa de su torpeza mental?",
-    "opciones": ["Un crayón de cera (azul)", "Una pieza pequeña de Lego", "Una bolita de vidrio (canica)", "Un resorte de lapicera"],
+    "opciones": [
+      "Un crayón de cera (azul)",
+      "Una pieza pequeña de Lego",
+      "Una bolita de vidrio (canica)",
+      "Un resorte de lapicera"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Al extraer el crayón alojado en su lóbulo frontal, el coeficiente intelectual de Homero se disparó a 105, volviéndose brillante e incomprendido.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_crayon_brain",
     "activa": true,
     "aptaFamilia": true,
@@ -674,11 +1154,21 @@
   {
     "id": "simp_049",
     "enunciado": "¿Quién es el verdadero mendigo creador del ratón Tomy (Itchy) a quien Roger Meyers le robó el dibujo animado en 1919?",
-    "opciones": ["Chester J. Lampwick", "Gabbo el Ventrílocuo", "Bleeding Gums Murphy", "Arthur Fortune"],
+    "opciones": [
+      "Chester J. Lampwick",
+      "Gabbo el Ventrílocuo",
+      "Bleeding Gums Murphy",
+      "Arthur Fortune"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Con la ayuda de Bart, Chester J. Lampwick demandó a los estudios Itchy & Scratchy y cobró una indemnización de 800 mil millones de dólares.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_chester_lampwick",
     "activa": true,
     "aptaFamilia": true,
@@ -688,11 +1178,21 @@
   {
     "id": "simp_050",
     "enunciado": "¿Cómo se apodó Barney Gumble en el negocio rival de barredora de nieve que compitió contra Don Barredora de Homero?",
-    "opciones": ["El Tornado Blanco", "El Rey de las Nieves (Plow King)", "El Titán del Hielo", "Don Ventisca"],
+    "opciones": [
+      "El Tornado Blanco",
+      "El Rey de las Nieves (Plow King)",
+      "El Titán del Hielo",
+      "Don Ventisca"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Barney compró un camión enorme y grabó un comercial con Linda Ronstadt bautizándose como \"El Rey de las Nieves\".",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_plow_king",
     "activa": true,
     "aptaFamilia": true,
@@ -702,11 +1202,21 @@
   {
     "id": "simp_051",
     "enunciado": "¿Cuál es el apellido completo del malhumorado y solitario tabernero Moe, amigo incondicional de Homero?",
-    "opciones": ["Muntz", "Gumble", "Szyslak", "Van Houten"],
+    "opciones": [
+      "Muntz",
+      "Gumble",
+      "Szyslak",
+      "Van Houten"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Moe Szyslak es el dueño y cantinero de la taberna de Moe ubicada en la esquina de la calle Walnut.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_moe_szyslak",
     "activa": true,
     "aptaFamilia": true,
@@ -716,11 +1226,21 @@
   {
     "id": "simp_052",
     "enunciado": "En la mítica canción del Sr. Burns sobre los cachorros dálmatas, ¿qué prenda soñaba confeccionar con sus pieles?",
-    "opciones": ["Un chaleco de gala", "Un tapado de invierno", "Un sombrero de copa", "Unos guantes de seda"],
+    "opciones": [
+      "Un chaleco de gala",
+      "Un tapado de invierno",
+      "Un sombrero de copa",
+      "Unos guantes de seda"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "En su célebre número musical estilo Broadway, Burns canta \"¡Vean mi chaleco, de cachorros es mi chaleco!\".",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_see_my_vest",
     "activa": true,
     "aptaFamilia": true,
@@ -730,11 +1250,21 @@
   {
     "id": "simp_053",
     "enunciado": "Cuando Homero aumenta intencionalmente de peso para hacer teletrabajo desde el sillón, ¿qué prenda floreada usa como ropa cotidiana?",
-    "opciones": ["Una bata de toalla", "Una sábana con tirantes", "Un mameluco floreado (Muumuu)", "Un poncho mexicano"],
+    "opciones": [
+      "Una bata de toalla",
+      "Una sábana con tirantes",
+      "Un mameluco floreado (Muumuu)",
+      "Un poncho mexicano"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Homero no entra en su ropa habitual y adopta un vestido amplio hawaiano (muumuu) con una gorra blanca.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_king_size_homer",
     "activa": true,
     "aptaFamilia": true,
@@ -744,11 +1274,21 @@
   {
     "id": "simp_054",
     "enunciado": "¿Qué aclamado actor de doblaje mexicano le dio la voz en español latino a Homero Simpson durante las primeras 15 temporadas clásicas?",
-    "opciones": ["Humberto Vélez", "Mario Castañeda", "Gabriel Chávez", "René García"],
+    "opciones": [
+      "Humberto Vélez",
+      "Mario Castañeda",
+      "Gabriel Chávez",
+      "René García"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Humberto Vélez inmortalizó la personalidad, modismos y espontaneidad de Homero en toda América Latina.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_humberto_velez",
     "activa": true,
     "aptaFamilia": true,
@@ -758,11 +1298,21 @@
   {
     "id": "simp_055",
     "enunciado": "¿Cuál es la interjección o gruñido característico que emite Homero Simpson cada vez que algo sale mal o comete una torpeza?",
-    "opciones": ["¡Caramba!", "¡Yabba Dabba Doo!", "¡D'oh! (¡Ouch!)", "¡Bazinga!"],
+    "opciones": [
+      "¡Caramba!",
+      "¡Yabba Dabba Doo!",
+      "¡D'oh! (¡Ouch!)",
+      "¡Bazinga!"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El icónico \"¡D'oh!\" (traducido como \"¡Ouch!\" en los guiones y doblajes) fue incluso reconocido en el Diccionario de Oxford.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_doh",
     "activa": true,
     "aptaFamilia": true,
@@ -772,11 +1322,21 @@
   {
     "id": "simp_056",
     "enunciado": "¿Cómo se llama el refinado y celoso hermano menor de Bob Patiño que trabaja como ingeniero hidráulico en la represa?",
-    "opciones": ["Neil Patiño", "Victor Patiño", "Arthur Patiño", "Cecil Patiño (Cecil Terwilliger)"],
+    "opciones": [
+      "Neil Patiño",
+      "Victor Patiño",
+      "Arthur Patiño",
+      "Cecil Patiño (Cecil Terwilliger)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Cecil Terwilliger audicionó toda la vida para ser asistente de Krusty, pero el payaso eligió accidentalmente a su hermano Bob.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cecil_terwilliger",
     "activa": true,
     "aptaFamilia": true,
@@ -786,11 +1346,21 @@
   {
     "id": "simp_057",
     "enunciado": "¿Cuál es la ocupación diaria del despreocupado y rockero Otto Mann en la Escuela Primaria de Springfield?",
-    "opciones": ["Profesor de gimnasia", "Chofer del autobús escolar", "Conserje suplente", "Profesor de música"],
+    "opciones": [
+      "Profesor de gimnasia",
+      "Chofer del autobús escolar",
+      "Conserje suplente",
+      "Profesor de música"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Otto maneja el autobús amarillo mientras escucha heavy metal en sus audífonos y esquiva multas de tránsito.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_otto_mann",
     "activa": true,
     "aptaFamilia": true,
@@ -800,11 +1370,21 @@
   {
     "id": "simp_058",
     "enunciado": "¿Cómo se llama la cadena de minimercados de 24 horas atendida por Apu Nahasapeemapetilon en Springfield?",
-    "opciones": ["Seven Eleven", "Super Apu Express", "Kwik-E-Mart (El Minisúper)", "Springfield Market"],
+    "opciones": [
+      "Seven Eleven",
+      "Super Apu Express",
+      "Kwik-E-Mart (El Minisúper)",
+      "Springfield Market"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El Kwik-E-Mart (popularizado en la canción \"A quién le importa el Minisúper\") es el lugar donde compran Buzz Cola y revistas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_kwik_e_mart",
     "activa": true,
     "aptaFamilia": true,
@@ -814,11 +1394,21 @@
   {
     "id": "simp_059",
     "enunciado": "Indignada con las frases superficiales de la muñeca Stacy Malibú, ¿qué muñeca con valores crea Lisa con ayuda de su creadora original?",
-    "opciones": ["Lisa Inteligente", "Lisa Sabiduría", "Lisa Heroína", "Lisa Corazón de León (Lisa Lionheart)"],
+    "opciones": [
+      "Lisa Inteligente",
+      "Lisa Sabiduría",
+      "Lisa Heroína",
+      "Lisa Corazón de León (Lisa Lionheart)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Lisa diseñó a Lisa Corazón de León, que incluía frases inspiradoras como: \"Cuando confías en ti misma, logras cualquier cosa\".",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lisa_lionheart",
     "activa": true,
     "aptaFamilia": true,
@@ -828,11 +1418,21 @@
   {
     "id": "simp_060",
     "enunciado": "En el famoso meme del recorte del periódico de Springfield, ¿a qué le está gritando con el puño en alto el Abuelo Abe Simpson?",
-    "opciones": ["A un semáforo roto", "A una paloma en la plaza", "A un auto eléctrico", "A una nube en el cielo"],
+    "opciones": [
+      "A un semáforo roto",
+      "A una paloma en la plaza",
+      "A un auto eléctrico",
+      "A una nube en el cielo"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El titular del periódico \"Hombre anciano le grita a una nube\" se transformó en un meme global sobre las quejas absurdas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cloud_yelling",
     "activa": true,
     "aptaFamilia": true,
@@ -842,11 +1442,21 @@
   {
     "id": "simp_061",
     "enunciado": "¿De qué nación de origen es el temperamental jardinero y conserje Willie de la Escuela Primaria de Springfield?",
-    "opciones": ["Irlanda", "Escocia", "Gales", "Australia"],
+    "opciones": [
+      "Irlanda",
+      "Escocia",
+      "Gales",
+      "Australia"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Willie es un orgulloso escocés de Glasgow que toca la gaita, adora la falda escocesa y lucha contra lobos salvajes.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_willie_scotland",
     "activa": true,
     "aptaFamilia": true,
@@ -856,11 +1466,21 @@
   {
     "id": "simp_062",
     "enunciado": "¿Cuál de las siguientes es una de las frases características más famosas y repetidas por Bart Simpson ante el peligro o la sorpresa?",
-    "opciones": ["\"¡Por los clavos de Cristo!\"", "\"¡Santos cielos!\"", "\"¡Qué desastre!\"", "\"¡Ay, caramba!\""],
+    "opciones": [
+      "\"¡Por los clavos de Cristo!\"",
+      "\"¡Santos cielos!\"",
+      "\"¡Qué desastre!\"",
+      "\"¡Ay, caramba!\""
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "\"¡Ay, caramba!\" es la expresión insignia de Bart pronunciada desde los primeros cortos y especiales de la serie.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_ay_caramba",
     "activa": true,
     "aptaFamilia": true,
@@ -870,11 +1490,21 @@
   {
     "id": "simp_063",
     "enunciado": "¿Cuál es la cadena de hamburguesas de comida rápida más popular y grasosa de la ciudad propiedad del payaso Krusty?",
-    "opciones": ["Krusty Burger", "Payaso Feliz", "Springfield Burger", "Krusty King"],
+    "opciones": [
+      "Krusty Burger",
+      "Payaso Feliz",
+      "Springfield Burger",
+      "Krusty King"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Krusty Burger es el restaurante donde sirven la \"Costillita\" (Ribwich) y hamburguesas con cuestionables estándares bromatológicos.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_krusty_burger",
     "activa": true,
     "aptaFamilia": true,
@@ -884,11 +1514,21 @@
   {
     "id": "simp_064",
     "enunciado": "Cuando Bart se tropieza en vivo y tira la escenografía en el show de Krusty, ¿qué frase espontánea lo convierte en una celebridad millonaria?",
-    "opciones": ["\"Fue sin querer\"", "\"Yo no fui (I didn't do it)\"", "\"Nadie lo vio\"", "\"No me miren a mí\""],
+    "opciones": [
+      "\"Fue sin querer\"",
+      "\"Yo no fui (I didn't do it)\"",
+      "\"Nadie lo vio\"",
+      "\"No me miren a mí\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "El sketch \"Yo no fui\" convirtió a Bart en un fenómeno mediático masivo con camisetas, discos y merchandising de todo tipo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_yo_no_fui",
     "activa": true,
     "aptaFamilia": true,
@@ -898,11 +1538,21 @@
   {
     "id": "simp_065",
     "enunciado": "¿Cuál de las hermanas gemelas de Marge estuvo casada fugazmente con el actor Troy McClure y con Bob Patiño?",
-    "opciones": ["Selma Bouvier", "Patty Bouvier", "Gladys Bouvier", "Jacqueline Bouvier"],
+    "opciones": [
+      "Selma Bouvier",
+      "Patty Bouvier",
+      "Gladys Bouvier",
+      "Jacqueline Bouvier"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Selma Bouvier (quien luego adoptó el apellido Selma Bouvier-Terwilliger-Hutz-McClure-Simpson) es la gemela que siempre busca el amor.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_selma_bouvier",
     "activa": true,
     "aptaFamilia": true,
@@ -912,11 +1562,21 @@
   {
     "id": "simp_066",
     "enunciado": "¿Quién es el actor austríaco musculoso de películas de acción de Springfield que interpreta al implacable héroe McBain?",
-    "opciones": ["Arnold Schwarzenegger", "Rainier Wolfcastle", "Dirk Richter", "Troy McClure"],
+    "opciones": [
+      "Arnold Schwarzenegger",
+      "Rainier Wolfcastle",
+      "Dirk Richter",
+      "Troy McClure"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Rainier Wolfcastle es una sátira directa de Arnold Schwarzenegger, famoso por su papel de McBain y sus diálogos solemnes.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_rainier_wolfcastle",
     "activa": true,
     "aptaFamilia": true,
@@ -926,11 +1586,21 @@
   {
     "id": "simp_067",
     "enunciado": "¿Cómo se llama el simpático y despistado científico local con anteojos y bata que inventa artefactos extravagantes como las zapatillas voladoras?",
-    "opciones": ["Profesor John Frink", "Doctor Nick Riviera", "Doctor Marvin Monroe", "Doctor Julius Hibbert"],
+    "opciones": [
+      "Profesor John Frink",
+      "Doctor Nick Riviera",
+      "Doctor Marvin Monroe",
+      "Doctor Julius Hibbert"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El Profesor John Frink habla con peculiares muletillas y ruidos vocales mientras inventa dispositivos que desafían las leyes físicas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_prof_frink",
     "activa": true,
     "aptaFamilia": true,
@@ -940,11 +1610,21 @@
   {
     "id": "simp_068",
     "enunciado": "En el diálogo que se volvió meme, ¿a quién le reprocha Homero con nostalgia: \"¡Tú antes eras chévere!\"?",
-    "opciones": ["Al Abuelo Abe Simpson", "A su vieja chaqueta de cuero", "A Ned Flanders", "A Marge Simpson"],
+    "opciones": [
+      "Al Abuelo Abe Simpson",
+      "A su vieja chaqueta de cuero",
+      "A Ned Flanders",
+      "A Marge Simpson"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Homero le dice a Marge \"¡Tú antes eras chévere!\" cuando ella le pide sensatez y madurez ante sus ocurrencias infantiles.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_eras_chevere",
     "activa": true,
     "aptaFamilia": true,
@@ -954,11 +1634,21 @@
   {
     "id": "simp_069",
     "enunciado": "Cuando Bart gana el concurso telefónico de la radio KBBL, ¿qué insólita mascota gigante elige en vez de los 10.000 dólares en efectivo?",
-    "opciones": ["Un gorila albino", "Un dinosaurio mecánico", "Un elefante africano (Pisotones)", "Un león de circo"],
+    "opciones": [
+      "Un gorila albino",
+      "Un dinosaurio mecánico",
+      "Un elefante africano (Pisotones)",
+      "Un león de circo"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Bart insistió en llevarse al elefante Pisotones (Stampy), desatando un caos financiero para la familia por su inmenso apetito.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_stampy_elephant",
     "activa": true,
     "aptaFamilia": true,
@@ -968,11 +1658,21 @@
   {
     "id": "simp_070",
     "enunciado": "¿Cuál es la carcajada burlona en dos tonos con la que Nelson Muntz festeja las humillaciones y desgracias de sus compañeros?",
-    "opciones": ["\"¡Ja-ja! (Ha-Ha!)\"", "\"¡Ji-ji!\"", "\"¡Jo-jo!\"", "\"¡Je-je!\""],
+    "opciones": [
+      "\"¡Ja-ja! (Ha-Ha!)\"",
+      "\"¡Ji-ji!\"",
+      "\"¡Jo-jo!\"",
+      "\"¡Je-je!\""
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La sonora burla \"¡Ja-ja!\" señalando con el dedo es la marca registrada universal de Nelson Muntz.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_nelson_haha",
     "activa": true,
     "aptaFamilia": true,
@@ -982,11 +1682,21 @@
   {
     "id": "simp_071",
     "enunciado": "Al ingresar a Los Magios, ¿qué pesadísimo castigo de bienvenida debe soportar Homero atado al cuello antes de su consagración?",
-    "opciones": ["El yugo del castigo", "El grillete del silencio", "La cadena de la penitencia", "La piedra de la vergüenza"],
+    "opciones": [
+      "El yugo del castigo",
+      "El grillete del silencio",
+      "La cadena de la penitencia",
+      "La piedra de la vergüenza"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El Número Uno le hace arrastrar la piedra de la vergüenza, y tras descubrir su marca, la retiran y le colocan la \"piedra del triunfo\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_stone_of_shame",
     "activa": true,
     "aptaFamilia": true,
@@ -996,11 +1706,21 @@
   {
     "id": "simp_072",
     "enunciado": "¿Cómo se llama la ultraviolenta caricatura del gato y el ratón transmitida durante el programa de televisión de Krusty el Payaso?",
-    "opciones": ["Tom y Jerry", "Silvestre y Piolín", "Rascacielos y Ratón", "Tomy y Daly (Itchy & Scratchy)"],
+    "opciones": [
+      "Tom y Jerry",
+      "Silvestre y Piolín",
+      "Rascacielos y Ratón",
+      "Tomy y Daly (Itchy & Scratchy)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Tomy y Daly parodia las caricaturas clásicas con muertes sangrientas, explosiones y mutilaciones cómicas de Daly a manos de Tomy.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_itchy_scratchy",
     "activa": true,
     "aptaFamilia": true,
@@ -1010,11 +1730,21 @@
   {
     "id": "simp_073",
     "enunciado": "En \"Homero al bate\", ¿qué superestrella de béisbol de los Isótopos desarrolla una gigantesca inflamación craneal por tomar tónico del Sr. Burns?",
-    "opciones": ["Wade Boggs", "Ken Griffey Jr.", "Jose Canseco", "Roger Clemens"],
+    "opciones": [
+      "Wade Boggs",
+      "Ken Griffey Jr.",
+      "Jose Canseco",
+      "Roger Clemens"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Ken Griffey Jr. abusa del tónico milagroso para nervios del Sr. Burns hasta que su cabeza se infla como un globo aerostático.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_ken_griffey_bat",
     "activa": true,
     "aptaFamilia": true,
@@ -1024,11 +1754,21 @@
   {
     "id": "simp_074",
     "enunciado": "Cuando unos empresarios alemanes compran la Planta Nuclear, ¿en qué idílico paraíso dulce se distrae Homero en su imaginación?",
-    "opciones": ["La Tierra del Chocolate", "El Valle de las Rosquillas", "La Ciudad del Caramelo", "La Montaña de los Waffles"],
+    "opciones": [
+      "La Tierra del Chocolate",
+      "El Valle de las Rosquillas",
+      "La Ciudad del Caramelo",
+      "La Montaña de los Waffles"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Homero baila feliz al compás de música tirolesa por La Tierra del Chocolate, mordiendo faroles y comiendo conejos de cacao con 50% de descuento.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_land_of_chocolate",
     "activa": true,
     "aptaFamilia": true,
@@ -1038,11 +1778,21 @@
   {
     "id": "simp_075",
     "enunciado": "¿Qué personaje recurrente de Springfield suele gritar con dramatismo: \"¡Alguien por favor quiere pensar en los niños!\"?",
-    "opciones": ["Maude Flanders", "Luann Van Houten", "Helen Alegría (Helen Lovejoy)", "Agnes Skinner"],
+    "opciones": [
+      "Maude Flanders",
+      "Luann Van Houten",
+      "Helen Alegría (Helen Lovejoy)",
+      "Agnes Skinner"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Helen Alegría, la esposa chismosa del Reverendo Alegría, utiliza habitualmente esa melodramática súplica en el ayuntamiento.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_think_of_the_children",
     "activa": true,
     "aptaFamilia": true,
@@ -1052,11 +1802,21 @@
   {
     "id": "simp_076",
     "enunciado": "Durante la huelga por el plan dental, ¿qué conmovedor estribillo entona Lisa con su guitarra acústica frente a los obreros de la planta?",
-    "opciones": ["\"No doblaremos la espalda ante el patrón\"", "\"Ellos tienen la planta, pero nosotros el poder\"", "\"El sol brillará sobre los trabajadores\"", "\"Lucha sin tregua por el convenio laboral\""],
+    "opciones": [
+      "\"No doblaremos la espalda ante el patrón\"",
+      "\"Ellos tienen la planta, pero nosotros el poder\"",
+      "\"El sol brillará sobre los trabajadores\"",
+      "\"Lucha sin tregua por el convenio laboral\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La canción de protesta de Lisa conmueve a toda la asamblea e incluso despierta un fugaz momento de nostalgia melancólica en el Sr. Burns.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lisa_strike_song",
     "activa": true,
     "aptaFamilia": true,
@@ -1066,11 +1826,21 @@
   {
     "id": "simp_077",
     "enunciado": "Ante la inminente caída del cometa descubierto por Bart sobre Springfield, ¿en qué búnker subterráneo se hacinan todos los vecinos?",
-    "opciones": ["El sótano de la taberna de Moe", "La bóveda del banco central", "El sótano de la escuela primaria", "El refugio antibombas de Ned Flanders"],
+    "opciones": [
+      "El sótano de la taberna de Moe",
+      "La bóveda del banco central",
+      "El sótano de la escuela primaria",
+      "El refugio antibombas de Ned Flanders"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Flanders había construido un refugio para su familia, pero con generosidad desmedida terminó albergando a casi todo el pueblo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_flanders_bunker",
     "activa": true,
     "aptaFamilia": true,
@@ -1080,11 +1850,21 @@
   {
     "id": "simp_078",
     "enunciado": "En el meme donde Milhouse exclama jubiloso \"¡Todo marcha sobre ruedas!\", ¿qué hecho insignificante celebra con sus pantalones doblados?",
-    "opciones": ["Que aprobó matemáticas con 4", "Que encontró una moneda de 25 centavos", "Que sus tobillos se mantuvieron secos de la inundación", "Que Nelson faltó a la escuela"],
+    "opciones": [
+      "Que aprobó matemáticas con 4",
+      "Que encontró una moneda de 25 centavos",
+      "Que sus tobillos se mantuvieron secos de la inundación",
+      "Que Nelson faltó a la escuela"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Mientras su habitación se inunda, Milhouse se dobla el pantalón y exclama victorioso: \"¡Todo marcha sobre ruedas, Milhouse! ¡Mis tobillos están secos!\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_coming_up_milhouse",
     "activa": true,
     "aptaFamilia": true,
@@ -1094,11 +1874,21 @@
   {
     "id": "simp_079",
     "enunciado": "¿Con qué célebre frase introductoria suele presentarse en videos educativos y comerciales el actor en decadencia Troy McClure?",
-    "opciones": ["\"¡Hola a todos, soy el gran Troy McClure!\"", "\"Tal vez me recuerden de películas (o documentales) como...\"", "\"Amigos de la pantalla, soy Troy McClure...\"", "\"Si no me conocen, dejen que me presente...\""],
+    "opciones": [
+      "\"¡Hola a todos, soy el gran Troy McClure!\"",
+      "\"Tal vez me recuerden de películas (o documentales) como...\"",
+      "\"Amigos de la pantalla, soy Troy McClure...\"",
+      "\"Si no me conocen, dejen que me presente...\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Troy McClure siempre cita películas absurdas como \"El plomo: ¿amigo o enemigo?\" o \"Cuidado con la laringe del hombre lobo\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_troy_mcclure_intro",
     "activa": true,
     "aptaFamilia": true,
@@ -1108,11 +1898,21 @@
   {
     "id": "simp_080",
     "enunciado": "¿Cuál es el verdadero nombre completo de nacimiento del payaso Krusty revelado al reencontrarse con su padre el rabino Hyman?",
-    "opciones": ["Herschel Shmoikel Pinchas Yerucham Krustofsky", "Abraham Benjamin Krusty", "Samuel Joseph Krustofsky", "Isaac Hyman Levinson"],
+    "opciones": [
+      "Herschel Shmoikel Pinchas Yerucham Krustofsky",
+      "Abraham Benjamin Krusty",
+      "Samuel Joseph Krustofsky",
+      "Isaac Hyman Levinson"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Herschel Krustofsky renunció a la tradición rabínica familiar para dedicarse al humor circense infantil.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_krusty_real_name",
     "activa": true,
     "aptaFamilia": true,
@@ -1122,11 +1922,21 @@
   {
     "id": "simp_081",
     "enunciado": "En el inicio de \"El verano de cuatro pies y dos pulgadas\", ¿cómo termina Bart con la pierna fracturada y enyesada durante el calor estival?",
-    "opciones": ["Al caerse de su patineta haciendo trucos", "Al ser embestido por el auto de Homero", "Al saltar desde la casita del árbol buscando caer en la piscina", "Al resbalar en el tobogán de agua"],
+    "opciones": [
+      "Al caerse de su patineta haciendo trucos",
+      "Al ser embestido por el auto de Homero",
+      "Al saltar desde la casita del árbol buscando caer en la piscina",
+      "Al resbalar en el tobogán de agua"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Bart salta de la casa del árbol entusiasmado al grito de \"¡Bomba!\", pero la piscina se mueve y aterriza seco sobre el césped.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bart_broken_leg",
     "activa": true,
     "aptaFamilia": true,
@@ -1136,11 +1946,21 @@
   {
     "id": "simp_082",
     "enunciado": "¿De qué extensión aproximada era el sándwich gigante de fiesta que Homero conservó detrás del refrigerador hasta intoxicarse gravemente?",
-    "opciones": ["Cinco metros de largo", "Diez pies (casi 3 metros)", "Un metro y medio", "Veinte pulgadas"],
+    "opciones": [
+      "Cinco metros de largo",
+      "Diez pies (casi 3 metros)",
+      "Un metro y medio",
+      "Veinte pulgadas"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Homero comió del sándwich descompuesto de 10 pies durante semanas enteras, llegando a enfermar y tener visiones alucinógenas.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_giant_sandwich",
     "activa": true,
     "aptaFamilia": true,
@@ -1150,11 +1970,21 @@
   {
     "id": "simp_083",
     "enunciado": "¿Cómo se llama el restaurante tenedor libre de pescados y mariscos del Capitán McCallister que Homero demandó por echarlo?",
-    "opciones": ["La Ballena Voraz", "El Cangrejo Feliz", "El Puerto de Moe", "El Holandés Cocinante (The Frying Dutchman)"],
+    "opciones": [
+      "La Ballena Voraz",
+      "El Cangrejo Feliz",
+      "El Puerto de Moe",
+      "El Holandés Cocinante (The Frying Dutchman)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Homero demandó a \"El Holandés Cocinante\" por publicidad engañosa porque el cartel prometía \"todo lo que pueda comer\" y lo expulsaron al cerrar.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_frying_dutchman",
     "activa": true,
     "aptaFamilia": true,
@@ -1164,11 +1994,21 @@
   {
     "id": "simp_084",
     "enunciado": "¿Cuál es el sector exacto de la Planta Nuclear de Springfield asignado a Homero donde se ubica su consola de control?",
-    "opciones": ["Sector 7G", "Sector 4B", "Sector 12A", "Sector 9F"],
+    "opciones": [
+      "Sector 7G",
+      "Sector 4B",
+      "Sector 12A",
+      "Sector 9F"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El sector 7G es el apartado donde Homero duerme siestas con una rosquilla en la mano mientras las alarmas titilan.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_sector_7g",
     "activa": true,
     "aptaFamilia": true,
@@ -1178,11 +2018,21 @@
   {
     "id": "simp_085",
     "enunciado": "¿Cómo se llama el abogado incompetente, sin ética y con oficina en un centro comercial que representa habitualmente a Homero en los tribunales?",
-    "opciones": ["Lionel Hutz", "Gil Gunderson", "Artie Ziff", "Chester Lampwick"],
+    "opciones": [
+      "Lionel Hutz",
+      "Gil Gunderson",
+      "Artie Ziff",
+      "Chester Lampwick"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Lionel Hutz ofrecía consultas gratuitas con pizzas de cortesía y atendía bajo seudónimos como \"Miguel Sánchez\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lionel_hutz",
     "activa": true,
     "aptaFamilia": true,
@@ -1192,11 +2042,21 @@
   {
     "id": "simp_086",
     "enunciado": "¿Qué pregunta recurrente e inquisidora le formula siempre el Sr. Burns a Smithers al observar a Homero en las cámaras de seguridad?",
-    "opciones": ["\"¿Cuándo despidieron a ese infeliz?\"", "\"¿Quién es ese patán (o empleado), Smithers?\"", "\"¿Ese sujeto cobra un sueldo?\"", "\"¿Por qué no está trabajando ese holgazán?\""],
+    "opciones": [
+      "\"¿Cuándo despidieron a ese infeliz?\"",
+      "\"¿Quién es ese patán (o empleado), Smithers?\"",
+      "\"¿Ese sujeto cobra un sueldo?\"",
+      "\"¿Por qué no está trabajando ese holgazán?\""
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Sin importar cuántos años lleve Homero o cuántas veces le haya salvado la vida, Burns jamás recuerda quién es ni su nombre.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_who_is_that_burns",
     "activa": true,
     "aptaFamilia": true,
@@ -1206,11 +2066,21 @@
   {
     "id": "simp_087",
     "enunciado": "En la parodia de \"El Resplandor\" (The Shinning), ¿qué frase demencial mecanografía y pinta Homero sin cesar en las paredes?",
-    "opciones": ["\"La soledad corrompe el alma inmortal\"", "\"La nieve congela mis pensamientos\"", "\"Burns me obligó a no tomar alcohol\"", "\"Sin tele y sin cerveza, Homero pierde la cabeza\""],
+    "opciones": [
+      "\"La soledad corrompe el alma inmortal\"",
+      "\"La nieve congela mis pensamientos\"",
+      "\"Burns me obligó a no tomar alcohol\"",
+      "\"Sin tele y sin cerveza, Homero pierde la cabeza\""
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "\"Sin televisión y sin cerveza, Homero pierde la cabeza\" (parodia del \"No work and no play makes Jack a dull boy\" de Stephen King).",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_no_tv_no_beer",
     "activa": true,
     "aptaFamilia": true,
@@ -1220,11 +2090,21 @@
   {
     "id": "simp_088",
     "enunciado": "¿Qué frase con juego de palabras ferroviario contiene la tarjeta de San Valentín que Lisa le regala a Ralph Wiggum para consolarlo?",
-    "opciones": ["\"Te quiero a toda máquina\"", "\"El expreso del cariño eres tú\"", "\"Eres el chó-chó-escogido (I Choo-Choo-Choose You)\"", "\"Contigo viajo hasta el final\""],
+    "opciones": [
+      "\"Te quiero a toda máquina\"",
+      "\"El expreso del cariño eres tú\"",
+      "\"Eres el chó-chó-escogido (I Choo-Choo-Choose You)\"",
+      "\"Contigo viajo hasta el final\""
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La tarjeta mostraba un trencito sonriente con la frase \"I Choo-Choo-Choose You\", traducida entrañablemente como \"Eres el chó-chó-escogido\".",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_choo_choo_choose",
     "activa": true,
     "aptaFamilia": true,
@@ -1234,11 +2114,21 @@
   {
     "id": "simp_089",
     "enunciado": "En \"El enemigo de Homero\", ¿en qué certamen de nivel primario gana Homero el primer puesto frente al estupor y cólera de Frank Grimes?",
-    "opciones": ["Concurso de deletreo escolar", "Torneo de ajedrez rápido", "Concurso de maquetas de una central nuclear para niños", "Feria de ciencias de robots con pilas"],
+    "opciones": [
+      "Concurso de deletreo escolar",
+      "Torneo de ajedrez rápido",
+      "Concurso de maquetas de una central nuclear para niños",
+      "Feria de ciencias de robots con pilas"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Homero inscribió una maqueta para un certamen destinado exclusivamente a alumnos de primaria y el Sr. Burns le entregó el primer trofeo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_grimes_contest",
     "activa": true,
     "aptaFamilia": true,
@@ -1248,11 +2138,21 @@
   {
     "id": "simp_090",
     "enunciado": "¿Cuál es el verdadero nombre civil del Hombre de las Historietas (Comic Book Guy), dueño de La Mazmorra del Androide?",
-    "opciones": ["Jeff Albertson", "Arthur Fortune", "C. Montgomery Smith", "Kirk Van Houten"],
+    "opciones": [
+      "Jeff Albertson",
+      "Arthur Fortune",
+      "C. Montgomery Smith",
+      "Kirk Van Houten"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "El guionista Al Jean reveló su identidad en la temporada 16 nombrando al sarcástico coleccionista como Jeff Albertson.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_comic_book_guy_name",
     "activa": true,
     "aptaFamilia": true,
@@ -1262,11 +2162,21 @@
   {
     "id": "simp_091",
     "enunciado": "¿Cuál es el particular segundo nombre de Milhouse Van Houten revelado durante un juicio de divorcio de sus padres?",
-    "opciones": ["Napoleon", "Attila", "Mussolini", "Nero"],
+    "opciones": [
+      "Napoleon",
+      "Attila",
+      "Mussolini",
+      "Nero"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El nombre completo del mejor amigo de Bart es Milhouse Mussolini Van Houten, un detalle cómico y oscuro de los guionistas.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_milhouse_middle_name",
     "activa": true,
     "aptaFamilia": true,
@@ -1276,11 +2186,21 @@
   {
     "id": "simp_092",
     "enunciado": "¿Cómo se llama la madre biológica de Homero Simpson, activista política fugitiva que debió esconderse del FBI y del Sr. Burns durante décadas?",
-    "opciones": ["Mona Simpson", "Agnes Simpson", "Gladys Simpson", "Beatrice Simpson"],
+    "opciones": [
+      "Mona Simpson",
+      "Agnes Simpson",
+      "Gladys Simpson",
+      "Beatrice Simpson"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Mona Simpson huyó en los años 60 tras sabotear el laboratorio de armas bacteriológicas del Sr. Burns junto al grupo hippie.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_mona_simpson",
     "activa": true,
     "aptaFamilia": true,
@@ -1290,11 +2210,21 @@
   {
     "id": "simp_093",
     "enunciado": "En el episodio \"Equipo Homero\" de la séptima temporada, ¿quién firma el cheque de 500 dólares que financia al equipo de bolos \"Los Amigos del Pino\"?",
-    "opciones": ["Artie Ziff", "El Alcalde Diamante", "El Sr. Burns", "Krusty el Payaso"],
+    "opciones": [
+      "Artie Ziff",
+      "El Alcalde Diamante",
+      "El Sr. Burns",
+      "Krusty el Payaso"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El Sr. Burns, aturdido por anestésicos en su mansión, firmó el cheque de 500 dólares pensando que Homero era un duende bondadoso.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_pin_pals_check",
     "activa": true,
     "aptaFamilia": true,
@@ -1304,11 +2234,21 @@
   {
     "id": "simp_094",
     "enunciado": "En el regreso triunfal de la misión espacial de Homero, ¿a qué objeto inanimado de la nave condecora la NASA y la revista Time en portada?",
-    "opciones": ["A una tuerca de titanio oxidada", "A un extintor de incendios vencido", "A un fusible de cobre quemado", "A una barra inanimada de carbón (Inanimate carbon rod)"],
+    "opciones": [
+      "A una tuerca de titanio oxidada",
+      "A un extintor de incendios vencido",
+      "A un fusible de cobre quemado",
+      "A una barra inanimada de carbón (Inanimate carbon rod)"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "La \"Barra inanimada de carbón\" acaparó todos los elogios, desfiles con serpentinas y tapas de periódicos, humillando a Homero.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_carbon_rod",
     "activa": true,
     "aptaFamilia": true,
@@ -1318,11 +2258,21 @@
   {
     "id": "simp_095",
     "enunciado": "¿Cuál es la marca de cerveza rancia y regional consumida por los habitantes de la ciudad rival de Shelbyville?",
-    "opciones": ["Cerveza Fudd", "Cerveza Buzz", "Cerveza Laramie", "Cerveza Red Tick"],
+    "opciones": [
+      "Cerveza Fudd",
+      "Cerveza Buzz",
+      "Cerveza Laramie",
+      "Cerveza Red Tick"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "En Shelbyville toman cerveza Fudd; en un bar de mala muerte de otra ciudad Homero descubre que la dejaron de vender porque \"dejó ciegos a unos granjeros\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_fudd_beer",
     "activa": true,
     "aptaFamilia": true,
@@ -1332,11 +2282,21 @@
   {
     "id": "simp_096",
     "enunciado": "¿Cuál era el apodo artístico del legendario saxofonista de jazz callejero mentor de Lisa que grabó el disco \"Sax on the Beach\"?",
-    "opciones": ["Dientes Amarillos Parker", "Encías Sangrantes Murphy (Bleeding Gums Murphy)", "Labios Azules Johnson", "Pulmones de Oro Davis"],
+    "opciones": [
+      "Dientes Amarillos Parker",
+      "Encías Sangrantes Murphy (Bleeding Gums Murphy)",
+      "Labios Azules Johnson",
+      "Pulmones de Oro Davis"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Bleeding Gums Murphy le enseñó a Lisa a desahogar sus penas en el saxofón y compuso blues memorables antes de su emotiva partida.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bleeding_gums",
     "activa": true,
     "aptaFamilia": true,
@@ -1346,11 +2306,21 @@
   {
     "id": "simp_097",
     "enunciado": "Cuando Homero decide comprar un revólver en la tienda de armas \"El Centro del Tiroteador\", ¿cuántos días de espera obligatorios le impone la ley federal?",
-    "opciones": ["Tres semanas", "Cinco días", "Veinticuatro horas", "Diez días"],
+    "opciones": [
+      "Tres semanas",
+      "Cinco días",
+      "Veinticuatro horas",
+      "Diez días"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "El vendedor le informa que debe aguardar 5 días de evaluación previa, a lo que Homero replica con furia: \"¿Cinco días? ¡Pero si estoy enojado ahora!\".",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_gun_waiting_period",
     "activa": true,
     "aptaFamilia": true,
@@ -1360,11 +2330,21 @@
   {
     "id": "simp_098",
     "enunciado": "¿En qué actor clásico escocés de películas de \"El Gordo y el Flaco\" (Laurel y Hardy) se inspiró Dan Castellaneta para crear el \"D'oh!\" de Homero?",
-    "opciones": ["Stan Laurel", "Oliver Hardy", "Buster Keaton", "James Finlayson"],
+    "opciones": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Buster Keaton",
+      "James Finlayson"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "James Finlayson expresaba frustración en las comedias con un gruñido alargado (\"D'oooooh!\"), que Matt Groening le pidió abreviar a Castellaneta.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_dan_castellaneta_origin",
     "activa": true,
     "aptaFamilia": true,
@@ -1374,11 +2354,21 @@
   {
     "id": "simp_099",
     "enunciado": "¿Cuál es el insólito y rarísimo tipo de sangre del Sr. Burns para el cual únicamente Bart Simpson resulta compatible en todo Springfield?",
-    "opciones": ["AB Positivo", "Doble Cero Negativo (Doble O-)", "Tipo Dorado RH Nulo", "B Negativo"],
+    "opciones": [
+      "AB Positivo",
+      "Doble Cero Negativo (Doble O-)",
+      "Tipo Dorado RH Nulo",
+      "B Negativo"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "El Doctor Hibbert anuncia que el Sr. Burns posee sangre extremadamente rara \"Doble O negativo\", y la transfusión de Bart le salva la vida.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_burns_blood_type",
     "activa": true,
     "aptaFamilia": true,
@@ -1388,11 +2378,21 @@
   {
     "id": "simp_100",
     "enunciado": "¿Cuántos dedos tienen en cada mano los personajes de Los Simpson?",
-    "opciones": ["Tres", "Cuatro", "Cinco", "Seis"],
+    "opciones": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Es un recurso clásico de la animación para simplificar el dibujo. En la serie, el único que aparece con cinco dedos es Dios.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cuatro_dedos",
     "activa": true,
     "aptaFamilia": true,
@@ -1402,11 +2402,21 @@
   {
     "id": "simp_101",
     "enunciado": "¿Quién es el creador de Los Simpson?",
-    "opciones": ["Matt Groening", "Seth MacFarlane", "Mike Judge", "Trey Parker"],
+    "opciones": [
+      "Matt Groening",
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Trey Parker"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Bautizó a Homero, Marge, Lisa y Maggie como a su propia familia. Bart es un anagrama de «brat», que en inglés significa mocoso.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_creador",
     "activa": true,
     "aptaFamilia": true,
@@ -1416,11 +2426,21 @@
   {
     "id": "simp_102",
     "enunciado": "¿En qué año se estrenó Los Simpson como serie propia?",
-    "opciones": ["1987", "1989", "1991", "1993"],
+    "opciones": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Desde 1987 la familia aparecía en cortos dentro del programa de Tracey Ullman. En diciembre de 1989 llegó su primer episodio propio.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_record_serie",
     "activa": true,
     "aptaFamilia": true,
@@ -1430,11 +2450,21 @@
   {
     "id": "simp_103",
     "enunciado": "¿Qué objeto lleva Maggie en la boca casi todo el tiempo?",
-    "opciones": ["Un sonajero", "Una mamadera", "Un mordillo", "Un chupete"],
+    "opciones": [
+      "Un sonajero",
+      "Una mamadera",
+      "Un mordillo",
+      "Un chupete"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Su característico chupeteo se volvió su sello, ya que casi nunca habla. Ese sonido lo hacía el propio creador de la serie, Matt Groening.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_maggie_chupete",
     "activa": true,
     "aptaFamilia": true,
@@ -1444,11 +2474,21 @@
   {
     "id": "simp_104",
     "enunciado": "¿Quién es el dueño de la Planta Nuclear de Springfield?",
-    "opciones": ["Montgomery Burns", "Waylon Smithers", "Lenny Leonard", "Carl Carlson"],
+    "opciones": [
+      "Montgomery Burns",
+      "Waylon Smithers",
+      "Lenny Leonard",
+      "Carl Carlson"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Tiene más de cien años y su frase más famosa es «Excelente», que dice juntando lentamente las puntas de los dedos.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_edad_burns",
     "activa": true,
     "aptaFamilia": true,
@@ -1458,11 +2498,21 @@
   {
     "id": "simp_105",
     "enunciado": "¿Cómo se llama el fiel asistente del Sr. Burns?",
-    "opciones": ["Lenny", "Carl", "Barney", "Smithers"],
+    "opciones": [
+      "Lenny",
+      "Carl",
+      "Barney",
+      "Smithers"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Waylon Smithers es incondicional de su jefe: lo cuida, lo defiende y soporta todos sus caprichos sin quejarse jamás.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_smithers",
     "activa": true,
     "aptaFamilia": true,
@@ -1472,11 +2522,21 @@
   {
     "id": "simp_106",
     "enunciado": "¿Qué vecino de los Simpson saluda con un alegre «¡Hola, holita, vecinito!»?",
-    "opciones": ["Lenny Leonard", "Moe Szyslak", "Apu Nahasapeemapetilon", "Ned Flanders"],
+    "opciones": [
+      "Lenny Leonard",
+      "Moe Szyslak",
+      "Apu Nahasapeemapetilon",
+      "Ned Flanders"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Es tan religioso como amable, y cuanto más buena onda es con Homero, más lo saca de quicio a su vecino.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_flanders_saludo",
     "activa": true,
     "aptaFamilia": true,
@@ -1486,11 +2546,21 @@
   {
     "id": "simp_107",
     "enunciado": "¿Cómo se llama el director de la Escuela Primaria de Springfield?",
-    "opciones": ["Seymour Skinner", "Gary Chalmers", "Dewey Largo", "Edna Krabappel"],
+    "opciones": [
+      "Seymour Skinner",
+      "Gary Chalmers",
+      "Dewey Largo",
+      "Edna Krabappel"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Es veterano de Vietnam, muy estricto y vive pendiente de la aprobación de su jefe, el superintendente Chalmers.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_skinner_director",
     "activa": true,
     "aptaFamilia": true,
@@ -1500,11 +2570,21 @@
   {
     "id": "simp_108",
     "enunciado": "¿Cómo se llama el jefe de policía de Springfield?",
-    "opciones": ["Lou", "Eddie", "Otto Mann", "Clancy Gorgory"],
+    "opciones": [
+      "Lou",
+      "Eddie",
+      "Otto Mann",
+      "Clancy Gorgory"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Es famoso por su pereza, su amor por las donas y por no resolver casi ningún caso. Lou y Eddie son sus dos agentes.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_jefe_gorgory",
     "activa": true,
     "aptaFamilia": true,
@@ -1514,11 +2594,21 @@
   {
     "id": "simp_109",
     "enunciado": "¿De qué color es el famoso peinado de Marge?",
-    "opciones": ["Azul", "Violeta", "Verde", "Negro"],
+    "opciones": [
+      "Azul",
+      "Violeta",
+      "Verde",
+      "Negro"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Su torre de pelo es uno de los íconos de la serie. En un capítulo se reveló que su cabello natural es canoso y que se lo tiñe.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_pelo_marge",
     "activa": true,
     "aptaFamilia": true,
@@ -1528,11 +2618,21 @@
   {
     "id": "simp_110",
     "enunciado": "¿Qué usa Bart para moverse por Springfield en la presentación de la serie?",
-    "opciones": ["Una bicicleta", "Una patineta", "Unos patines", "Un monopatín eléctrico"],
+    "opciones": [
+      "Una bicicleta",
+      "Una patineta",
+      "Unos patines",
+      "Un monopatín eléctrico"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "En la presentación clásica sale de la escuela en patineta y pasa por encima del auto rosa de Homero, que llega a casa.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_presentacion_auto",
     "activa": true,
     "aptaFamilia": true,
@@ -1542,11 +2642,21 @@
   {
     "id": "simp_111",
     "enunciado": "¿Cuántos años tiene Bart Simpson?",
-    "opciones": ["8", "10", "12", "13"],
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "13"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Los personajes casi no envejecen: Bart tiene 10 años desde 1989. Lisa tiene 8 y Maggie, apenas uno, aunque pasaron décadas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_edad_bart",
     "activa": true,
     "aptaFamilia": true,
@@ -1556,11 +2666,21 @@
   {
     "id": "simp_112",
     "enunciado": "¿Cuál es la comida favorita de Homero, capaz de hacerlo babear?",
-    "opciones": ["La pizza", "Las hamburguesas", "Las donas", "Los tacos"],
+    "opciones": [
+      "La pizza",
+      "Las hamburguesas",
+      "Las donas",
+      "Los tacos"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Su «Mmm... donas» se volvió una de las frases más imitadas de la serie, y su amor por ellas lo metió en más de un problema.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_devil_flanders",
     "activa": true,
     "aptaFamilia": true,
@@ -1570,11 +2690,21 @@
   {
     "id": "simp_113",
     "enunciado": "¿Cómo se llama la hermana gemela de Selma?",
-    "opciones": ["Mona", "Jacqueline", "Ruth", "Patty"],
+    "opciones": [
+      "Mona",
+      "Jacqueline",
+      "Ruth",
+      "Patty"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Las dos fuman sin parar, trabajan en la oficina de licencias de conducir y no soportan a su cuñado Homero.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_selma_bouvier",
     "activa": true,
     "aptaFamilia": true,
@@ -1584,11 +2714,21 @@
   {
     "id": "simp_114",
     "enunciado": "¿A quién llama Bart por teléfono para hacerle bromas, preguntando por nombres ridículos?",
-    "opciones": ["A Moe", "A Flanders", "Al Sr. Burns", "A Krusty"],
+    "opciones": [
+      "A Moe",
+      "A Flanders",
+      "Al Sr. Burns",
+      "A Krusty"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Moe siempre cae: grita el nombre en voz alta en la taberna y todos se ríen, antes de que amenace furioso al bromista.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bromas_moe",
     "activa": true,
     "aptaFamilia": true,
@@ -1598,11 +2738,21 @@
   {
     "id": "simp_115",
     "enunciado": "¿Qué animal adopta Homero en «Los Simpson: la película»?",
-    "opciones": ["Un perro", "Un cerdo", "Un pato", "Una cabra"],
+    "opciones": [
+      "Un perro",
+      "Un cerdo",
+      "Un pato",
+      "Una cabra"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Lo bautiza «Spider-Cerdo», y los desechos del animal terminan contaminando el lago de Springfield con consecuencias desastrosas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_spider_cerdo",
     "activa": true,
     "aptaFamilia": true,
@@ -1612,11 +2762,21 @@
   {
     "id": "simp_116",
     "enunciado": "¿Qué castigo cumple Bart en la presentación de casi cada episodio?",
-    "opciones": ["Limpiar el patio", "Quedarse sin recreo", "Escribir frases en el pizarrón", "Barrer el aula"],
+    "opciones": [
+      "Limpiar el patio",
+      "Quedarse sin recreo",
+      "Escribir frases en el pizarrón",
+      "Barrer el aula"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La frase cambia en cada capítulo y muchas veces es un chiste en sí mismo, como prometer no hacer cosas absurdas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_pizarron",
     "activa": true,
     "aptaFamilia": true,
@@ -1626,11 +2786,21 @@
   {
     "id": "simp_117",
     "enunciado": "¿Cómo se llama el abuelo de Bart, Lisa y Maggie?",
-    "opciones": ["Herbert", "Clancy", "Jasper", "Abraham"],
+    "opciones": [
+      "Herbert",
+      "Clancy",
+      "Jasper",
+      "Abraham"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Vive en el asilo de ancianos de Springfield y es famoso por contar historias larguísimas que no llevan a ningún lado.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_cloud_yelling",
     "activa": true,
     "aptaFamilia": true,
@@ -1640,11 +2810,21 @@
   {
     "id": "simp_118",
     "enunciado": "¿Qué firma deja Bart en sus grafitis por la ciudad?",
-    "opciones": ["El Barto", "Bartman", "Bart-O", "El Travieso"],
+    "opciones": [
+      "El Barto",
+      "Bartman",
+      "Bart-O",
+      "El Travieso"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La firma aparece escondida en muchísimos episodios, y hasta en la vida real hay quienes la pintan en paredes de todo el mundo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_el_barto",
     "activa": true,
     "aptaFamilia": true,
@@ -1654,11 +2834,21 @@
   {
     "id": "simp_119",
     "enunciado": "¿Cómo se llama el médico de cabecera de los Simpson, famoso por su risa?",
-    "opciones": ["El Dr. Nick", "El Dr. Hibbert", "El Dr. Frink", "El Dr. Marvin Monroe"],
+    "opciones": [
+      "El Dr. Nick",
+      "El Dr. Hibbert",
+      "El Dr. Frink",
+      "El Dr. Marvin Monroe"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Suele reírse en los momentos menos oportunos, incluso al dar malas noticias, y cobra carísimo por sus consultas.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_dr_hibbert",
     "activa": true,
     "aptaFamilia": true,
@@ -1668,11 +2858,21 @@
   {
     "id": "simp_120",
     "enunciado": "¿Cómo se llama el reverendo de la iglesia de Springfield?",
-    "opciones": ["El reverendo Flanders", "El reverendo Burns", "El reverendo Alegría", "El reverendo Moe"],
+    "opciones": [
+      "El reverendo Flanders",
+      "El reverendo Burns",
+      "El reverendo Alegría",
+      "El reverendo Moe"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Sus sermones son tan aburridos que Homero suele dormirse en misa, y su esposa es la chismosa más famosa del pueblo.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_think_of_the_children",
     "activa": true,
     "aptaFamilia": true,
@@ -1682,11 +2882,21 @@
   {
     "id": "simp_121",
     "enunciado": "¿Cómo se llaman los dos compañeros inseparables de Homero en la planta nuclear?",
-    "opciones": ["Moe y Barney", "Lou y Eddie", "Kang y Kodos", "Lenny y Carl"],
+    "opciones": [
+      "Moe y Barney",
+      "Lou y Eddie",
+      "Kang y Kodos",
+      "Lenny y Carl"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Son tan inseparables que casi siempre aparecen juntos, tanto en la planta como en la taberna de Moe.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lenny_carl",
     "activa": true,
     "aptaFamilia": true,
@@ -1696,11 +2906,21 @@
   {
     "id": "simp_122",
     "enunciado": "¿De qué color es el auto de Homero Simpson?",
-    "opciones": ["Rosa", "Rojo", "Verde", "Azul"],
+    "opciones": [
+      "Rosa",
+      "Rojo",
+      "Verde",
+      "Azul"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Aparece en la presentación clásica, cuando Homero llega a casa y Bart pasa en patineta por encima del techo del auto.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_presentacion_auto",
     "activa": true,
     "aptaFamilia": true,
@@ -1710,11 +2930,21 @@
   {
     "id": "simp_123",
     "enunciado": "¿Qué hace Homero cuando Bart lo hace enojar?",
-    "opciones": ["Lo manda a su cuarto", "Lo estrangula", "Le quita la patineta", "Lo deja sin cenar"],
+    "opciones": [
+      "Lo manda a su cuarto",
+      "Lo estrangula",
+      "Le quita la patineta",
+      "Lo deja sin cenar"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Es uno de los gags más repetidos desde los primeros episodios, y siempre termina con Bart zafándose como si nada.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_estrangula",
     "activa": true,
     "aptaFamilia": true,
@@ -1724,11 +2954,21 @@
   {
     "id": "simp_124",
     "enunciado": "¿Qué orden le da el Sr. Burns a Smithers para deshacerse de los visitantes?",
-    "opciones": ["«Llama a seguridad»", "«Cierra las puertas»", "«Suelta a los perros»", "«Enciende la alarma»"],
+    "opciones": [
+      "«Llama a seguridad»",
+      "«Cierra las puertas»",
+      "«Suelta a los perros»",
+      "«Enciende la alarma»"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Sus perros de ataque persiguen a cualquiera que se acerque a la mansión, y la frase se volvió una de las más famosas de Burns.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_suelta_perros",
     "activa": true,
     "aptaFamilia": true,
@@ -1738,11 +2978,21 @@
   {
     "id": "simp_125",
     "enunciado": "¿De qué color es la piel de los personajes de Los Simpson?",
-    "opciones": ["Naranja", "Verde", "Celeste", "Amarilla"],
+    "opciones": [
+      "Naranja",
+      "Verde",
+      "Celeste",
+      "Amarilla"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Matt Groening eligió el amarillo para llamar la atención: quería que al hacer zapping la gente creyera que el televisor andaba mal.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_piel_amarilla",
     "activa": true,
     "aptaFamilia": true,
@@ -1752,11 +3002,21 @@
   {
     "id": "simp_126",
     "enunciado": "¿Qué exclama Homero cuando algo le sale bien?",
-    "opciones": ["«¡Woo-hoo!»", "«¡Yupi!»", "«¡Bingo!»", "«¡Excelente!»"],
+    "opciones": [
+      "«¡Woo-hoo!»",
+      "«¡Yupi!»",
+      "«¡Bingo!»",
+      "«¡Excelente!»"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Junto con su célebre «¡D'oh!», es una de sus expresiones más famosas. «¡Excelente!», en cambio, es la frase del Sr. Burns.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_woohoo",
     "activa": true,
     "aptaFamilia": true,
@@ -1766,11 +3026,21 @@
   {
     "id": "simp_127",
     "enunciado": "¿Dónde aparece Maggie en la presentación clásica de la serie?",
-    "opciones": ["En la puerta de la escuela", "En la caja del supermercado", "En la taberna de Moe", "En la iglesia"],
+    "opciones": [
+      "En la puerta de la escuela",
+      "En la caja del supermercado",
+      "En la taberna de Moe",
+      "En la iglesia"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La pasan por el escáner y marca 847,63 dólares, lo que se estimaba que costaba mantener a un bebé por mes en 1989.",
     "dificultad": "facil",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_maggie_caja",
     "activa": true,
     "aptaFamilia": true,
@@ -1780,11 +3050,21 @@
   {
     "id": "simp_128",
     "enunciado": "¿Cuál fue la primera palabra que dijo Maggie?",
-    "opciones": ["Mamá", "Bart", "Papá", "Lisa"],
+    "opciones": [
+      "Mamá",
+      "Bart",
+      "Papá",
+      "Lisa"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "La dijo justo cuando Homero salió de la habitación, así que él nunca se enteró. En inglés la voz fue de la actriz Elizabeth Taylor.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_primeras_palabras",
     "activa": true,
     "aptaFamilia": true,
@@ -1794,11 +3074,21 @@
   {
     "id": "simp_129",
     "enunciado": "¿Qué frase repite el Hombre de las Historietas para criticarlo todo?",
-    "opciones": ["«Esto es una vergüenza»", "«Qué decepción total»", "«Nunca vi algo tan malo»", "«El peor episodio de la historia»"],
+    "opciones": [
+      "«Esto es una vergüenza»",
+      "«Qué decepción total»",
+      "«Nunca vi algo tan malo»",
+      "«El peor episodio de la historia»"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "La frase se volvió una burla a los fans más exigentes de internet, que criticaban cada capítulo de la serie.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_peor_episodio",
     "activa": true,
     "aptaFamilia": true,
@@ -1808,11 +3098,21 @@
   {
     "id": "simp_130",
     "enunciado": "¿Cuántos bebés tuvieron Apu y su esposa en un solo parto?",
-    "opciones": ["4", "6", "8", "10"],
+    "opciones": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "El parto de los óctuples fue noticia en Springfield, y Apu terminó agotado entre el minisúper y los ocho bebés.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_apu_familia",
     "activa": true,
     "aptaFamilia": true,
@@ -1822,11 +3122,21 @@
   {
     "id": "simp_131",
     "enunciado": "¿Cómo se llama la esposa de Apu?",
-    "opciones": ["Manjula", "Sanjay", "Priya", "Lakshmi"],
+    "opciones": [
+      "Manjula",
+      "Sanjay",
+      "Priya",
+      "Lakshmi"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Su matrimonio fue arreglado por sus familias cuando eran niños. Apu intentó evitarlo, pero terminó casándose con ella.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_apu_familia",
     "activa": true,
     "aptaFamilia": true,
@@ -1836,11 +3146,21 @@
   {
     "id": "simp_132",
     "enunciado": "¿Con qué objeto de jardín se golpea una y otra vez la cara Bob Patiño en un gag famoso?",
-    "opciones": ["Con palas", "Con rastrillos", "Con mangueras", "Con escobas"],
+    "opciones": [
+      "Con palas",
+      "Con rastrillos",
+      "Con mangueras",
+      "Con escobas"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Al capítulo le faltaban minutos, así que repitieron el golpe tantas veces que dejó de ser gracioso... y volvió a serlo.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_rastrillos",
     "activa": true,
     "aptaFamilia": true,
@@ -1850,11 +3170,21 @@
   {
     "id": "simp_133",
     "enunciado": "¿Cómo se llama la mascota musculosa de la cerveza Duff?",
-    "opciones": ["Capitán Duff", "Súper Duff", "Duffman", "Duff Boy"],
+    "opciones": [
+      "Capitán Duff",
+      "Súper Duff",
+      "Duffman",
+      "Duff Boy"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Aparece en las fiestas y los eventos del pueblo con su cinturón de latas y su grito de guerra: «¡Oh, sí!».",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_duffman",
     "activa": true,
     "aptaFamilia": true,
@@ -1864,11 +3194,21 @@
   {
     "id": "simp_134",
     "enunciado": "¿Qué ayudante de Krusty lleva un hueso atravesado en el pelo?",
-    "opciones": ["El Sr. Teeny", "Bob Patiño", "Gil", "El actor secundario Mel"],
+    "opciones": [
+      "El Sr. Teeny",
+      "Bob Patiño",
+      "Gil",
+      "El actor secundario Mel"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Reemplazó a Bob Patiño en el programa de Krusty. Habla con aires de actor dramático y suele recibir golpes y pasteles en la cara.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_actor_mel",
     "activa": true,
     "aptaFamilia": true,
@@ -1878,11 +3218,21 @@
   {
     "id": "simp_135",
     "enunciado": "¿En qué estado de Estados Unidos queda Springfield?",
-    "opciones": ["Nunca se revela", "Illinois", "Oregón", "Ohio"],
+    "opciones": [
+      "Nunca se revela",
+      "Illinois",
+      "Oregón",
+      "Ohio"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Hay decenas de ciudades con ese nombre en el país. Groening se inspiró en la Springfield de Oregón, cerca de donde creció.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_estado_springfield",
     "activa": true,
     "aptaFamilia": true,
@@ -1892,11 +3242,21 @@
   {
     "id": "simp_136",
     "enunciado": "¿Qué personaje es presidente de EE. UU. en un episodio del año 2000 que anticipó el futuro?",
-    "opciones": ["Bart", "Lisa", "Marge", "Milhouse"],
+    "opciones": [
+      "Bart",
+      "Lisa",
+      "Marge",
+      "Milhouse"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "En ese capítulo, Lisa dice haber heredado una crisis del presidente Trump. Dieciséis años después, él ganó la elección.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lisa_presidenta",
     "activa": true,
     "aptaFamilia": true,
@@ -1906,11 +3266,21 @@
   {
     "id": "simp_137",
     "enunciado": "¿Cómo se llama el chiste que cambia en cada presentación cuando la familia llega al sillón?",
-    "opciones": ["El chiste del living", "La entrada familiar", "El gag del sillón", "El remate del sofá"],
+    "opciones": [
+      "El chiste del living",
+      "La entrada familiar",
+      "El gag del sillón",
+      "El remate del sofá"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Cambia en casi cada capítulo, y a veces lo dibujan artistas invitados con estilos muy distintos, como el artista callejero Banksy en 2010.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_gag_sillon",
     "activa": true,
     "aptaFamilia": true,
@@ -1920,11 +3290,21 @@
   {
     "id": "simp_138",
     "enunciado": "¿Qué religión adopta Lisa en un episodio de la temporada 13?",
-    "opciones": ["El hinduismo", "El judaísmo", "El islam", "El budismo"],
+    "opciones": [
+      "El hinduismo",
+      "El judaísmo",
+      "El islam",
+      "El budismo"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El actor Richard Gere aparece como él mismo para guiarla, y la familia termina aceptando su nueva forma de ver la vida.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_lisa_budismo",
     "activa": true,
     "aptaFamilia": true,
@@ -1934,11 +3314,21 @@
   {
     "id": "simp_139",
     "enunciado": "¿Cómo se llama la maestra de Lisa en la escuela?",
-    "opciones": ["La señorita Hoover", "Edna Krabappel", "La señora Pommelhorst", "La señorita Alegría"],
+    "opciones": [
+      "La señorita Hoover",
+      "Edna Krabappel",
+      "La señora Pommelhorst",
+      "La señorita Alegría"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Es famosa por su desgano: suele dar clases con total indiferencia y hasta se ausentó un tiempo convencida de tener una enfermedad.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_srta_hoover",
     "activa": true,
     "aptaFamilia": true,
@@ -1948,11 +3338,21 @@
   {
     "id": "simp_140",
     "enunciado": "¿Cómo se llamaba la esposa de Ned Flanders, que murió en la temporada 11?",
-    "opciones": ["Helen", "Maude", "Luann", "Agnes"],
+    "opciones": [
+      "Helen",
+      "Maude",
+      "Luann",
+      "Agnes"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Cayó de las gradas en una carrera de autos, golpeada por camisetas lanzadas con un cañón. Ned quedó viudo con sus dos hijos.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_maude",
     "activa": true,
     "aptaFamilia": true,
@@ -1962,11 +3362,21 @@
   {
     "id": "simp_141",
     "enunciado": "¿Cómo se llama el conductor del noticiero de Springfield?",
-    "opciones": ["Troy McClure", "Arnie Pie", "Kent Brockman", "Scott Christian"],
+    "opciones": [
+      "Troy McClure",
+      "Arnie Pie",
+      "Kent Brockman",
+      "Scott Christian"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Tiene una de las frases más citadas de la serie: al creer que unas hormigas invadían la Tierra, les dio la bienvenida como nuevos amos.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_kent_brockman",
     "activa": true,
     "aptaFamilia": true,
@@ -1976,11 +3386,21 @@
   {
     "id": "simp_142",
     "enunciado": "¿Qué médico de dudosa reputación saluda siempre con un efusivo «¡Hola a todos!»?",
-    "opciones": ["El Dr. Hibbert", "El Dr. Frink", "El Dr. Zoidberg", "El Dr. Nick"],
+    "opciones": [
+      "El Dr. Hibbert",
+      "El Dr. Frink",
+      "El Dr. Zoidberg",
+      "El Dr. Nick"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Estudió en una universidad de dudosa calidad y sus tratamientos son tan baratos como peligrosos. Aun así, Homero confía en él.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_dr_nick",
     "activa": true,
     "aptaFamilia": true,
@@ -1990,11 +3410,21 @@
   {
     "id": "simp_143",
     "enunciado": "¿Qué personaje sigue vestido como en los años 70 y habla de sí mismo en tercera persona?",
-    "opciones": ["Disco Stu", "Otto Mann", "Barney Gumble", "Gil"],
+    "opciones": [
+      "Disco Stu",
+      "Otto Mann",
+      "Barney Gumble",
+      "Gil"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Su nombre viene de un error: quiso bordar «Disco Stud» en su chaqueta, pero le faltó una letra. Sigue convencido de que la música disco va a volver.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_disco_stu",
     "activa": true,
     "aptaFamilia": true,
@@ -2004,11 +3434,21 @@
   {
     "id": "simp_144",
     "enunciado": "¿Qué oficio ejerció Marge, con uniforme y placa, en un episodio de la serie?",
-    "opciones": ["Bombera", "Policía", "Enfermera", "Guardavidas"],
+    "opciones": [
+      "Bombera",
+      "Policía",
+      "Enfermera",
+      "Guardavidas"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Al entrar a la policía de Springfield demostró ser mucho más capaz que sus compañeros, incluido el propio jefe Gorgory.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_marge_policia",
     "activa": true,
     "aptaFamilia": true,
@@ -2018,11 +3458,21 @@
   {
     "id": "simp_145",
     "enunciado": "¿Cómo se llaman en Latinoamérica los especiales de Noche de Brujas de Los Simpson?",
-    "opciones": ["Noche de espantos", "Terror en Springfield", "La casita del horror", "El especial del miedo"],
+    "opciones": [
+      "Noche de espantos",
+      "Terror en Springfield",
+      "La casita del horror",
+      "El especial del miedo"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Se emiten cada año desde 1990, y en ellos pasa de todo: muertes, alienígenas y parodias de terror que no afectan la historia.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_casita_horror",
     "activa": true,
     "aptaFamilia": true,
@@ -2032,11 +3482,21 @@
   {
     "id": "simp_146",
     "enunciado": "¿Con quién vive el director Skinner a pesar de ser un adulto?",
-    "opciones": ["Con su hermano", "Con Edna Krabappel", "Solo, con su gato", "Con su madre"],
+    "opciones": [
+      "Con su hermano",
+      "Con Edna Krabappel",
+      "Solo, con su gato",
+      "Con su madre"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Su madre, Agnes, es gruñona y dominante, y lo sigue tratando como a un niño aunque él ya tiene más de 40 años.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_skinner_madre",
     "activa": true,
     "aptaFamilia": true,
@@ -2046,11 +3506,21 @@
   {
     "id": "simp_147",
     "enunciado": "¿Qué récord ostenta Los Simpson en la televisión de Estados Unidos?",
-    "opciones": ["Serie animada más larga", "Más premios Óscar", "Mayor audiencia de la historia", "Más capítulos en un año"],
+    "opciones": [
+      "Serie animada más larga",
+      "Más premios Óscar",
+      "Mayor audiencia de la historia",
+      "Más capítulos en un año"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Ya superó los 750 episodios y lleva más de 35 temporadas al aire. También es la comedia de horario central más longeva.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_record_serie",
     "activa": true,
     "aptaFamilia": true,
@@ -2060,11 +3530,21 @@
   {
     "id": "simp_148",
     "enunciado": "¿Cómo se tradujo en el doblaje latino la frase de Bart «Eat my shorts»?",
-    "opciones": ["«¡Cómete mis calzones!»", "«¡Multiplícate por cero!»", "«¡No me molestes!»", "«¡Ay, caramba!»"],
+    "opciones": [
+      "«¡Cómete mis calzones!»",
+      "«¡Multiplícate por cero!»",
+      "«¡No me molestes!»",
+      "«¡Ay, caramba!»"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "La traducción literal sonaba rara, así que el doblaje mexicano inventó esta frase, que se volvió un clásico en toda Latinoamérica.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_multiplicate_por_cero",
     "activa": true,
     "aptaFamilia": true,
@@ -2074,11 +3554,21 @@
   {
     "id": "simp_149",
     "enunciado": "¿A qué país viajan los Simpson para disculparse por una llamada telefónica de Bart?",
-    "opciones": ["Japón", "Brasil", "Australia", "Inglaterra"],
+    "opciones": [
+      "Japón",
+      "Brasil",
+      "Australia",
+      "Inglaterra"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Bart hace una llamada por cobrar que provoca un escándalo internacional, y allá lo condenan a recibir una patada con una bota gigante.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_australia",
     "activa": true,
     "aptaFamilia": true,
@@ -2088,11 +3578,21 @@
   {
     "id": "simp_150",
     "enunciado": "¿Qué animal le compra Homero a Lisa, tomando un segundo trabajo nocturno para pagarlo?",
-    "opciones": ["Un perro", "Un gato", "Un conejo", "Un pony"],
+    "opciones": [
+      "Un perro",
+      "Un gato",
+      "Un conejo",
+      "Un pony"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Casi no dormía por trabajar de día y de noche. Lisa, al ver el sacrificio de su padre, terminó devolviendo al pony.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_pony_lisa",
     "activa": true,
     "aptaFamilia": true,
@@ -2102,11 +3602,21 @@
   {
     "id": "simp_151",
     "enunciado": "¿De quién era ayudante Bob Patiño antes de convertirse en villano?",
-    "opciones": ["De Krusty el Payaso", "Del Sr. Burns", "Del alcalde Diamante", "De Troy McClure"],
+    "opciones": [
+      "De Krusty el Payaso",
+      "Del Sr. Burns",
+      "Del alcalde Diamante",
+      "De Troy McClure"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Harto de recibir pasteles en la cara, incriminó a su jefe en un robo. Bart lo desenmascaró, y desde entonces quiere vengarse de él.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bob_krusty",
     "activa": true,
     "aptaFamilia": true,
@@ -2116,11 +3626,21 @@
   {
     "id": "simp_152",
     "enunciado": "¿Cuál es el apellido de soltera de Marge Simpson?",
-    "opciones": ["Flanders", "Bouvier", "Van Houten", "Gumble"],
+    "opciones": [
+      "Flanders",
+      "Bouvier",
+      "Van Houten",
+      "Gumble"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Viene de una familia con dos hermanas mayores gemelas y una madre, Jacqueline, con una voz muy ronca, igual que sus hijas.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_selma_bouvier",
     "activa": true,
     "aptaFamilia": true,
@@ -2130,11 +3650,21 @@
   {
     "id": "simp_153",
     "enunciado": "¿Cómo se llama el hijo del jefe Gorgory, famoso por sus frases disparatadas?",
-    "opciones": ["Martin", "Nelson", "Ralph", "Todd"],
+    "opciones": [
+      "Martin",
+      "Nelson",
+      "Ralph",
+      "Todd"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Es compañero de Lisa y dueño de algunas de las frases más absurdas y queridas de la serie, siempre dichas con total inocencia.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_choo_choo_choose",
     "activa": true,
     "aptaFamilia": true,
@@ -2144,11 +3674,21 @@
   {
     "id": "simp_154",
     "enunciado": "¿Cómo se llama en el doblaje latino el anciano desafortunado al que siempre le pasa algo malo?",
-    "opciones": ["Abraham Simpson", "Jasper", "El viejo Gil", "Hans Topo"],
+    "opciones": [
+      "Abraham Simpson",
+      "Jasper",
+      "El viejo Gil",
+      "Hans Topo"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "En inglés se llama Hans Moleman. Muere o sufre accidentes en muchísimos episodios, pero siempre vuelve a aparecer.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_hans_topo",
     "activa": true,
     "aptaFamilia": true,
@@ -2158,11 +3698,21 @@
   {
     "id": "simp_155",
     "enunciado": "¿Qué le regala Homero a Marge por su cumpleaños, aunque en realidad lo quería para él?",
-    "opciones": ["Una bola de boliche", "Una caña de pescar", "Un televisor", "Un sillón nuevo"],
+    "opciones": [
+      "Una bola de boliche",
+      "Una caña de pescar",
+      "Un televisor",
+      "Un sillón nuevo"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "La bola tenía grabado «Homero». Marge, ofendida, decidió aprender a jugar al boliche por su cuenta, y allí conoció a un seductor instructor.",
     "dificultad": "medio",
-    "modosPermitidos": ["supervivencia", "supremo", "familia"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
     "grupoVariantes": "simpsons_bola_boliche",
     "activa": true,
     "aptaFamilia": true,
@@ -2172,11 +3722,20 @@
   {
     "id": "simp_156",
     "enunciado": "¿Cuál fue la primera palabra que dijo Lisa cuando era bebé?",
-    "opciones": ["Mamá", "Bart", "Papá", "Maggie"],
+    "opciones": [
+      "Mamá",
+      "Bart",
+      "Papá",
+      "Maggie"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Bart estaba celoso de su hermanita recién nacida, pero al escuchar su nombre como primera palabra empezó a quererla.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_primeras_palabras",
     "activa": true,
     "aptaFamilia": false,
@@ -2186,11 +3745,20 @@
   {
     "id": "simp_157",
     "enunciado": "¿Cómo se llama el mono que acompaña a Krusty en su programa?",
-    "opciones": ["Bobo", "Chimpi", "El Sr. Teeny", "El Sr. Monín"],
+    "opciones": [
+      "Bobo",
+      "Chimpi",
+      "El Sr. Teeny",
+      "El Sr. Monín"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Es un chimpancé que fuma, conduce y hace de todo en el programa. Con los años fue reemplazado por varios monos distintos.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_sr_teeny",
     "activa": true,
     "aptaFamilia": false,
@@ -2200,11 +3768,20 @@
   {
     "id": "simp_158",
     "enunciado": "¿Qué estrella del pop prestó su voz, con un seudónimo, a un paciente que se creía Michael Jackson?",
-    "opciones": ["Prince", "Elton John", "Paul McCartney", "Michael Jackson"],
+    "opciones": [
+      "Prince",
+      "Elton John",
+      "Paul McCartney",
+      "Michael Jackson"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "El propio Jackson hizo la voz hablada, pero no las canciones por temas de contrato. En ese capítulo compuso un tema para Lisa.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_michael_jackson",
     "activa": true,
     "aptaFamilia": false,
@@ -2214,11 +3791,20 @@
   {
     "id": "simp_159",
     "enunciado": "¿Cuál es el segundo nombre de Bart Simpson?",
-    "opciones": ["JoJo", "Jay", "Bartholomew", "Abraham"],
+    "opciones": [
+      "JoJo",
+      "Jay",
+      "Bartholomew",
+      "Abraham"
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Homero y Marge nunca aclaran qué significa. Lisa, en cambio, se llama Lisa Marie, como la hija de Elvis Presley.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_segundo_nombre_bart",
     "activa": true,
     "aptaFamilia": false,
@@ -2228,11 +3814,20 @@
   {
     "id": "simp_160",
     "enunciado": "¿Cuántos pelos tiene Homero en la parte de arriba de la cabeza?",
-    "opciones": ["1", "2", "3", "4"],
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Groening escondió sus iniciales en el dibujo de perfil: el pelo de Homero forma una «M» y su oreja, una «G».",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_pelos_homero",
     "activa": true,
     "aptaFamilia": false,
@@ -2242,11 +3837,20 @@
   {
     "id": "simp_161",
     "enunciado": "¿Cómo se llaman los padres de Milhouse?",
-    "opciones": ["Ned y Maude", "Kirk y Luann", "Clancy y Sarah", "Herb y Mona"],
+    "opciones": [
+      "Ned y Maude",
+      "Kirk y Luann",
+      "Clancy y Sarah",
+      "Herb y Mona"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Su divorcio es un tema recurrente de la serie, y Kirk hasta grabó una canción horrible para intentar reconquistar a Luann.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_padres_milhouse",
     "activa": true,
     "aptaFamilia": false,
@@ -2256,11 +3860,20 @@
   {
     "id": "simp_162",
     "enunciado": "¿Qué actriz hace la voz original en inglés de Bart Simpson?",
-    "opciones": ["Yeardley Smith", "Julie Kavner", "Nancy Cartwright", "Pamela Hayden"],
+    "opciones": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Pamela Hayden"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Se presentó al casting para hacer la voz de Lisa, pero pidió probar con Bart y la eligieron en el acto.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_voz_bart",
     "activa": true,
     "aptaFamilia": false,
@@ -2270,11 +3883,20 @@
   {
     "id": "simp_163",
     "enunciado": "¿Qué actor daba voz en inglés a Troy McClure y a Lionel Hutz?",
-    "opciones": ["Hank Azaria", "Harry Shearer", "Dan Castellaneta", "Phil Hartman"],
+    "opciones": [
+      "Hank Azaria",
+      "Harry Shearer",
+      "Dan Castellaneta",
+      "Phil Hartman"
+    ],
     "respuestaCorrecta": 3,
     "explicacion": "Tras su muerte en 1998, los productores decidieron retirar a ambos personajes de la serie como homenaje.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_phil_hartman",
     "activa": true,
     "aptaFamilia": false,
@@ -2284,11 +3906,20 @@
   {
     "id": "simp_164",
     "enunciado": "¿Cómo se llama el gemelo malvado de Bart, que vivía encerrado en el ático?",
-    "opciones": ["Hugo", "Hank", "Herb", "Homer Jr."],
+    "opciones": [
+      "Hugo",
+      "Hank",
+      "Herb",
+      "Homer Jr."
+    ],
     "respuestaCorrecta": 0,
     "explicacion": "Aparece en un especial de La casita del horror: al final se descubre que el gemelo malvado era en realidad Bart.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_hugo",
     "activa": true,
     "aptaFamilia": false,
@@ -2298,11 +3929,20 @@
   {
     "id": "simp_165",
     "enunciado": "¿Cuántos años tiene el Sr. Burns?",
-    "opciones": ["81", "94", "104", "117"],
+    "opciones": [
+      "81",
+      "94",
+      "104",
+      "117"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Tiene tantas enfermedades juntas que, según su médico, se bloquean entre sí al querer entrar, y por eso sigue vivo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_edad_burns",
     "activa": true,
     "aptaFamilia": false,
@@ -2312,11 +3952,20 @@
   {
     "id": "simp_166",
     "enunciado": "¿Cuál es el coeficiente intelectual de Lisa Simpson?",
-    "opciones": ["139", "149", "159", "169"],
+    "opciones": [
+      "139",
+      "149",
+      "159",
+      "169"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "En un episodio se une al grupo de genios de Springfield, Mensa, y llegan a gobernar la ciudad junto a otros vecinos brillantes.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_iq_lisa",
     "activa": true,
     "aptaFamilia": false,
@@ -2326,11 +3975,20 @@
   {
     "id": "simp_167",
     "enunciado": "¿Qué actriz mexicana le dio la voz latina a Bart en las primeras 15 temporadas?",
-    "opciones": ["Patricia Acevedo", "Marina Huerta", "Nancy MacKenzie", "Claudia Motta"],
+    "opciones": [
+      "Patricia Acevedo",
+      "Marina Huerta",
+      "Nancy MacKenzie",
+      "Claudia Motta"
+    ],
     "respuestaCorrecta": 1,
     "explicacion": "Junto a Humberto Vélez como Homero formó el elenco clásico. Patricia Acevedo, en cambio, era la voz de Lisa.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_voz_latina_bart",
     "activa": true,
     "aptaFamilia": false,
@@ -2340,11 +3998,20 @@
   {
     "id": "simp_168",
     "enunciado": "¿Cómo se llaman los dos hijos de Ned Flanders?",
-    "opciones": ["Lou y Eddie", "Sherri y Terri", "Rod y Todd", "Jimbo y Kearney"],
+    "opciones": [
+      "Lou y Eddie",
+      "Sherri y Terri",
+      "Rod y Todd",
+      "Jimbo y Kearney"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Son tan inocentes y religiosos que Bart los considera aburridísimos. Sus diversiones favoritas son los juegos bíblicos.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_hijos_flanders",
     "activa": true,
     "aptaFamilia": false,
@@ -2354,15 +4021,264 @@
   {
     "id": "simp_169",
     "enunciado": "¿En qué año estrenó Los Simpson su presentación en alta definición?",
-    "opciones": ["2005", "2007", "2009", "2011"],
+    "opciones": [
+      "2005",
+      "2007",
+      "2009",
+      "2011"
+    ],
     "respuestaCorrecta": 2,
     "explicacion": "Fue en la temporada 20. La nueva presentación sumó más personajes y un cartel publicitario que cambia en cada capítulo.",
     "dificultad": "dificil",
-    "modosPermitidos": ["supervivencia", "supremo"],
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
     "grupoVariantes": "simpsons_presentacion_hd",
     "activa": true,
     "aptaFamilia": false,
     "revision": 1,
     "fechaActualizacion": "2026-09-26"
+  },
+  {
+    "id": "simp_170",
+    "enunciado": "¿Cómo se llama el alcalde de Springfield en Los Simpson?",
+    "opciones": [
+      "Joe Quimby",
+      "Ray Patterson",
+      "Seymour Skinner",
+      "Clancy Wiggum"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Quimby aparece con frecuencia inaugurando obras y buscando votos; su banda de alcalde es casi tan reconocible como su voz.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "springfield_alcalde_quimby",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_171",
+    "enunciado": "¿Cómo se llama el perro de caricatura que Homero dobla en El show de Tomy y Daly?",
+    "opciones": [
+      "Rasqui",
+      "Poochie",
+      "Perrito Fiel",
+      "Lobo Loco"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Poochie se añadió para refrescar el programa, pero lo retiraron enseguida; Homero perdió así su fugaz empleo como actor de voz.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "homero_voz_poochie",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_172",
+    "enunciado": "¿Cómo se llama la niña que Selma adopta en China?",
+    "opciones": [
+      "Maya",
+      "Jessica",
+      "Ling",
+      "Greta"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Selma viaja a China con los Simpson para adoptar a Ling; Homero se hace pasar por su esposo durante el trámite.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "selma_hija_ling",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_173",
+    "enunciado": "¿Qué ciudad visita la familia Simpson en su viaje a Brasil?",
+    "opciones": [
+      "São Paulo",
+      "Brasilia",
+      "Salvador",
+      "Río de Janeiro"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En ese viaje, Homero termina secuestrado y la familia recorre sitios inspirados en la ciudad carioca para reunir el rescate.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "simpsons_viaje_brasil_ciudad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_174",
+    "enunciado": "¿Cómo se llama el instructor de boliche por quien Marge se siente atraída?",
+    "opciones": [
+      "Jacques",
+      "Lurleen",
+      "Artie",
+      "Chester"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Jacques aparece en el episodio donde Marge aprende a jugar boliche mientras Homero cree que ella prepara una sorpresa para él.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "marge_instructor_boliche",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_175",
+    "enunciado": "¿Qué nombre inventa Bart para fingir que un niño quedó atrapado en un pozo?",
+    "opciones": [
+      "Billy McCoy",
+      "Timmy O'Toole",
+      "Jimmy Flanders",
+      "Bobby Quimby"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bart usa una radio para simular los llamados de auxilio; el engaño moviliza a todo Springfield antes de salir a la luz.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bart_nino_pozo_ficticio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_176",
+    "enunciado": "¿Qué objeto le pide prestado Homero a Ned Flanders y suele tardar en devolver?",
+    "opciones": [
+      "Una escalera",
+      "Una parrilla",
+      "Una cortadora de césped",
+      "Una aspiradora"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Homero suele aprovecharse de la amabilidad de Ned: la cortadora de césped figura entre los objetos que le pide al vecino.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "homero_prestamo_cortadora",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_177",
+    "enunciado": "¿Qué personaje rivaliza con Lisa al llegar como nueva alumna a su clase?",
+    "opciones": [
+      "Sherri Mackleberry",
+      "Janey Powell",
+      "Terri Mackleberry",
+      "Allison Taylor"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Allison comparte el talento de Lisa para el saxofón y los estudios; la competencia impulsa a Lisa a tomar una mala decisión.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lisa_rival_allison",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_178",
+    "enunciado": "¿Qué nombre lleva el campamento de verano al que asisten Bart y Lisa?",
+    "opciones": [
+      "Kamp Krusty",
+      "Campamento Scratchy",
+      "Campamento Shelbyville",
+      "Kamp Flanders"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La publicidad prometía diversión con Krusty, pero los niños encuentran comida pobre y monitores abusivos antes de rebelarse.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bart_lisa_kamp_krusty",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_179",
+    "enunciado": "¿Cómo se llama la cantante de música country con quien Homero trabaja como representante?",
+    "opciones": [
+      "Beverly D'Angelo",
+      "Lurleen Lumpkin",
+      "Mindy Simmons",
+      "Rita LaFleur"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Homero descubre su voz en un bar y termina gestionando su carrera; esa dedicación pone a prueba su matrimonio con Marge.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "homero_cantante_lurleen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-28"
   }
 ]
