@@ -7905,5 +7905,4805 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fut_333",
+    "enunciado": "¿Qué defensor marcó los dos goles de Francia ante Croacia en la semifinal del Mundial de 1998?",
+    "opciones": [
+      "Laurent Blanc",
+      "Marcel Desailly",
+      "Lilian Thuram",
+      "Bixente Lizarazu"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Francia remontó el gol de Šuker y ganó 2-1. Aquellos fueron los únicos dos goles de Thuram en sus 142 partidos con la selección francesa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "thuram_semifinal_mundial_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_334",
+    "enunciado": "¿Quién marcó cuatro goles para Portugal en la remontada ante Corea del Norte en el Mundial de 1966?",
+    "opciones": [
+      "Eusébio",
+      "José Torres",
+      "Mário Coluna",
+      "José Augusto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Portugal perdía 3-0 a los 25 minutos y terminó ganando 5-3. Dos de los cuatro tantos de Eusébio llegaron desde el punto de penal.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "eusebio_corea_norte_mundial_1966",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_335",
+    "enunciado": "¿Qué delantero ganó la Bota de Oro del Mundial de México 1986 con seis goles?",
+    "opciones": [
+      "Emilio Butragueño",
+      "Diego Maradona",
+      "Careca",
+      "Gary Lineker"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La mitad de sus seis goles llegó en un solo partido: el triunfo 3-0 de Inglaterra ante Polonia, que le permitió avanzar a octavos.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lineker_goleador_mundial_1986",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_336",
+    "enunciado": "¿Qué delantero francés marcó 13 goles en apenas seis partidos del Mundial de Suecia 1958?",
+    "opciones": [
+      "Raymond Kopa",
+      "Just Fontaine",
+      "Roger Piantoni",
+      "Maryan Wisnieski"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los 13 goles llegaron en su única participación mundialista. Francia terminó tercera y él superó los 11 tantos de Kocsis en 1954.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "fontaine_goles_mundial_1958",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_337",
+    "enunciado": "¿Qué selección eliminó a la campeona vigente Alemania en los cuartos de final del Mundial de 1994?",
+    "opciones": [
+      "Rumania",
+      "Bulgaria",
+      "Suecia",
+      "Países Bajos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Alemania se había coronado en Italia 1990. Cuatro años después, Bulgaria la dejó fuera con un 2-1 y alcanzó las semifinales.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bulgaria_alemania_mundial_1994",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_338",
+    "enunciado": "¿Qué delantero italiano fue el máximo goleador del Mundial de 1990 con seis tantos?",
+    "opciones": [
+      "Roberto Baggio",
+      "Gianluca Vialli",
+      "Roberto Mancini",
+      "Salvatore Schillaci"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Schillaci debutó con Italia pocos meses antes del Mundial. Terminó el torneo con seis goles y también recibió el Balón de Oro.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "schillaci_goleador_mundial_1990",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_339",
+    "enunciado": "¿Quién marcó el gol de Argentina que eliminó a Brasil en los octavos del Mundial de Italia 1990?",
+    "opciones": [
+      "Claudio Caniggia",
+      "Abel Balbo",
+      "Pedro Troglio",
+      "Jorge Burruchaga"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Argentina ganó 1-0 en Turín. Maradona condujo la jugada y asistió a Caniggia, que eludió al arquero Taffarel antes de definir.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "caniggia_brasil_mundial_1990",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_340",
+    "enunciado": "¿Qué defensor abrió el marcador para Italia en la prórroga de la semifinal ante Alemania en el Mundial de 2006?",
+    "opciones": [
+      "Marco Materazzi",
+      "Fabio Cannavaro",
+      "Fabio Grosso",
+      "Gianluca Zambrotta"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El partido seguía 0-0 al llegar la prórroga. Italia lo resolvió con goles de Grosso y Del Piero y luego ganó la final ante Francia.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "grosso_alemania_mundial_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_341",
+    "enunciado": "En un penal durante el partido, el balón pega en el poste y el ejecutante lo patea de nuevo sin otro toque. ¿Qué se cobra?",
+    "opciones": [
+      "Tiro libre directo",
+      "Repetición del penal",
+      "Saque de meta",
+      "Tiro libre indirecto"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El poste no cuenta como otro jugador: el ejecutante no puede tocar de nuevo el balón hasta que alguien más lo haya tocado.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_penal_segundo_toque_poste",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_342",
+    "enunciado": "¿Qué se cobra si un arquero toma con las manos en su área un pase que un compañero le dio deliberadamente con el pie?",
+    "opciones": [
+      "Tiro libre directo",
+      "Saque de esquina",
+      "Tiro libre indirecto",
+      "Balón a tierra"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La sanción es por usar las manos ante ese pase, no por recibirlo. El arquero sí puede controlarlo con los pies y continuar la jugada.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_arquero_pase_deliberado_pie",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_343",
+    "enunciado": "¿Cómo se sanciona al arquero que controla el balón con las manos durante más de ocho segundos dentro de su área?",
+    "opciones": [
+      "Tiro libre indirecto",
+      "Saque de esquina",
+      "Balón a tierra",
+      "Saque de banda"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Desde la reforma de 2025, se concede un córner al rival. El árbitro señala visualmente los últimos cinco segundos de la cuenta.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_arquero_ocho_segundos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_344",
+    "enunciado": "Si el balón toca al árbitro dentro del campo y entra directamente en una portería, ¿cómo se reanuda el juego?",
+    "opciones": [
+      "Con balón a tierra",
+      "Con saque de centro",
+      "Con saque de meta",
+      "Con tiro libre indirecto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El gol no vale aunque el toque del árbitro haya sido accidental. La regla interrumpe el juego cuando ese contacto produce un gol directo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_balon_arbitro_gol_directo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_345",
+    "enunciado": "En un tiro libre con barrera de tres o más defensores, ¿a qué distancia mínima de ella deben estar los atacantes?",
+    "opciones": [
+      "A 1 metro",
+      "A 0,5 metros",
+      "A 2 metros",
+      "A 3 metros"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La separación se mantiene hasta que el balón está en juego. Si un atacante invade ese metro, se concede un tiro libre indirecto.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_atacantes_distancia_barrera",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_346",
+    "enunciado": "Un tiro libre indirecto, correctamente señalado, entra en la portería rival sin tocar a nadie. ¿Cómo se reanuda?",
+    "opciones": [
+      "Con saque de centro",
+      "Con saque de meta",
+      "Con saque de esquina",
+      "Con balón a tierra"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Para que un tiro libre indirecto produzca un gol válido, el balón debe tocar a otro jugador antes de entrar en la portería.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_gol_directo_tiro_indirecto",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_347",
+    "enunciado": "¿Qué club fue el primero de Gran Bretaña en ganar la Copa de Europa, tras vencer al Inter en 1967?",
+    "opciones": [
+      "Manchester United",
+      "Liverpool",
+      "Celtic",
+      "Nottingham Forest"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El Celtic remontó y ganó 2-1 en Lisboa. Aquel equipo pasó a la historia con el apodo de «Leones de Lisboa».",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "celtic_copa_europa_1967",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_348",
+    "enunciado": "¿Qué club inglés ganó dos Copas de Europa consecutivas, en 1979 y 1980, dirigido por Brian Clough?",
+    "opciones": [
+      "Liverpool",
+      "Aston Villa",
+      "Manchester United",
+      "Nottingham Forest"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El Forest venció al Malmö en la final de 1979 y al Hamburgo en la de 1980. Ambas se resolvieron con el mismo marcador: 1-0.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "forest_copas_europa_1979_1980",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_349",
+    "enunciado": "¿Qué club ganó su primer título de la liga italiana en 1990-91 con Vialli y Mancini en ataque?",
+    "opciones": [
+      "Genoa",
+      "Torino",
+      "Sampdoria",
+      "Fiorentina"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El título quedó asegurado con un 3-0 ante el Lecce. Vialli fue además el máximo goleador de aquella edición de la liga italiana.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sampdoria_scudetto_1991",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_350",
+    "enunciado": "¿Qué selección europea ganó la Copa Confederaciones de 1995 al vencer 2-0 a Argentina en la final?",
+    "opciones": [
+      "Dinamarca",
+      "Suecia",
+      "Alemania",
+      "Países Bajos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Michael Laudrup y Peter Rasmussen marcaron en la final. El torneo aún se llamaba Copa Rey Fahd y contó con seis selecciones.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dinamarca_confederaciones_1995",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_351",
+    "enunciado": "¿Qué delantero marcó los dos goles de México en la final olímpica masculina de Londres 2012?",
+    "opciones": [
+      "Javier Hernández",
+      "Giovani dos Santos",
+      "Carlos Vela",
+      "Oribe Peralta"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "México ganó 2-1 a Brasil en Wembley y conquistó el oro. Peralta abrió el marcador en el primer minuto y volvió a anotar en la segunda mitad.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "peralta_final_olimpica_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_352",
+    "enunciado": "¿Qué selección fue la primera de África en ganar el oro olímpico de fútbol masculino, en Atlanta 1996?",
+    "opciones": [
+      "Camerún",
+      "Nigeria",
+      "Ghana",
+      "Costa de Marfil"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Nigeria venció a Brasil 4-3 en semifinales y a Argentina 3-2 en la final. Así completó dos remontadas ante potencias sudamericanas.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nigeria_oro_olimpico_1996",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_353",
+    "enunciado": "¿Qué francés marcó dos goles de cabeza ante Brasil en la final del Mundial de 1998?",
+    "opciones": [
+      "Thierry Henry",
+      "Zinedine Zidane",
+      "Youri Djorkaeff",
+      "Emmanuel Petit"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los dos cabezazos llegaron antes del descanso. Petit completó el 3-0 en el descuento y Francia conquistó su primer título mundial.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zidane_doblete_final_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_354",
+    "enunciado": "¿Qué colombiano ganó la Bota de Oro del Mundial de Brasil 2014 con seis goles?",
+    "opciones": [
+      "Radamel Falcao",
+      "Juan Cuadrado",
+      "Jackson Martínez",
+      "James Rodríguez"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Su volea ante Uruguay también fue elegida gol del torneo. Colombia llegó a cuartos de final por primera vez en su historia.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "james_goleador_mundial_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_355",
+    "enunciado": "¿Qué neerlandés empató ante España con un famoso cabezazo en vuelo en el Mundial de 2014?",
+    "opciones": [
+      "Robin van Persie",
+      "Arjen Robben",
+      "Wesley Sneijder",
+      "Klaas-Jan Huntelaar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El cabezazo llegó justo antes del descanso. Países Bajos terminó ganando 5-1, cuatro años después de perder la final ante España.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "van_persie_cabezazo_espana_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_356",
+    "enunciado": "¿Quién puso a Brasil 2-1 ante Italia con un remate desde fuera del área en la final del Mundial de 1970?",
+    "opciones": [
+      "Rivelino",
+      "Jairzinho",
+      "Gérson",
+      "Tostão"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El gol rompió el empate en el segundo tiempo. Luego anotaron Jairzinho y Carlos Alberto para completar el 4-1 de Brasil.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "gerson_final_mundial_1970",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_357",
+    "enunciado": "¿Qué arquero argentino fue decisivo en las tandas de penales ante Yugoslavia e Italia en el Mundial de 1990?",
+    "opciones": [
+      "Nery Pumpido",
+      "Luis Islas",
+      "Sergio Goycochea",
+      "Ángel Comizzo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Llegó como suplente y reemplazó a Pumpido tras su lesión. Atajó dos penales en cada una de aquellas tandas camino a la final.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "goycochea_tandas_mundial_1990",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_358",
+    "enunciado": "¿Qué entrenador fue el primero en ganar el Mundial como jugador y como técnico, al dirigir a Brasil en 1970?",
+    "opciones": [
+      "Mário Zagallo",
+      "Vicente Feola",
+      "Aymoré Moreira",
+      "João Saldanha"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ya había sido campeón como jugador en 1958 y 1962. En 1994 volvió a integrar el cuerpo técnico del Brasil campeón, como asistente.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zagallo_jugador_tecnico_campeon",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_359",
+    "enunciado": "¿Qué delantero polaco terminó como máximo goleador del Mundial de 1974 con siete tantos?",
+    "opciones": [
+      "Andrzej Szarmach",
+      "Kazimierz Deyna",
+      "Zbigniew Boniek",
+      "Grzegorz Lato"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Su último gol del torneo decidió el 1-0 ante Brasil por el tercer puesto. Polonia cerró así su regreso al Mundial tras 36 años.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lato_goleador_mundial_1974",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_360",
+    "enunciado": "¿Qué italiano falló el último penal de su selección en la tanda de la final del Mundial de 1994?",
+    "opciones": [
+      "Franco Baresi",
+      "Roberto Baggio",
+      "Daniele Massaro",
+      "Demetrio Albertini"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Antes también habían fallado Baresi y Massaro. El remate de Baggio pasó por encima del travesaño y Brasil obtuvo su cuarto título.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "baggio_penal_final_mundial_1994",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_361",
+    "enunciado": "¿Quién dio el pase largo que Bergkamp convirtió en gol ante Argentina en los cuartos del Mundial de 1998?",
+    "opciones": [
+      "Frank de Boer",
+      "Ronald de Boer",
+      "Edgar Davids",
+      "Clarence Seedorf"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El pase salió desde el propio campo. Bergkamp controló, superó a Ayala y definió para sellar el 2-1 cuando se acercaba la prórroga.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bergkamp_asistencia_argentina_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_362",
+    "enunciado": "¿Qué dos países organizaron juntos el Mundial masculino de 2002?",
+    "opciones": [
+      "China y Japón",
+      "Japón y Vietnam",
+      "Japón y Corea del Sur",
+      "China y Corea del Sur"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Fue el primer Mundial celebrado en Asia y el primero con dos anfitriones. Corea del Sur llegó a semifinales jugando como local.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "anfitriones_mundial_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_363",
+    "enunciado": "¿Quién marcó el primer gol del Mundial de Alemania 2006, con un remate ante Costa Rica?",
+    "opciones": [
+      "Torsten Frings",
+      "Philipp Lahm",
+      "Bastian Schweinsteiger",
+      "Miroslav Klose"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su disparo abrió el marcador a los seis minutos. Alemania ganó 4-2; Frings cerró el partido con otro potente remate lejano.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lahm_primer_gol_mundial_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_364",
+    "enunciado": "¿Qué futbolista francés convirtió el primer gol de la historia de los Mundiales, en 1930?",
+    "opciones": [
+      "Jean Nicolas",
+      "André Maschinot",
+      "Marcel Langiller",
+      "Lucien Laurent"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Abrió el marcador ante México a los 19 minutos. Francia terminó ganando 4-1 en Montevideo, el día que comenzó el primer Mundial.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "laurent_primer_gol_mundiales",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_365",
+    "enunciado": "¿Qué croata fue el máximo goleador del Mundial de Francia 1998, con seis tantos?",
+    "opciones": [
+      "Zvonimir Boban",
+      "Goran Vlaović",
+      "Robert Prosinečki",
+      "Davor Šuker"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Sus goles ayudaron a Croacia a terminar tercera en su debut mundialista. Marcó en seis de los siete partidos que disputó su selección.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "suker_goleador_mundial_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_366",
+    "enunciado": "¿Quién convirtió el penal que adelantó a Países Bajos al inicio de la final del Mundial de 1974?",
+    "opciones": [
+      "Johan Cruyff",
+      "Johan Neeskens",
+      "Johnny Rep",
+      "Rob Rensenbrink"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Alemania Federal todavía no había tocado el balón cuando quedó 0-1. Sin embargo, remontó antes del descanso y ganó la final 2-1.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "neeskens_penal_final_mundial_1974",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_367",
+    "enunciado": "¿Quién dirigió a España cuando conquistó su primer Mundial masculino, en Sudáfrica 2010?",
+    "opciones": [
+      "Luis Aragonés",
+      "Rafael Benítez",
+      "Vicente del Bosque",
+      "Luis Enrique"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Su selección ganó los cuatro cruces eliminatorios por 1-0. Dos años después, Del Bosque también la llevó al título de la Eurocopa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "del_bosque_espana_mundial_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_368",
+    "enunciado": "¿Qué brasileño superó a David Seaman con un tiro libre en los cuartos del Mundial de 2002?",
+    "opciones": [
+      "Ronaldinho",
+      "Rivaldo",
+      "Juninho Paulista",
+      "Roberto Carlos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El gol selló el 2-1 ante Inglaterra. Ronaldinho explicó que buscó el arco al advertir la posición adelantada del arquero.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ronaldinho_tiro_libre_inglaterra_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_369",
+    "enunciado": "¿Qué arquero alemán atajó los penales de Didier Six y Maxime Bossis en la semifinal del Mundial de 1982?",
+    "opciones": [
+      "Sepp Maier",
+      "Harald Schumacher",
+      "Bodo Illgner",
+      "Andreas Köpke"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El partido ante Francia acabó 3-3 tras la prórroga. Fue la primera eliminatoria de un Mundial decidida mediante una tanda de penales.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "schumacher_tanda_francia_1982",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_370",
+    "enunciado": "¿Qué italiano celebró con un famoso grito su gol del 2-0 ante Alemania Federal en la final del Mundial de 1982?",
+    "opciones": [
+      "Marco Tardelli",
+      "Paolo Rossi",
+      "Bruno Conti",
+      "Alessandro Altobelli"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Italia terminó imponiéndose 3-1 en Madrid. La imagen de Tardelli corriendo y gritando se convirtió en un símbolo de aquel título.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tardelli_grito_final_mundial_1982",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_371",
+    "enunciado": "¿Qué entrenador dirigió al Brasil campeón del Mundial de Chile 1962?",
+    "opciones": [
+      "Vicente Feola",
+      "Mário Zagallo",
+      "Aymoré Moreira",
+      "Zezé Moreira"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Tuvo que afrontar la fase decisiva sin Pelé, lesionado. Brasil venció 3-1 a Checoslovaquia en la final y conservó el título.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "aymore_moreira_brasil_mundial_1962",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_372",
+    "enunciado": "¿Qué uruguayo abrió el marcador ante Argentina en la primera final mundialista, en 1930?",
+    "opciones": [
+      "Pedro Cea",
+      "Héctor Castro",
+      "Santos Iriarte",
+      "Pablo Dorado"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Su gol no evitó que Argentina se fuera al descanso ganando 2-1. Uruguay remontó en el segundo tiempo y se coronó con un 4-2.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dorado_primer_gol_final_1930",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_373",
+    "enunciado": "¿Qué ocurre si el balón sigue tocando la línea lateral y no la ha cruzado por completo?",
+    "opciones": [
+      "Se cobra saque de banda",
+      "Se cobra balón a tierra",
+      "Se cobra tiro indirecto",
+      "Sigue en juego"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Las líneas forman parte del campo. Para que la pelota salga, debe cruzarlas por completo, tanto si va por el suelo como por el aire.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_balon_linea_lateral",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_374",
+    "enunciado": "¿Cuál es el mínimo de jugadores que debe tener cada equipo para que pueda comenzar un partido de fútbol de once?",
+    "opciones": [
+      "6 jugadores",
+      "7 jugadores",
+      "8 jugadores",
+      "9 jugadores"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Aunque el máximo es once, se puede iniciar con siete. Uno de ellos debe ser el arquero; no hace falta tener los once para comenzar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_minimo_jugadores_inicio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_375",
+    "enunciado": "¿Qué sanción reciben un arquero y un compañero que intercambian puestos y camisetas durante el juego sin permiso arbitral?",
+    "opciones": [
+      "Amarilla para ambos",
+      "Roja para ambos",
+      "Amarilla solo al arquero",
+      "Ninguna amonestación"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El árbitro deja seguir y amonesta a ambos cuando el balón sale. La norma no aplica esa amonestación si el cambio ocurre en el descanso.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_intercambio_arquero_sin_permiso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_376",
+    "enunciado": "¿Qué decide el árbitro si un saque inicial bien ejecutado entra directamente en el arco rival?",
+    "opciones": [
+      "Repite el saque inicial",
+      "Concede saque de meta",
+      "Convalida el gol",
+      "Concede tiro indirecto"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El saque inicial permite marcar directamente al rival. El balón debe estar quieto en el centro y el árbitro debe dar la señal.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_gol_directo_saque_inicial",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_377",
+    "enunciado": "¿En qué mitad del campo puede estar un atacante en posición de fuera de juego?",
+    "opciones": [
+      "Solo en su propia mitad",
+      "En cualquiera de las dos",
+      "Solo en la mitad rival",
+      "Solo dentro del área rival"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La línea del medio no cuenta como campo rival para esta regla. La cabeza, el cuerpo y los pies sí cuentan; los brazos se excluyen.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_fuera_juego_mitad_campo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_378",
+    "enunciado": "¿Qué ocurre si se cobra rápido un tiro libre y un rival a menos de 9,15 m lo intercepta sin impedir el saque?",
+    "opciones": [
+      "El tiro libre se repite",
+      "Se amonesta al rival",
+      "Se cobra tiro al rival",
+      "El juego continúa"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Quien elige sacar rápido asume ese riesgo. Es distinto si el rival impide deliberadamente ejecutar el saque: ahí recibe amarilla.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_tiro_libre_rapido_interceptado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_379",
+    "enunciado": "¿Qué distancia mínima deben guardar los rivales respecto del arco de esquina antes de que se ejecute un córner?",
+    "opciones": [
+      "5,50 metros",
+      "9,15 metros",
+      "7,32 metros",
+      "11 metros"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La distancia se mide desde el arco de esquina, no desde el banderín. La obligación termina cuando el balón está en juego.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_distancia_rivales_corner",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_380",
+    "enunciado": "¿Qué se cobra si un defensor comete una falta de tiro libre directo exactamente sobre la línea de su área penal?",
+    "opciones": [
+      "Tiro penal",
+      "Tiro libre directo",
+      "Tiro libre indirecto",
+      "Balón a tierra"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La línea pertenece al área que delimita. Por eso, una falta de tiro libre directo sobre ese límite se considera cometida dentro.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_falta_linea_area_penal",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_381",
+    "enunciado": "¿Qué corresponde si, al patear un penal, el balón roza accidentalmente el pie de apoyo de inmediato y entra en el arco?",
+    "opciones": [
+      "Convalidar el gol",
+      "Repetir el penal",
+      "Cobrar tiro indirecto",
+      "Cobrar saque de meta"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La regla distingue el doble toque accidental del deliberado. Si ese contacto accidental termina en gol, el penal se ejecuta otra vez.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_penal_doble_toque_accidental",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_382",
+    "enunciado": "¿Qué tiro libre se cobra por levantar el pie peligrosamente cerca de un rival, sin contacto físico?",
+    "opciones": [
+      "Tiro libre directo",
+      "Tiro penal",
+      "Tiro libre indirecto",
+      "Saque de esquina"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El juego peligroso puede sancionarse sin tocar al rival. También incluye obligarlo a renunciar a disputar el balón por temor a lesionarse.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_juego_peligroso_sin_contacto",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_383",
+    "enunciado": "¿Qué sanción recibe un jugador que se quita la camiseta al festejar un gol?",
+    "opciones": [
+      "Tarjeta roja directa",
+      "Advertencia sin tarjeta",
+      "Ninguna sanción",
+      "Tarjeta amarilla"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La amonestación se mantiene aunque después anulen el gol. Cubrirse la cabeza con la camiseta también está sancionado con amarilla.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_quitar_camiseta_festejo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_384",
+    "enunciado": "¿Qué se cobra si un saque de meta entra directamente en el arco del propio ejecutante sin tocar a otro jugador?",
+    "opciones": [
+      "Córner para el rival",
+      "Gol para el rival",
+      "Repetición del saque",
+      "Tiro indirecto rival"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Desde un saque de meta solo se puede marcar directamente al contrario. Si entra en el arco propio sin otro toque, no vale como autogol.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_saque_meta_arco_propio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_385",
+    "enunciado": "¿Qué pasa con un futbolista expulsado después del saque inicial si su equipo todavía tiene cambios disponibles?",
+    "opciones": [
+      "No puede ser reemplazado",
+      "Puede entrar un suplente",
+      "Puede volver tras diez minutos",
+      "Puede cambiarse al descanso"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Una expulsión durante el partido reduce el equipo. En cambio, un titular expulsado antes del inicio sí puede ser reemplazado por un suplente.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_expulsado_reemplazo_partido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_386",
+    "enunciado": "¿Qué se cobra si, tras un balón a tierra, un jugador remata al arco rival y marca sin que la pelota toque a otro jugador?",
+    "opciones": [
+      "Gol válido",
+      "Saque de esquina",
+      "Tiro libre indirecto",
+      "Saque de meta"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Para marcar después de un balón a tierra, la pelota debe tocar al menos a dos jugadores. Varios toques de la misma persona no bastan.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_balon_tierra_gol_un_jugador",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_387",
+    "enunciado": "¿Qué debe hacer un jugador con un anillo antes de jugar, aunque lo haya cubierto con cinta?",
+    "opciones": [
+      "Cubrirlo con cinta gruesa",
+      "Ocultarlo debajo de un guante",
+      "Retirarlo antes de jugar",
+      "Usarlo con permiso del capitán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las joyas están prohibidas y la cinta no las vuelve admisibles. El árbitro revisa el equipamiento antes del inicio y al entrar los suplentes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_joyas_anillo_cinta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_388",
+    "enunciado": "Antes de una tanda, un equipo tiene once jugadores y el otro nueve. ¿Cuántos deben quedar habilitados en cada uno?",
+    "opciones": [
+      "11 jugadores",
+      "9 jugadores",
+      "10 jugadores",
+      "5 jugadores"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El equipo con más jugadores debe excluir a dos y avisar al árbitro. Así ambos disputan la tanda con igual número de participantes.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_tanda_igualar_jugadores",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_389",
+    "enunciado": "Al jugarse el pase, un atacante está a la misma altura que el penúltimo rival. ¿Está en posición de fuera de juego?",
+    "opciones": [
+      "Sí, por estar en campo rival",
+      "Sí, si luego recibe el pase",
+      "Sí, si termina marcando",
+      "No, está habilitado"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Estar a la misma altura no es estar adelantado. La referencia es el penúltimo adversario, que no tiene por qué ser un defensor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_fuera_juego_misma_altura",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_390",
+    "enunciado": "Se prolonga el partido solo para ejecutar un penal y se marca un gol válido. ¿Qué hace el árbitro después?",
+    "opciones": [
+      "Finaliza el partido",
+      "Ordena saque de centro",
+      "Concede balón a tierra",
+      "Ordena repetir el penal"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La prolongación especial permite completar el penal. Si acaba en gol válido, el partido termina sin que se ejecute un saque de centro.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_penal_prolongacion_fin_partido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_391",
+    "enunciado": "¿Cómo se reanuda el juego si el balón revienta durante una jugada normal en el centro del campo?",
+    "opciones": [
+      "Con saque de banda",
+      "Con balón a tierra",
+      "Con tiro libre indirecto",
+      "Con tiro libre directo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El árbitro detiene el juego y cambia la pelota. Si se rompe al ejecutar un saque o un tiro libre, esa reanudación debe repetirse.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_balon_revienta_jugada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_392",
+    "enunciado": "¿Cómo se reanuda el juego si el ejecutante de un penal patea deliberadamente el balón hacia atrás?",
+    "opciones": [
+      "Repetición del penal",
+      "Balón a tierra",
+      "Tiro indirecto al rival",
+      "Saque de meta"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En un penal la pelota debe avanzar. Se permite patearla de taco, pero solo si va hacia adelante; mandarla hacia atrás infringe la regla.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "regla_penal_pateado_atras",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_393",
+    "enunciado": "¿Con qué club debutó Diego Maradona en la Primera División argentina en 1976?",
+    "opciones": [
+      "Boca Juniors",
+      "Argentinos Juniors",
+      "Estudiantes de La Plata",
+      "Newell’s Old Boys"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Entró ante Talleres de Córdoba el 20 de octubre de 1976. Tenía 15 años: faltaban apenas diez días para su cumpleaños número 16.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "maradona_debut_argentinos_1976",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_394",
+    "enunciado": "¿Quién defendió el arco de Vélez en la victoria sobre el Milan por la Copa Intercontinental de 1994?",
+    "opciones": [
+      "Sergio Goycochea",
+      "Óscar Córdoba",
+      "Carlos Navarro Montoya",
+      "José Luis Chilavert"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El equipo de Carlos Bianchi ganó 2-0 en Tokio. Roberto Trotta convirtió de penal y Omar Asad marcó el segundo gol.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "velez_intercontinental_1994",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_395",
+    "enunciado": "¿Qué entrenador llevó a Boca a ganar invicto el Torneo Apertura de 1998?",
+    "opciones": [
+      "Carlos Bianchi",
+      "Alfio Basile",
+      "Miguel Ángel Russo",
+      "Carlos Bilardo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Fue su primer campeonato al frente del club: terminó con 13 victorias y seis empates. Boca repitió el título en el Clausura de 1999.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "boca_apertura_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_396",
+    "enunciado": "¿Qué club ganó el campeonato argentino de la temporada 1990/91 dirigido por Marcelo Bielsa?",
+    "opciones": [
+      "Rosario Central",
+      "Vélez Sarsfield",
+      "Newell’s Old Boys",
+      "Argentinos Juniors"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Bielsa también ganó el Apertura 1990 y el Clausura 1992 con el club. La final de la temporada 1990/91 se disputó contra Boca.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "newells_temporada_1990_1991",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_397",
+    "enunciado": "¿Qué club rompió en 1967 la hegemonía de los cinco grandes como campeones de liga en la era profesional argentina?",
+    "opciones": [
+      "Vélez Sarsfield",
+      "Rosario Central",
+      "Argentinos Juniors",
+      "Estudiantes de La Plata"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El equipo de Osvaldo Zubeldía ganó el Metropolitano al vencer 3-0 a Racing en el Viejo Gasómetro. El profesionalismo había comenzado en 1931.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "estudiantes_metropolitano_1967",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_398",
+    "enunciado": "¿Qué club ganó el Metropolitano de 1973 dirigido por César Luis Menotti?",
+    "opciones": [
+      "San Lorenzo",
+      "Huracán",
+      "Independiente",
+      "Racing Club"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Se aseguró el título dos fechas antes del final, aun perdiendo ante Gimnasia. La derrota de Boca le permitió conservar una ventaja inalcanzable.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "huracan_metropolitano_1973",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_399",
+    "enunciado": "¿Qué entrenador terminó con los 18 años sin títulos de River al ganar el Metropolitano de 1975?",
+    "opciones": [
+      "Adolfo Pedernera",
+      "José María Minella",
+      "Ángel Labruna",
+      "Alfredo Di Stéfano"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Antes de triunfar como técnico, había sido una figura histórica de River como jugador. También dirigió al campeón Rosario Central de 1971.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "river_metropolitano_1975",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_400",
+    "enunciado": "¿Qué club ganó el Apertura de 2001 con Reinaldo Merlo y terminó con 35 años sin títulos de liga?",
+    "opciones": [
+      "Racing Club",
+      "Independiente",
+      "San Lorenzo",
+      "Huracán"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La consagración llegó con un empate 1-1 ante Vélez en el José Amalfitani. Los festejos también colmaron el Cilindro de Avellaneda.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "racing_apertura_2001",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_401",
+    "enunciado": "¿Qué club ganó su primer título de liga argentina en el Apertura de 2009, con James Rodríguez en el plantel?",
+    "opciones": [
+      "Lanús",
+      "Arsenal de Sarandí",
+      "Banfield",
+      "Godoy Cruz"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Julio César Falcioni dirigía al equipo, Santiago Silva era su goleador y Walter Erviti aportaba creatividad. James luego pasó al Porto.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "banfield_apertura_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_402",
+    "enunciado": "¿Qué club ganó su primer título de liga argentina en el Apertura de 2007, dirigido por Ramón Cabrero?",
+    "opciones": [
+      "Lanús",
+      "Banfield",
+      "Arsenal de Sarandí",
+      "Tigre"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Se consagró al empatar 1-1 con Boca en la Bombonera. Terminó con 38 puntos y 34 goles a favor, la mayor cifra del torneo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lanus_apertura_2007",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_403",
+    "enunciado": "¿Quién dirigió a Argentinos Juniors cuando ganó el Clausura de 2010?",
+    "opciones": [
+      "Sergio Batista",
+      "Néstor Gorosito",
+      "Ricardo Caruso Lombardi",
+      "Claudio Borghi"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Una remontada clave llegó ante Independiente: perdía 3-1 y ganó 4-3. Matías Caruzzo convirtió el gol decisivo sobre el final.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "argentinos_clausura_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_404",
+    "enunciado": "¿Qué club ganó el Clausura argentino de 2012, su primer campeonato de liga en Primera División?",
+    "opciones": [
+      "Tigre",
+      "Arsenal de Sarandí",
+      "Godoy Cruz",
+      "Atlético de Rafaela"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "En la última fecha venció 1-0 a Belgrano con un gol de Lisandro López. El club de Sarandí celebró la consagración en su propio estadio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "arsenal_clausura_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_405",
+    "enunciado": "¿A qué equipo venció Rosario Central en la final del Nacional de 1971 para ganar su primer título profesional?",
+    "opciones": [
+      "San Lorenzo",
+      "Boca Juniors",
+      "River Plate",
+      "Independiente"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ángel Labruna dirigió al campeón. La definición terminó 2-1 y se jugó en la cancha de Newell’s, el rival clásico de Central.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rosario_central_nacional_1971",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_406",
+    "enunciado": "¿Por qué marcador venció Chacarita a River en la final del Metropolitano de 1969?",
+    "opciones": [
+      "3-1",
+      "2-0",
+      "4-1",
+      "4-2"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La final se jugó en el estadio de Racing. Antes de vencer a River, Chacarita había eliminado al propio Racing en la semifinal.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "chacarita_metropolitano_1969",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_407",
+    "enunciado": "¿Qué club fue campeón invicto del Nacional de 1982 bajo la dirección de Carlos Timoteo Griguol?",
+    "opciones": [
+      "Estudiantes de La Plata",
+      "Ferro Carril Oeste",
+      "Rosario Central",
+      "Vélez Sarsfield"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Cerró el torneo con 16 victorias y seis empates. Miguel Ángel Juárez fue el goleador del campeonato con 22 tantos.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ferro_nacional_1982",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_408",
+    "enunciado": "¿Qué club ganó el Metropolitano de 1978 tras remontar y vencer 3-2 a Rosario Central en la última fecha?",
+    "opciones": [
+      "Huracán",
+      "Vélez Sarsfield",
+      "Argentinos Juniors",
+      "Quilmes"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "José Yudica asumió cuando el equipo estaba en zona de descenso. Jorge Gáspari marcó el gol que selló la consagración en Arroyito.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "quilmes_metropolitano_1978",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_409",
+    "enunciado": "¿Qué entrenador dirigió a Vélez en su primer título de Primera División, el Nacional de 1968?",
+    "opciones": [
+      "Osvaldo Zubeldía",
+      "Manuel Giúdice",
+      "Juan José Pizzuti",
+      "José María Minella"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Vélez disputó un triangular de desempate con River y Racing. En el partido decisivo ganó 4-2, con tres goles de Omar Wehbe.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "velez_nacional_1968",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_410",
+    "enunciado": "¿Qué exjugador del Real Madrid dirigió a Boca cuando ganó el Nacional argentino de 1969?",
+    "opciones": [
+      "Alfredo Di Stéfano",
+      "Héctor Rial",
+      "Roque Olsen",
+      "Luis Carniglia"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Boca celebró el título en el Monumental tras empatar 2-2 con River. Norberto Madurga convirtió los dos goles del equipo visitante.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "boca_nacional_1969",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_411",
+    "enunciado": "¿Qué delantero de San Lorenzo fue máximo goleador del campeonato argentino cuatro años seguidos, de 1958 a 1961?",
+    "opciones": [
+      "Luis Artime",
+      "Rodolfo Fischer",
+      "Héctor Scotta",
+      "José Sanfilippo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En 1961 marcó dos goles ante Boca en la última fecha. Así superó por un tanto a Luis Artime y obtuvo su cuarta corona consecutiva.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sanfilippo_goleador_1958_1961",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_412",
+    "enunciado": "¿Quién dirigió a Newell’s cuando ganó su primer título de liga de AFA, el Metropolitano de 1974?",
+    "opciones": [
+      "José Yudica",
+      "Ángel Tulio Zof",
+      "Juan Carlos Montes",
+      "José María Silvero"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La consagración llegó con un empate 2-2 ante Central en Arroyito. Newell’s remontó dos goles con tantos de Armando Capurro y Mario Zanabria.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "newells_metropolitano_1974",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_413",
+    "enunciado": "¿Con qué club ganó Pelé la Copa Libertadores en 1962 y 1963?",
+    "opciones": [
+      "Palmeiras",
+      "Botafogo",
+      "Santos",
+      "Flamengo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En 1963 ganó las dos finales ante Boca. En la vuelta, disputada en la Bombonera, Coutinho y Pelé marcaron los goles del triunfo 2-1.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "santos_libertadores_1962_1963",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_414",
+    "enunciado": "¿Qué club argentino ganó su primera Libertadores en 2014 al vencer a Nacional de Paraguay en la final?",
+    "opciones": [
+      "San Lorenzo",
+      "Racing Club",
+      "River Plate",
+      "Independiente"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tras empatar 1-1 en Asunción, ganó 1-0 en el Pedro Bidegain. Néstor Ortigoza convirtió el penal que le dio el título.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "san_lorenzo_libertadores_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_415",
+    "enunciado": "¿Qué delantero abrió el marcador para River en el 3-0 a Tigres de la final de vuelta de la Libertadores 2015?",
+    "opciones": [
+      "Rodrigo Mora",
+      "Fernando Cavenaghi",
+      "Javier Saviola",
+      "Lucas Alario"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Un centro de Leonel Vangioni permitió abrir el marcador antes del descanso. Carlos Sánchez y Ramiro Funes Mori completaron la goleada.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "river_final_libertadores_2015",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_416",
+    "enunciado": "¿Qué jugador de Boca marcó los dos goles de la final de vuelta de la Libertadores 2007 ante Grêmio?",
+    "opciones": [
+      "Martín Palermo",
+      "Juan Román Riquelme",
+      "Rodrigo Palacio",
+      "Neri Cardozo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Boca había ganado 3-0 en la Bombonera y cerró la serie con un 2-0 en Porto Alegre. Miguel Ángel Russo dirigió al campeón.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "boca_final_libertadores_2007",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_417",
+    "enunciado": "¿Qué club ganó en 1960 la primera edición del torneo que hoy conocemos como Copa Libertadores?",
+    "opciones": [
+      "Nacional",
+      "Peñarol",
+      "Olimpia",
+      "Santos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Venció 1-0 a Olimpia en Montevideo y empató 1-1 en Asunción. La competencia nació con el nombre Copa de Campeones de América.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "primera_libertadores_1960",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_418",
+    "enunciado": "¿Qué club fue el primero en ganar tres Libertadores consecutivas, entre 1968 y 1970?",
+    "opciones": [
+      "Independiente de Avellaneda",
+      "Boca Juniors",
+      "Estudiantes de La Plata",
+      "Nacional de Montevideo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El equipo de Osvaldo Zubeldía venció en esas finales a Palmeiras, Nacional y Peñarol. En 1971 volvió a llegar a la definición.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "estudiantes_tricampeon_libertadores_1968_1970",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_419",
+    "enunciado": "¿Qué club ganó la primera Copa Sudamericana, disputada en 2002?",
+    "opciones": [
+      "San Lorenzo",
+      "Boca Juniors",
+      "River Plate",
+      "Independiente"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Encaminó la final con un 4-0 a Atlético Nacional en Medellín. Leandro Romagnoli marcó uno de los goles de aquella victoria.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "primera_sudamericana_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_420",
+    "enunciado": "¿Qué club peruano venció a River en la final de la Sudamericana de 2003?",
+    "opciones": [
+      "Alianza Lima",
+      "Sporting Cristal",
+      "Universitario",
+      "Cienciano"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Empató 3-3 en Buenos Aires y ganó 1-0 en Arequipa. Carlos Lugo convirtió el gol decisivo para el equipo de Freddy Ternero.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cienciano_sudamericana_2003",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_421",
+    "enunciado": "¿Qué club mexicano enfrentó a Boca en la final de la Sudamericana de 2005?",
+    "opciones": [
+      "Pumas UNAM",
+      "Pachuca",
+      "Club América",
+      "Cruz Azul"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los dos partidos terminaron 1-1. En los penales, Roberto Abbondanzieri atajó dos remates y convirtió el que selló el título de Boca.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "boca_pumas_sudamericana_2005",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_422",
+    "enunciado": "¿Qué entrenador llevó a Independiente a ganar la Copa Sudamericana de 2010?",
+    "opciones": [
+      "Américo Gallego",
+      "Jorge Burruchaga",
+      "Miguel Ángel Brindisi",
+      "Antonio Mohamed"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El equipo perdió 2-0 ante Goiás en Brasil y ganó 3-1 en Avellaneda. Tras el tiempo suplementario, se impuso 5-3 en los penales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "independiente_sudamericana_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_423",
+    "enunciado": "¿Quién dirigió a Lanús cuando ganó la Copa Sudamericana de 2013?",
+    "opciones": [
+      "Gabriel Schurrer",
+      "Guillermo Barros Schelotto",
+      "Luis Zubeldía",
+      "Jorge Almirón"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Empató 1-1 con Ponte Preta en Brasil y ganó 2-0 en Lanús. Víctor Ayala e Ismael Blanco marcaron los goles de la vuelta.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lanus_sudamericana_2013",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_424",
+    "enunciado": "¿Quién convirtió el penal de Independiente en el empate 1-1 con Flamengo que selló la Sudamericana de 2017?",
+    "opciones": [
+      "Maximiliano Meza",
+      "Martín Benítez",
+      "Ezequiel Barco",
+      "Emmanuel Gigliotti"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Tenía apenas 18 años cuando anotó en el Maracaná. Independiente había ganado 2-1 la ida y cerró la serie con ese empate.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "independiente_sudamericana_2017",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_425",
+    "enunciado": "¿Quién marcó para Peñarol el gol del título en el desempate de la Libertadores de 1987 ante América de Cali?",
+    "opciones": [
+      "Fernando Morena",
+      "Jorge Cabrera",
+      "Antonio Alzamendi",
+      "Diego Aguirre"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El desempate se jugó en Santiago de Chile. Su gol llegó al final del tiempo suplementario, cuando el 0-0 le daba el título al rival.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "penarol_libertadores_1987",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_426",
+    "enunciado": "¿Qué entrenador condujo a Colo-Colo al título de la Copa Libertadores de 1991?",
+    "opciones": [
+      "Claudio Borghi",
+      "Mirko Jozić",
+      "Gustavo Benítez",
+      "Ivo Basay"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El equipo empató 0-0 con Olimpia en Asunción y ganó 3-0 en Santiago. Fue la primera Libertadores conquistada por un club chileno.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "colo_colo_libertadores_1991",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_427",
+    "enunciado": "¿Qué arquero fue decisivo para Once Caldas en los penales de la final de la Libertadores de 2004 ante Boca?",
+    "opciones": [
+      "Óscar Córdoba",
+      "Faryd Mondragón",
+      "Juan Carlos Henao",
+      "Miguel Calero"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Once Caldas ganó la tanda 2-0: Boca no convirtió ninguno de sus cuatro remates. Henao atajó el último, ejecutado por Franco Cángele.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "once_caldas_libertadores_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_428",
+    "enunciado": "¿Qué entrenador dirigió a Atlético Nacional cuando ganó su primera Libertadores, en 1989?",
+    "opciones": [
+      "Francisco Maturana",
+      "Hernán Darío Gómez",
+      "Reinaldo Rueda",
+      "Luis Fernando Suárez"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La final se definió por penales ante Olimpia en Bogotá. René Higuita atajó cuatro remates y fue una de las grandes figuras.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "atletico_nacional_libertadores_1989",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_429",
+    "enunciado": "¿Qué club brasileño ganó su primera Libertadores en 1998, el año de su centenario?",
+    "opciones": [
+      "Botafogo",
+      "Fluminense",
+      "Vasco da Gama",
+      "Flamengo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Superó al Barcelona de Guayaquil en ambas finales. Donizete y Luizão marcaron todos sus goles: 2-0 en Río y 2-1 en Ecuador.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "vasco_libertadores_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_430",
+    "enunciado": "¿Quién marcó para Internacional el gol en tiempo suplementario que decidió la Sudamericana de 2008 ante Estudiantes?",
+    "opciones": [
+      "Nilmar",
+      "Rafael Sóbis",
+      "Leandro Damião",
+      "Alex"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Internacional había ganado 1-0 en La Plata y empató 1-1 en la vuelta. Fue el primer club brasileño en conquistar la Sudamericana.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "internacional_sudamericana_2008",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_431",
+    "enunciado": "¿Quién fue el máximo goleador de la Sudamericana de 2011 con 11 tantos para Universidad de Chile?",
+    "opciones": [
+      "Humberto Suazo",
+      "Eduardo Vargas",
+      "Alexis Sánchez",
+      "Esteban Paredes"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Universidad de Chile terminó el torneo invicta y recibió solo dos goles. En la final superó a Liga de Quito en ambos partidos.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "universidad_chile_sudamericana_2011",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_432",
+    "enunciado": "¿En qué ciudad se jugó la primera final a partido único de la Copa Sudamericana, en 2019?",
+    "opciones": [
+      "Lima",
+      "Santiago",
+      "Montevideo",
+      "Asunción"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Independiente del Valle venció 3-1 a Colón en la Nueva Olla. La definición dejó atrás el formato de partidos de ida y vuelta.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_unica_sudamericana_2019",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_433",
+    "enunciado": "¿Qué selección ganó la Copa América 2011 al vencer 3-0 a Paraguay en la final?",
+    "opciones": [
+      "Argentina",
+      "Brasil",
+      "Uruguay",
+      "Chile"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Luis Suárez abrió el marcador y Diego Forlán anotó dos veces. La Celeste levantó el trofeo en el Monumental de Buenos Aires.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "copa_america_2011_uruguay",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_434",
+    "enunciado": "¿Qué selección ganó como anfitriona la Copa América 2001 al derrotar a México en la final?",
+    "opciones": [
+      "Colombia",
+      "Venezuela",
+      "Perú",
+      "Ecuador"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La final se resolvió por 1-0 en Bogotá. Víctor Aristizábal completó la celebración colombiana como goleador del torneo, con seis tantos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "copa_america_2001_colombia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_435",
+    "enunciado": "¿Qué país organizó la Copa América Centenario de 2016?",
+    "opciones": [
+      "México",
+      "Argentina",
+      "Brasil",
+      "Estados Unidos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Fue la primera edición organizada fuera de Sudamérica. El torneo reunió a 16 selecciones y celebró los cien años de la competencia.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sede_copa_america_centenario_2016",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_436",
+    "enunciado": "¿Qué selección ganó su primera Copa Asiática en 2019 al vencer 3-1 a Japón en la final?",
+    "opciones": [
+      "Irán",
+      "Qatar",
+      "Corea del Sur",
+      "Arabia Saudita"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Almoez Ali fue goleador y mejor jugador del torneo: marcó nueve tantos en siete partidos, incluido uno de chilena en la final.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "copa_asiatica_2019_qatar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_437",
+    "enunciado": "¿Qué futbolista francés marcó nueve goles en cinco partidos de la Eurocopa de 1984?",
+    "opciones": [
+      "Alain Giresse",
+      "Michel Platini",
+      "Jean Tigana",
+      "Bruno Bellone"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Anotó en todos los partidos de Francia, incluidos dos tripletes consecutivos. También abrió el marcador en la final contra España.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "platini_eurocopa_1984",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_438",
+    "enunciado": "¿Qué brasileño fue goleador de la Copa América 2004 con siete tantos?",
+    "opciones": [
+      "Ronaldo",
+      "Robinho",
+      "Luís Fabiano",
+      "Adriano"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En la final ante Argentina, empató 2-2 en tiempo de descuento con un giro y remate. Brasil terminó conquistando el título por penales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "adriano_copa_america_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_439",
+    "enunciado": "¿Quién convirtió el penal decisivo de Senegal en la final de la Copa Africana 2021, disputada en 2022?",
+    "opciones": [
+      "Sadio Mané",
+      "Kalidou Koulibaly",
+      "Idrissa Gueye",
+      "Bamba Dieng"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Senegal venció a Egipto 4-2 en la tanda y obtuvo su primer título. El delantero también fue elegido mejor jugador de la competencia.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "senegal_copa_africana_2021",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_440",
+    "enunciado": "¿A qué selección venció Australia en la final de la Copa Asiática 2015?",
+    "opciones": [
+      "Japón",
+      "Irán",
+      "Corea del Sur",
+      "Uzbekistán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Son Heung-min empató en el descuento, pero James Troisi decidió el 2-1 en la prórroga. Australia festejó su primer título asiático.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_copa_asiatica_2015",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_441",
+    "enunciado": "¿Qué selección ganó en 1960 la primera edición de la Eurocopa?",
+    "opciones": [
+      "Yugoslavia",
+      "Checoslovaquia",
+      "Francia",
+      "Unión Soviética"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Lev Yashin sostuvo a su equipo con sus atajadas. Un cabezazo de Viktor Ponedelnik en la prórroga selló el 2-1 sobre Yugoslavia en París.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "primera_eurocopa_1960",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_442",
+    "enunciado": "¿Qué argentino fue máximo goleador de la Copa América 1991 con seis tantos?",
+    "opciones": [
+      "Claudio Caniggia",
+      "Diego Simeone",
+      "Gabriel Batistuta",
+      "Leonardo Rodríguez"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Argentina obtuvo el título en Chile mediante un cuadrangular final. La conquista terminó con 32 años sin ganar el torneo continental.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "batistuta_copa_america_1991",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_443",
+    "enunciado": "¿Qué delantero marcó el gol de México ante Panamá en la final de la Copa Oro 2023?",
+    "opciones": [
+      "Henry Martín",
+      "Santiago Giménez",
+      "Raúl Jiménez",
+      "Rogelio Funes Mori"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Entró en el segundo tiempo y resolvió la final en el minuto 88. Recibió un pase de Orbelín Pineda y definió de zurda para el 1-0.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_copa_oro_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_444",
+    "enunciado": "¿Qué selección ganó en 1916 la primera edición del torneo hoy llamado Copa América?",
+    "opciones": [
+      "Uruguay",
+      "Argentina",
+      "Brasil",
+      "Chile"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La edición inaugural se jugó en Argentina con cuatro selecciones y formato de todos contra todos. Durante el torneo nació la CONMEBOL.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "primera_copa_america_1916",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_445",
+    "enunciado": "¿Qué delantero marcó de cabeza el gol ganador de España en la final de la Eurocopa de 1964?",
+    "opciones": [
+      "Marcelino Martínez",
+      "Jesús María Pereda",
+      "Amancio Amaro",
+      "Carlos Lapetra"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Conectó un centro de Pereda para el 2-1 ante la Unión Soviética en el Bernabéu. España tuvo que esperar hasta 2008 para repetir el título.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "marcelino_final_eurocopa_1964",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_446",
+    "enunciado": "¿A qué selección invitada venció Canadá 2-0 en la final de la Copa Oro 2000?",
+    "opciones": [
+      "Brasil",
+      "Perú",
+      "Colombia",
+      "Ecuador"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Jason de Vos y Carlo Corazzin marcaron los goles. El arquero Craig Forrest también atajó un penal de Faustino Asprilla en aquella final.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_copa_oro_2000",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_447",
+    "enunciado": "¿Qué entrenador condujo a Zambia a su primer título de la Copa Africana de Naciones, en 2012?",
+    "opciones": [
+      "Claude Le Roy",
+      "Hervé Renard",
+      "Alain Giresse",
+      "Henri Michel"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Zambia superó a Costa de Marfil por penales. En 2015, el técnico ganó el mismo torneo al frente de la selección a la que había vencido.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zambia_copa_africana_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_448",
+    "enunciado": "¿Quién anotó para Japón el gol de la prórroga que decidió la final de la Copa Asiática 2011 ante Australia?",
+    "opciones": [
+      "Shinji Okazaki",
+      "Keisuke Honda",
+      "Shinji Kagawa",
+      "Tadanari Lee"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La victoria convirtió a Japón en la primera selección con cuatro títulos asiáticos. Hasta entonces compartía tres coronas con Irán y Arabia Saudita.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_copa_asiatica_2011",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_449",
+    "enunciado": "¿Qué peruano marcó el único gol del desempate ante Colombia que decidió la Copa América 1975?",
+    "opciones": [
+      "Teófilo Cubillas",
+      "Juan Carlos Oblitas",
+      "Hugo Sotil",
+      "Oswaldo Ramírez"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Viajó desde Barcelona para jugar el partido decisivo en Caracas. Llegó al estadio cuando sus compañeros ya estaban haciendo el calentamiento.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "desempate_copa_america_1975",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_450",
+    "enunciado": "¿Qué entrenador llevó a Nigeria al título de la Copa Africana de Naciones de 2013?",
+    "opciones": [
+      "Samson Siasia",
+      "Stephen Keshi",
+      "Augustine Eguavoen",
+      "Sunday Oliseh"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ya había sido campeón como jugador en 1994. Al vencer 1-0 a Burkina Faso, se convirtió en el segundo hombre en ganar el torneo como jugador y técnico.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nigeria_copa_africana_2013",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_451",
+    "enunciado": "¿Qué selección ganó la Copa de Naciones de Oceanía 2012 al vencer a Nueva Caledonia en la final?",
+    "opciones": [
+      "Nueva Zelanda",
+      "Islas Salomón",
+      "Vanuatu",
+      "Tahití"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El título le dio el pase a la Copa Confederaciones 2013. Steevy Chong Hue marcó el único gol de la final, disputada en Honiara.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tahiti_copa_oceania_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_452",
+    "enunciado": "¿Qué arquero atajó y convirtió los penales decisivos de Costa de Marfil ante Ghana en la final africana de 2015?",
+    "opciones": [
+      "Boubacar Barry",
+      "Sylvain Gbohouo",
+      "Jean-Jacques Tizié",
+      "Ali Badra Sangaré"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Detuvo el remate del arquero rival, Razak Braimah, y después convirtió el suyo. La tanda terminó 9-8 tras 22 lanzamientos y un partido sin goles.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "barry_final_copa_africana_2015",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_453",
+    "enunciado": "¿Qué entrenador llevó a Liverpool a ganar la Premier League 2019-20?",
+    "opciones": [
+      "Rafael Benítez",
+      "Jürgen Klopp",
+      "Brendan Rodgers",
+      "Carlo Ancelotti"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El equipo terminó con 99 puntos y rompió una espera de treinta años sin ganar la liga inglesa. Fue su primer título de la era Premier League.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "liverpool_premier_league_2020",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_454",
+    "enunciado": "¿Quién dirigió al Barcelona que ganó seis títulos en el año 2009?",
+    "opciones": [
+      "Frank Rijkaard",
+      "Luis Enrique",
+      "Ernesto Valverde",
+      "Pep Guardiola"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El Mundial de Clubes completó la colección en diciembre. Antes había ganado Liga, Copa, Champions y las supercopas de España y Europa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "barcelona_sextete_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_455",
+    "enunciado": "¿Con qué club portugués debutó Cristiano Ronaldo en el primer equipo en 2002?",
+    "opciones": [
+      "Sporting CP",
+      "Benfica",
+      "Porto",
+      "Braga"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Su estreno fue ante el Inter en una fase previa de la Champions. Un año después pasó al Manchester United como un joven extremo de 18 años.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cristiano_debut_sporting_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_456",
+    "enunciado": "¿Qué clubes escoceses disputan el clásico conocido como «Old Firm»?",
+    "opciones": [
+      "Hearts y Hibernian",
+      "Aberdeen y Dundee United",
+      "Celtic y Rangers",
+      "Dundee y Dundee United"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Ambos son de Glasgow. En 1967, Celtic ganó la Copa de Europa y Rangers llegó a la final de la Recopa, que perdió ante el Bayern.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "clasico_old_firm",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_457",
+    "enunciado": "¿Quién dirigió al Atlético de Madrid que ganó la liga española 2013-14?",
+    "opciones": [
+      "Quique Sánchez Flores",
+      "Javier Aguirre",
+      "Diego Simeone",
+      "Gregorio Manzano"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Un cabezazo de Diego Godín aseguró el 1-1 ante Barcelona en la última fecha. El club volvió a ganar la liga después de dieciocho años.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "atletico_liga_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_458",
+    "enunciado": "¿Qué entrenador ganó con Valencia la liga española y la Copa de la UEFA en 2004?",
+    "opciones": [
+      "Rafael Benítez",
+      "Héctor Cúper",
+      "Claudio Ranieri",
+      "Quique Sánchez Flores"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En la final europea, Vicente y Mista marcaron para el 2-0 ante Marsella. El doblete cerró una etapa que también incluyó la liga de 2002.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "valencia_doblete_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_459",
+    "enunciado": "¿Quién dirigió al Bayer Leverkusen campeón invicto de la Bundesliga 2023-24?",
+    "opciones": [
+      "Julian Nagelsmann",
+      "Thomas Tuchel",
+      "Sebastian Hoeneß",
+      "Xabi Alonso"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Terminó las 34 fechas con 28 victorias y seis empates. Fue el primer campeón de la Bundesliga que completó toda una temporada sin perder.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "leverkusen_invicto_2024",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_460",
+    "enunciado": "¿Qué club ganó tres Copas de Europa consecutivas entre 1971 y 1973, con Johan Cruyff en su equipo?",
+    "opciones": [
+      "Bayern Múnich",
+      "Ajax",
+      "Benfica",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "En la última final, Johnny Rep marcó el único gol frente a Juventus en Belgrado. El triplete consolidó la era del fútbol total neerlandés.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ajax_tres_copas_europa_1971_1973",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_461",
+    "enunciado": "¿Qué entrenador ganó tres Europa League consecutivas con Sevilla entre 2014 y 2016?",
+    "opciones": [
+      "Unai Emery",
+      "Juande Ramos",
+      "Marcelino García Toral",
+      "Jorge Sampaoli"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El equipo venció a Benfica, Dnipro y Liverpool en esas finales. La última llegó con una remontada: perdía 1-0 y terminó ganando 3-1.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sevilla_emery_europa_league_2014_2016",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_462",
+    "enunciado": "¿Qué colombiano marcó 17 goles para Porto en la Europa League 2010-11?",
+    "opciones": [
+      "Jackson Martínez",
+      "Radamel Falcao",
+      "James Rodríguez",
+      "Hugo Rodallega"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su último tanto fue un cabezazo que decidió la final ante Braga en Dublín. Superó la marca de Jürgen Klinsmann en una misma edición.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "falcao_porto_europa_league_2011",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_463",
+    "enunciado": "¿Quién marcó dos goles para Atlético de Madrid en la final de la Europa League 2018 ante Marsella?",
+    "opciones": [
+      "Diego Costa",
+      "Fernando Torres",
+      "Antoine Griezmann",
+      "Ángel Correa"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Gabi completó el 3-0 en el tramo final. La victoria dio al club su tercer título en esta competencia, después de los obtenidos en 2010 y 2012.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_europa_league_2018",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_464",
+    "enunciado": "¿Qué club ganó la primera Conference League, en 2022, dirigido por José Mourinho?",
+    "opciones": [
+      "Feyenoord",
+      "Tottenham",
+      "Leicester City",
+      "Roma"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Nicolò Zaniolo marcó el único gol de la final en Tirana. Mourinho sumó este trofeo a sus títulos previos de Champions y Copa de la UEFA/Europa League.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "primera_conference_league_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_465",
+    "enunciado": "¿Qué jugador del Borussia Dortmund marcó una vaselina al entrar en la final de la Champions de 1997?",
+    "opciones": [
+      "Andreas Möller",
+      "Karl-Heinz Riedle",
+      "Stéphane Chapuisat",
+      "Lars Ricken"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Con su primer toque elevó el balón por encima de Angelo Peruzzi. El gol selló el 3-1 ante Juventus en la final disputada en Múnich.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ricken_final_champions_1997",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_466",
+    "enunciado": "¿Quién marcó el único gol de Aston Villa ante Bayern Múnich en la final de la Copa de Europa de 1982?",
+    "opciones": [
+      "Gary Shaw",
+      "Peter Withe",
+      "Tony Morley",
+      "Gordon Cowans"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Nigel Spink tuvo que reemplazar al arquero lesionado Jimmy Rimmer. Sus atajadas y el gol de Withe dieron al club el título en Róterdam.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "aston_villa_final_europa_1982",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_467",
+    "enunciado": "¿Quién convirtió el gol de Hamburgo ante Juventus en la final de la Copa de Europa de 1983?",
+    "opciones": [
+      "Horst Hrubesch",
+      "Manfred Kaltz",
+      "Felix Magath",
+      "Lars Bastrup"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Su remate desde fuera del área decidió el 1-0 en Atenas. Hamburgo superó a una Juventus que tenía a Michel Platini y Paolo Rossi.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hamburgo_final_europa_1983",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_468",
+    "enunciado": "¿Qué entrenador llevó al PSV a ganar la Copa de Europa de 1988?",
+    "opciones": [
+      "Guus Hiddink",
+      "Rinus Michels",
+      "Leo Beenhakker",
+      "Dick Advocaat"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tras un 0-0 ante Benfica en Stuttgart, el PSV ganó 6-5 por penales. Hans van Breukelen atajó el lanzamiento decisivo de António Veloso.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "psv_copa_europa_1988",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_469",
+    "enunciado": "¿Quién dirigió al Benfica campeón de la Copa de Europa en 1961 y 1962?",
+    "opciones": [
+      "Otto Glória",
+      "Béla Guttmann",
+      "Fernando Riera",
+      "Jozsef Biri"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Venció a Barcelona 3-2 en la primera final y a Real Madrid 5-3 en la segunda. Eusébio brilló en 1962, pero no había jugado la final de 1961.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "benfica_guttmann_copas_europa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_470",
+    "enunciado": "¿Qué entrenador condujo al Feyenoord a ganar la Copa de Europa de 1970?",
+    "opciones": [
+      "Rinus Michels",
+      "Stefan Kovács",
+      "Ernst Happel",
+      "Branko Zebec"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El equipo remontó ante Celtic en Milán y ganó 2-1 en la prórroga. Se convirtió en el primer club neerlandés en conquistar la Copa de Europa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "feyenoord_copa_europa_1970",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_471",
+    "enunciado": "¿Qué club escocés dirigía Alex Ferguson cuando ganó la Recopa de Europa de 1983 ante Real Madrid?",
+    "opciones": [
+      "Aberdeen",
+      "Celtic",
+      "Rangers",
+      "Dundee United"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "John Hewitt entró como suplente y marcó el 2-1 en la prórroga. La final se jugó bajo la lluvia en Gotemburgo, antes de la etapa de Ferguson en Manchester.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "aberdeen_recopa_1983",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_472",
+    "enunciado": "¿Qué defensor marcó el gol del Paris Saint-Germain en la final de la Recopa de Europa de 1996?",
+    "opciones": [
+      "Alain Roche",
+      "Paul Le Guen",
+      "Patrick Colleter",
+      "Bruno N'Gotty"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Un remate lejano tras un tiro libre se desvió en un rival para el 1-0 ante Rapid de Viena. PSG fue el primer club francés en ganar la Recopa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "psg_recopa_1996",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_473",
+    "enunciado": "¿En qué ciudad argentina nació Lionel Messi?",
+    "opciones": [
+      "Santa Fe",
+      "Rosario",
+      "Córdoba",
+      "La Plata"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Nació el 24 de junio de 1987. Antes de emigrar a España, también jugó un torneo infantil con Central Córdoba y estuvo a prueba en River.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_ciudad_nacimiento",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_474",
+    "enunciado": "¿En qué año ganó Messi su primer Balón de Oro?",
+    "opciones": [
+      "2007",
+      "2008",
+      "2010",
+      "2009"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El premio llegó en el año del sextete de Barcelona. Ese equipo conquistó Liga, Copa y Champions antes de completar los seis títulos en diciembre.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_primer_balon_oro_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_475",
+    "enunciado": "¿Qué dos jugadores formaban con Messi el tridente del Barcelona conocido como «MSN»?",
+    "opciones": [
+      "Luis Suárez y Neymar",
+      "Luis Suárez y Pedro",
+      "David Villa y Neymar",
+      "David Villa y Pedro"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En la temporada 2014-15, el trío sumó 122 goles: 58 de Messi, 39 de Neymar y 25 de Suárez. Fue la campaña del segundo triplete del club.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "barcelona_tridente_msn",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_476",
+    "enunciado": "¿Qué premio al goleador de las ligas europeas ganó Messi seis veces entre 2010 y 2019?",
+    "opciones": [
+      "Balón de Oro",
+      "Premio Puskás",
+      "Bota de Oro",
+      "Balón de Plata"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La sexta llegó por sus 36 goles en la liga española 2018-19. El galardón compara los tantos de liga con un sistema de puntos por campeonato.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_seis_botas_oro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_477",
+    "enunciado": "¿Qué número usaba Messi en Barcelona inmediatamente antes de heredar el 10 de Ronaldinho?",
+    "opciones": [
+      "11",
+      "20",
+      "19",
+      "30"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El cambio se anunció en agosto de 2008, tras la salida del brasileño al Milan. Messi había anotado 34 goles oficiales con el dorsal anterior.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_dorsal_19",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_478",
+    "enunciado": "¿Ante qué equipo marcó Messi en 2007 el famoso gol en el que arrancó desde su propio campo?",
+    "opciones": [
+      "Getafe",
+      "Real Zaragoza",
+      "Sevilla",
+      "Espanyol"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La jugada ocurrió en la ida de las semifinales de la Copa del Rey. Su recorrido recordó al célebre gol de Maradona ante Inglaterra en 1986.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_slalom_getafe_2007",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_479",
+    "enunciado": "¿Cómo remató Messi para marcar el 2-0 ante Manchester United en la final de la Champions de 2009?",
+    "opciones": [
+      "De pecho",
+      "De volea con la zurda",
+      "De volea con la derecha",
+      "De cabeza"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Xavi envió el centro que terminó en el gol. Durante la acción, Messi perdió un botín y celebró la conquista sosteniéndolo en una mano.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_cabezazo_final_champions_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_480",
+    "enunciado": "¿Contra qué club marcó Messi su primer gol con el Paris Saint-Germain, en septiembre de 2021?",
+    "opciones": [
+      "RB Leipzig",
+      "Manchester City",
+      "Club Brujas",
+      "Real Madrid"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Una combinación con Mbappé precedió su remate de zurda para el 2-0. El estreno goleador llegó en la Champions, en el Parque de los Príncipes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_primer_gol_psg_2021",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_481",
+    "enunciado": "¿Ante qué rival llegó Messi a 500 goles oficiales con Barcelona y celebró mostrando su camiseta en 2017?",
+    "opciones": [
+      "Real Madrid",
+      "Atlético de Madrid",
+      "Sevilla",
+      "Valencia"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Fue el tanto decisivo del 3-2 en el Bernabéu, en tiempo agregado. Messi se quitó la camiseta y mostró su nombre y número hacia las tribunas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_gol_500_barcelona_2017",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_482",
+    "enunciado": "¿A qué selección le hizo Messi tres goles tras entrar como suplente en la Copa América Centenario 2016?",
+    "opciones": [
+      "Bolivia",
+      "Panamá",
+      "Venezuela",
+      "Estados Unidos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ingresó en el segundo tiempo y completó el triplete en apenas 19 minutos. Uno de los tantos llegó con un tiro libre directo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_triplete_panama_2016",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_483",
+    "enunciado": "¿Cuántos goles marcó Messi en la liga española 2011-12?",
+    "opciones": [
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Esa cifra le dio la Bota de Oro de la temporada. Los goles del premio corresponden a la liga, sin sumar Champions ni copas nacionales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_cincuenta_goles_liga_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_484",
+    "enunciado": "¿Ante qué club debutó Messi con Inter Miami y decidió el partido con un tiro libre en julio de 2023?",
+    "opciones": [
+      "América",
+      "Pumas UNAM",
+      "Tigres UANL",
+      "Cruz Azul"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El partido de la Leagues Cup estaba 1-1 hasta su remate en el minuto 94. Entró desde el banco y convirtió en victoria su estreno con el club.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_debut_miami_cruz_azul_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_485",
+    "enunciado": "¿Contra qué equipo disputó Messi su primer partido oficial con el primer equipo de Barcelona, en 2004?",
+    "opciones": [
+      "Girona",
+      "Getafe",
+      "Mallorca",
+      "Espanyol"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Tenía 17 años y entró en el tramo final de un triunfo por 1-0. El encuentro se disputó en el Estadio Olímpico Lluís Companys de Montjuïc.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_debut_oficial_barcelona_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_486",
+    "enunciado": "¿Ante qué selección debutó Messi con la Argentina mayor en agosto de 2005?",
+    "opciones": [
+      "Croacia",
+      "Hungría",
+      "Polonia",
+      "Serbia y Montenegro"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ingresó desde el banco y fue expulsado casi de inmediato. Venía de ganar el Mundial Sub-20, donde también fue goleador y mejor jugador.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_debut_seleccion_mayor_2005",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_487",
+    "enunciado": "¿A qué selección le marcó Messi su primer gol con la Argentina mayor, en marzo de 2006?",
+    "opciones": [
+      "Hungría",
+      "Suiza",
+      "Croacia",
+      "Serbia y Montenegro"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Su tanto puso a Argentina 2-1 arriba en el amistoso, pero el rival terminó ganando 3-2. Ocurrió antes de su debut mundialista en Alemania.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_primer_gol_seleccion_mayor_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_488",
+    "enunciado": "¿A qué club le marcó Messi cuatro goles en los cuartos de final de la Champions de 2010?",
+    "opciones": [
+      "Arsenal",
+      "Chelsea",
+      "Manchester United",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Barcelona ganó 4-1 la vuelta después del 2-2 de la ida. Fue la primera vez que Messi convirtió cuatro goles en un partido con el club.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_cuatro_goles_arsenal_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_489",
+    "enunciado": "¿Qué equipo recibió cinco goles de Messi en un partido de la Champions de 2012?",
+    "opciones": [
+      "Bayern Múnich",
+      "Bayer Leverkusen",
+      "Borussia Dortmund",
+      "Schalke 04"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El encuentro terminó 7-1 en el Camp Nou, en la vuelta de octavos de final. Cristian Tello anotó los otros dos tantos del Barcelona.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_cinco_goles_leverkusen_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_490",
+    "enunciado": "¿Quién lanzó el centro que Messi convirtió de pecho en la final del Mundial de Clubes de 2009?",
+    "opciones": [
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "Dani Alves",
+      "Éric Abidal"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El remate en la prórroga selló el 2-1 ante Estudiantes en Abu Dabi. Pedro había empatado cerca del final del tiempo reglamentario.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_gol_pecho_mundial_clubes_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_491",
+    "enunciado": "¿Contra qué selección alcanzó Messi los 100 goles con Argentina en marzo de 2023?",
+    "opciones": [
+      "Curazao",
+      "Panamá",
+      "Estonia",
+      "Guatemala"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Anotó tres veces en el 7-0 disputado en Santiago del Estero. Así terminó la noche con 102 goles y fue el primer argentino en superar el centenar.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_cien_goles_argentina_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_492",
+    "enunciado": "¿Ante qué club llegó Messi a 600 goles entre Barcelona y la Argentina mayor, con un tiro libre en 2018?",
+    "opciones": [
+      "Sevilla",
+      "Valencia",
+      "Real Madrid",
+      "Atlético de Madrid"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El gol decidió el 1-0 y dejó su cuenta en 539 tantos con Barcelona y 61 con Argentina. La cifra sumaba clubes y selección, no solo al Barça.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_gol_600_carrera_2018",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_493",
+    "enunciado": "¿En qué club inglés jugaba Emiliano Martínez cuando ganó el Mundial de Qatar 2022?",
+    "opciones": [
+      "Arsenal",
+      "Brighton",
+      "Aston Villa",
+      "West Ham"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En la fase de grupos enfrentó a Polonia, donde jugaba Matty Cash, su compañero de club. Ambos compartían la defensa del equipo de Birmingham.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dibu_club_qatar_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_494",
+    "enunciado": "¿Qué club inglés representaba Cristian Romero en el Mundial de Qatar 2022?",
+    "opciones": [
+      "Tottenham",
+      "Manchester United",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tras el título, recibió un homenaje de Osvaldo Ardiles, campeón mundial en 1978. Ambos integran la historia argentina del club londinense.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "romero_club_qatar_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_495",
+    "enunciado": "¿A qué club pasó Alexis Mac Allister desde Brighton en junio de 2023?",
+    "opciones": [
+      "Manchester City",
+      "Arsenal",
+      "Tottenham",
+      "Liverpool"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Eligió la camiseta número 10, que había quedado libre tras la salida de Sadio Mané. También había usado ese dorsal en Brighton y Argentina.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mac_allister_liverpool_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_496",
+    "enunciado": "¿En qué club español jugaba Rodrigo De Paul durante el Mundial de Qatar 2022?",
+    "opciones": [
+      "Valencia",
+      "Atlético de Madrid",
+      "Sevilla",
+      "Villarreal"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Compartía club con Nahuel Molina y Ángel Correa, también campeones. En la final se enfrentaron a su compañero francés Antoine Griezmann.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "de_paul_club_qatar_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_497",
+    "enunciado": "¿Quién abrió el marcador para Argentina ante Países Bajos en los cuartos de final de Qatar 2022?",
+    "opciones": [
+      "Marcos Acuña",
+      "Nahuel Molina",
+      "Cristian Romero",
+      "Nicolás Otamendi"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Messi lo habilitó entre los defensores y el lateral definió para el 1-0. Fue su único gol en el Mundial, en un duelo que terminó por penales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "molina_gol_paises_bajos_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_498",
+    "enunciado": "¿Qué argentino marcó el primer gol del triunfo 2-0 ante Polonia en Qatar 2022?",
+    "opciones": [
+      "Rodrigo De Paul",
+      "Enzo Fernández",
+      "Ángel Di María",
+      "Alexis Mac Allister"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Definió de primera tras un centro de Nahuel Molina al comenzar el segundo tiempo. Julián Álvarez completó el marcador con pase de Enzo Fernández.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mac_allister_gol_polonia_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_499",
+    "enunciado": "¿Quién dio el pase a Lautaro Martínez en el gol de la final de la Copa América 2024?",
+    "opciones": [
+      "Giovani Lo Celso",
+      "Leandro Paredes",
+      "Rodrigo De Paul",
+      "Alexis Mac Allister"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La jugada nació de una recuperación de Paredes. El pase dejó a Lautaro frente a Camilo Vargas para decidir la final en el tiempo suplementario.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lo_celso_asistencia_final_copa_2024",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_500",
+    "enunciado": "¿A qué club inglés llegó Lisandro Martínez desde Ajax en julio de 2022?",
+    "opciones": [
+      "Liverpool",
+      "Tottenham",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Antes de partir había ganado dos ligas neerlandesas, en 2021 y 2022. Su llegada a Inglaterra ocurrió pocos meses antes de ser campeón en Qatar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lisandro_manchester_united_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_501",
+    "enunciado": "¿Quién marcó de cabeza el gol del triunfo argentino ante Brasil en el Maracaná en noviembre de 2023?",
+    "opciones": [
+      "Cristian Romero",
+      "Germán Pezzella",
+      "Lisandro Martínez",
+      "Nicolás Otamendi"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El cabezazo decidió el 1-0 en las Eliminatorias. Argentina cerró así su año de competencia con otra victoria en el estadio donde ganó la Copa de 2021.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "otamendi_gol_maracana_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_502",
+    "enunciado": "¿Quién anotó con un remate lejano el gol del triunfo argentino ante Uruguay en marzo de 2025?",
+    "opciones": [
+      "Enzo Fernández",
+      "Giovani Lo Celso",
+      "Thiago Almada",
+      "Alexis Mac Allister"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El disparo rompió el empate en el segundo tiempo en el Centenario. Argentina ganó 1-0 y sumó tres puntos en su camino al Mundial de 2026.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "almada_gol_uruguay_2025",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_503",
+    "enunciado": "¿Qué jugador ingresó desde el banco y marcó el cuarto gol argentino ante Brasil en marzo de 2025?",
+    "opciones": [
+      "Nicolás González",
+      "Giuliano Simeone",
+      "Ángel Correa",
+      "Alejandro Garnacho"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Había reemplazado a Thiago Almada apenas tres minutos antes. Su tanto cerró el 4-1 en el Monumental, en una noche sin Lionel Messi en el equipo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "giuliano_gol_brasil_2025",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_504",
+    "enunciado": "¿A qué club italiano se incorporó Paulo Dybala en julio de 2022, tras su etapa en Juventus?",
+    "opciones": [
+      "Roma",
+      "Inter de Milán",
+      "Milan",
+      "Napoli"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Eligió el número 21 para su nueva camiseta. El fichaje llegó tras conquistar cinco ligas italianas y meses antes de integrar al campeón de Qatar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dybala_roma_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_505",
+    "enunciado": "¿Qué jugador reemplazó al lesionado Nicolás González en la lista argentina para Qatar 2022?",
+    "opciones": [
+      "Ángel Correa",
+      "Thiago Almada",
+      "Lucas Ocampos",
+      "Alejandro Garnacho"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La modificación se confirmó pocos días antes del debut. En esa misma reorganización, Thiago Almada ocupó el lugar del también lesionado Joaquín Correa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "argentina_reemplazos_qatar_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_506",
+    "enunciado": "¿Quién anotó de tiro libre para Argentina ante Mauritania en marzo de 2026?",
+    "opciones": [
+      "Thiago Almada",
+      "Enzo Fernández",
+      "Nico Paz",
+      "Alexis Mac Allister"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El remate amplió la ventaja después del gol de Enzo Fernández. Argentina ganó 2-1 en La Bombonera, en un amistoso de preparación para el Mundial.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nico_paz_gol_mauritania_2026",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_507",
+    "enunciado": "¿A qué club fue cedido Leandro Paredes por el PSG para la temporada 2022-23?",
+    "opciones": [
+      "Roma",
+      "Juventus",
+      "Inter de Milán",
+      "Milan"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La cesión se anunció el 31 de agosto de 2022. Al terminar la temporada regresó al PSG, después de 35 partidos y un gol con el conjunto de Turín.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "paredes_cesion_juventus_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_508",
+    "enunciado": "¿Qué campeón de Qatar 2022 integró el Bayer Leverkusen que ganó invicto la Bundesliga 2023-24?",
+    "opciones": [
+      "Guido Rodríguez",
+      "Leandro Paredes",
+      "Enzo Fernández",
+      "Exequiel Palacios"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Había llegado desde River en enero de 2020. El título fue el primero del club en la Bundesliga, en una campaña que terminó sin derrotas de liga.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "leverkusen_invicto_2024",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_509",
+    "enunciado": "¿Quién asistió a Ángel Di María en el segundo gol argentino de la Finalissima 2022?",
+    "opciones": [
+      "Lionel Messi",
+      "Giovani Lo Celso",
+      "Lautaro Martínez",
+      "Rodrigo De Paul"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El delantero ya había abierto el marcador antes de habilitar al Fideo, que definió por encima de Donnarumma. Dybala completó el 3-0 en Wembley.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lautaro_asistencia_di_maria_finalissima_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_510",
+    "enunciado": "¿En qué club inglés jugó Gonzalo Montiel cedido por Sevilla durante la temporada 2023-24?",
+    "opciones": [
+      "Fulham",
+      "Nottingham Forest",
+      "Wolverhampton",
+      "West Ham"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La operación incluyó una opción de compra. Su paso por Inglaterra quedó entre la consagración de Qatar y la conquista de la Copa América 2024.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "montiel_cesion_nottingham_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_511",
+    "enunciado": "¿Qué debutante asistió a Messi para el sexto gol argentino ante Bolivia en octubre de 2024?",
+    "opciones": [
+      "Franco Mastantuono",
+      "Valentín Carboni",
+      "Facundo Buonanotte",
+      "Nico Paz"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Entró en el segundo tiempo y participó en el cierre del 6-0 en el Monumental. Su padre, Pablo Paz, había integrado la selección del Mundial de 1998.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nico_paz_debut_bolivia_2024",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_512",
+    "enunciado": "¿Ante qué selección debutó Alejandro Garnacho con la Argentina mayor en junio de 2023?",
+    "opciones": [
+      "Australia",
+      "Indonesia",
+      "Panamá",
+      "Curazao"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El amistoso se jugó en Beijing y terminó 2-0, con goles de Messi y Germán Pezzella. El juvenil ingresó en el segundo tiempo por Nicolás González.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "garnacho_debut_seleccion_2023",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_513",
+    "enunciado": "¿Qué sueco marcó una chilena desde fuera del área ante Inglaterra en un amistoso de 2012?",
+    "opciones": [
+      "Henrik Larsson",
+      "Johan Elmander",
+      "Marcus Berg",
+      "Zlatan Ibrahimović"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Fue su cuarto gol de la noche en el 4-2. Aprovechó un despeje de cabeza de Joe Hart y la acrobacia ganó el Premio Puskás de 2013.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ibrahimovic_chilena_inglaterra_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_514",
+    "enunciado": "¿Quién marcó de chilena el gol ganador de Manchester United ante Manchester City en febrero de 2011?",
+    "opciones": [
+      "Dimitar Berbatov",
+      "Wayne Rooney",
+      "Nani",
+      "Javier Hernández"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La acrobacia resolvió el clásico por 2-1 en Old Trafford. Los hinchas del United la eligieron después como el mejor gol del club de aquella década.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rooney_chilena_manchester_city_2011",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_515",
+    "enunciado": "¿Quién anotó de volea con la zurda el gol decisivo de Real Madrid en la final de la Champions de 2002?",
+    "opciones": [
+      "Luís Figo",
+      "Raúl González",
+      "Zinedine Zidane",
+      "Guti"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Roberto Carlos envió el centro alto que precedió al remate. El 2-1 ante Bayer Leverkusen dio al Madrid su novena Copa de Europa en Glasgow.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zidane_volea_final_champions_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_516",
+    "enunciado": "¿Qué jugador marcó de chilena para Real Madrid ante Liverpool en la final de la Champions de 2018?",
+    "opciones": [
+      "Gareth Bale",
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Marco Asensio"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Entró desde el banco y terminó marcando dos goles en el triunfo 3-1. Fue elegido figura de la final disputada en Kiev.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bale_chilena_final_champions_2018",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_517",
+    "enunciado": "¿Ante qué selección ejecutó Roberto Carlos su famoso tiro libre de gran efecto en 1997?",
+    "opciones": [
+      "Francia",
+      "Italia",
+      "Inglaterra",
+      "Alemania"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Golpeó con la parte externa de la zurda desde unos 35 metros. El balón curvó su trayectoria y venció a Fabien Barthez en un empate 1-1 en Lyon.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "roberto_carlos_tiro_libre_francia_1997",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_518",
+    "enunciado": "¿A qué club le marcó David Beckham desde cerca de la mitad de la cancha en agosto de 1996?",
+    "opciones": [
+      "Southampton",
+      "Coventry City",
+      "Wimbledon",
+      "West Ham"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El remate cerró un triunfo 3-0 del Manchester United en Selhurst Park. Era la primera jornada de la liga y el gol impulsó su fama internacional.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "beckham_gol_mitad_cancha_1996",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_519",
+    "enunciado": "¿Ante qué club hizo Bergkamp su famoso control y giro alrededor de un defensor en marzo de 2002?",
+    "opciones": [
+      "Sunderland",
+      "Newcastle United",
+      "Middlesbrough",
+      "Leeds United"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Recibió un pase de Robert Pirès, envió la pelota por un lado de Nikos Dabizas y giró por el otro. Arsenal ganó 2-0 en St James’ Park.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bergkamp_giro_newcastle_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_520",
+    "enunciado": "¿Ante qué club marcó Son Heung-min el gol de su larga carrera individual que ganó el Puskás 2020?",
+    "opciones": [
+      "Brighton",
+      "Bournemouth",
+      "Crystal Palace",
+      "Burnley"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Arrancó junto al área de Tottenham y recorrió gran parte del campo antes de definir. El gol ocurrió en diciembre de 2019, en un triunfo 5-0.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "son_carrera_burnley_2019",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_521",
+    "enunciado": "¿Qué francés empató 2-2 ante Argentina con una volea desde fuera del área en el Mundial de 2018?",
+    "opciones": [
+      "Lucas Hernández",
+      "Paul Pogba",
+      "Benjamin Pavard",
+      "Corentin Tolisso"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La conquista fue elegida el mejor gol del torneo por los usuarios de FIFA. Francia ganó aquel cruce de octavos por 4-3 y luego fue campeona.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pavard_volea_argentina_2018",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_522",
+    "enunciado": "¿Qué argentino convirtió de volea con la zurda el gol de la prórroga ante México en el Mundial de 2006?",
+    "opciones": [
+      "Esteban Cambiasso",
+      "Juan Román Riquelme",
+      "Javier Saviola",
+      "Maxi Rodríguez"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Controló de pecho un pase de Juan Pablo Sorín antes del remate al ángulo. El 2-1 clasificó a Argentina a cuartos y fue elegido gol del torneo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "maxi_volea_mexico_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_523",
+    "enunciado": "¿Qué brasileño marcó un gol de tijera para cerrar el 2-0 ante Serbia en Qatar 2022?",
+    "opciones": [
+      "Richarlison",
+      "Raphinha",
+      "Vinícius Júnior",
+      "Gabriel Jesus"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "También había convertido el primer tanto del partido. La definición acrobática llegó tras un envío de Vinícius y un control que elevó la pelota.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "richarlison_tijera_serbia_2022",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_524",
+    "enunciado": "¿A qué club le marcó Ronaldinho en 2005 con un remate de punta tras amagar casi sin desplazarse?",
+    "opciones": [
+      "Arsenal",
+      "Chelsea",
+      "Manchester United",
+      "Liverpool"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La genialidad ocurrió en Stamford Bridge, en la vuelta de octavos de la Champions. Barcelona perdió 4-2 y quedó eliminado pese a sus dos goles.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ronaldinho_puntin_chelsea_2005",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_525",
+    "enunciado": "¿Quién dio de taco el último pase del gol de Cambiasso tras 24 pases ante Serbia y Montenegro en 2006?",
+    "opciones": [
+      "Javier Saviola",
+      "Hernán Crespo",
+      "Juan Román Riquelme",
+      "Maxi Rodríguez"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La secuencia terminó con el 2-0 de Argentina en la fase de grupos. Cambiasso había ingresado como suplente en un partido que acabó 6-0.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cambiasso_jugada_24_pases_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_526",
+    "enunciado": "¿Ante qué selección mostró Johan Cruyff su famoso giro para eludir a Jan Olsson en el Mundial de 1974?",
+    "opciones": [
+      "Bulgaria",
+      "Alemania Oriental",
+      "Polonia",
+      "Suecia"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Fingió un centro y llevó la pelota por detrás de su pierna de apoyo. El encuentro terminó 0-0, pero el regate pasó a llevar su apellido.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cruyff_giro_suecia_1974",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_527",
+    "enunciado": "¿Qué arquero fue engañado por Pelé sin que tocara el balón en la semifinal del Mundial de 1970?",
+    "opciones": [
+      "Ladislao Mazurkiewicz",
+      "Roberto Sosa",
+      "Miguel Ángel Bazzano",
+      "Walter Taibo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tostão dio el pase: la pelota pasó por un lado del arquero y Pelé corrió por el otro. La jugada quedó en la historia aunque el remate salió afuera.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pele_regate_uruguay_1970",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_528",
+    "enunciado": "¿Ante qué club marcó George Weah para Milan tras arrancar desde su propia área en septiembre de 1996?",
+    "opciones": [
+      "Cagliari",
+      "Piacenza",
+      "Hellas Verona",
+      "Brescia"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Recogió la pelota tras un córner rival y cruzó el campo en solitario para el 3-1. Roberto Baggio completó después la goleada 4-1 en San Siro.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "weah_carrera_verona_1996",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_529",
+    "enunciado": "¿Ante qué club marcó Neymar para Santos el gol que ganó el Premio Puskás de 2011?",
+    "opciones": [
+      "Fluminense",
+      "Corinthians",
+      "Vasco da Gama",
+      "Flamengo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Su slalom puso a Santos 3-0 arriba, pero el partido terminó 5-4 para el rival. Ronaldinho marcó tres goles en aquella remontada.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "neymar_slalom_flamengo_2011",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_530",
+    "enunciado": "¿Qué argentino ganó el Premio Puskás de 2021 por una rabona de Tottenham ante Arsenal?",
+    "opciones": [
+      "Erik Lamela",
+      "Giovani Lo Celso",
+      "Roberto Pereyra",
+      "Manuel Lanzini"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Cruzó la pierna izquierda por detrás de la derecha y el balón pasó entre las piernas de Thomas Partey antes de vencer a Bernd Leno.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lamela_rabona_arsenal_2021",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_531",
+    "enunciado": "¿Qué delantero de Newcastle marcó ante Chelsea en 2012 con un remate de efecto desde la banda izquierda?",
+    "opciones": [
+      "Demba Ba",
+      "Shola Ameobi",
+      "Papiss Cissé",
+      "Hatem Ben Arfa"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Fue su segundo gol del 2-0 en Stamford Bridge. Golpeó con la parte externa del pie derecho y el balón describió una curva sobre Petr Čech.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cisse_gol_efecto_chelsea_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_532",
+    "enunciado": "¿Qué arquero recibió la chilena con la que Rivaldo completó su triplete ante Valencia en junio de 2001?",
+    "opciones": [
+      "Andrés Palop",
+      "Santiago Cañizares",
+      "José Molina",
+      "César Sánchez"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El gol selló el 3-2 en la última fecha y clasificó a Barcelona a la previa de la Champions. Un empate habría dado ese puesto al rival.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rivaldo_chilena_valencia_2001",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
   }
 ]

@@ -4280,5 +4280,725 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "simp_180",
+    "enunciado": "Durante la ley seca de Springfield, ¿en qué objetos esconde Homero la cerveza que lleva a Moe?",
+    "opciones": [
+      "Extintores vacíos",
+      "Bidones de aceite de motor",
+      "Bolas de boliche huecas",
+      "Latas de pintura vacías"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Homero y Bart aprovechan las canaletas del boliche para abastecer a Moe. El negocio clandestino convierte a Homero en el Barón de la Cerveza.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_baron_cerveza_bolas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_181",
+    "enunciado": "Tras el desastre de Homero al dirigir la recolección de basura, ¿qué solución adopta Springfield?",
+    "opciones": [
+      "Trasladar toda la ciudad",
+      "Cubrir la basura con una plaza",
+      "Quemar la basura en la planta nuclear",
+      "Enviar la basura a Shelbyville"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Homero acepta residuos de otras ciudades para financiar sus promesas. Cuando la basura invade Springfield, los edificios se mudan a otro sitio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_basura_mudanza_ciudad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_182",
+    "enunciado": "Cuando Bill Gates visita CompuMundoHiperMegaRed para «comprar» la empresa de Homero, ¿qué termina haciendo?",
+    "opciones": [
+      "La transforma en una sucursal de Microsoft",
+      "Contrata a Homero como asesor",
+      "Le paga con acciones de Microsoft",
+      "Ordena que destrocen su oficina"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Homero espera una oferta millonaria, pero sus ilusiones duran poco: la visita acaba con los muebles y equipos destruidos, sin recibir un pago.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_compumundo_compra_gates",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_183",
+    "enunciado": "En su etapa universitaria, ¿qué roba Homero con sus compañeros para hacerle una broma a una institución rival?",
+    "opciones": [
+      "La estatua del fundador",
+      "Su mascota: un cerdo",
+      "La copa del equipo de fútbol",
+      "La bicicleta del rector"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Homero imagina la universidad como una película de fiestas y bromas. Su ocurrencia acaba causando la expulsión de los estudiantes que lo ayudan.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_universidad_cerdo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_184",
+    "enunciado": "Cuando trabaja desde casa, ¿qué deja Homero pulsando una tecla de la computadora mientras se va al cine?",
+    "opciones": [
+      "Un ventilador con una cuerda",
+      "Un tren de juguete con un brazo",
+      "Un reloj con una palanca",
+      "Un pajarito de juguete que se balancea"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El muñeco repite el movimiento mientras Homero se ausenta. Cuando deja de funcionar, su ingenioso reemplazo revela lo frágil que era el plan.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_king_size_homer",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_185",
+    "enunciado": "Tras ser capturado, ¿cómo consigue el ladrón Molloy distraer a Homero y a los demás vecinos para escapar?",
+    "opciones": [
+      "Finge un robo en el museo",
+      "Provoca una falsa alarma de incendio",
+      "Los manda a buscar un tesoro inexistente",
+      "Se hace pasar por el jefe Gorgory"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los vecinos excavan siguiendo sus indicaciones. Solo encuentran una nota que explica que la búsqueda le dio tiempo al ladrón para huir de prisión.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_molloy_tesoro_falso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_186",
+    "enunciado": "¿Qué plato lleva a Homero a organizar lo que cree que será su último día de vida?",
+    "opciones": [
+      "Hongos que recoge en el bosque",
+      "Pez fugu posiblemente mal preparado",
+      "Mariscos del restaurante del Capitán",
+      "Un sándwich olvidado en el refrigerador"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La advertencia médica convierte una cena en una despedida anticipada. Homero prepara una lista de pendientes y trata de aprovechar el tiempo con su familia.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_fugu_ultimo_dia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_187",
+    "enunciado": "Para que Bart deje su cuna antes de la llegada de Lisa, ¿qué cama le construye Homero y termina asustándolo?",
+    "opciones": [
+      "Una cama con forma de payaso",
+      "Una cama con forma de dragón",
+      "Una cama con forma de nave espacial",
+      "Una cama con forma de tiburón"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Homero intenta entusiasmar a Bart con algo que le gusta, pero el resultado tiene un aspecto siniestro. El regalo provoca miedo en vez de alegría.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_cama_payaso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_188",
+    "enunciado": "Cuando Homero reemplaza a un camionero, ¿qué secreto descubre que los otros conductores quieren mantener oculto?",
+    "opciones": [
+      "Las cargas se entregan vacías",
+      "Las rutas están trazadas por extraterrestres",
+      "Los camiones tienen conducción automática",
+      "Las empresas pagan por no hacer entregas"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El sistema permite que el vehículo siga su recorrido sin que Homero conduzca. Los camioneros temen que se descubra lo sencillo que les hace el trabajo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_camion_piloto_automatico",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_189",
+    "enunciado": "Después de comer el chili extremadamente picante de Gorgory, ¿qué animal guía a Homero en su viaje imaginario?",
+    "opciones": [
+      "Un zorro",
+      "Un lobo",
+      "Un búho",
+      "Un coyote"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La experiencia lo lleva a preguntarse quién es su alma gemela. El guía habla con la voz de Johnny Cash en la versión original del episodio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_chili_coyote",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_190",
+    "enunciado": "Cuando Bart organiza a los niños para enfrentar a Nelson, ¿con qué lo atacan en la batalla final?",
+    "opciones": [
+      "Globos llenos de agua",
+      "Bolas de barro",
+      "Huevos podridos",
+      "Aviones de papel"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Con ayuda del Abuelo y de Herman, Bart convierte a sus compañeros en un pequeño ejército. La batalla termina con un acuerdo para frenar las agresiones.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_general_globos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_191",
+    "enunciado": "Para impedir que Bart salte el desfiladero en patineta, ¿qué decide hacer Homero y termina saliendo mal?",
+    "opciones": [
+      "Cerrar el paso con una cerca",
+      "Demostrarle el peligro saltando él mismo",
+      "Destruir la patineta frente a Bart",
+      "Encargarle el salto a un doble profesional"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bart abandona su plan, pero Homero sale lanzado accidentalmente. Lo que iba a ser una lección de prudencia acaba en una desastrosa caída.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_desfiladero_salto_homero",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_192",
+    "enunciado": "Después de robar un videojuego, ¿qué regalo comprado legalmente le lleva Bart a Marge para recuperar su confianza?",
+    "opciones": [
+      "Una caja de chocolates",
+      "Una bufanda tejida",
+      "Un álbum de sus dibujos",
+      "Una fotografía de él mismo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Marge sospecha que volvió a robar, pero el recibo demuestra que pagó. La imagen de Bart sonriendo permite recomponer el vínculo entre madre e hijo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_foto_reconciliacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_193",
+    "enunciado": "Tras comprar una fábrica abandonada, ¿qué responsabilidad le asigna Bart a Milhouse?",
+    "opciones": [
+      "Buscar empleados para la producción",
+      "Vigilar la fábrica durante la noche",
+      "Vender maquinaria en una subasta",
+      "Llevar la contabilidad del negocio"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bart se toma muy en serio su nuevo papel de empresario. Al volver al día siguiente, descubre que el edificio se ha derrumbado bajo la vigilancia de su amigo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_fabrica_vigilante",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_194",
+    "enunciado": "En el viaje por carretera de Bart y sus amigos, ¿qué descubren al llegar a la Feria Mundial de Knoxville?",
+    "opciones": [
+      "Que solo admite visitantes adultos",
+      "Que exige invitaciones personales",
+      "Que terminó muchos años antes",
+      "Que fue trasladada a Springfield"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los chicos se guiaron por un folleto viejo y llegan demasiado tarde. La excursión soñada acaba convirtiéndose en un problema para volver a casa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_knoxville_feria",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_195",
+    "enunciado": "¿Qué hace Jessica, la hija del reverendo Alegría, para que Bart cargue con la culpa de un robo en la iglesia?",
+    "opciones": [
+      "Le deja en el regazo la bandeja de la colecta",
+      "Esconde el dinero en su patineta",
+      "Falsifica una confesión firmada por él",
+      "Coloca una alcancía robada en su mochila"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La reputación de Jessica hace que los adultos sospechen de Bart. Lisa interviene para revelar quién aprovechó la colecta y dejar a su hermano libre de culpa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_jessica_colecta_bart",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_196",
+    "enunciado": "Cuando Bart falla un examen pese a haber estudiado, ¿por qué Edna finalmente le concede el punto que necesita para aprobar?",
+    "opciones": [
+      "Descubre un error en la suma de la nota",
+      "Reconoce que una pregunta tenía dos respuestas válidas",
+      "Acepta un trabajo extra que hizo Lisa por él",
+      "Aplica lo aprendido al comparar su derrota con la de Washington"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Su referencia histórica demuestra que sí había estudiado. Edna reconoce esa comprensión, aunque el examen escrito lo había dejado a un punto de aprobar.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_examen_washington",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_197",
+    "enunciado": "Desde su ventana, Bart cree descubrir un crimen de Flanders. ¿Qué había enterrado realmente su vecino?",
+    "opciones": [
+      "Un trofeo que había roto",
+      "Un juguete de Rod que había quemado",
+      "Una planta de Maude que había arruinado",
+      "Una mesa que había destrozado"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Flanders había regado demasiado el ficus de Maude y trató de ocultarlo. El supuesto misterio nace de las conclusiones que Bart saca desde su habitación.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_flanders_ficus_enterrado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_198",
+    "enunciado": "Cuando Ayudante de Santa destruye objetos de la casa, ¿qué debe conseguir Bart para que el perro pueda quedarse?",
+    "opciones": [
+      "Que gane una carrera de galgos",
+      "Que apruebe la escuela de obediencia",
+      "Que actúe en un comercial de mascotas",
+      "Que pase una prueba de rastreo policial"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La familia está a punto de separarse del perro. El vínculo que Bart establece con él permite superar la dificultad para entender las órdenes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_perro_escuela_obediencia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_199",
+    "enunciado": "Por celos de la relación de Milhouse con Samantha, ¿qué hace Bart y termina separando a la pareja?",
+    "opciones": [
+      "Hace creer a Milhouse que Samantha se muda",
+      "Envía una carta de ruptura con la firma de Milhouse",
+      "Convence a Skinner de cambiarla de escuela",
+      "Le cuenta al padre de Samantha que ellos se besan"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El padre la envía a una escuela religiosa. Después de discutir con Milhouse, Bart visita a Samantha y se disculpa por haber intervenido en su relación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_samantha_bart_delata",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_200",
+    "enunciado": "Al tratar su miedo a volar, ¿qué descubre Marge que hacía su padre en los aviones, aunque ella lo creía piloto?",
+    "opciones": [
+      "Trabajaba como auxiliar de vuelo",
+      "Reparaba los motores",
+      "Transportaba el equipaje",
+      "Inspeccionaba los boletos en tierra"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Durante la terapia, Marge recupera un recuerdo que había escondido. La sorpresa infantil sobre el trabajo de su padre se relaciona con su miedo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_marge_miedo_volar_padre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_201",
+    "enunciado": "Cuando fracasa el negocio de pretzels de Marge, ¿a quién recurre Homero para conseguir clientes de forma sospechosa?",
+    "opciones": [
+      "Al señor Burns",
+      "A Tony el Gordo",
+      "Al jefe Gorgory",
+      "A Krusty"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Las ventas mejoran por la presión sobre clientes y competidores. Marge descubre que la ayuda no era gratuita cuando le reclaman las ganancias del negocio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_marge_pretzels_mafia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_202",
+    "enunciado": "¿Qué lleva a Marge a renunciar a la policía después de descubrir el negocio de jeans falsificados de Herman?",
+    "opciones": [
+      "Gorgory le exige que se traslade a Shelbyville",
+      "Skinner le pide que investigue a Bart",
+      "Sus compañeros se apropian de las pruebas",
+      "Herman demuestra que los jeans eran auténticos"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Gorgory afirma que la mercancía desapareció, aunque los policías se la quedaron. Marge entrega su placa al ver la corrupción dentro de la fuerza.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_marge_policia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_203",
+    "enunciado": "Cuando Marge consigue quitar la violencia de Tomy y Daly, ¿qué hacen los niños al aburrirse con la nueva versión?",
+    "opciones": [
+      "Empiezan a ver el noticiero",
+      "Crean su propio programa de dibujos",
+      "Le piden a Krusty más concursos",
+      "Salen a jugar al aire libre"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los dibujos pierden su atractivo y los chicos redescubren las actividades fuera de casa. Marge disfruta del inesperado efecto de su campaña.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_marge_dibujos_ninos_fuera",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_204",
+    "enunciado": "Cuando Marge retoma la pintura, ¿qué músico le responde una vieja carta y la anima con elogios a su retrato?",
+    "opciones": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "Elton John"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La respuesta llega muchos años después porque el músico sigue contestando correspondencia atrasada. El mensaje ayuda a Marge a recuperar confianza en su arte.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_marge_pintura_carta_ringo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_205",
+    "enunciado": "Al despedirse de Lisa, ¿qué le deja escrito el maestro Bergstrom para ayudarla cuando se sienta sola?",
+    "opciones": [
+      "Un recordatorio de que ella es Lisa Simpson",
+      "Una promesa de volver a enseñarle",
+      "La dirección de otra escuela",
+      "Una lista de nuevos amigos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La nota no ofrece una solución externa: le recuerda su propia identidad y valor. Lisa encuentra consuelo después de perder a un maestro que la comprendía.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_bergstrom_nota",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_206",
+    "enunciado": "¿Qué se esconde detrás del supuesto esqueleto de ángel que Lisa descubre y que anuncia «el fin»?",
+    "opciones": [
+      "Una broma de Bart para cerrar la escuela",
+      "Un experimento del profesor Frink",
+      "Un plan de Burns para comprar el museo",
+      "Una campaña para inaugurar un centro comercial"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El anuncio juega con el miedo de los vecinos: el fin era el de los precios altos. Lisa se indigna por el engaño, pero la multitud prefiere ir de compras.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_angel_centro_comercial",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_207",
+    "enunciado": "Al convertirse en Pequeña Miss Springfield, ¿qué descubre Lisa que debe promocionar y decide denunciar?",
+    "opciones": [
+      "Una cadena de casinos",
+      "Una bebida alcohólica",
+      "Una marca de cigarrillos",
+      "Una fábrica de armas"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Lisa usa su nueva visibilidad para cuestionar al patrocinador en vez de obedecerlo. El concurso pasa de reforzar su autoestima a poner a prueba sus valores.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_reina_cigarrillos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_208",
+    "enunciado": "En el partido de hockey que enfrenta a Bart y Lisa, ¿qué hacen cuando llega el tiro penal decisivo?",
+    "opciones": [
+      "Dejan el equipo y se abrazan",
+      "Piden que Maggie decida quién gana",
+      "Abandonan el hielo sin hablarse",
+      "Intercambian sus equipos para continuar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los recuerdos de su infancia pesan más que la rivalidad alentada por Homero. La reconciliación deja el partido empatado, para disgusto del público.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_hockey_bart_lisa_abrazo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_209",
+    "enunciado": "Durante las vacaciones en la playa, ¿qué usa Bart para revelar a los nuevos amigos de Lisa su vida escolar?",
+    "opciones": [
+      "Un boletín de calificaciones",
+      "El anuario de la escuela",
+      "Una grabación del programa de Krusty",
+      "Un periódico con sus premios"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bart intenta arruinar la imagen despreocupada que Lisa construyó. Sus nuevos amigos, sin embargo, la aceptan y terminan dejando mensajes en el anuario.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_playa_anuario",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
   }
 ]

@@ -5985,5 +5985,722 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cine_253",
+    "enunciado": "¿Qué animal encuentra Ace en el tanque de la mansión de Ronald Camp en Ace Ventura (1994)?",
+    "opciones": [
+      "Una orca",
+      "Un cocodrilo",
+      "Un tiburón",
+      "Una anguila"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Ace entra al tanque creyendo que encontró una pista decisiva. Su investigación termina convirtiéndose en una huida desesperada.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "ace_ventura_tanque_camp",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_254",
+    "enunciado": "¿Qué animales aterrorizan a Ace, pese a su amor por las mascotas, en Ace Ventura 2 (1995)?",
+    "opciones": [
+      "Los murciélagos",
+      "Las serpientes",
+      "Las arañas",
+      "Los cocodrilos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El detective debe enfrentarse a su propia fobia para resolver el caso. Su amor por los animales tiene una excepción muy incómoda.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "ace_ventura_2_fobia_murcielagos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_255",
+    "enunciado": "¿Dentro de qué animal mecánico se esconde Ace para espiar en Ace Ventura 2 (1995)?",
+    "opciones": [
+      "Un elefante",
+      "Un hipopótamo",
+      "Un búfalo",
+      "Un rinoceronte"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El escondite parecía perfecto, pero el calor vuelve insoportable la vigilancia. Salir resulta mucho menos discreto que entrar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "ace_ventura_2_rinoceronte_mecanico",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_256",
+    "enunciado": "¿Qué lugar roba Stanley para poder asistir al espectáculo de Tina en La Máscara (1994)?",
+    "opciones": [
+      "Una joyería del centro",
+      "El banco donde trabaja",
+      "La caja del club nocturno",
+      "Un casino de la ciudad"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su nueva personalidad convierte una salida romántica en un golpe delictivo. Además, se adelanta al robo que planeaba una banda.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "la_mascara_robo_banco",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_257",
+    "enunciado": "¿Con qué canción convierte Stanley una persecución policial en un baile en La Máscara (1994)?",
+    "opciones": [
+      "La Bamba",
+      "Mambo No. 5",
+      "Cuban Pete",
+      "Guantanamera"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La persecución se transforma en un número musical colectivo: los agentes dejan de perseguirlo y participan de su espectáculo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "la_mascara_baile_policias_cuban_pete",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_258",
+    "enunciado": "¿En qué convierte Stanley un globo para espantar a unos matones en La Máscara (1994)?",
+    "opciones": [
+      "Un lanzallamas",
+      "Una espada",
+      "Un cañón",
+      "Una ametralladora"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El gag lleva los trucos con globos al absurdo: los poderes del personaje permiten que una broma se vuelva una amenaza de caricatura.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "la_mascara_globo_ametralladora",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_259",
+    "enunciado": "¿Quién entrega a Stanley a Dorian Tyrell a cambio de dinero en La Máscara (1994)?",
+    "opciones": [
+      "Peggy, la periodista",
+      "Tina, la cantante",
+      "Charlie, su compañero",
+      "Kellaway, el detective"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La persona que parecía ayudarlo a escapar termina traicionándolo por una recompensa. Stanley descubre que su confianza estaba mal puesta.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "la_mascara_traicion_peggy",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_260",
+    "enunciado": "¿Qué color tiene el bolígrafo que Fletcher intenta describir falsamente en Mentiroso, mentiroso (1997)?",
+    "opciones": [
+      "Rojo",
+      "Negro",
+      "Azul",
+      "Verde"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Una discusión con un objeto de oficina se vuelve una batalla física. Fletcher acaba escribiendo la verdad hasta sobre su propio rostro.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "mentiroso_mentiroso_boligrafo_azul",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_261",
+    "enunciado": "¿Qué busca conseguir Fletcher al simular que fue atacado en Mentiroso, mentiroso (1997)?",
+    "opciones": [
+      "La anulación de su matrimonio",
+      "Un aplazamiento del juicio",
+      "La renuncia de su secretaria",
+      "Una indemnización del tribunal"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su plan fracasa porque tampoco puede mentir al explicar lo ocurrido. Ni siquiera una excusa desesperada le permite esquivar el juicio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mentiroso_mentiroso_aplazamiento_bano",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_262",
+    "enunciado": "¿Qué vehículo usa Fletcher para perseguir el avión de su hijo en Mentiroso, mentiroso (1997)?",
+    "opciones": [
+      "Una escalera móvil de embarque",
+      "Un carro portaequipajes",
+      "Un camión de combustible",
+      "Un autobús del aeropuerto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La reconciliación se convierte en una persecución por la pista. Fletcher busca recuperar a su familia y termina sufriendo un accidente.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "mentiroso_mentiroso_escalera_aeropuerto",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_263",
+    "enunciado": "¿Qué gran felino de circo necesita la ayuda de John en Dr. Dolittle (1998)?",
+    "opciones": [
+      "Un león",
+      "Un leopardo",
+      "Un jaguar",
+      "Un tigre"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Sus problemas de visión y fuertes dolores esconden una enfermedad seria. Escucharlo permite al médico descubrir que necesita una operación.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "dr_dolittle_tigre_jake",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_264",
+    "enunciado": "¿Qué animal es Rodney, la mascota de Maya que discute con John en Dr. Dolittle (1998)?",
+    "opciones": [
+      "Un hámster",
+      "Un conejo",
+      "Un cobayo",
+      "Un hurón"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Chris Rock presta su voz original a esta mascota de lengua filosa. Sus comentarios contrastan con la sorpresa del médico al entender animales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "dr_dolittle_rodney_cobayo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_265",
+    "enunciado": "¿Para qué enseña Dolittle al oso Archie a vivir en el bosque en Dr. Dolittle 2 (2001)?",
+    "opciones": [
+      "Para que gane una competencia de animales",
+      "Para que forme una pareja y ayude a salvar el bosque",
+      "Para que encuentre una mina abandonada",
+      "Para que sustituya a un guardabosques"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Archie viene del circo y debe aprender a desenvolverse en la naturaleza. La supervivencia de su especie ayuda a defender el hábitat.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "dr_dolittle_2_archie_bosque",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_266",
+    "enunciado": "¿Cuántos deseos ofrece el Diablo a Elliot a cambio de su alma en Al diablo con el diablo (2000)?",
+    "opciones": [
+      "Tres",
+      "Cinco",
+      "Diez",
+      "Siete"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El contrato promete transformar su vida, pero cada pedido incluye consecuencias que Elliot no había previsto al imaginar su versión ideal.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bedazzled_2000_contrato_siete_deseos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_267",
+    "enunciado": "¿Qué problema muestra Elliot al hablar con la reportera después de volverse basquetbolista en Al diablo con el diablo?",
+    "opciones": [
+      "Su inteligencia es muy limitada",
+      "Solo puede hablar en francés",
+      "No recuerda cómo se llama",
+      "Se queda completamente sin voz"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El deseo le da talento deportivo, pero no la personalidad que esperaba. La entrevista expone el precio oculto de su aparente éxito.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bedazzled_2000_basquetbolista_entrevista",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_268",
+    "enunciado": "¿Qué provoca el llanto repetido del Elliot extremadamente sensible en Al diablo con el diablo (2000)?",
+    "opciones": [
+      "Una canción de cumpleaños",
+      "Una puesta de sol",
+      "Una foto de su infancia",
+      "Una carta de despedida"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su intento de volverse irresistible lo deja desbordado por la emoción. La sensibilidad exagerada acaba alejando a la mujer que quería conquistar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bedazzled_2000_sensible_atardecer",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_269",
+    "enunciado": "¿Qué último deseo libera a Elliot del contrato en Al diablo con el diablo (2000)?",
+    "opciones": [
+      "Que el Diablo olvide su nombre",
+      "Que los deseos anteriores nunca hayan ocurrido",
+      "Que Alison sea feliz, aunque no sea con él",
+      "Que otra persona ocupe su lugar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Un pedido desinteresado activa una cláusula del acuerdo. La solución llega cuando deja de intentar diseñar su vida únicamente para sí mismo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bedazzled_2000_deseo_desinteresado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_270",
+    "enunciado": "¿Cómo intenta Bruce resolver de golpe los pedidos que recibe como correos en Todopoderoso (2003)?",
+    "opciones": [
+      "Responde que sí a todos",
+      "Borra todos los mensajes",
+      "Los envía a un asistente",
+      "Acepta solo el primero de cada persona"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La solución automática parece ahorrar trabajo, pero conceder todo no garantiza que la gente sea feliz ni que sus pedidos sean compatibles.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bruce_almighty_correos_si_a_todos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_271",
+    "enunciado": "¿Qué sopa separa Bruce en dos al probar sus poderes en un restaurante en Todopoderoso (2003)?",
+    "opciones": [
+      "De cebolla",
+      "De calabaza",
+      "De champiñones",
+      "De tomate"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El pequeño milagro parodia la separación del mar Rojo. Bruce empieza usando un poder enorme para divertirse con cosas muy cotidianas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bruce_almighty_sopa_tomate",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_272",
+    "enunciado": "¿Qué regla le impide a Bruce obligar a Grace a amarlo en Todopoderoso (2003)?",
+    "opciones": [
+      "No puede usar sus poderes de noche",
+      "No puede actuar fuera de una iglesia",
+      "No puede alterar el libre albedrío",
+      "No puede cambiar la vida de alguien conocido"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El poder no reemplaza una relación ni sus decisiones. Bruce descubre que lograr lo que quiere no equivale a conseguir el amor de otra persona.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bruce_almighty_libre_albedrio_grace",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_273",
+    "enunciado": "¿Qué dejan Harry y Lloyd en lugar del dinero que gastan del maletín en Tonto y retonto (1994)?",
+    "opciones": [
+      "Billetes de juguete",
+      "Pagarés escritos por ellos",
+      "Boletos de lotería",
+      "Cheques de un banco cerrado"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los amigos llevan una cuenta de sus gastos y creen que sus promesas de pago compensan el efectivo perdido. El dueño del dinero no comparte la idea.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tonto_retonto_maletin_pagares",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_274",
+    "enunciado": "¿De qué colores son los extravagantes trajes de Harry y Lloyd en la gala de Tonto y retonto (1994)?",
+    "opciones": [
+      "Celeste y naranja",
+      "Rojo y amarillo",
+      "Verde y violeta",
+      "Blanco y dorado"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los conjuntos incluyen sombreros y bastones a juego. Lejos de pasar inadvertidos, los amigos llevan su nueva vida de lujo al extremo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tonto_retonto_gala_trajes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_275",
+    "enunciado": "¿Qué marca confunde Lloyd con el apellido de Mary al mirar el maletín en Tonto y retonto (1994)?",
+    "opciones": [
+      "American Tourister",
+      "Louis Vuitton",
+      "Samsonite",
+      "Delsey"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La etiqueta del fabricante le parece una pista sobre la dueña. Su deducción convierte un dato que estaba a la vista en otro malentendido.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tonto_retonto_samsonite_apellido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_276",
+    "enunciado": "¿Qué trampa de Kevin le quema la cabeza a Harry al entrar por una puerta en Mi pobre angelito (1990)?",
+    "opciones": [
+      "Una plancha",
+      "Una parrilla eléctrica",
+      "Una estufa portátil",
+      "Un soplete"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Kevin combina trampas de distinta clase para proteger la casa. Cada acceso que parece sencillo esconde una sorpresa preparada para los ladrones.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "home_alone_trampa_soplete_harry",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_277",
+    "enunciado": "¿De quién es la tarántula que Kevin coloca sobre el rostro de Marv en Mi pobre angelito (1990)?",
+    "opciones": [
+      "De su vecino Marley",
+      "De su hermano Buzz",
+      "De su primo Fuller",
+      "De su tío Frank"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La mascota se había escapado antes de la llegada de los ladrones. Kevin aprovecha el encuentro para liberarse cuando Marv consigue atraparlo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "home_alone_tarantula_buzz_marv",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_278",
+    "enunciado": "¿En qué sala de conciertos charla Kevin con la mujer de las palomas en Mi pobre angelito 2 (1992)?",
+    "opciones": [
+      "Radio City Music Hall",
+      "Lincoln Center",
+      "Carnegie Hall",
+      "Madison Square Garden"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La conversación ocurre en un espacio elevado desde donde pueden escuchar música. Allí Kevin conoce la historia de la mujer a la que antes temía.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "home_alone_2_carnegie_hall_palomas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_279",
+    "enunciado": "¿Con qué cubre Daniel su rostro para improvisar el disfraz ante la trabajadora social en Papá por siempre (1993)?",
+    "opciones": [
+      "Con la cobertura de un pastel",
+      "Con crema de afeitar",
+      "Con una mascarilla de arcilla",
+      "Con espuma de jabón"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El recurso parece salvar su identidad por un momento, pero el calor del té empieza a derretir la improvisada máscara durante la visita.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "mrs_doubtfire_mascara_cobertura_pastel",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_280",
+    "enunciado": "¿Qué condimento agrega Daniel al plato de Stu para sabotear la cena en Papá por siempre (1993)?",
+    "opciones": [
+      "Mostaza en polvo",
+      "Nuez moscada",
+      "Jengibre molido",
+      "Pimienta de cayena"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La broma provoca una emergencia y Daniel debe ayudar al hombre que quería perjudicar. Al hacerlo, su disfraz deja de proteger su identidad.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mrs_doubtfire_cena_cayena_stu",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_281",
+    "enunciado": "¿Qué identidad adopta Sherman después de probar su fórmula en El profesor chiflado (1996)?",
+    "opciones": [
+      "Buddy Love",
+      "Reggie Warrington",
+      "Dean Richmond",
+      "Jason Scott"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El alter ego gana confianza, pero se vuelve arrogante y empieza a disputar el control. La transformación termina afectando mucho más que su apariencia.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "nutty_professor_1996_buddy_love",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_282",
+    "enunciado": "¿Al primer ministro de qué país busca atacar Mugatu usando a Derek en Zoolander (2001)?",
+    "opciones": [
+      "Tailandia",
+      "Malasia",
+      "Indonesia",
+      "Singapur"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El plan está ligado a intereses de la industria de la moda. El dirigente quiere cambiar las condiciones laborales que benefician a sus adversarios.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zoolander_2001_plan_primer_ministro",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-09-30"
   }
 ]
