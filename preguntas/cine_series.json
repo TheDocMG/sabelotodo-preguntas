@@ -86,13 +86,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "godfather_director",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2025-10-01"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_005",
@@ -205,13 +206,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hal9000_name",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2025-10-01"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_010",
@@ -923,13 +925,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "okupas_perro_severino_walter",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_040",
@@ -1970,13 +1973,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "nueve_reinas_sellos_postales",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_084",
@@ -2326,14 +2330,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "the_dude_ruso_blanco_coctel",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_099",
@@ -2949,14 +2952,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "dragon_ball_muerte_krilin_super_saiyajin",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_125",
@@ -5439,13 +5441,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hp_tom_ryddle",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_230",
@@ -5462,13 +5465,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hp_nagini",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_231",
@@ -5485,13 +5489,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hp_snape",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_232",
@@ -5508,13 +5513,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hp_traslador",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_233",
@@ -5531,13 +5537,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "avengers_thanos_gemas_infinito",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_234",
@@ -5554,13 +5561,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "iron_man_nick_fury_postcreditos",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_235",
@@ -5577,13 +5585,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hulk_loki_dios_insignificante",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_236",
@@ -5600,13 +5609,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "jarvis",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_237",
@@ -5623,13 +5633,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "killmonger",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_238",
@@ -5646,13 +5657,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sw_orden_66",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_239",
@@ -5669,13 +5681,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sw_hoth",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_240",
@@ -5692,13 +5705,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sw_parsecs",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_241",
@@ -5715,13 +5729,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sw_palpatine",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_242",
@@ -5738,13 +5753,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sw_boba_fett",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cine_243",
@@ -6702,5 +6718,3597 @@
     "aptaFamilia": false,
     "revision": 1,
     "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "cine_283",
+    "enunciado": "¿Quién responde «Lo sé» a la declaración de amor de Leia antes de ser congelado en El Imperio contraataca (1980)?",
+    "opciones": [
+      "Luke Skywalker",
+      "Han Solo",
+      "Lando Calrissian",
+      "Chewbacca"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Leia se declara justo antes de que Han sea congelado en carbonita. Su respuesta breve conserva la confianza y el humor del personaje.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "imperio_contraataca_han_leia_carbonita",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_284",
+    "enunciado": "¿Quién le enseña a Neo que «no hay cuchara» mientras espera a la Oráculo en Matrix (1999)?",
+    "opciones": [
+      "Morfeo",
+      "Trinity",
+      "El agente Smith",
+      "Un niño que dobla cucharas"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Uno de los niños que esperan a la Oráculo muestra que las reglas del mundo simulado pueden desafiarse. Neo aplica esa enseñanza más adelante.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "matrix_nino_no_hay_cuchara",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_285",
+    "enunciado": "¿De quién recuerda Rocky la voz de «De pie, hijo de perra» durante la pelea callejera de Rocky V (1990)?",
+    "opciones": [
+      "Mickey Goldmill",
+      "Apollo Creed",
+      "Paulie Pennino",
+      "Tony «Duke» Evers"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El recuerdo de su antiguo entrenador ayuda a Rocky a levantarse frente a Tommy Gunn. Mickey aparece como una presencia emocional, no como espectador.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_v_recuerdo_mickey_pelea",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_286",
+    "enunciado": "¿A quién le dice Butch «Zed está muerto» cuando ella pregunta por la motocicleta en Pulp Fiction (1994)?",
+    "opciones": [
+      "Mia Wallace",
+      "Jody",
+      "Fabienne",
+      "Honey Bunny"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Fabienne, la pareja de Butch, pregunta por el vehículo con el que él vuelve a buscarla. Ambos escapan en la chopper que pertenecía a Zed.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pulp_fiction_butch_fabienne_chopper",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_287",
+    "enunciado": "¿Qué pingüino ordena «Sonrían y saluden» para mantener las apariencias en Madagascar (2005)?",
+    "opciones": [
+      "Kowalski",
+      "Rico",
+      "Cabo",
+      "Skipper"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El líder ordena al resto actuar con normalidad para no revelar sus planes. La frase resume el contraste entre su fachada simpática y sus operaciones.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "madagascar_skipper_sonreir_saludar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_288",
+    "enunciado": "¿Quién responde con otro eructo al «Mejor afuera que adentro» de Shrek durante el desayuno en Shrek (2001)?",
+    "opciones": [
+      "Burro",
+      "Fiona",
+      "Lord Farquaad",
+      "Pinocho"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Burro reprende al ogro por eructar ante una princesa, pero Fiona hace lo mismo. La escena muestra que ella rompe con los modales que él esperaba.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "shrek_desayuno_eructo_fiona",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_289",
+    "enunciado": "¿Quién le grita a Regina «No puedes sentarte con nosotras» por llevar pantalones deportivos en Chicas pesadas (2004)?",
+    "opciones": [
+      "Cady Heron",
+      "Karen Smith",
+      "Gretchen Wieners",
+      "Janis Ian"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Gretchen aplica a Regina las reglas de vestimenta de su propio grupo. La exclusión revela que la líder empieza a perder autoridad.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mean_girls_regina_pantalones_gretchen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_290",
+    "enunciado": "¿A quiénes les dice Aragorn que no deben inclinarse ante nadie en El retorno del rey (2003)?",
+    "opciones": [
+      "A Frodo, Sam, Merry y Pippin",
+      "A los elfos de Rivendel",
+      "A los jinetes de Rohan",
+      "A los soldados de Gondor"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Durante la coronación, Aragorn detiene la reverencia de los cuatro hobbits y se inclina ante ellos. La multitud sigue su gesto de reconocimiento.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "retorno_rey_reverencia_cuatro_hobbits",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_291",
+    "enunciado": "¿A qué hombre de seis dedos dirige Íñigo su presentación sobre vengar a su padre en La princesa prometida (1987)?",
+    "opciones": [
+      "Al príncipe Humperdinck",
+      "Al conde Rugen",
+      "A Vizzini",
+      "A Westley"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Rugen es el hombre al que Íñigo busca desde niño. Repetir su presentación durante el duelo convierte años de búsqueda en una confrontación personal.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "princesa_prometida_inigo_rugen_presentacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_292",
+    "enunciado": "¿A quiénes habla Máximo de que sus actos tendrán eco en la eternidad al comienzo de Gladiador (2000)?",
+    "opciones": [
+      "Al público del Coliseo",
+      "A los senadores de Roma",
+      "A los prisioneros de Próximo",
+      "A sus soldados antes de la batalla"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Máximo pronuncia el discurso antes de la batalla en Germania, cuando todavía es general romano. No pertenece a sus posteriores combates como gladiador.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "gladiador_discurso_eternidad_germania",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_293",
+    "enunciado": "¿Qué le ocurre al T-1000 tras quedar hecho pedazos por el disparo de «Hasta la vista, baby» en Terminator 2 (1991)?",
+    "opciones": [
+      "Queda destruido definitivamente",
+      "Pierde la capacidad de cambiar de forma",
+      "Sus fragmentos se derriten y vuelven a unirse",
+      "Se convierte en un T-800"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El nitrógeno líquido permite romperlo, pero el calor de la fábrica funde los fragmentos. La escena todavía no representa su derrota definitiva.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "terminator_2_t1000_recompone_congelacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_294",
+    "enunciado": "¿Cómo frena Wendy a Jack cuando él intenta abrir la puerta tras gritar «Here’s Johnny!» en El resplandor (1980)?",
+    "opciones": [
+      "Le corta la mano con un cuchillo",
+      "Lo golpea con un bate",
+      "Le arroja agua hirviendo",
+      "Le dispara con un revólver"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Jack mete la mano por el hueco de la puerta para abrirla. Wendy se defiende con el cuchillo; el enfrentamiento con el bate ocurre antes.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "resplandor_wendy_cuchillo_puerta",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_295",
+    "enunciado": "¿Qué hace Jerry por teléfono cuando Rod le exige «Muéstrame el dinero» en Jerry Maguire (1996)?",
+    "opciones": [
+      "Le transfiere dinero de inmediato",
+      "Lo pone en contacto con otro agente",
+      "Corta la llamada y renuncia a representarlo",
+      "Grita la frase para convencerlo de seguir con él"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Rod le exige entusiasmo y compromiso a su representante. Jerry termina gritando ante sus compañeros para conservarlo como cliente.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "jerry_maguire_rod_llamada_dinero",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_296",
+    "enunciado": "¿Qué hace el DeLorean después de que Doc dice que no necesitarán caminos al final de Volver al futuro (1985)?",
+    "opciones": [
+      "Se transforma en una motocicleta",
+      "Despega y vuela",
+      "Se hunde bajo la calle",
+      "Viaja sin moverse de la entrada"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El vehículo levanta vuelo frente a la casa de Marty. La modificación permite despegar sin necesitar una carretera para acelerar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_final_delorean_vuela",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_297",
+    "enunciado": "¿Qué está haciendo Brody cuando ve al tiburón y pide un barco más grande en Tiburón (1975)?",
+    "opciones": [
+      "Arroja carnada al agua",
+      "Repara el motor del barco",
+      "Se sumerge dentro de una jaula",
+      "Carga el arpón de Quint"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Brody está echando restos de pescado para atraer al animal. Su aparición junto a la embarcación le permite apreciar de golpe su enorme tamaño.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tiburon_brody_carnada_barco",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_298",
+    "enunciado": "¿Qué revela Harry al accionar el revólver tras el diálogo sobre sentirse afortunado en el robo inicial de Harry el sucio (1971)?",
+    "opciones": [
+      "Que todavía tenía una bala",
+      "Que había cambiado el arma por una réplica",
+      "Que ya no quedaban balas",
+      "Que el arma estaba trabada"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El ladrón se rinde, pero quiere saber si quedaba un disparo. Harry acciona el arma y solo se oye un clic: en esa escena estaba vacía.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dirty_harry_robo_inicial_revolver_vacio",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_299",
+    "enunciado": "¿Qué usa Rose para llamar al bote de rescate tras prometer a Jack que no se rendirá en Titanic (1997)?",
+    "opciones": [
+      "Golpea la madera con un remo",
+      "Usa el silbato de un oficial",
+      "Enciende una bengala que llevaba Jack",
+      "Hace sonar una campana flotante"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Rose cumple su promesa de seguir viviendo: toma el silbato del oficial Wilde y logra llamar la atención del bote que busca sobrevivientes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "titanic_rose_promesa_silbato_rescate",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_300",
+    "enunciado": "¿Qué avería desencadena el aviso de «Houston, tenemos un problema» en Apolo 13 (1995)?",
+    "opciones": [
+      "La rotura del paracaídas principal",
+      "La pérdida de una rueda del vehículo lunar",
+      "El impacto de un meteorito en una ventana",
+      "La explosión de un tanque de oxígeno"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El daño compromete el oxígeno y la electricidad del módulo de servicio. La misión deja de buscar un alunizaje y pasa a luchar por regresar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "apolo_13_houston_tanque_oxigeno",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_301",
+    "enunciado": "¿Qué disfraz permite sacar a E.T. de casa para ir a llamar a su planeta durante Halloween en E.T. (1982)?",
+    "opciones": [
+      "Un fantasma cubierto por una sábana",
+      "Un robot de cartón",
+      "Un astronauta con casco",
+      "Un oso de peluche gigante"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los niños lo cubren con una sábana y lo hacen pasar por Gertie. Así Elliott puede llevarlo al bosque con el dispositivo para contactar a su especie.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "et_halloween_fantasma_llamar_casa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_302",
+    "enunciado": "¿Qué hace Tony inmediatamente después de decir «Yo soy Iron Man» ante Thanos en Avengers: Endgame (2019)?",
+    "opciones": [
+      "Empuña el martillo de Thor",
+      "Destruye su reactor para abrir un portal",
+      "Chasquea los dedos con las Gemas del Infinito",
+      "Entrega las gemas al Capitán América"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Tony ha transferido las gemas a su propia armadura. El chasquido elimina a Thanos y a su ejército, aunque su cuerpo no puede soportar esa energía.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "endgame_tony_iron_man_chasquido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_303",
+    "enunciado": "¿Qué encargo doméstico explica la orden de llevarse los cannoli en El padrino (1972)?",
+    "opciones": [
+      "Connie los encargó para su boda",
+      "Michael pidió llevarlos al hospital",
+      "Vito los prometió a un productor de cine",
+      "La esposa de Clemenza le pidió que los trajera"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Antes de salir, la esposa de Clemenza le recuerda el encargo. Que lo conserve después del crimen mezcla una rutina familiar con el trabajo mafioso.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "padrino_clemenza_encargo_cannoli",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_304",
+    "enunciado": "¿Qué reclamo de Sonny provoca una agresión de Tommy después de la broma de «¿Gracioso cómo?» en Buenos muchachos (1990)?",
+    "opciones": [
+      "Que deje de hablar con Henry",
+      "Que pague la cuenta que debe en el local",
+      "Que devuelva un coche robado",
+      "Que revele dónde está Billy Batts"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Sonny intenta cobrarle la deuda del bar y Tommy responde con violencia. La amenaza que parecía una broma acaba mostrando un peligro real.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "goodfellas_tommy_sonny_deuda_bar",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_305",
+    "enunciado": "¿Qué idea rechaza Tyler con «No eres tu trabajo» y sus referencias al dinero y al coche en El club de la pelea (1999)?",
+    "opciones": [
+      "Que la identidad dependa del empleo y las posesiones",
+      "Que una persona pueda cambiar de oficio",
+      "Que los clubes deban tener reglas",
+      "Que el narrador necesite dormir más"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El discurso cuestiona medir el valor personal por el empleo, el saldo bancario o los bienes. Forma parte de la crítica al consumo de Tyler.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "fight_club_identidad_trabajo_posesiones",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_306",
+    "enunciado": "¿Qué noticia separó a Ilsa de Rick en el París de «Siempre tendremos París», en Casablanca (1942)?",
+    "opciones": [
+      "Rick le confesó que trabajaba para los nazis",
+      "Sam le entregó un pasaporte falso",
+      "Supo que su esposo Victor seguía vivo",
+      "Su padre le prohibió salir de Francia"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Ilsa creía que Victor Laszlo había muerto. Al enterarse de que seguía vivo, regresó a él y dejó a Rick esperando una explicación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "casablanca_ilsa_paris_victor_vivo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_307",
+    "enunciado": "¿Qué revelación final cambia el sentido de «Veo gente muerta» en El sexto sentido (1999)?",
+    "opciones": [
+      "Cole ha inventado a todos los fantasmas",
+      "Malcolm también está muerto",
+      "La madre de Cole tiene el mismo don",
+      "Malcolm es el padre de Cole"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La confesión de Cole incluía al propio psicólogo. El descubrimiento obliga a reinterpretar la aparente distancia de Malcolm con su esposa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sexto_sentido_malcolm_revelacion_muerto",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_308",
+    "enunciado": "¿Qué propuesta recibe el comentario sarcástico de Miranda sobre flores en primavera en El diablo viste a la moda (2006)?",
+    "opciones": [
+      "Un cambio de nombre para Runway",
+      "Un desfile con ropa usada",
+      "Una entrevista exclusiva a Andy",
+      "Un tema floral para la revista"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Miranda considera que recurrir a flores para primavera es una idea previsible. Su ironía exige originalidad, no anuncia que haya aprobado el proyecto.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "diablo_prada_flores_primavera_propuesta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_309",
+    "enunciado": "¿Qué orden termina admitiendo Jessup tras «No puedes manejar la verdad» en Cuestión de honor (1992)?",
+    "opciones": [
+      "Que ordenó liberar a Dawson y Downey",
+      "Que ordenó evacuar Guantánamo",
+      "Que ordenó el Código Rojo contra Santiago",
+      "Que ordenó arrestar al abogado Kaffee"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El coronel admite haber ordenado el castigo clandestino. La confesión sostiene la defensa de los soldados, aunque no borra toda su responsabilidad.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "few_good_men_jessup_codigo_rojo",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_310",
+    "enunciado": "¿Qué reconoce Buzz cuando llama «caída con estilo» a su descenso con Woody en Toy Story (1995)?",
+    "opciones": [
+      "Que planea y no vuela con poderes propios",
+      "Que vuelve a ser un guardián espacial real",
+      "Que está siendo guiado desde otro planeta",
+      "Que sus alas funcionan con combustible"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Buzz ya acepta que es un juguete: sus alas le permiten planear después de separarse del cohete. La expresión contrasta con su anterior creencia de ser un héroe real.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "toy_story_buzz_caida_estilo_aceptacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_311",
+    "enunciado": "¿Cómo interpreta Anton Ego «Cualquiera puede cocinar» al final de Ratatouille (2007)?",
+    "opciones": [
+      "Un gran talento puede surgir de cualquier origen",
+      "Todos pueden cocinar sin aprender",
+      "Solo los críticos reconocen a un buen cocinero",
+      "Un restaurante famoso siempre cocina mejor"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ego deja de juzgar el talento por la procedencia del cocinero. No afirma que todos sean genios, sino que un gran artista puede aparecer donde menos se espera.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ratatouille_ego_cualquiera_cocinar_sentido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_312",
+    "enunciado": "¿Qué le reprocha su hijo a Rocky antes del discurso sobre resistir los golpes de la vida en Rocky Balboa (2006)?",
+    "opciones": [
+      "Que nunca le enseñó a boxear",
+      "Que la fama de su padre lo deja viviendo a su sombra",
+      "Que le quitó el gimnasio de Mickey",
+      "Que rechazó entrenarlo para pelear con Dixon"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Robert siente que los demás solo lo ven como el hijo de Rocky. Su padre le pide que deje de culpar a esa sombra y asuma su propio camino.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_balboa_robert_sombra_discurso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_313",
+    "enunciado": "¿Qué animal debe atrapar Rocky para mejorar su velocidad durante el entrenamiento de Rocky II?",
+    "opciones": [
+      "Una gallina",
+      "Un conejo",
+      "Un pato",
+      "Una paloma"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Mickey le hace perseguir una gallina para trabajar su velocidad y sus desplazamientos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_ii_entrenamiento_gallina",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_314",
+    "enunciado": "En el último asalto de Rocky II, ¿qué cambio de guardia ayuda a Rocky a sorprender a Apollo?",
+    "opciones": [
+      "Empieza a pelear como diestro",
+      "Vuelve a pelear como zurdo",
+      "Mantiene ambos brazos pegados al cuerpo",
+      "Pelea sin usar la mano izquierda"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Rocky había peleado como diestro para proteger su ojo; al final vuelve a su guardia natural de zurdo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_ii_guardia_final_zurdo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_315",
+    "enunciado": "En el entrenamiento en la nieve de Rocky IV, ¿qué lleva Rocky sobre los hombros como peso?",
+    "opciones": [
+      "Un saco de arena",
+      "Una rueda de tractor",
+      "Un tronco",
+      "Una viga de hierro"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rocky usa un tronco y otros recursos rústicos, en contraste con las máquinas del entrenamiento de Drago.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_iv_entrenamiento_tronco",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_316",
+    "enunciado": "Antes de enfrentar a Apollo en Rocky (1976), ¿qué logro le dice Rocky a Adrian que quiere alcanzar?",
+    "opciones": [
+      "Ganarle en el primer asalto",
+      "Obligarlo a abandonar antes de la mitad",
+      "Romper el récord de golpes de la categoría",
+      "Terminar la pelea de pie, sin ser noqueado"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Más que prometer una victoria, Rocky quiere resistir toda la pelea y demostrarse que no es un don nadie.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_1976_objetivo_resistir",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_317",
+    "enunciado": "¿Qué favor le cobra Apollo a Rocky después de ayudarlo a recuperar el título en Rocky III?",
+    "opciones": [
+      "Una pelea privada entre los dos en el gimnasio",
+      "Ser su entrenador en una nueva pelea oficial",
+      "Una revancha televisada por el título",
+      "Dirigir juntos el gimnasio de Mickey"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La película termina con un combate privado entre ambos, sin público ni cámaras, que cumple el favor acordado.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_iii_favor_pelea_privada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_318",
+    "enunciado": "En Volver al futuro (1985), ¿qué fuente de energía aprovecha Doc para devolver a Marty a 1985?",
+    "opciones": [
+      "La central eléctrica de Hill Valley",
+      "El rayo que cae en la torre del reloj",
+      "La batería de una locomotora",
+      "El generador de la escuela"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Doc conduce la descarga del rayo hasta el DeLorean, usando la hora exacta que Marty conoce por un volante.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_rayo_torre_reloj",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_319",
+    "enunciado": "¿Qué información usa Biff para enriquecerse con apuestas en Volver al futuro II?",
+    "opciones": [
+      "Las cotizaciones futuras de la bolsa",
+      "Los números ganadores de la lotería",
+      "Los resultados de un almanaque deportivo del futuro",
+      "Los consejos de una computadora de Doc"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El Biff anciano le entrega el almanaque a su versión joven, que puede apostar sabiendo los resultados.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_ii_biff_almanaque",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_320",
+    "enunciado": "¿Cómo logra Doc sobrevivir al ataque que Marty le había advertido en Volver al futuro (1985)?",
+    "opciones": [
+      "Sustituye su cuerpo por un maniquí",
+      "Se esconde dentro del DeLorean",
+      "Intercambia su lugar con un policía",
+      "Usa un chaleco antibalas tras leer la carta de Marty"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Aunque había roto la carta en 1955, Doc la recompone, lee la advertencia y se protege antes del ataque.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_doc_carta_chaleco",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_321",
+    "enunciado": "¿Qué empuja al DeLorean por los rieles para alcanzar la velocidad necesaria al final de Volver al futuro III?",
+    "opciones": [
+      "Una locomotora de vapor",
+      "Un camión de carga",
+      "Una carreta con caballos",
+      "Un segundo DeLorean"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Sin combustible para el auto, Doc y Marty usan una locomotora para impulsarlo hasta la velocidad necesaria.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_iii_locomotora",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_322",
+    "enunciado": "¿Qué nombre aparece como la amada de Doc en la lápida que Marty encuentra en Volver al futuro III?",
+    "opciones": [
+      "Jennifer",
+      "Clara",
+      "Lorraine",
+      "Maggie"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La inscripción menciona a Clara; Marty descubre esa pista antes de conocer la historia de Doc con Clara Clayton.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "volver_futuro_iii_lapida_clara",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_323",
+    "enunciado": "En Jurassic Park (1993), ¿qué logra Lex al reconocer el sistema de la computadora de control?",
+    "opciones": [
+      "Reprogramar el ADN de los dinosaurios",
+      "Rastrear el jeep de Dennis Nedry",
+      "Restablecer los seguros de las puertas",
+      "Vaciar el tanque de combustible del helicóptero"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Lex reconoce el sistema Unix y encuentra los controles que permiten cerrar la puerta ante el ataque de un raptor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "jurassic_park_lex_unix_puertas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_324",
+    "enunciado": "En la cocina de Jurassic Park (1993), ¿qué engaña a un raptor cuando intenta atrapar a Lex?",
+    "opciones": [
+      "Una grabación de la voz de Tim",
+      "Un dinosaurio de juguete",
+      "Una foto de los niños pegada en la puerta",
+      "El reflejo de Lex en una superficie metálica"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El raptor se lanza contra el reflejo y Lex aprovecha la confusión para escapar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "jurassic_park_cocina_reflejo_lex",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_325",
+    "enunciado": "En Jurassic Park (1993), ¿qué explica que los dinosaurios se reproduzcan aunque los crearon como hembras?",
+    "opciones": [
+      "El ADN de rana les permite cambiar de sexo",
+      "El ADN de mosquito acelera la gestación",
+      "El calor convierte los huevos vacíos en embriones",
+      "Nedry había liberado machos de otro parque"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Grant relaciona los huevos encontrados con el ADN de rana usado para completar las secuencias genéticas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "jurassic_park_reproduccion_adn_rana",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_326",
+    "enunciado": "¿En qué objeto camuflado guarda Nedry los embriones robados en Jurassic Park (1993)?",
+    "opciones": [
+      "Un termo de café",
+      "Una lata de espuma de afeitar Barbasol",
+      "Una botella de protector solar",
+      "Una lata de crema batida"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La lata tiene un compartimento refrigerado oculto; Nedry la pierde durante su fallida huida.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "jurassic_park_nedry_barbasol",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_327",
+    "enunciado": "Al comienzo de Los cazadores del arca perdida, ¿qué pone Indiana Jones en lugar del ídolo para evitar la trampa?",
+    "opciones": [
+      "Una piedra redonda",
+      "Un libro de arqueología",
+      "Una bolsa con arena",
+      "Una cantimplora llena"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Indiana intenta compensar el peso del ídolo con una bolsa de arena, pero las trampas se activan igual.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "indiana_raiders_idolo_bolsa_arena",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_328",
+    "enunciado": "¿Por qué Indiana elige una copa sencilla como el Grial en La última cruzada?",
+    "opciones": [
+      "Porque es la única que tiene una cruz grabada",
+      "Porque contiene agua desde hace siglos",
+      "Porque su padre había marcado esa copa",
+      "Porque la considera la copa de un carpintero"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Indiana descarta las copas lujosas y busca una acorde con el origen humilde de Jesús.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "indiana_ultima_cruzada_grial_carpintero",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_329",
+    "enunciado": "¿Qué le indica Indiana a Marion para sobrevivir cuando abren el Arca al final de Los cazadores del arca perdida?",
+    "opciones": [
+      "Cerrar los ojos y no mirar",
+      "Repetir las palabras del ritual",
+      "Tocar el Arca con la mano izquierda",
+      "Cubrirse con la túnica de Belloq"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Indiana y Marion mantienen los ojos cerrados y evitan el destino de quienes contemplan el poder del Arca.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "indiana_raiders_arca_ojos_cerrados",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_330",
+    "enunciado": "¿Por qué necesitan la sangre de Will Turner para levantar la maldición del Perla Negra?",
+    "opciones": [
+      "Porque fue el primero en encontrar el medallón",
+      "Porque es hijo de uno de los piratas que tomó el oro",
+      "Porque es el dueño legítimo del barco",
+      "Porque nunca ha robado un tesoro"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Will es hijo de Bill Turner; su sangre permite saldar la parte de la deuda que quedó pendiente.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "piratas_perla_negra_sangre_will",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_331",
+    "enunciado": "En Piratas del Caribe: El cofre de la muerte, ¿hacia qué apunta la brújula de Jack Sparrow?",
+    "opciones": [
+      "Hacia el barco pirata más cercano",
+      "Hacia el norte incluso bajo el agua",
+      "Hacia lo que más desea quien la sostiene",
+      "Hacia cualquier tesoro enterrado"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La brújula no señala el norte: su aguja sigue el deseo de quien la tiene, algo que Jack aprovecha con Elizabeth.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "piratas_brujula_deseo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_332",
+    "enunciado": "¿Qué usan Jack y Will para caminar bajo el agua sin ser vistos al escapar de Port Royal en La maldición del Perla Negra?",
+    "opciones": [
+      "Dos barriles cerrados",
+      "Una campana de buceo robada",
+      "Las velas enrolladas de un barco",
+      "Un bote dado vuelta con aire dentro"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En la escena, caminan por el fondo bajo un bote invertido que conserva una bolsa de aire.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "piratas_port_royal_bote_invertido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_333",
+    "enunciado": "¿Con qué máquina derrota Sarah Connor al Terminator al final de la película de 1984?",
+    "opciones": [
+      "Una prensa hidráulica",
+      "Una grúa de carga",
+      "Una trituradora de autos",
+      "Una cortadora de acero"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Sarah atrae al robot bajo la prensa de la fábrica y acciona el mecanismo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "terminator_1984_prensa_sarah",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_334",
+    "enunciado": "En Terminator 2, ¿qué restos del primer robot conservados en Cyberdyne buscan destruir para impedir la creación de Skynet?",
+    "opciones": [
+      "El cráneo y una batería",
+      "El brazo y el chip",
+      "Los ojos y el torso",
+      "Una pierna y su arma"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La investigación de Dyson parte de esos restos tecnológicos; los protagonistas los recuperan para destruirlos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "terminator_2_cyberdyne_brazo_chip",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_335",
+    "enunciado": "¿Qué último gesto hace el T-800 al despedirse de John y Sarah en Terminator 2?",
+    "opciones": [
+      "Hace un saludo militar",
+      "Levanta dos dedos en señal de victoria",
+      "Levanta el pulgar",
+      "Se lleva una mano al corazón"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Mientras Sarah lo baja al metal fundido, el T-800 levanta el pulgar para despedirse.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "terminator_2_despedida_pulgar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_336",
+    "enunciado": "En Matrix (1999), ¿qué pide Cypher a cambio de entregar a Morfeo a los agentes?",
+    "opciones": [
+      "Convertirse en capitán de la nave",
+      "Recibir los poderes del Elegido",
+      "Liberar a todos los humanos conectados",
+      "Volver a Matrix sin recordar la verdad y con una vida de lujo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Mientras come un bistec virtual, Cypher pide olvidar lo que sabe y regresar como alguien rico e importante.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "matrix_cypher_pacto_vida_lujo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_337",
+    "enunciado": "En Matrix (1999), ¿qué significa el déjà vu del gato negro que ve Neo?",
+    "opciones": [
+      "Que cambiaron algo dentro de Matrix",
+      "Que Neo puede ver el futuro",
+      "Que Morfeo está soñando",
+      "Que la Oráculo entró en el edificio"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Trinity explica que esa repetición delata un cambio en Matrix; enseguida descubren que están en una trampa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "matrix_deja_vu_gato_cambio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_338",
+    "enunciado": "¿Cómo consigue Trinity saber pilotear el helicóptero para rescatar a Morfeo en Matrix (1999)?",
+    "opciones": [
+      "Aprende mirando al piloto capturado",
+      "Tank le carga un programa de pilotaje",
+      "Neo controla el vehículo con la mente",
+      "Morfeo le da instrucciones por radio"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Trinity pide el programa a Tank y adquiere de inmediato las habilidades necesarias para volar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "matrix_trinity_programa_helicoptero",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_339",
+    "enunciado": "En Duro de matar (1988), ¿por qué Hans ordena disparar contra los vidrios para frenar a McClane?",
+    "opciones": [
+      "Porque quiere cortar la electricidad",
+      "Porque cree que las ventanas son blindadas",
+      "Porque sabe que McClane está descalzo",
+      "Porque necesita activar los aspersores"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Hans aprovecha que McClane no tiene zapatos y convierte el suelo en un obstáculo de vidrios rotos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "die_hard_vidrios_mclane_descalzo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_340",
+    "enunciado": "En Duro de matar (1988), ¿qué medida del FBI ayuda a Hans a abrir el último cierre de la bóveda?",
+    "opciones": [
+      "Desactivar la alarma de incendios",
+      "Evacuar a los guardias del vestíbulo",
+      "Apagar las radios de la policía",
+      "Cortar la electricidad del edificio"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El corte de energía desactiva el cierre electromagnético, tal como Hans había previsto.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "die_hard_fbi_electricidad_boveda",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_341",
+    "enunciado": "¿Dónde esconde McClane la pistola que usa al enfrentar a Hans con Holly de rehén en Duro de matar (1988)?",
+    "opciones": [
+      "Pegada con cinta a su espalda",
+      "Dentro del pantalón de Holly",
+      "En el conducto de ventilación sobre Hans",
+      "Dentro de una caja de bonos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "McClane lleva una pistola oculta con cinta en la espalda y la saca después de distraer a Hans.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "die_hard_pistola_cinta_espalda",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_342",
+    "enunciado": "¿Qué suelta McClane para que Hans deje de arrastrar a Holly hacia el vacío al final de Duro de matar (1988)?",
+    "opciones": [
+      "El cinturón de Hans",
+      "La correa del reloj de Holly",
+      "El cable de un ascensor",
+      "La cadena del collar de Holly"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Hans se sostiene del reloj de Holly; McClane abre la correa y libera a su esposa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "die_hard_holly_reloj_correa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_343",
+    "enunciado": "En Casablanca (1942), cuando Ilsa le pide a Sam que toque por los viejos tiempos, ¿qué canción quiere escuchar?",
+    "opciones": [
+      "As Time Goes By",
+      "Blue Moon",
+      "La vie en rose",
+      "Night and Day"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ilsa pide la canción que le recuerda su romance con Rick en París. Sam duda porque sabe que puede reabrir una herida.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "casablanca_sam_cancion_ilsa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_344",
+    "enunciado": "¿Qué les pasa a los aparatos de las piernas de Forrest cuando huye al grito de Jenny en Forrest Gump (1994)?",
+    "opciones": [
+      "Se traban y lo hacen caer",
+      "Se rompen mientras corre",
+      "Jenny se los quita antes de correr",
+      "Los usa para trepar a un árbol"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Forrest escapa de unos chicos que lo persiguen. Los aparatos se desprenden y descubre que puede correr mucho más rápido de lo esperado.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "forrest_gump_correr_aparatos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_345",
+    "enunciado": "Después de prometer que volverá en Terminator (1984), ¿cómo regresa el robot a la comisaría?",
+    "opciones": [
+      "Entra por un conducto del techo",
+      "Se disfraza de otro policía",
+      "Embiste la entrada con un auto",
+      "Se oculta en una ambulancia"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El robot observa la recepción, se marcha y vuelve atravesando la entrada con un auto. Su promesa de regresar se convierte en una amenaza.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "terminator_1984_volvere_comisaria",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_346",
+    "enunciado": "En Dirty Dancing (1987), tras protestar por dejar a Baby en un rincón, ¿qué hace Johnny?",
+    "opciones": [
+      "La acompaña a buscar su equipaje",
+      "Le pide que abandone el salón",
+      "La presenta como nueva instructora",
+      "La lleva al escenario para bailar"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Johnny regresa a la fiesta final y saca a Baby de la mesa familiar. Juntos protagonizan el baile que cierra la película.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dirty_dancing_baby_rincon_baile",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_347",
+    "enunciado": "En E.T. (1982), ¿qué objeto se convierte en parte de la antena del aparato con el que quiere llamar a casa?",
+    "opciones": [
+      "Un paraguas",
+      "Una raqueta de tenis",
+      "Un barrilete",
+      "Un ventilador"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "E.T. combina objetos domésticos y componentes electrónicos para construir su comunicador. El paraguas forma parte del dispositivo improvisado.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "et_comunicador_paraguas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_348",
+    "enunciado": "¿Qué busca Kreese al ordenarle a Johnny atacar la pierna de Daniel en la final de Karate Kid (1984)?",
+    "opciones": [
+      "Obligarlo a cambiar de entrenador",
+      "Aprovechar la lesión de Daniel",
+      "Lograr que pierda por salir del área",
+      "Hacer que el árbitro suspenda la final"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Daniel llega lesionado al combate. Kreese ordena atacar su punto vulnerable, dejando claro que para él ganar importa más que competir limpiamente.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "karate_kid_kreese_pierna_lesionada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_349",
+    "enunciado": "¿Qué creencia de Buzz intenta corregir Woody cuando insiste en que es un juguete en Toy Story (1995)?",
+    "opciones": [
+      "Que fue fabricado antes que Woody",
+      "Que Andy lo recibió prestado",
+      "Que es un guardián espacial real",
+      "Que todos los juguetes pueden volar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Buzz interpreta su historia de fabricante como una misión real. Woody intenta hacerle entender que es una figura de acción, como los otros juguetes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "toy_story_buzz_cree_guardian",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_350",
+    "enunciado": "¿Qué gesto acompaña el saludo de «Oh, capitán, mi capitán» a Keating al final de La sociedad de los poetas muertos?",
+    "opciones": [
+      "Los alumnos rompen sus cuadernos",
+      "Los alumnos salen juntos del colegio",
+      "Los alumnos se arrodillan junto a él",
+      "Los alumnos se suben a los pupitres"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Varios alumnos se ponen de pie sobre sus mesas pese a las órdenes del director. El gesto reconoce la huella que dejó Keating en ellos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "poetas_muertos_despedida_pupitres",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_351",
+    "enunciado": "Cuando Dory canta sobre seguir nadando en Buscando a Nemo (2003), ¿qué objeto acaba de caer a una zona profunda?",
+    "opciones": [
+      "La máscara del buzo",
+      "La cámara del buzo",
+      "La bolsa donde llevaban a Nemo",
+      "La brújula de un barco"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La máscara contiene la dirección que puede conducirlos hasta Nemo. Dory anima a Marlín a bajar a buscarla en vez de rendirse.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nemo_dory_cancion_mascara",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_352",
+    "enunciado": "¿Qué acaba de conseguir Rocky cuando dedica su grito de triunfo a Adrian al final de Rocky II (1979)?",
+    "opciones": [
+      "Una medalla de oro olímpica",
+      "El título mundial de peso pesado",
+      "Un contrato para entrenar a Apollo",
+      "El primer empate de su carrera"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Rocky se levanta antes de que termine la cuenta y Apollo no lo logra. El nuevo campeón dedica a Adrian su victoria.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rocky_ii_titulo_dedicatoria_adrian",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_353",
+    "enunciado": "¿Qué color preciso usa Miranda para explicar el origen del suéter de Andy en El diablo viste a la moda (2006)?",
+    "opciones": [
+      "Azul turquesa",
+      "Azul marino",
+      "Azul cerúleo",
+      "Azul lapislázuli"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Miranda explica cómo una tendencia de los diseñadores llega hasta la ropa económica. El suéter demuestra que Andy tampoco está fuera de la industria.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "prada_sueter_azul_ceruleo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_354",
+    "enunciado": "En El diablo viste a la moda (2006), ¿qué oportunidad recibe Andy a costa del plan más esperado de Emily?",
+    "opciones": [
+      "Dirigir la edición británica",
+      "Entrevistar a un actor de Hollywood",
+      "Diseñar la portada de diciembre",
+      "Viajar a París con Miranda"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Miranda decide llevar a Andy a los eventos de moda de París. Emily había trabajado y esperado ese viaje durante meses.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "prada_andy_emily_viaje_paris",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_355",
+    "enunciado": "¿Por qué Miranda entrega a Jacqueline el puesto prometido a Nigel en El diablo viste a la moda (2006)?",
+    "opciones": [
+      "Para impedir que Jacqueline la reemplace",
+      "Para premiar una idea de Nigel",
+      "Para que Andy consiga un ascenso",
+      "Para cancelar la expansión de James Holt"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Al ofrecerle a Jacqueline otro puesto atractivo, Miranda evita que la sustituyan en Runway. Nigel paga el costo de esa maniobra.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "prada_nigel_jacqueline_promocion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_356",
+    "enunciado": "¿Qué ópera ve Vivian con Edward y la emociona hasta las lágrimas en Pretty Woman (1990)?",
+    "opciones": [
+      "Carmen",
+      "La traviata",
+      "La bohème",
+      "Madama Butterfly"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Vivian se conmueve con la historia de La traviata. La salida permite que Edward descubra su sensibilidad más allá de las apariencias.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pretty_woman_opera_traviata",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_357",
+    "enunciado": "¿Qué hace Vivian al volver a la tienda que la había rechazado en Pretty Woman (1990)?",
+    "opciones": [
+      "Les exige que despidan a la gerente",
+      "Les ofrece trabajar como vendedora",
+      "Les muestra las compras hechas en otras tiendas",
+      "Les devuelve un vestido defectuoso"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Regresa con bolsas de compras y les señala la venta que perdieron al tratarla mal. La escena invierte el desprecio del primer encuentro.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pretty_woman_tienda_regreso_compras",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_358",
+    "enunciado": "¿Qué miedo debe vencer Edward para subir a buscar a Vivian al final de Pretty Woman (1990)?",
+    "opciones": [
+      "El miedo a los perros",
+      "El miedo a los ascensores",
+      "El miedo a los espacios cerrados",
+      "El miedo a las alturas"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Edward sube por la escalera de incendios pese a su vértigo. El gesto transforma la fantasía del rescate en una decisión de comprometerse.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pretty_woman_escalera_vertigo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_359",
+    "enunciado": "En Notting Hill (1999), ¿en qué se especializa la librería de William donde conoce a Anna?",
+    "opciones": [
+      "Libros de viajes",
+      "Libros de cocina",
+      "Novelas policiales",
+      "Biografías de actores"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "William vende libros de viajes. La visita de una estrella de cine a su pequeño negocio pone en marcha una relación entre mundos muy distintos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "notting_hill_libreria_viajes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_360",
+    "enunciado": "¿Qué animal toca un violín en el cuadro de Chagall que comentan Anna y William en Notting Hill (1999)?",
+    "opciones": [
+      "Un caballo",
+      "Una cabra",
+      "Un perro",
+      "Un ciervo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La cabra violinista forma parte de la imagen romántica que admiran. Anna y William bromean sobre ese detalle mientras hablan del amor.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "notting_hill_chagall_cabra",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_361",
+    "enunciado": "¿Qué cambia en la respuesta de Anna sobre su estadía en Reino Unido tras reconciliarse con William en Notting Hill (1999)?",
+    "opciones": [
+      "Dice que viajará esa misma noche",
+      "Dice que solo volverá para un estreno",
+      "Dice que se quedará indefinidamente",
+      "Dice que se mudará con él a París"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En la conferencia de prensa, Anna vuelve a responder cuánto piensa quedarse. Su nueva respuesta confirma que quiere darle una oportunidad a William.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "notting_hill_conferencia_indefinidamente",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_362",
+    "enunciado": "¿Dónde canta Patrick para conquistar a Kat con una serenata en 10 cosas que odio de ti (1999)?",
+    "opciones": [
+      "En el escenario del baile de graduación",
+      "En la cafetería durante el almuerzo",
+      "En la puerta de su casa",
+      "En las gradas del campo deportivo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Patrick usa el sonido del campo deportivo y canta mientras Kat entrena fútbol. El número termina con los guardias persiguiéndolo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "diez_cosas_serenata_gradas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_363",
+    "enunciado": "¿Qué descubre Grace sobre ella y sus hijos al final de Los otros (2001)?",
+    "opciones": [
+      "Que ellos son los fantasmas",
+      "Que viven dentro de una película",
+      "Que los sirvientes son sus parientes",
+      "Que la casa se mueve entre épocas"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los supuestos intrusos son personas vivas. La revelación invierte la historia: Grace y sus hijos son quienes habitan la casa como fantasmas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "los_otros_grace_hijos_fantasmas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_364",
+    "enunciado": "¿Qué descubre el narrador sobre Tyler Durden en El club de la pelea (1999)?",
+    "opciones": [
+      "Que Tyler es su hermano gemelo",
+      "Que Tyler es otra identidad de él mismo",
+      "Que Tyler trabaja para la policía",
+      "Que Tyler es un actor contratado"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El narrador descubre que los actos atribuidos a Tyler fueron realizados por él. La película había mostrado su percepción como si fueran dos personas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "fight_club_tyler_identidad_revelacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_365",
+    "enunciado": "¿Qué secreto permite a Borden realizar su truco de transporte en El gran truco (The Prestige, 2006)?",
+    "opciones": [
+      "Un espejo proyecta su imagen",
+      "Un túnel conecta ambos extremos",
+      "Dos gemelos comparten una identidad",
+      "Tesla lo vuelve invisible"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los hermanos alternan los papeles de Borden y Fallon. Su vida entera sostiene la ilusión de que el mago es una sola persona.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "prestige_borden_fallon_gemelos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_366",
+    "enunciado": "¿Qué monumento encuentra Taylor y reconoce al final de El planeta de los simios (1968)?",
+    "opciones": [
+      "La Torre Eiffel",
+      "El Coliseo",
+      "El Big Ben",
+      "La Estatua de la Libertad"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Las ruinas de la estatua le revelan que no llegó a otro planeta: está en la Tierra, en un futuro muy lejano.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "planeta_simios_1968_estatua_final",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_367",
+    "enunciado": "¿Contra qué choca el velero de Truman cuando alcanza el límite de su mundo en The Truman Show (1998)?",
+    "opciones": [
+      "Una pared pintada como el cielo",
+      "Un iceberg artificial",
+      "Un submarino de seguridad",
+      "Una compuerta sumergida"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El choque expone el borde del gigantesco estudio. Truman encuentra una escalera y una puerta de salida en el cielo falso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "truman_show_velero_pared_cielo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_368",
+    "enunciado": "¿Quién resulta ser el verdadero tatarabuelo de Miguel en Coco (2017)?",
+    "opciones": [
+      "Ernesto de la Cruz",
+      "Héctor",
+      "Chicharrón",
+      "Papá Julio"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Héctor es el padre de Mamá Coco y el antepasado músico de Miguel. La revelación corrige la suposición que Miguel había hecho sobre Ernesto.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "coco_hector_tatarabuelo_revelacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_369",
+    "enunciado": "¿Qué son en realidad las escenas de Louise con su hija que parecen recuerdos en La llegada (2016)?",
+    "opciones": [
+      "Recuerdos implantados de otra mujer",
+      "Sueños enviados por su hija",
+      "Momentos de su futuro",
+      "Escenas de una vida paralela"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Al aprender la lengua de los visitantes, Louise percibe el tiempo de otra forma. Las imágenes de su hija anticipan una vida que aún no ha ocurrido.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "arrival_louise_hija_futuro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_370",
+    "enunciado": "¿Qué evita mostrar el corte a negro del final de El origen (Inception, 2010)?",
+    "opciones": [
+      "Si Cobb reconoce a sus hijos",
+      "Si el avión aterriza",
+      "Si Mal regresa a la casa",
+      "Si el trompo termina cayéndose"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La película corta mientras el trompo sigue girando. No confirma con ese plano si cae: convertir esa incertidumbre en una certeza cambia el final.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "inception_trompo_corte_ambiguo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_371",
+    "enunciado": "¿Qué descubre Blanc sobre la medicación que Marta le dio a Harlan en Entre navajas y secretos (Knives Out, 2019)?",
+    "opciones": [
+      "Que le dio los medicamentos correctos",
+      "Que duplicó la dosis por error",
+      "Que olvidó darle ambos medicamentos",
+      "Que usó frascos vacíos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Aunque Ransom alteró el contenido de los frascos, Marta identificó los medicamentos por experiencia. Su supuesto error no había ocurrido.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "knives_out_marta_medicacion_correcta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_372",
+    "enunciado": "¿Qué personaje aparentemente inofensivo está detrás del plan para enfrentar a presas y depredadores en Zootopia (2016)?",
+    "opciones": [
+      "El zorro Nick Wilde",
+      "La oveja Bellwether",
+      "La gacela Gazelle",
+      "La musaraña Mr. Big"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bellwether provoca los ataques para sembrar miedo y ganar poder. Judy y Nick descubren que el comportamiento no era un instinto natural.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zootopia_bellwether_plan",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_373",
+    "enunciado": "En Harry Potter y la piedra filosofal, ¿por qué Ron permite que una pieza rival lo ataque en el ajedrez gigante?",
+    "opciones": [
+      "Para que Harry pueda dar jaque mate",
+      "Para distraer al perro de tres cabezas",
+      "Para romper el tablero encantado",
+      "Para recuperar su varita perdida"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ron entiende que su sacrificio permite ganar la partida. Acepta el golpe para que sus amigos puedan superar el tablero y seguir hacia la piedra.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_ron_ajedrez_sacrificio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_374",
+    "enunciado": "En Harry Potter y el prisionero de Azkaban, ¿qué debe hacer Harry antes de acercarse a Buckbeak?",
+    "opciones": [
+      "Ofrecerle una pluma de fénix",
+      "Inclinarse y esperar que él también lo haga",
+      "Taparle los ojos con una tela",
+      "Pronunciar un hechizo de levitación"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Hagrid explica que los hipogrifos exigen respeto. Harry hace una reverencia y espera la respuesta de Buckbeak antes de tocarlo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_buckbeak_reverencia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_375",
+    "enunciado": "En Harry Potter y la piedra filosofal, ¿por qué Harry puede obtener la piedra del espejo y Quirrell no?",
+    "opciones": [
+      "Lleva puesta la capa de invisibilidad",
+      "Es el único que conoce su nombre",
+      "Quiere encontrarla, pero no utilizarla",
+      "El espejo solo obedece a Gryffindor"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Dumbledore protege la piedra para que solo la obtenga quien quiera encontrarla sin usarla. Harry cumple esa condición; Quirrell quiere entregarla a Voldemort.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_espejo_piedra_deseo_sin_usarla",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_376",
+    "enunciado": "En Harry Potter y la cámara secreta, ¿qué cura la herida envenenada de Harry tras enfrentarse al basilisco?",
+    "opciones": [
+      "Una poción que lleva Ron",
+      "El agua de la cámara",
+      "Un hechizo de Tom Riddle",
+      "Las lágrimas de Fawkes"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El fénix llora sobre la herida de Harry y lo salva del veneno. Sus lágrimas tienen propiedades curativas dentro del mundo mágico.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_fawkes_lagrimas_herida",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_377",
+    "enunciado": "En Harry Potter y la cámara secreta, ¿qué usa Harry para destruir el diario que controla a Ginny?",
+    "opciones": [
+      "Un colmillo de basilisco",
+      "La varita rota de Ron",
+      "Una pluma de Fawkes",
+      "Una mandrágora recién cortada"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Harry atraviesa el diario con el colmillo. El veneno destruye el objeto y acaba con la presencia de Tom Riddle que mantenía atrapada a Ginny.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_diario_riddle_colmillo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_378",
+    "enunciado": "En Harry Potter y el prisionero de Azkaban, ¿quién lanza realmente el Patronus que salva a Harry y Sirius junto al lago?",
+    "opciones": [
+      "James Potter desde el más allá",
+      "Harry después de viajar al pasado",
+      "Lupin desde la otra orilla",
+      "Dumbledore oculto entre los árboles"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Harry cree haber visto a su padre. Al regresar al mismo momento con el giratiempo, comprende que fue él mismo y lanza el hechizo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_patronus_lago_harry_futuro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_379",
+    "enunciado": "En Harry Potter y el cáliz de fuego, ¿por qué Harry y Cedric aparecen en un cementerio al tocar la copa del torneo?",
+    "opciones": [
+      "El laberinto está construido allí",
+      "Ambos usan un hechizo sin querer",
+      "La copa fue convertida en un traslador",
+      "El cáliz concede el deseo del ganador"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La copa ha sido alterada para transportar a quien la toque a una trampa. Compartir el triunfo lleva a Harry y Cedric al mismo destino.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_copa_trimagos_traslador_cementerio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_380",
+    "enunciado": "En Harry Potter y la Orden del Fénix, ¿quiénes se llevan a Umbridge tras seguir a Hermione al Bosque Prohibido?",
+    "opciones": [
+      "Los elfos domésticos",
+      "Los dementores",
+      "Los profesores de Hogwarts",
+      "Los centauros"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Hermione atrae a Umbridge al bosque con una historia sobre un arma secreta. La profesora insulta y ataca a los centauros, que terminan llevándosela.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_umbridge_bosque_centauros",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_381",
+    "enunciado": "En Harry Potter y el misterio del príncipe, ¿qué encuentra Harry para salvar a Ron tras beber en el despacho de Slughorn?",
+    "opciones": [
+      "Un bezoar",
+      "Una raíz de mandrágora",
+      "Una dosis de Felix Felicis",
+      "Una piedra de la resurrección"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ron toma una bebida envenenada y Harry reacciona buscando un bezoar. Ese recurso mágico le salva la vida mientras Slughorn está desconcertado.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_ron_veneno_bezoar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_382",
+    "enunciado": "En Las reliquias de la muerte: parte 2, ¿qué hizo Harry para ganar la lealtad de la Varita de Saúco antes del duelo final?",
+    "opciones": [
+      "Tomó la varita de la tumba de Dumbledore",
+      "Le quitó su varita a Draco",
+      "Venció a Snape en un duelo",
+      "Destruyó el último horrocrux"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Draco había desarmado a Dumbledore y ganado la lealtad de la Varita de Saúco. Al vencer a Draco, Harry hereda esa lealtad aunque no tenga la varita consigo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hp_varita_sauco_draco_harry_lealtad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_383",
+    "enunciado": "Al final de La comunidad del anillo (2001), ¿a qué dos hobbits intenta proteger Boromir durante el ataque de los orcos?",
+    "opciones": [
+      "Frodo y Sam",
+      "Bilbo y Frodo",
+      "Merry y Pippin",
+      "Sam y Pippin"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Después de intentar tomar el Anillo, Boromir se enfrenta a los atacantes para defender a Merry y Pippin. Esa decisión marca su último acto de valentía.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_boromir_defiende_merry_pippin",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_384",
+    "enunciado": "En El retorno del rey (2003), ¿qué hace Sam cuando Frodo ya no puede seguir subiendo al Monte del Destino?",
+    "opciones": [
+      "Toma el Anillo y lo deja atrás",
+      "Llama a Gandalf con una señal",
+      "Construye un trineo con su capa",
+      "Carga a Frodo sobre su espalda"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Sam no puede quitarle a Frodo la carga del Anillo, pero sí ayudarlo a avanzar. Lo levanta y lo lleva por la pendiente.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_sam_carga_frodo_montana",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_385",
+    "enunciado": "En La comunidad del anillo (2001), ¿qué resuelve el acertijo de la puerta de Moria?",
+    "opciones": [
+      "Decir «amigo» en élfico",
+      "Nombrar al rey que construyó la puerta",
+      "Prometer que no llevarán armas",
+      "Responder con el nombre de Gandalf"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Frodo comprende que la inscripción pide una palabra concreta, no una declaración de amistad. Gandalf dice la palabra élfica y la puerta se abre.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_moria_puerta_amigo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_386",
+    "enunciado": "En El retorno del rey (2003), ¿cómo hace Gollum que Frodo crea que Sam se comió sus provisiones?",
+    "opciones": [
+      "Lo hipnotiza mientras duerme",
+      "Le deja migas de pan en la ropa",
+      "Esconde comida dentro de su mochila",
+      "Imita su voz detrás de una roca"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Gollum tira el pan y coloca migas sobre Sam para fabricar una prueba. Frodo, agotado y desconfiado, termina enviando a su amigo de regreso.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_gollum_migas_inculpa_sam",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_387",
+    "enunciado": "En El retorno del rey (2003), ¿qué revela Éowyn cuando el Rey Brujo asegura que ningún hombre puede vencerlo?",
+    "opciones": [
+      "Confiesa que es una elfa",
+      "Muestra que tiene el Anillo",
+      "Se quita el casco y muestra que es mujer",
+      "Revela que ya murió en otra batalla"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Éowyn se había ocultado bajo una armadura para participar en la batalla. Con ayuda de Merry, enfrenta al Rey Brujo y revela quién es.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_eowyn_casco_rey_brujo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_388",
+    "enunciado": "En El retorno del rey (2003), ¿qué señal inicia Pippin para pedir ayuda a Rohan pese a la negativa de Denethor?",
+    "opciones": [
+      "Hace sonar el cuerno de Boromir",
+      "Envía un águila con una carta",
+      "Levanta la bandera de Aragorn",
+      "Enciende una almenara de Gondor"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Pippin prende el fuego por indicación de Gandalf. Las almenaras transmiten la petición de auxilio de montaña en montaña hasta Rohan.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_pippin_almenaras_rohan",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_389",
+    "enunciado": "En El retorno del rey (2003), ¿qué hace Aragorn con el Ejército de los Muertos tras la victoria en Minas Tirith?",
+    "opciones": [
+      "Los libera de su juramento",
+      "Les ordena marchar hacia Mordor",
+      "Los convierte en guardias de Gondor",
+      "Les entrega la fortaleza de Isengard"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Aunque Gimli propone conservar esa ventaja militar, Aragorn cumple su promesa. Declara saldada la deuda y los muertos desaparecen.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_aragorn_libera_muertos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_390",
+    "enunciado": "En El retorno del rey (2003), ¿cómo acaba el Anillo en el fuego después de que Frodo se niega a destruirlo?",
+    "opciones": [
+      "Sam se lo quita y lo arroja",
+      "Gollum cae con él mientras lucha con Frodo",
+      "Gandalf lo atrae con su bastón",
+      "Un águila lo arranca de la mano de Frodo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Gollum recupera el Anillo y Frodo intenta quitárselo. La lucha junto al borde termina con Gollum y el Anillo cayendo al fuego.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_anillo_destruccion_caida_gollum",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_391",
+    "enunciado": "En Las dos torres (2002), ¿qué hacen los ents para inundar las instalaciones de Saruman en Isengard?",
+    "opciones": [
+      "Desvían la lluvia con magia",
+      "Abren túneles hasta el mar",
+      "Rompen la represa",
+      "Derriban la torre sobre el río"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los ents destruyen la barrera que retiene el agua. La corriente invade las fosas y arrasa las instalaciones industriales de Saruman.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_ents_represa_inundacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_392",
+    "enunciado": "En El retorno del rey (2003), ¿qué ciudad identifica Gandalf al oír la visión de Pippin de un árbol blanco en llamas?",
+    "opciones": [
+      "Edoras",
+      "Rivendel",
+      "Minas Morgul",
+      "Minas Tirith"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Pippin ve fuego, un patio de piedra y un árbol blanco al mirar el palantír. Gandalf identifica Minas Tirith y comprende el peligro que amenaza a Gondor.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lotr_pippin_palantir_arbol_blanco",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_393",
+    "enunciado": "En Una nueva esperanza (1977), ¿qué decide hacer Luke justo antes del disparo decisivo contra la Estrella de la Muerte?",
+    "opciones": [
+      "Apaga la computadora de puntería",
+      "Cambia de nave con otro piloto",
+      "Lanza todas sus armas a la vez",
+      "Pide que R2-D2 dispare por él"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Luke escucha a Obi-Wan y confía en la Fuerza en lugar de la computadora. Su disparo alcanza el conducto que permite destruir la estación.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_luke_apaga_computadora_punteria",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_394",
+    "enunciado": "En Una nueva esperanza (1977), ¿qué guarda Leia en la memoria de R2-D2 antes de que el Imperio la capture?",
+    "opciones": [
+      "La ubicación secreta de Yoda",
+      "Los planos de la Estrella de la Muerte",
+      "El código para desactivar a Vader",
+      "Los registros del ejército clon"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Leia confía los planos y un mensaje al droide. La información permite a los rebeldes encontrar un punto débil de la estación imperial.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_leia_planos_r2",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_395",
+    "enunciado": "En El Imperio contraataca (1980), ¿dónde refugia Han a Luke para mantenerlo caliente mientras prepara un abrigo en Hoth?",
+    "opciones": [
+      "En la cabina de un caza imperial",
+      "Bajo un generador de escudos",
+      "Dentro del cuerpo de su tauntaun",
+      "En la cueva donde vive Yoda"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Han encuentra a Luke expuesto al frío y aprovecha el calor del tauntaun muerto. Es una solución urgente mientras prepara un refugio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_han_luke_refugio_tauntaun",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_396",
+    "enunciado": "En El Imperio contraataca (1980), ¿qué permite al Halcón Milenario escapar tras rescatar a Luke de Ciudad Nube?",
+    "opciones": [
+      "Lando cambia los motores de la nave",
+      "Leia usa la Fuerza para acelerar",
+      "Chewbacca roba combustible imperial",
+      "R2-D2 reactiva el hiperimpulsor"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El Imperio había desactivado el hiperimpulsor para impedir la huida. R2-D2 descubre el sabotaje y lo revierte antes de la captura.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_r2_hiperimpulsor_escape_ciudad_nube",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_397",
+    "enunciado": "En El retorno del Jedi (1983), ¿qué hace Luke cuando el Emperador le exige acabar con Vader después de derrotarlo?",
+    "opciones": [
+      "Arroja su sable y se niega",
+      "Se pone la máscara de Vader",
+      "Acepta dirigir la flota imperial",
+      "Entrega a Leia como prisionera"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Luke ve que la ira lo acerca al camino de su padre. Renuncia a seguir atacando y rechaza convertirse en el nuevo aprendiz del Emperador.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_luke_rechaza_emperador_sable",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_398",
+    "enunciado": "En La amenaza fantasma (1999), ¿qué provoca que el ejército de droides deje de funcionar durante la batalla de Naboo?",
+    "opciones": [
+      "Jar Jar apaga el escudo de los gungan",
+      "Anakin destruye la nave que los controla",
+      "Padmé desactiva todos los droides a distancia",
+      "Obi-Wan corta las comunicaciones de Maul"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Anakin alcanza el interior de la nave de control y destruye su reactor. Al perder el enlace, los droides de la superficie quedan inactivos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_anakin_nave_control_droides",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_399",
+    "enunciado": "En El ataque de los clones (2002), ¿qué pista indica que Kamino existe aunque no aparezca en los archivos Jedi?",
+    "opciones": [
+      "Una señal de radio de Jango Fett",
+      "El reflejo de una segunda luna",
+      "La atracción gravitatoria en esa zona",
+      "Un mensaje oculto en el sable de Yoda"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El mapa no muestra el planeta, pero los cuerpos cercanos son atraídos hacia su posición. El indicio permite deducir que alguien borró el registro.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_kamino_gravedad_archivos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_400",
+    "enunciado": "En El retorno del Jedi (1983), ¿cómo recupera Luke su sable cuando está por ser arrojado al pozo del sarlacc?",
+    "opciones": [
+      "Leia se lo pasa escondido en una cuerda",
+      "Lo tenía sujeto debajo de la ropa",
+      "Han se lo arroja desde la otra plataforma",
+      "R2-D2 se lo lanza desde la barcaza"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El sable estaba oculto dentro de R2-D2 como parte del plan de rescate. El droide lo dispara hacia Luke justo cuando empieza el contraataque.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_r2_lanza_sable_sarlacc",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_401",
+    "enunciado": "En El ataque de los clones (2002), ¿qué Jedi nombran los kaminoanos como quien encargó el ejército clon?",
+    "opciones": [
+      "Sifo-Dyas",
+      "Qui-Gon Jinn",
+      "Mace Windu",
+      "Obi-Wan Kenobi"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Lama Su atribuye el encargo a Sifo-Dyas. Obi-Wan se sorprende porque ese Jedi había muerto y el Consejo no había autorizado la creación del ejército.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_kamino_encargo_sifo_dyas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_402",
+    "enunciado": "En La amenaza fantasma (1999), ¿de quién es el sable que usa Obi-Wan al salir del pozo para vencer a Darth Maul?",
+    "opciones": [
+      "De Anakin Skywalker",
+      "De Qui-Gon Jinn",
+      "De Mace Windu",
+      "Del propio Darth Maul"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Obi-Wan ha perdido su sable en el pozo. Salta por encima de Maul y atrae con la Fuerza el arma de su maestro para completar el combate.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "sw_obi_wan_sable_quigon_maul",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_403",
+    "enunciado": "En Como si fuera la primera vez (2004), ¿por qué Henry debe volver a conquistar a Lucy cada día?",
+    "opciones": [
+      "Ella no conserva los recuerdos nuevos al despertar",
+      "Ella cree que Henry es su hermano gemelo",
+      "Él trabaja usando una identidad distinta cada día",
+      "Ella finge no reconocerlo para ponerlo a prueba"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En la ficción, Lucy pierde al dormir los recuerdos del día anterior a causa de un accidente. Henry busca maneras de mantener su vínculo sin que ella recuerde sus citas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "50_first_dates_lucy_memoria_conquista_diaria",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_404",
+    "enunciado": "En Mientras dormías (1995), ¿por quién toma la familia de Peter a Lucy cuando ella lo visita en el hospital?",
+    "opciones": [
+      "Por la médica que lo atendió",
+      "Por la prometida de Peter",
+      "Por una prima que vive en otro país",
+      "Por una compañera de trabajo de su hermano"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Lucy rescata a Peter, que queda en coma. Un comentario malinterpretado hace que su familia crea que están comprometidos y la reciba como una integrante más.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mientras_dormias_lucy_prometida_confusion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_405",
+    "enunciado": "En Tienes un e-mail (1998), ¿qué relación tienen Joe y Kathleen fuera de su correspondencia anónima?",
+    "opciones": [
+      "Son socios de una agencia de viajes",
+      "Son abogados que llevan el mismo juicio",
+      "Son competidores en el negocio de las librerías",
+      "Son vecinos que disputan una herencia"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Kathleen tiene una pequeña librería y Joe pertenece a una cadena que amenaza su negocio. Se enamoran por correo sin conocer inicialmente la identidad del otro.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tienes_email_librerias_rivales",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_406",
+    "enunciado": "En La propuesta (2009), ¿por qué Margaret anuncia que se casará con su asistente Andrew?",
+    "opciones": [
+      "Para conseguir un ascenso en otra editorial",
+      "Para cobrar la herencia de su abuela",
+      "Para impedir que Andrew se mude a Europa",
+      "Para evitar que la deporten a Canadá"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Margaret enfrenta un problema migratorio y anuncia un compromiso ficticio con Andrew. La visita a la familia de él transforma ese acuerdo en una relación real.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "la_propuesta_margaret_deportacion_compromiso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_407",
+    "enunciado": "En Cómo perder a un hombre en 10 días (2003), ¿qué objetivos opuestos tienen Andie y Ben al empezar a salir?",
+    "opciones": [
+      "Ella quiere que él la deje y él quiere enamorarla",
+      "Ella quiere casarse y él quiere mudarse al extranjero",
+      "Ella busca un trabajo y él intenta despedirla",
+      "Ella quiere conocer a su familia y él busca ocultarla"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Andie prepara un artículo sobre cómo arruinar una relación. Ben apuesta que puede hacer que una mujer se enamore de él en diez días, sin saber qué planea ella.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "como_perder_hombre_10_dias_objetivos_opuestos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_408",
+    "enunciado": "En La mejor de mis bodas (1998), ¿qué músico ayuda a Robbie a declararse a Julia durante un vuelo?",
+    "opciones": [
+      "David Bowie",
+      "Billy Idol",
+      "Jon Bon Jovi",
+      "Rod Stewart"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Robbie cuenta su historia en el avión y descubre que Julia viaja allí con Glenn. Billy Idol y la tripulación lo ayudan a dedicarle una canción por el sistema de sonido.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "wedding_singer_billy_idol_avion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_409",
+    "enunciado": "En 10 cosas que odio de ti (1999), ¿en qué convierte Patrick el dinero que recibió por salir con Kat?",
+    "opciones": [
+      "En un viaje para que ella visite a su madre",
+      "En un vestido para el baile de graduación",
+      "En una guitarra que le regala a ella",
+      "En una motocicleta para llevarla a clase"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Patrick usa el dinero de Joey para comprar la guitarra que Kat quería. El regalo aparece después de que ella descubre el engaño y expresa sus sentimientos en un poema.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "10_cosas_patrick_dinero_guitarra_kat",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_410",
+    "enunciado": "En El diario de Bridget Jones (2001), ¿qué dibujo lleva el suéter de Mark Darcy cuando lo presentan en la reunión familiar?",
+    "opciones": [
+      "Un muñeco de nieve",
+      "Un oso polar",
+      "Un árbol de Navidad",
+      "Un reno"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Mark lleva un llamativo suéter con un reno, regalo de su madre. La prenda forma parte de la incómoda primera impresión que Bridget se lleva de él.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bridget_jones_darcy_sueter_reno",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_411",
+    "enunciado": "En El descanso (The Holiday, 2006), ¿qué acuerdo permite a Amanda e Iris alejarse de sus problemas amorosos?",
+    "opciones": [
+      "Intercambiar sus casas durante las vacaciones",
+      "Trabajar juntas en un crucero",
+      "Alquilar habitaciones del mismo hotel",
+      "Hacerse pasar por hermanas en un viaje"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Se conocen mediante un sitio de intercambio de casas. Iris viaja a Los Ángeles y Amanda se instala en la casa de Iris en la campiña inglesa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "the_holiday_amanda_iris_intercambio_casas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_412",
+    "enunciado": "En Realmente amor (Love Actually, 2003), ¿qué excusa pide Mark que Juliet le dé a su esposo durante la escena de los carteles?",
+    "opciones": [
+      "Que un vecino viene a pedir azúcar",
+      "Que hay personas cantando villancicos en la puerta",
+      "Que llegó un paquete para ella",
+      "Que un amigo necesita usar el teléfono"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Mark reproduce villancicos y usa carteles para hablarle sin que Peter escuche su declaración. El primer mensaje le pide a Juliet que diga que llegaron cantantes navideños.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "love_actually_mark_carteles_excusa_villancicos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_413",
+    "enunciado": "En Bean (1997), ¿qué ocurre cuando intenta limpiar con disolvente el rostro de La madre de Whistler?",
+    "opciones": [
+      "Descubre una firma oculta debajo de la pintura",
+      "Despega la pintura de su marco sin dañarla",
+      "Borra la cara pintada y trata de dibujar otra",
+      "Convierte el vestido negro de la mujer en rojo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Después de estornudar y manchar el cuadro con su pañuelo, Bean empeora el daño con disolvente. Su intento de dibujar un nuevo rostro convierte el accidente en un desastre.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bean_whistler_disolvente_rostro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_414",
+    "enunciado": "En Todopoderoso (2003), ¿cómo sabotea Bruce a Evan Baxter durante un noticiero en vivo?",
+    "opciones": [
+      "Cambia todas las noticias por resultados deportivos",
+      "Hace que el estudio quede completamente a oscuras",
+      "Convierte el escritorio en una piscina",
+      "Lo hace hablar con sonidos y palabras incoherentes"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Bruce usa sus poderes para controlar la voz y los gestos de su rival. Evan intenta continuar el noticiero, pero termina balbuceando frente a las cámaras.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "todopoderoso_bruce_evan_noticiero_galimatias",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_415",
+    "enunciado": "En Papá por siempre (1993), ¿qué pieza del disfraz de Daniel cae en su copa durante la cena en el restaurante?",
+    "opciones": [
+      "La dentadura postiza",
+      "La peluca",
+      "Una ceja falsa",
+      "Uno de sus lentes"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La dentadura cae en el vino mientras Daniel actúa como la señora Doubtfire. Intenta recuperarla sin abandonar el personaje, sumando otra complicación a la cena.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "doubtfire_dentadura_copa_restaurante",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_416",
+    "enunciado": "En La familia de mi novia (2000), ¿a quién culpa Greg cuando Jack le pregunta por el inodoro que quedó corriendo?",
+    "opciones": [
+      "Al jardinero",
+      "Al gato Jinx",
+      "Al novio de Debbie",
+      "Al repartidor"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Greg intenta culpar al gato por haber accionado el inodoro defectuoso. Jack rechaza la explicación: Jinx sabe usarlo, pero no tirar de la cadena.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "meet_parents_greg_jinx_inodoro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_417",
+    "enunciado": "En Una noche en el museo (2006), ¿qué le pide repetidamente la enorme cabeza de piedra a Larry?",
+    "opciones": [
+      "Chocolate",
+      "Palomitas de maíz",
+      "Chicle",
+      "Una hamburguesa"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La cabeza de la Isla de Pascua llama la atención de Larry y le exige chicle. Su manera de pedirlo se convierte en uno de los gags recurrentes del museo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "noche_museo_cabeza_piedra_chicle",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_418",
+    "enunciado": "En ¿Qué pasó ayer? (2009), ¿dónde encuentran finalmente a Doug después de buscarlo por Las Vegas?",
+    "opciones": [
+      "En un ascensor detenido",
+      "En el camarín de un casino",
+      "En el estacionamiento del aeropuerto",
+      "En la azotea del hotel"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los amigos lo habían llevado a la azotea sobre su colchón como una broma y luego lo olvidaron. El colchón que Doug arrojó para pedir ayuda les da la pista final.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "hangover_doug_azotea_colchon",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_419",
+    "enunciado": "En ¿Y dónde está el piloto? (1980), ¿qué aspecto tiene Otto, el piloto automático del avión?",
+    "opciones": [
+      "Un muñeco inflable con uniforme de piloto",
+      "Un robot de metal con ruedas",
+      "Un televisor que muestra a un piloto remoto",
+      "Un maniquí de madera con anteojos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La película toma literalmente la idea de un piloto automático. Otto es un muñeco inflable sentado en los controles, que incluso puede desinflarse.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "airplane_otto_piloto_automatico_inflable",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_420",
+    "enunciado": "En La Máscara (1994), ¿qué le ocurre a Milo cuando se pone la máscara durante el enfrentamiento en el club?",
+    "opciones": [
+      "Pierde la voz y queda inmóvil",
+      "Se transforma y pelea contra los secuaces de Dorian",
+      "Se convierte en una copia de Stanley",
+      "Se queda dormido hasta el amanecer"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La máscara también funciona sobre Milo: el perro adquiere un aspecto verde y poderes caricaturescos. Su intervención ayuda a Stanley en la pelea final.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "mascara_milo_transformacion_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_421",
+    "enunciado": "En Zoolander (2001), ¿por qué Derek y Hansel intentan romper la computadora de Maury?",
+    "opciones": [
+      "Buscan apagar una alarma instalada en el monitor",
+      "Quieren evitar que Mugatu escuche sus voces",
+      "Creen que los archivos están físicamente dentro",
+      "Piensan que la computadora es una cámara oculta"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Interpretan literalmente que los archivos están dentro de la computadora. En lugar de abrirlos con un programa, tratan de encontrarlos destruyendo el equipo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zoolander_archivos_computadora_literal",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_422",
+    "enunciado": "En Mi pobre angelito 2 (1992), ¿qué lanza Kevin desde la azotea y termina golpeando repetidamente a Marv?",
+    "opciones": [
+      "Macetas",
+      "Bolas de boliche",
+      "Latas de pintura",
+      "Ladrillos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Kevin arroja ladrillos mientras los ladrones intentan convencerlo de bajar. Marv recibe los golpes antes de que ambos entren en la casa llena de trampas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "home_alone_2_kevin_ladrillos_marv",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_423",
+    "enunciado": "En Shrek (2001), ¿qué quiere explicar el ogro cuando compara a los ogros con las cebollas?",
+    "opciones": [
+      "Que tienen capas y no se reducen a su apariencia",
+      "Que solo pueden vivir bajo tierra",
+      "Que todos disfrutan haciendo llorar a la gente",
+      "Que necesitan comer cebollas para tener fuerza"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Shrek usa las capas de la cebolla para explicar que los ogros son más complejos de lo que parecen. Burro propone otros alimentos con capas y desvía la conversación.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "shrek_ogros_cebollas_capas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_424",
+    "enunciado": "En Los Cazafantasmas (1984), ¿por qué Egon propone al final hacer lo que antes había prohibido: cruzar los rayos?",
+    "opciones": [
+      "Para recargar los equipos antes de huir",
+      "Para destruir el portal por donde llegó Gozer",
+      "Para liberar a los fantasmas de sus trampas",
+      "Para reconstruir el sistema eléctrico de la ciudad"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Cruzar los rayos era una maniobra peligrosa. Sin otra salida, los cuatro los dirigen al portal de Gozer para invertir el flujo y cerrar la entrada dimensional.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ghostbusters_cruzar_rayos_portal_gozer",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_425",
+    "enunciado": "En Monsters, Inc. (2001), ¿qué objeto en la espalda de un asustador provoca el grito de alarma por contaminación humana?",
+    "opciones": [
+      "Una fotografía familiar",
+      "Un cepillo de dientes",
+      "Un calcetín de un niño",
+      "Una mochila escolar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Un calcetín adherido a George desata la alarma y una exagerada descontaminación. Los monstruos creen que cualquier contacto con objetos humanos es peligroso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "monsters_inc_alarma_calcetin_george",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_426",
+    "enunciado": "En Los Increíbles (2004), ¿qué plan le recuerda su esposa a Frozono mientras él exige saber dónde está su supertraje?",
+    "opciones": [
+      "Una visita al dentista de sus hijos",
+      "Una mudanza que debe terminar esa noche",
+      "Un entrenamiento que él había cancelado",
+      "Una cena que habían preparado desde hacía tiempo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Mientras la ciudad está en peligro, Frozono busca su traje para salir a ayudar. Su esposa protesta porque habían planeado una cena, enfrentando la urgencia heroica con la doméstica.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "increibles_frozono_supertraje_cena",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_427",
+    "enunciado": "En Kung Fu Panda (2008), ¿qué revela el padre de Po al explicarle el secreto de su famosa sopa?",
+    "opciones": [
+      "Que no tiene ningún ingrediente secreto",
+      "Que el ingrediente es una hierba de la montaña",
+      "Que la prepara con agua de un pozo mágico",
+      "Que el ingrediente cambia cada luna llena"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El señor Ping explica que basta creer que algo es especial para valorarlo de esa manera. Esa idea ayuda a Po a comprender el pergamino y a confiar en sí mismo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "kung_fu_panda_sopa_sin_ingrediente_secreto",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_428",
+    "enunciado": "Al final de Toy Story 3 (2010), ¿a quién dirige Woody su breve despedida de compañero cuando ve alejarse el auto?",
+    "opciones": [
+      "A Buzz",
+      "A Andy",
+      "A Lotso",
+      "Al padre de Bonnie"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Andy entrega sus juguetes a Bonnie y juega con ella antes de marcharse. Woody lo observa irse y se despide de quien fue su compañero desde la infancia.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "toy_story_3_woody_despedida_andy",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_429",
+    "enunciado": "En Buscando a Nemo (2003), ¿qué intentan conseguir las gaviotas que repiten su grito posesivo al ver a Marlín y Dory?",
+    "opciones": [
+      "Devolverlos al consultorio del dentista",
+      "Ayudarlos a localizar el barco de Nemo",
+      "Comerse a los dos peces",
+      "Quitarle a Dory una máscara de buceo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las gaviotas reclaman a los peces como su comida y los persiguen. El pelícano Nigel los rescata y los lleva hacia el consultorio donde está Nemo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nemo_gaviotas_grito_posesivo_comida",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_430",
+    "enunciado": "En Volver al futuro (1985), ¿por qué Biff exige que George piense al hablar de la tarea escolar que le hace?",
+    "opciones": [
+      "Quiere que George la traduzca a otro idioma",
+      "Debe entregarla antes de que abra la escuela",
+      "Quiere que Marty la resuelva en lugar de George",
+      "Necesita tiempo para copiarla con su propia letra"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En 1955, Biff obliga a George a hacerle la tarea. Después insiste en recibirla con tiempo para copiarla, porque entregarla con la letra de George delataría el engaño.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bttf_biff_piensa_mcfly_tarea_letra",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_431",
+    "enunciado": "En La princesa prometida (1987), ¿por qué Íñigo cuestiona el uso repetido de la palabra inconcebible por parte de Vizzini?",
+    "opciones": [
+      "Porque siguen ocurriendo cosas que Vizzini dice imposibles",
+      "Porque Vizzini la pronuncia en otro idioma",
+      "Porque esa palabra revela su verdadera identidad",
+      "Porque Vizzini prometió dejar de hablar durante la huida"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Vizzini repite su exclamación ante los avances del perseguidor. Íñigo le señala que quizá no entiende la palabra: lo que considera imposible está sucediendo una y otra vez.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "princesa_prometida_vizzini_inconcebible_inigo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cine_432",
+    "enunciado": "En Ghost (1990), ¿qué detalle íntimo repite Oda Mae para que Molly crea que puede escuchar a Sam?",
+    "opciones": [
+      "La contraseña de la cuenta bancaria de Sam",
+      "La respuesta que Sam usaba cuando Molly le decía que lo amaba",
+      "El nombre de la primera mascota de Molly",
+      "La fecha que Sam había elegido para casarse"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Sam respondía con una palabra equivalente a «lo mismo» cuando Molly le decía que lo amaba. Oír esa respuesta a través de Oda Mae le permite reconocer un detalle íntimo de su relación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ghost_sam_respuesta_amor_oda_mae",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
   }
 ]

@@ -782,13 +782,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "primer_gol_final_1986",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_034",
@@ -805,13 +806,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tercer_gol_final_1978",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_035",
@@ -828,13 +830,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_final_1990",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_036",
@@ -851,13 +854,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_1930",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_037",
@@ -874,13 +878,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "penal_decisivo_2022",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_038",
@@ -897,13 +902,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_quintero_madrid_2018",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_039",
@@ -920,13 +926,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "segundo_gol_final_1986",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_040",
@@ -943,13 +950,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "estadio_final_1986",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_041",
@@ -1734,13 +1742,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_decisivo_maracanazo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_074",
@@ -1757,13 +1766,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "empate_final_champions_2014",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_075",
@@ -1780,13 +1790,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_final_champions_2023",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_076",
@@ -1803,13 +1814,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tecnico_grecia_euro_2004",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_077",
@@ -1826,13 +1838,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pele_doblete_final_1958",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_078",
@@ -1849,13 +1862,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "arquero_penal_champions_2005",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_079",
@@ -1872,13 +1886,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_final_femenino_2023",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_080",
@@ -1895,13 +1910,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gol_ganador_champions_1999",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_081",
@@ -2974,13 +2990,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_champions_2013",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_126",
@@ -2997,13 +3014,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_fem_2007",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_127",
@@ -3020,13 +3038,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_libertadores_2020",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_128",
@@ -3043,13 +3062,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_eurocopa_2008",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_129",
@@ -3066,13 +3086,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_eurocopa_1988",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_130",
@@ -3089,13 +3110,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_champions_2019",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_131",
@@ -3112,13 +3134,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_libertadores_2023",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_132",
@@ -3135,13 +3158,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_fem_1991",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_133",
@@ -3158,13 +3182,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_fem_1991",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_134",
@@ -3181,13 +3206,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "champions_primera_1993",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_135",
@@ -4164,13 +4190,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "rahn_1954",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_176",
@@ -4187,13 +4214,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "salenko_cinco_1994",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_177",
@@ -4210,13 +4238,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sukur_rapido_2002",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_178",
@@ -4233,13 +4262,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hungria_salvador_1982",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_179",
@@ -4256,13 +4286,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hurst_triplete_1966",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_180",
@@ -4279,13 +4310,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "senegal_fair_play_2018",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_181",
@@ -4302,13 +4334,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "howard_atajadas_2014",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_182",
@@ -4325,13 +4358,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "suiza_sin_recibir_2006",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_183",
@@ -4348,13 +4382,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "buffon_penal_corea_2002",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_184",
@@ -4371,13 +4406,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "panenka_euro_1976",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_185",
@@ -5738,13 +5774,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "messi_primer_gol_mundial",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_242",
@@ -5761,13 +5798,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cuartos_argentina_2022",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_243",
@@ -5784,13 +5822,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cuartos_argentina_2022",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_244",
@@ -5807,13 +5846,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "penal_decisivo_2022",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_245",
@@ -5830,13 +5870,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "mac_allister_padre",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_246",
@@ -5853,13 +5894,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "davoo_xeneize",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_247",
@@ -5876,13 +5918,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "velada_del_ano",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_248",
@@ -5899,13 +5942,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "lamine_yamal",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_249",
@@ -5922,13 +5966,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "suarez_mano_ghana",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_250",
@@ -5945,13 +5990,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "liverpool_corner_2019",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_251",
@@ -5968,13 +6014,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cr7_record_selecciones",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_252",
@@ -5991,13 +6038,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "riquelme_topo_gigio",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_253",
@@ -6014,13 +6062,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "palermo_tres_penales",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_254",
@@ -6037,13 +6086,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_2014",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_255",
@@ -6828,13 +6878,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "fair_play_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_288",
@@ -6851,13 +6902,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tercer_puesto_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_289",
@@ -6874,13 +6926,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "record_publico_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_290",
@@ -6897,13 +6950,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "final_mundial_1930",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_291",
@@ -6920,13 +6974,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tercer_puesto_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_292",
@@ -6943,13 +6998,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "argentina_suiza_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_293",
@@ -6966,13 +7022,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "curazao_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_294",
@@ -6989,13 +7046,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "formato_mundial_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_295",
@@ -7372,13 +7430,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "carlos_sole_1950",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_311",
@@ -7395,13 +7454,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "relator_de_america",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_312",
@@ -7418,13 +7478,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hurst_triplete_1966",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fut_313",
@@ -12705,5 +12766,2165 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-30"
+  },
+  {
+    "id": "fut_533",
+    "enunciado": "¿En cuál de estos clubes NO jugó Ronaldinho en el primer equipo profesional?",
+    "opciones": [
+      "Paris Saint-Germain",
+      "Barcelona",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Ronaldinho pasó por PSG, Barcelona y Milan. Nunca integró el primer equipo del Real Madrid.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ronaldinho_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_534",
+    "enunciado": "¿En cuál de estos clubes NO jugó Zlatan Ibrahimović en el primer equipo profesional?",
+    "opciones": [
+      "Real Madrid",
+      "Ajax",
+      "Juventus",
+      "Barcelona"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ibrahimović jugó en Ajax, Juventus y Barcelona, entre otros clubes. Real Madrid no forma parte de su trayectoria profesional.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ibrahimovic_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_535",
+    "enunciado": "¿En cuál de estos clubes NO jugó Samuel Eto’o en el primer equipo profesional?",
+    "opciones": [
+      "Real Madrid",
+      "Chelsea",
+      "Everton",
+      "AC Milan"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Eto’o tuvo una breve etapa en el primer equipo del Real Madrid y jugó en Chelsea y Everton. En Milán defendió al Inter, no al Milan.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "etoo_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_536",
+    "enunciado": "¿En cuál de estos clubes NO jugó David Beckham en el primer equipo profesional?",
+    "opciones": [
+      "AC Milan",
+      "Inter de Milán",
+      "Paris Saint-Germain",
+      "LA Galaxy"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Beckham jugó en el Milan cedido por LA Galaxy y cerró su carrera en PSG. No defendió al Inter de Milán.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "beckham_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_537",
+    "enunciado": "¿En cuál de estos clubes NO jugó Carlos Tevez en el primer equipo profesional?",
+    "opciones": [
+      "Liverpool",
+      "West Ham United",
+      "Manchester City",
+      "Juventus"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tevez pasó por West Ham, Manchester City y Juventus. También jugó en Manchester United, pero nunca en Liverpool.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tevez_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_538",
+    "enunciado": "¿En cuál de estos clubes NO jugó Andrea Pirlo en el primer equipo profesional?",
+    "opciones": [
+      "Brescia",
+      "Reggina",
+      "Napoli",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Pirlo comenzó en Brescia, pasó por Inter y estuvo cedido en Reggina. Napoli no aparece entre sus clubes profesionales.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "pirlo_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_539",
+    "enunciado": "¿En cuál de estos clubes NO jugó Kaká en el primer equipo profesional?",
+    "opciones": [
+      "São Paulo",
+      "Paris Saint-Germain",
+      "AC Milan",
+      "Orlando City"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Kaká jugó en São Paulo, Milan, Real Madrid y Orlando City. Nunca formó parte del primer equipo del PSG.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "kaka_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_540",
+    "enunciado": "¿En cuál de estos clubes NO jugó Rivaldo en el primer equipo profesional?",
+    "opciones": [
+      "Deportivo La Coruña",
+      "Olympiacos",
+      "AC Milan",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Rivaldo jugó en Deportivo, Milan y Olympiacos. Su etapa italiana fue en el Milan, no en el Inter.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rivaldo_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_541",
+    "enunciado": "¿En cuál de estos clubes NO jugó Luís Figo en el primer equipo profesional?",
+    "opciones": [
+      "Sporting de Portugal",
+      "Real Madrid",
+      "Juventus",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Figo pasó por Sporting, Barcelona, Real Madrid e Inter. Aunque terminó su carrera en Italia, no jugó en Juventus.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "figo_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_542",
+    "enunciado": "¿En cuál de estos clubes NO jugó Hernán Crespo en el primer equipo profesional?",
+    "opciones": [
+      "Roma",
+      "Parma",
+      "Lazio",
+      "Genoa"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Crespo defendió a Parma, Lazio y Genoa. Jugó en la ciudad de Roma con Lazio, pero nunca con el club Roma.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "crespo_trayectoria_clubes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_543",
+    "enunciado": "¿En qué club marcó más goles oficiales Sergio Agüero, contando todas las competiciones?",
+    "opciones": [
+      "Atlético de Madrid",
+      "Manchester City",
+      "Independiente",
+      "Barcelona"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Agüero cerró su etapa en Manchester City con 260 goles oficiales, una cifra muy superior a la que logró en cualquiera de sus otros clubes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "aguero_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_544",
+    "enunciado": "¿En qué club marcó más goles oficiales Thierry Henry, contando todas las competiciones?",
+    "opciones": [
+      "Barcelona",
+      "Monaco",
+      "New York Red Bulls",
+      "Arsenal"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Henry anotó 228 goles oficiales con Arsenal, sumando sus dos etapas. Es el máximo goleador histórico del club londinense.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "henry_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_545",
+    "enunciado": "¿En qué club marcó más goles oficiales Wayne Rooney, contando todas las competiciones?",
+    "opciones": [
+      "Manchester United",
+      "Everton",
+      "D.C. United",
+      "Derby County"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rooney convirtió 253 goles oficiales con Manchester United. Su producción allí superó ampliamente la de sus otros equipos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "rooney_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_546",
+    "enunciado": "¿En qué club marcó más goles oficiales Didier Drogba, contando todas las competiciones?",
+    "opciones": [
+      "Olympique de Marsella",
+      "Galatasaray",
+      "Chelsea",
+      "Le Mans"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Drogba marcó 164 goles oficiales con Chelsea en sus dos etapas, incluyendo finales decisivas. Ninguno de sus otros clubes se acerca a esa cifra.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "drogba_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_547",
+    "enunciado": "¿En qué club marcó más goles oficiales David Villa, contando todas las competiciones?",
+    "opciones": [
+      "Barcelona",
+      "New York City FC",
+      "Atlético de Madrid",
+      "Valencia"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Villa marcó 129 goles oficiales con Valencia. Pese a sus exitosas etapas en Barcelona y Estados Unidos, fue su club con más tantos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "villa_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_548",
+    "enunciado": "¿En qué club marcó más goles oficiales Robin van Persie, contando todas las competiciones?",
+    "opciones": [
+      "Manchester United",
+      "Arsenal",
+      "Feyenoord",
+      "Fenerbahçe"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Van Persie convirtió 132 goles oficiales con Arsenal. Su título de liga con Manchester United no cambia cuál fue su club más goleador.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "van_persie_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_549",
+    "enunciado": "¿En qué club marcó más goles oficiales David Trezeguet, contando todas las competiciones?",
+    "opciones": [
+      "Monaco",
+      "River Plate",
+      "Juventus",
+      "Newell’s Old Boys"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Trezeguet anotó 171 goles oficiales con Juventus durante diez temporadas. Fue la etapa más productiva de su carrera en clubes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "trezeguet_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_550",
+    "enunciado": "¿En qué club marcó más goles oficiales Michael Owen, contando todas las competiciones?",
+    "opciones": [
+      "Liverpool",
+      "Real Madrid",
+      "Newcastle United",
+      "Manchester United"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Owen marcó 158 goles oficiales con Liverpool. Sus etapas posteriores en Madrid, Newcastle y Manchester United fueron menos goleadoras.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "owen_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_551",
+    "enunciado": "¿En qué club marcó más goles oficiales Fernando Torres, contando todas las competiciones?",
+    "opciones": [
+      "Liverpool",
+      "Atlético de Madrid",
+      "Chelsea",
+      "AC Milan"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Sumando sus dos etapas, Torres marcó 129 goles oficiales con Atlético de Madrid, por encima de los 81 que consiguió con Liverpool.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "torres_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_552",
+    "enunciado": "¿En qué club marcó más goles oficiales Diego Forlán, contando todas las competiciones?",
+    "opciones": [
+      "Villarreal",
+      "Independiente",
+      "Manchester United",
+      "Atlético de Madrid"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Forlán marcó 96 goles oficiales con Atlético de Madrid, frente a los 59 que anotó con Villarreal. En ambos clubes ganó la Bota de Oro europea.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "forlan_goles_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_553",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Frank Lampard, contando todas las competiciones?",
+    "opciones": [
+      "Chelsea",
+      "West Ham United",
+      "Manchester City",
+      "New York City FC"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Lampard disputó 648 partidos oficiales con Chelsea durante trece temporadas. Su permanencia allí fue mucho mayor que en sus otros equipos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lampard_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_554",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Clarence Seedorf, contando todas las competiciones?",
+    "opciones": [
+      "Ajax",
+      "Real Madrid",
+      "AC Milan",
+      "Inter de Milán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Seedorf acumuló 432 partidos oficiales con Milan en diez temporadas, superando sus etapas en Ajax, Real Madrid e Inter.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "seedorf_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_555",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Franck Ribéry, contando todas las competiciones?",
+    "opciones": [
+      "Olympique de Marsella",
+      "Bayern Múnich",
+      "Fiorentina",
+      "Salernitana"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ribéry jugó 425 partidos oficiales con Bayern Múnich. Sus doce temporadas en Alemania hicieron de ese club su etapa más extensa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ribery_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_556",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Arjen Robben, contando todas las competiciones?",
+    "opciones": [
+      "Chelsea",
+      "Real Madrid",
+      "PSV Eindhoven",
+      "Bayern Múnich"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Robben disputó 309 partidos oficiales con Bayern Múnich. Allí permaneció diez temporadas, más que en cualquiera de sus otros clubes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "robben_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_557",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Ruud van Nistelrooy, contando todas las competiciones?",
+    "opciones": [
+      "PSV Eindhoven",
+      "Real Madrid",
+      "Manchester United",
+      "Hamburgo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Van Nistelrooy disputó 219 partidos oficiales con Manchester United, superando los 96 con Real Madrid y los 90 con PSV.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "van_nistelrooy_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_558",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Cesc Fàbregas, contando todas las competiciones?",
+    "opciones": [
+      "Arsenal",
+      "Chelsea",
+      "Barcelona",
+      "Monaco"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Fàbregas disputó 303 partidos oficiales con Arsenal. Aunque también tuvo etapas largas en Chelsea y Barcelona, ninguna superó ese total.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "fabregas_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_559",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Dani Alves, contando todas las competiciones?",
+    "opciones": [
+      "Sevilla",
+      "Juventus",
+      "Paris Saint-Germain",
+      "Barcelona"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Sumando sus dos etapas, Alves jugó 408 partidos oficiales con Barcelona. Su primer ciclo azulgrana ya superaba sus otras etapas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "alves_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_560",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Deco, contando todas las competiciones?",
+    "opciones": [
+      "Barcelona",
+      "Porto",
+      "Chelsea",
+      "Fluminense"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Deco disputó 229 partidos oficiales con Porto, frente a 161 con Barcelona. El total incluye liga, copas y competiciones internacionales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "deco_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_561",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Rafael van der Vaart, contando todas las competiciones?",
+    "opciones": [
+      "Hamburgo",
+      "Ajax",
+      "Tottenham Hotspur",
+      "Real Madrid"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Sumando sus dos etapas, Van der Vaart disputó 199 partidos oficiales con Hamburgo, por encima de sus 156 encuentros con Ajax.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "van_der_vaart_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_562",
+    "enunciado": "¿Con qué club disputó más partidos oficiales Dimitar Berbatov, contando todas las competiciones?",
+    "opciones": [
+      "Manchester United",
+      "Bayer Leverkusen",
+      "Tottenham Hotspur",
+      "Monaco"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Berbatov superó los 200 partidos oficiales con Bayer Leverkusen. Fue su club con más apariciones, por delante de Manchester United y Tottenham.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "berbatov_partidos_por_club",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_563",
+    "enunciado": "¿Qué entrenador llevó a Francia al título mundial de 2018 tras haber sido campeón como jugador en 1998?",
+    "opciones": [
+      "Didier Deschamps",
+      "Laurent Blanc",
+      "Zinedine Zidane",
+      "Raymond Domenech"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Deschamps fue capitán de Francia en 1998 y dirigió al equipo campeón en Rusia 2018. Alcanzó el título desde el campo y desde el banco.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "deschamps_campeon_jugador_entrenador",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_564",
+    "enunciado": "¿Quién defendió el arco de Italia en la final del Mundial 2006, que terminó con victoria por penales ante Francia?",
+    "opciones": [
+      "Francesco Toldo",
+      "Gianluigi Buffon",
+      "Angelo Peruzzi",
+      "Gianluca Pagliuca"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Buffon fue el arquero titular de la Italia campeona. La final terminó 1-1 y el título se decidió en la tanda de penales.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "buffon_final_mundial_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_565",
+    "enunciado": "¿Quién dio el pase a Iniesta para el gol que decidió la final del Mundial 2010?",
+    "opciones": [
+      "Xavi Hernández",
+      "David Villa",
+      "Cesc Fàbregas",
+      "Xabi Alonso"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Fàbregas encontró a Iniesta dentro del área durante la prórroga. El remate de Iniesta le dio a España su primer título mundial.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "gol_final_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_566",
+    "enunciado": "¿Quién fue el capitán de Brasil en el Mundial de 1970 y además marcó el último gol de la final?",
+    "opciones": [
+      "Gérson",
+      "Jairzinho",
+      "Tostão",
+      "Carlos Alberto Torres"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Carlos Alberto llevó el brazalete y cerró el 4-1 ante Italia. Su remate culminó una jugada colectiva del Brasil campeón.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "carlos_alberto_capitan_1970",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_567",
+    "enunciado": "¿Quién fue el capitán de Uruguay cuando ganó el primer Mundial, en 1930?",
+    "opciones": [
+      "José Nasazzi",
+      "Obdulio Varela",
+      "José Leandro Andrade",
+      "Héctor Scarone"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Nasazzi capitaneó al Uruguay que venció 4-2 a Argentina en la final de 1930. Obdulio Varela sería el capitán campeón veinte años después.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "nasazzi_capitan_uruguay_1930",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_568",
+    "enunciado": "¿Qué delantero brasileño inició el festejo de acunar un bebé tras marcar ante Países Bajos en el Mundial 1994?",
+    "opciones": [
+      "Romário",
+      "Bebeto",
+      "Ronaldo",
+      "Careca"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bebeto dedicó el gol al nacimiento de su hijo. Romário y Mazinho se sumaron al gesto, convertido en una imagen célebre del Brasil campeón.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bebeto_festejo_bebe_1994",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_569",
+    "enunciado": "¿Qué italiano convirtió el penal que cerró la tanda y aseguró el título mundial de 2006 ante Francia?",
+    "opciones": [
+      "Andrea Pirlo",
+      "Alessandro Del Piero",
+      "Fabio Grosso",
+      "Marco Materazzi"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Grosso ejecutó el quinto penal italiano y selló el 5-3 de la tanda. Antes había abierto el marcador en la semifinal ante Alemania.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "grosso_penal_final_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_570",
+    "enunciado": "¿Quién levantó la Copa del Mundo como capitán de Alemania después de la final de 2014 ante Argentina?",
+    "opciones": [
+      "Bastian Schweinsteiger",
+      "Miroslav Klose",
+      "Manuel Neuer",
+      "Philipp Lahm"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Lahm capitaneó a Alemania en Brasil 2014. El gol de Mario Götze en la prórroga resolvió la final y permitió al capitán levantar la copa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lahm_capitan_campeon_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_571",
+    "enunciado": "España ganó el Mundial 2010, pero perdió su primer partido. ¿Qué selección la venció?",
+    "opciones": [
+      "Suiza",
+      "Chile",
+      "Honduras",
+      "Portugal"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Suiza ganó 1-0 en el debut. España se recuperó y terminó campeona: aquel tropiezo inicial no volvió a repetirse en el torneo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "espana_derrota_suiza_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_572",
+    "enunciado": "¿Qué delantero ocupó el lugar del lesionado Pelé en el ataque del Brasil campeón mundial de 1962?",
+    "opciones": [
+      "Coutinho",
+      "Amarildo",
+      "Pepe",
+      "Jair da Costa"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Amarildo entró en el equipo tras la lesión de Pelé. Marcó dos goles ante España y el empate brasileño en la final contra Checoslovaquia.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "amarildo_reemplazo_pele_1962",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_573",
+    "enunciado": "¿Qué club español eliminó al Milan en la Champions 2004 al ganar 4-0 después de perder 4-1 la ida?",
+    "opciones": [
+      "Valencia",
+      "Villarreal",
+      "Deportivo La Coruña",
+      "Real Zaragoza"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Deportivo remontó en Riazor una diferencia de tres goles. El 4-0 de la vuelta lo clasificó a las semifinales y dejó fuera al campeón defensor.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "deportivo_milan_remontada_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_574",
+    "enunciado": "¿Quién marcó el sexto gol del Barcelona ante el PSG en la remontada de Champions de 2017?",
+    "opciones": [
+      "Luis Suárez",
+      "Lionel Messi",
+      "Gerard Piqué",
+      "Sergi Roberto"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Sergi Roberto convirtió en el descuento tras un pase de Neymar. El 6-1 completó la remontada después del 4-0 sufrido en París.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "remontada_barcelona_2017",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_575",
+    "enunciado": "En la final de Champions 2005, ¿quién marcó el segundo gol del Liverpool durante la remontada ante el Milan?",
+    "opciones": [
+      "Vladimír Šmicer",
+      "Steven Gerrard",
+      "Xabi Alonso",
+      "Luis García"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Gerrard descontó primero, Šmicer puso el 3-2 y Alonso empató. Liverpool pasó de perder 3-0 a igualar y luego ganó por penales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_champions_2005",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_576",
+    "enunciado": "¿Qué delantero marcó los dos goles de Boca ante Real Madrid en la Copa Intercontinental de 2000?",
+    "opciones": [
+      "Guillermo Barros Schelotto",
+      "Martín Palermo",
+      "Marcelo Delgado",
+      "Antonio Barijho"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Palermo convirtió dos veces en los primeros minutos. Boca sostuvo el 2-1 y conquistó la Copa Intercontinental en Japón.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "palermo_doblete_intercontinental_2000",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_577",
+    "enunciado": "¿Qué delantero, cedido por Real Madrid al Monaco, le marcó al club español en la Champions 2004 y ayudó a eliminarlo?",
+    "opciones": [
+      "Raúl González",
+      "Javier Saviola",
+      "Fernando Morientes",
+      "Diego Tristán"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Morientes jugaba cedido en Monaco y marcó en ambos encuentros. El equipo francés remontó y avanzó por la regla del gol de visitante.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "morientes_monaco_real_madrid_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_578",
+    "enunciado": "¿Quién hizo los tres goles del Tottenham ante Ajax en la vuelta de la semifinal de Champions 2019?",
+    "opciones": [
+      "Harry Kane",
+      "Son Heung-min",
+      "Christian Eriksen",
+      "Lucas Moura"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Lucas Moura convirtió un triplete, incluido el gol decisivo en el descuento. Tottenham remontó el 2-0 de esa noche y llegó a su primera final.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lucas_moura_ajax_triplete_2019",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_579",
+    "enunciado": "¿Qué defensor marcó de cabeza el 3-0 con el que Roma completó su remontada ante Barcelona en la Champions 2018?",
+    "opciones": [
+      "Kostas Manolas",
+      "Federico Fazio",
+      "Aleksandar Kolarov",
+      "Alessandro Florenzi"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Manolas marcó el tercer gol de Roma en la vuelta. Tras perder 4-1 la ida, el 3-0 le dio la clasificación por los goles de visitante.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "manolas_remontada_roma_2018",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_580",
+    "enunciado": "¿Qué defensor marcó el 4-3 del Liverpool ante Borussia Dortmund en el descuento, en la Europa League de 2016?",
+    "opciones": [
+      "Mamadou Sakho",
+      "Dejan Lovren",
+      "Martin Škrtel",
+      "Alberto Moreno"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Lovren cabeceó un centro de James Milner para completar la remontada en Anfield. Liverpool había estado 1-3 abajo y pasó a semifinales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lovren_liverpool_dortmund_2016",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_581",
+    "enunciado": "¿Quién inició la remontada del Manchester United ante Juventus en la semifinal de Champions 1999 con un gol de cabeza?",
+    "opciones": [
+      "Paul Scholes",
+      "David Beckham",
+      "Roy Keane",
+      "Ryan Giggs"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Keane descontó cuando Juventus ganaba 2-0. Los goles posteriores de Yorke y Cole completaron el 3-2 que llevó al United a la final.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "keane_juventus_remontada_1999",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_582",
+    "enunciado": "¿Quién marcó de cabeza el gol del triunfo de Estudiantes ante Cruzeiro en la final de la Libertadores 2009?",
+    "opciones": [
+      "Gastón Fernández",
+      "Juan Sebastián Verón",
+      "Enzo Pérez",
+      "Mauro Boselli"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Boselli conectó un centro de Verón y puso el 2-1 en el Mineirão. Estudiantes remontó la final y ganó su cuarta Libertadores.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "boselli_final_libertadores_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_583",
+    "enunciado": "¿Qué defensor argentino fue superado por Bergkamp antes del gol decisivo en los cuartos del Mundial 1998?",
+    "opciones": [
+      "Roberto Ayala",
+      "José Chamot",
+      "Nelson Vivas",
+      "Javier Zanetti"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Bergkamp bajó el pase largo de Frank de Boer, recortó ante Ayala y definió con el exterior del pie derecho para el 2-1 neerlandés.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bergkamp_asistencia_argentina_1998",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_584",
+    "enunciado": "¿Cómo ejecutó Sebastián Abreu el penal que clasificó a Uruguay ante Ghana en el Mundial 2010?",
+    "opciones": [
+      "Remató fuerte junto al poste",
+      "Picó la pelota al centro",
+      "Disparó cruzado a media altura",
+      "Buscó el ángulo superior"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Abreu eligió una definición a lo Panenka en el penal decisivo. Su remate picado cerró la tanda y llevó a Uruguay a semifinales.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "abreu_panenka_ghana_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_585",
+    "enunciado": "¿Cómo resolvió James Rodríguez su primer gol ante Uruguay en los octavos del Mundial 2014?",
+    "opciones": [
+      "Bajó la pelota y definió de taco",
+      "Cabeceó tras un centro lateral",
+      "Controló de pecho y remató de volea",
+      "Eludió al arquero y empujó la pelota"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "James recibió de espaldas al arco, controló con el pecho y sacó una volea de zurda. La pelota golpeó el travesaño antes de entrar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "james_volea_uruguay_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_586",
+    "enunciado": "¿A qué arquero superó Messi con un remate picado después de hacer caer a Boateng en la Champions 2015?",
+    "opciones": [
+      "Gianluigi Buffon",
+      "Iker Casillas",
+      "Petr Čech",
+      "Manuel Neuer"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Messi desbordó a Boateng y elevó la pelota sobre Neuer. Fue su segundo gol en el 3-0 del Barcelona al Bayern en la semifinal de ida.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "messi_boateng_neuer_2015",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_587",
+    "enunciado": "¿Cuántos goles marcó Ronaldinho en el clásico de 2005 en el Bernabéu que terminó con aplausos del público local?",
+    "opciones": [
+      "Dos",
+      "Uno",
+      "Tres",
+      "Cuatro"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ronaldinho hizo dos goles en el 3-0 del Barcelona. Sus acciones individuales provocaron aplausos de una parte de la afición del Real Madrid.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ronaldinho_bernabeu_aplausos_2005",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_588",
+    "enunciado": "¿Ante qué selección marcó Beckham el tiro libre del empate en el descuento que clasificó a Inglaterra al Mundial 2002?",
+    "opciones": [
+      "Finlandia",
+      "Grecia",
+      "Alemania",
+      "Albania"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Beckham convirtió el 2-2 ante Grecia en Old Trafford, en octubre de 2001. El empate aseguró la clasificación directa de Inglaterra.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "beckham_grecia_tiro_libre_2001",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_589",
+    "enunciado": "¿Quién lanzó el centro que Van Basten convirtió de volea desde un ángulo cerrado en la final de la Eurocopa 1988?",
+    "opciones": [
+      "Ronald Koeman",
+      "Frank Rijkaard",
+      "Arnold Mühren",
+      "Jan Wouters"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Mühren envió el centro desde la izquierda. Van Basten lo remató de primera para marcar el 2-0 ante la Unión Soviética.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "final_eurocopa_1988",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_590",
+    "enunciado": "¿Quién hizo el único gol de Argentina ante Paraguay en la final de fútbol masculino de los Juegos Olímpicos de 2004?",
+    "opciones": [
+      "Javier Saviola",
+      "César Delgado",
+      "Andrés D’Alessandro",
+      "Carlos Tevez"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Tevez marcó en el primer tiempo y Argentina ganó 1-0. La selección obtuvo su primer oro olímpico en fútbol masculino.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "tevez_final_olimpica_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_591",
+    "enunciado": "¿Quién le dio a Maradona el pase con el que inició la carrera del Gol del Siglo ante Inglaterra en 1986?",
+    "opciones": [
+      "Héctor Enrique",
+      "Jorge Burruchaga",
+      "Sergio Batista",
+      "Ricardo Giusti"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Enrique entregó la pelota antes de la mitad de cancha. Maradona arrancó desde allí, eludió rivales y al arquero para marcar el 2-0.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "maradona_gol_siglo_1986",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_592",
+    "enunciado": "¿Ante qué selección marcó Palermo el gol agónico bajo la lluvia en las eliminatorias de octubre de 2009?",
+    "opciones": [
+      "Uruguay",
+      "Perú",
+      "Chile",
+      "Bolivia"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Palermo aprovechó un rebote y puso el 2-1 en el Monumental. El triunfo mantuvo a Argentina en camino a Sudáfrica 2010.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "palermo_peru_lluvia_2009",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_593",
+    "enunciado": "¿De qué club italiano llegó Zidane al Real Madrid en 2001, antes de convertirse en una figura de los Galácticos?",
+    "opciones": [
+      "Juventus",
+      "Milan",
+      "Inter",
+      "Roma"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Zidane pasó de Juventus al Real Madrid en 2001. La temporada siguiente marcó de volea el gol decisivo de la final de la Champions ante Bayer Leverkusen.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "zidane_juventus_real_traspaso_2001",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_594",
+    "enunciado": "¿Qué club fichó a Neymar en 2017 después de que se pagara su cláusula de salida del Barcelona?",
+    "opciones": [
+      "Manchester City",
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Bayern Múnich"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El pago de la cláusula de 222 millones de euros permitió la salida de Neymar del Barcelona. El brasileño se incorporó al PSG en el verano de 2017.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "neymar_barcelona_psg_traspaso_2017",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_595",
+    "enunciado": "¿A qué rival del Barcelona se incorporó Luis Figo en 2000, en uno de los traspasos más polémicos del fútbol español?",
+    "opciones": [
+      "Atlético de Madrid",
+      "Espanyol",
+      "Real Madrid",
+      "Valencia"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Figo dejó el Barcelona para incorporarse al Real Madrid en 2000. El cambio entre los dos grandes rivales convirtió su regreso al Camp Nou en un partido especialmente tenso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "figo_barcelona_real_traspaso_2000",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_596",
+    "enunciado": "¿De qué club llegó Luis Suárez al Barcelona en 2014, tras ser goleador de la Premier League?",
+    "opciones": [
+      "Ajax",
+      "Manchester United",
+      "Tottenham",
+      "Liverpool"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Barcelona y Liverpool acordaron el traspaso en julio de 2014. Suárez se unió a Messi y Neymar y marcó en la final de la Champions que el Barça ganó en 2015.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "suarez_liverpool_barcelona_traspaso_2014",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_597",
+    "enunciado": "Después de su única temporada en el Barcelona, ¿a qué club se fue Ronaldo, el delantero brasileño, en 1997?",
+    "opciones": [
+      "Inter",
+      "Milan",
+      "Juventus",
+      "Real Madrid"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ronaldo pasó del Barcelona al Inter en el verano de 1997. En su primera temporada italiana conquistó la Copa de la UEFA y marcó en la final contra Lazio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "ronaldo_barcelona_inter_traspaso_1997",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_598",
+    "enunciado": "¿Qué club fichó a Batistuta desde Fiorentina en 2000 y ganó la liga italiana con él la temporada siguiente?",
+    "opciones": [
+      "Lazio",
+      "Roma",
+      "Inter",
+      "Parma"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Batistuta dejó Fiorentina por Roma en 2000. Sus goles fueron importantes para el equipo que conquistó el Scudetto de la temporada 2000-01.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "batistuta_fiorentina_roma_traspaso_2000",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_599",
+    "enunciado": "¿De qué club llegó Esteban Cambiasso al Inter, como jugador libre, en el verano de 2004?",
+    "opciones": [
+      "River Plate",
+      "Valencia",
+      "Real Madrid",
+      "Atlético de Madrid"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Cambiasso se incorporó al Inter al terminar su etapa en Real Madrid, sin pago de traspaso. Se convirtió en una pieza del equipo que ganó el triplete en 2010.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "cambiasso_real_inter_libre_2004",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_600",
+    "enunciado": "¿De qué club italiano fichó el Arsenal a Thierry Henry en 1999, antes de reconvertirlo en su gran delantero?",
+    "opciones": [
+      "Inter",
+      "Milan",
+      "Parma",
+      "Juventus"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Henry llegó de Juventus después de una breve etapa en Italia. Arsène Wenger lo utilizó como delantero en Arsenal, donde se convirtió en una figura histórica.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "henry_juventus_arsenal_traspaso_1999",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_601",
+    "enunciado": "¿A qué club de Estados Unidos se incorporó David Beckham en 2007 después de jugar en el Real Madrid?",
+    "opciones": [
+      "LA Galaxy",
+      "New York Red Bulls",
+      "D.C. United",
+      "Chicago Fire"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Beckham llegó a LA Galaxy en julio de 2007 tras su etapa en Real Madrid. Su incorporación dio una gran visibilidad internacional a la liga estadounidense.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "beckham_real_la_galaxy_2007",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_602",
+    "enunciado": "Cuando Seedorf pasó del Inter al Milan en 2002, ¿qué jugador hizo el recorrido inverso como parte del intercambio?",
+    "opciones": [
+      "Massimo Ambrosini",
+      "Francesco Coco",
+      "Gennaro Gattuso",
+      "Serginho"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El acuerdo llevó a Clarence Seedorf al Milan y a Francesco Coco al Inter. Seedorf había jugado en Ajax, Sampdoria y Real Madrid antes de su etapa interista.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "seedorf_coco_intercambio_2002",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_603",
+    "enunciado": "¿Qué delantero de Trinidad y Tobago formó la célebre dupla con Andy Cole en el Manchester United del triplete de 1999?",
+    "opciones": [
+      "Teddy Sheringham",
+      "Ole Gunnar Solskjær",
+      "Dwight Yorke",
+      "Eric Cantona"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Yorke y Cole formaron una sociedad ofensiva fundamental en aquel United. El equipo ganó la liga inglesa, la FA Cup y la Champions en la temporada 1998-99.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "yorke_cole_sociedad_united_1999",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_604",
+    "enunciado": "¿Qué pareja de extremos del Bayern Múnich fue conocida como Robbery por combinar sus apellidos?",
+    "opciones": [
+      "Robben y Müller",
+      "Ribéry y Coman",
+      "Robben y Klose",
+      "Robben y Ribéry"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El apodo combinaba los nombres de Arjen Robben y Franck Ribéry. Sus desbordes desde las bandas marcaron una larga etapa de éxitos del Bayern.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bayern_robben_ribery_sociedad_robbery",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_605",
+    "enunciado": "¿Qué mediocampista completaba con Xavi e Iniesta el trío central del Barcelona de Guardiola como principal volante defensivo?",
+    "opciones": [
+      "Sergio Busquets",
+      "Cesc Fàbregas",
+      "Deco",
+      "Ivan Rakitić"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Busquets aportaba equilibrio y salida de balón detrás de Xavi e Iniesta. Los tres formaron el núcleo del mediocampo del Barcelona durante la etapa de Guardiola.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "barcelona_xavi_iniesta_busquets_trio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_606",
+    "enunciado": "¿Qué argentino integró con Cristiano Ronaldo y Wayne Rooney el ataque del Manchester United campeón de la Champions en 2008?",
+    "opciones": [
+      "Sergio Agüero",
+      "Carlos Tevez",
+      "Javier Saviola",
+      "Gonzalo Higuaín"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Tevez se incorporó al United en 2007 y compartió ataque con Ronaldo y Rooney. En su primera temporada ganaron la Premier League y la Champions.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "united_ronaldo_rooney_tevez_trio_2008",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_607",
+    "enunciado": "¿Qué neerlandés acompañaba a Thierry Henry en ataque y generaba juego en el Arsenal de los Invencibles de 2003-04?",
+    "opciones": [
+      "Marc Overmars",
+      "Robin van Persie",
+      "Dennis Bergkamp",
+      "Ruud van Nistelrooy"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Bergkamp combinaba creatividad y definición con Henry. Formó parte del Arsenal que terminó la Premier League 2003-04 sin perder ningún partido.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "arsenal_henry_bergkamp_sociedad_invincibles",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_608",
+    "enunciado": "¿Qué argentino dio el pase a Forlán para el gol decisivo del Atlético de Madrid ante Fulham en la final europea de 2010?",
+    "opciones": [
+      "Maxi Rodríguez",
+      "Javier Saviola",
+      "Diego Milito",
+      "Sergio Agüero"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Agüero peleó la pelota y asistió a Forlán en la prórroga. El uruguayo marcó el 2-1 con el que Atlético ganó la primera edición de la Europa League.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "aguero_forlan_sociedad_final_europa_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_609",
+    "enunciado": "¿Qué volante creativo apodado el Payaso formó una recordada sociedad con Javier Saviola en River a fines de los años 90?",
+    "opciones": [
+      "Pablo Aimar",
+      "Ariel Ortega",
+      "Andrés D’Alessandro",
+      "Marcelo Gallardo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Aimar y Saviola combinaron creación, velocidad y definición en River. Su sociedad fue uno de los rasgos del equipo que ganó el Apertura de 1999.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "river_aimar_saviola_sociedad_1999",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_610",
+    "enunciado": "¿Qué mediocampista neerlandés asistía a Milito y Eto’o en el Inter de Mourinho que ganó el triplete en 2010?",
+    "opciones": [
+      "Rafael van der Vaart",
+      "Wesley Sneijder",
+      "Arjen Robben",
+      "Ibrahim Afellay"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Sneijder era el enlace creativo del ataque interista. Su pase a Eto’o fue decisivo para eliminar al Chelsea en Stamford Bridge durante aquella Champions.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "inter_sneijder_milito_etoo_sociedad_2010",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_611",
+    "enunciado": "Además de Gullit y Van Basten, ¿qué neerlandés completaba el famoso trío del Milan de Arrigo Sacchi?",
+    "opciones": [
+      "Ronald Koeman",
+      "Clarence Seedorf",
+      "Frank Rijkaard",
+      "Dennis Bergkamp"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rijkaard se sumó al Milan en 1988 y reforzó el mediocampo. Junto a Gullit y Van Basten integró el trío neerlandés del equipo de Sacchi.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "milan_gullit_van_basten_rijkaard_trio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_612",
+    "enunciado": "¿Qué dupla marcó los siete goles del Real Madrid en la final europea de 1960 contra Eintracht Frankfurt?",
+    "opciones": [
+      "Di Stéfano y Gento",
+      "Puskás y Gento",
+      "Di Stéfano y Del Sol",
+      "Di Stéfano y Puskás"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Puskás hizo cuatro goles y Di Stéfano tres en el 7-3 de Glasgow. La exhibición le dio al Real Madrid su quinta Copa de Europa consecutiva.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "di_stefano_puskas_sociedad_final_1960",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_613",
+    "enunciado": "¿En qué estadio consiguió el Atlético de Madrid el empate de la última fecha que le dio la liga española de 2013-14?",
+    "opciones": [
+      "Camp Nou",
+      "Santiago Bernabéu",
+      "Vicente Calderón",
+      "Mestalla"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Atlético empató 1-1 con Barcelona en el Camp Nou. El cabezazo de Godín igualó el partido y permitió al equipo de Simeone asegurar el campeonato.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "atletico_liga_2014_definicion_camp_nou",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_614",
+    "enunciado": "¿Qué delantero nigeriano fue goleador de la Serie A 2022-23 con el Napoli que conquistó el Scudetto?",
+    "opciones": [
+      "Obafemi Martins",
+      "Victor Osimhen",
+      "Nwankwo Kanu",
+      "Yakubu Aiyegbeni"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Osimhen marcó 26 goles en aquella liga. Fue una figura ofensiva del Napoli que volvió a ser campeón italiano en 2023.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "napoli_scudetto_2023_osimhen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_615",
+    "enunciado": "¿Qué entrenador dirigió a River cuando ganó su primera Libertadores y la Copa Intercontinental en 1986?",
+    "opciones": [
+      "Ángel Labruna",
+      "Daniel Passarella",
+      "Héctor Veira",
+      "Ramón Díaz"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Veira condujo al River campeón argentino de 1985-86 y de las dos copas internacionales de 1986. La Libertadores llegó ante América de Cali y la Intercontinental ante Steaua.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "river_veira_doble_copa_1986",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_616",
+    "enunciado": "¿Quién dirigía a Estudiantes cuando derrotó a Boca en el desempate y ganó el Apertura argentino de 2006?",
+    "opciones": [
+      "Carlos Bilardo",
+      "Alejandro Sabella",
+      "Miguel Ángel Russo",
+      "Diego Simeone"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El Estudiantes de Simeone venció 2-1 a Boca en el desempate, con goles de Sosa y Pavone. Juan Sebastián Verón era el capitán de aquel equipo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "estudiantes_simeone_apertura_2006",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_617",
+    "enunciado": "¿Qué delantero de Vélez marcó con una pirueta el segundo gol ante Milan en la Intercontinental de 1994?",
+    "opciones": [
+      "Omar Asad",
+      "José Oscar Flores",
+      "José Luis Calderón",
+      "Martín Palermo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El Turco Asad aprovechó una confusión defensiva y convirtió con una definición acrobática. Su gol completó el 2-0 después del penal de Roberto Trotta.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "velez_asad_segundo_gol_intercontinental_1994",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_618",
+    "enunciado": "Además de la Bundesliga y la Champions, ¿qué torneo ganó Bayern en 2013 para completar su triplete?",
+    "opciones": [
+      "Supercopa de Europa",
+      "Copa de Alemania",
+      "Mundial de Clubes",
+      "Copa de la UEFA"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bayern completó el triplete de la temporada 2012-13 ganando la Copa de Alemania. En la final derrotó 3-2 a Stuttgart.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "bayern_triplete_2013_copa_alemania",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_619",
+    "enunciado": "Un año antes de ganar la Champions de 2004, ¿qué copa europea conquistó el Porto de Mourinho ante Celtic?",
+    "opciones": [
+      "Recopa de Europa",
+      "Supercopa de Europa",
+      "Copa de la UEFA",
+      "Copa Intertoto"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Porto ganó la Copa de la UEFA de 2003 al superar 3-2 a Celtic tras la prórroga. La temporada siguiente dio otro salto y conquistó la Champions.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "porto_mourinho_copa_uefa_2003",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_620",
+    "enunciado": "¿Qué club gallego ganó la liga española de 1999-2000 con un equipo conocido como Superdépor?",
+    "opciones": [
+      "Celta de Vigo",
+      "Racing de Ferrol",
+      "Compostela",
+      "Deportivo de La Coruña"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Deportivo se consagró campeón de liga en mayo de 2000. El equipo de Javier Irureta terminó por delante del Barcelona y celebró el título en Riazor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "deportivo_liga_1999_2000_superdepor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_621",
+    "enunciado": "¿Qué entrenador sueco llevó a Lazio al doblete de liga y Copa de Italia en la temporada 1999-2000?",
+    "opciones": [
+      "Sven-Göran Eriksson",
+      "Nils Liedholm",
+      "Roy Hodgson",
+      "Lars Lagerbäck"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Eriksson dirigió al Lazio campeón de la Serie A y la Copa de Italia en 2000. El club ya había conquistado la Recopa y la Supercopa de Europa en 1999.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "lazio_eriksson_doblete_2000",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fut_622",
+    "enunciado": "¿Quién hizo tres goles para Dortmund en el 5-2 a Bayern de la final de la Copa de Alemania de 2012?",
+    "opciones": [
+      "Mario Götze",
+      "Robert Lewandowski",
+      "Shinji Kagawa",
+      "Jakub Błaszczykowski"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Lewandowski marcó un triplete en aquella final. El Dortmund de Klopp sumó la Copa de Alemania a la Bundesliga y completó el primer doblete de su historia.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "dortmund_lewandowski_final_copa_2012",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
   }
 ]

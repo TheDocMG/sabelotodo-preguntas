@@ -817,7 +817,7 @@
   },
   {
     "id": "fri_035",
-    "enunciado": "En el célebre juego de preguntas por los departamentos, ¿cómo se llamaba la abuela de Ross y Monica en cuyo departamento ellos vivían?",
+    "enunciado": "En el concurso por el departamento, ¿cómo se llama la abuela fallecida de Ross y Monica que menciona Ross?",
     "opciones": [
       "Gladys",
       "Sylvia",
@@ -825,7 +825,7 @@
       "Gertrude"
     ],
     "respuestaCorrecta": 2,
-    "explicacion": "Monica y Ross vivían en el departamento heredado con renta congelada de su abuela Althea. Chandler respondió correctamente la pregunta en el juego.",
+    "explicacion": "Joey responde Althea y acierta. Chandler se sorprende de su elección; la escena no identifica a esa abuela como la titular del departamento.",
     "dificultad": "dificil",
     "modosPermitidos": [
       "supervivencia",
@@ -836,8 +836,8 @@
     "grupoVariantes": "friends_grandma_althea",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_036",
@@ -1310,14 +1310,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "friends_seven_zones",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_056",
@@ -1982,14 +1981,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "friends_vecino_desnudo",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_084",
@@ -2750,13 +2748,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_mudanza_westchester",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_116",
@@ -2773,13 +2772,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_frank_jr",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_117",
@@ -2796,13 +2796,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_eddie",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_118",
@@ -2819,13 +2820,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_hermanas_joey",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_119",
@@ -2842,13 +2844,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_rosita",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_120",
@@ -2865,13 +2868,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_wenus",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_121",
@@ -2911,13 +2915,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_jill_witherspoon",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_123",
@@ -2934,13 +2939,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_numero_depto",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_124",
@@ -2957,13 +2963,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_creadores",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_125",
@@ -2980,13 +2987,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_spudnik",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_126",
@@ -3003,13 +3011,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_fajitas",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_127",
@@ -3049,13 +3058,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "friends_mac_cheese",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "fri_129",
@@ -3296,5 +3306,3148 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "fri_139",
+    "enunciado": "¿Cómo se entera Ross de que Rachel siente algo por él, mientras todavía sale con Julie?",
+    "opciones": [
+      "Lee una carta que Rachel dejó en su escritorio",
+      "Phoebe se lo cuenta durante una cena",
+      "Escucha un mensaje que Rachel dejó en su contestador",
+      "Rachel se lo confiesa en una boda"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rachel deja un mensaje después de beber en una cita. Al decir que ya lo superó, revela que antes tenía sentimientos por él.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_mensaje_ross",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_140",
+    "enunciado": "¿Qué descubre Rachel en la computadora de Chandler que arruina su acercamiento con Ross?",
+    "opciones": [
+      "Una lista de ventajas y defectos de ella y Julie",
+      "Una carta de amor de Ross para Emily",
+      "Un plan de Ross para mudarse con Carol",
+      "Una lista de regalos para la boda de Julie"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ross compara a Rachel y Julie con ayuda de sus amigos. Rachel lee la lista y se siente herida por cómo él describe sus defectos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_lista_rachel_julie",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_141",
+    "enunciado": "Tras la boda, ¿qué condición pone Emily para intentar salvar su matrimonio con Ross?",
+    "opciones": [
+      "Que abandone la paleontología",
+      "Que deje de hablar con Monica",
+      "Que se haga cargo de su negocio familiar",
+      "Que deje de ver a Rachel"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Emily exige que Ross no vuelva a ver a Rachel. La condición deja al grupo en una situación incómoda y expone la falta de confianza.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_emily_condicion_rachel",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_142",
+    "enunciado": "¿Qué hace Chandler para que Monica no sospeche que está preparando una propuesta de matrimonio?",
+    "opciones": [
+      "Le dice que su familia ya organizó la boda",
+      "Finge que está completamente en contra de casarse",
+      "Finge que planea mudarse con Joey otra vez",
+      "Le pide a Richard que la distraiga con una cena"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Chandler exagera su rechazo al matrimonio para mantener la sorpresa. El plan sale mal: Monica cree que él nunca querrá casarse.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_oculta_propuesta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_143",
+    "enunciado": "Cuando Phoebe y Chandler llevan su falso coqueteo demasiado lejos, ¿qué confesión hace que él se rinda?",
+    "opciones": [
+      "Que está enamorado de Monica",
+      "Que quiere volver con Janice",
+      "Que sabe que Joey planeó la broma",
+      "Que se mudará lejos de Nueva York"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La competencia para obligar al otro a confesar termina cuando Chandler admite que ama a Monica. El secreto ya no puede sostenerse.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_phoebe_coqueteo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_144",
+    "enunciado": "¿Cómo consigue Joey a Mike para la cita a ciegas de Phoebe, después de olvidarse de buscarle acompañante?",
+    "opciones": [
+      "Le pide a Ross que llame a un compañero del museo",
+      "Recurre a un actor que conoció en una audición",
+      "Grita su nombre en Central Perk y lo invita al responder",
+      "Lo presenta después de conocerlo en una boda"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey improvisa con un desconocido que responde al nombre de Mike en la cafetería. La cita comienza con una historia de amistad falsa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_mike_cita_improvisada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_145",
+    "enunciado": "Durante el viaje a la playa, ¿qué idea le sugiere Rachel a Bonnie que vuelve a complicar su relación con Ross?",
+    "opciones": [
+      "Que le pida matrimonio a Ross",
+      "Que vuelva a raparse la cabeza",
+      "Que se marche del viaje sin avisarle",
+      "Que le exija a Ross una carta de disculpas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Rachel anima a Bonnie a volver a raparse. Su intervención muestra que los celos siguen presentes mientras Ross sale con otra mujer.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_bonnie_cabeza_rapada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_146",
+    "enunciado": "¿Qué noticia lleva a Rachel a sugerirle matrimonio a Joshua, aunque apenas llevan unas pocas citas?",
+    "opciones": [
+      "Que Joshua aceptó un empleo en Londres",
+      "Que Barry y Mindy están esperando un bebé",
+      "Que Monica y Chandler ya se comprometieron",
+      "Que Ross y Emily se casarán pronto"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El rápido compromiso de Ross y Emily desestabiliza a Rachel. Ella intenta acelerar su propia relación y termina espantando a Joshua.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joshua_propuesta_apresurada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_147",
+    "enunciado": "Después del nacimiento de Emma, ¿por qué Rachel cree que Joey le está proponiendo matrimonio?",
+    "opciones": [
+      "Phoebe le entrega una invitación de boda de Joey",
+      "Joey le muestra el contrato de una nueva casa",
+      "Lo ve arrodillado sosteniendo un anillo que se cayó",
+      "Ross le anuncia que Joey quiere casarse con ella"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey se agacha para recoger un anillo caído de la chaqueta de Ross. Rachel interpreta la postura y el objeto como una propuesta.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_anillo_hospital",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_148",
+    "enunciado": "¿Qué concluyen Rachel y Joey cuando sus intentos de funcionar como pareja resultan incómodos?",
+    "opciones": [
+      "Que prefieren conservar su amistad",
+      "Que deberían casarse para superar los nervios",
+      "Que deben dejar de ver a Ross por un tiempo",
+      "Que una mudanza juntos resolvería el problema"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La cercanía que funciona tan bien como amistad no se convierte en una relación cómoda. Ambos deciden dejar atrás el intento romántico.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_joey_fin_romance",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_149",
+    "enunciado": "Cuando el dueño recupera el Porsche, ¿cómo intenta Joey seguir aparentando que tiene un auto de lujo?",
+    "opciones": [
+      "Alquila otro Porsche usando la tarjeta de Chandler",
+      "Arma una silueta con cajas y la cubre con una lona",
+      "Pide prestado el auto de Monica y cambia el emblema",
+      "Deja las llaves sobre una foto del auto en el café"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Joey organiza cajas bajo una lona para simular el Porsche. La fachada se derrumba cuando un niño choca contra la falsa carrocería.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_porsche_falso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_150",
+    "enunciado": "¿Qué le piden a Joey en una audición después de que exagera su experiencia como bailarín?",
+    "opciones": [
+      "Que dirija la orquesta durante la prueba",
+      "Que evalúe los vestuarios de todo el elenco",
+      "Que traduzca las instrucciones del director",
+      "Que enseñe una coreografía a los otros aspirantes"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La mentira del currículum se vuelve contra Joey: el director espera que enseñe una secuencia que él mismo no sabe ejecutar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_curriculum_baile",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_151",
+    "enunciado": "¿Por qué Phoebe le dice a Rachel que su prueba de embarazo dio negativo, aunque en realidad dio positivo?",
+    "opciones": [
+      "Para que descubra cómo se siente ante el resultado",
+      "Para evitar que Ross se entere del embarazo",
+      "Porque confunde la prueba con una de Monica",
+      "Porque quiere que Rachel compre otra marca"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Phoebe simula un resultado negativo y Rachel se entristece. Después revela el positivo: buscaba que ella reconociera sus sentimientos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_prueba_embarazo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_152",
+    "enunciado": "¿Qué hace Joey para intentar cobrarle a Ross la reparación de su refrigerador, que ya estaba roto?",
+    "opciones": [
+      "Esconde una factura falsa dentro de su mochila",
+      "Le dice que Ben lo dañó mientras jugaba",
+      "Lo empuja contra el aparato y lo acusa de romperlo",
+      "Finge que el refrigerador se cayó durante una mudanza"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey empuja a Ross contra el refrigerador y pretende culparlo por la avería. Chandler presencia la maniobra y desmonta la mentira.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_nevera_ross",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_153",
+    "enunciado": "¿De quién proviene la historia del viaje por Europa que Rachel y Ross creen poder usar para conquistar al otro?",
+    "opciones": [
+      "De Chandler, que la escribió para un anuncio",
+      "De Phoebe, que la inventó como letra de una canción",
+      "De Richard, que la contó durante una cena",
+      "De Joey, que la difundió usando el nombre Ken Adams"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La historia circula entre conocidos y acaba llegando a ambos. Joey reconoce su propio relato y revela que lo contó como Ken Adams.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_historia_europa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_154",
+    "enunciado": "Para conseguir entradas para un concierto de Sting a través de la escuela de Ben, ¿por quién se hace pasar Phoebe?",
+    "opciones": [
+      "Por Carol, la exesposa de Ross",
+      "Por Susan, una de las madres de Ben",
+      "Por Monica, la tía de Ben",
+      "Por la nueva directora de la escuela"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe descubre que el hijo de Sting estudia con Ben y se presenta como Susan. Su intento de obtener entradas cruza demasiados límites.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_sting_susan",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_155",
+    "enunciado": "Por un error de la agencia de adopción, ¿qué cree Erica sobre las profesiones de Monica y Chandler?",
+    "opciones": [
+      "Que ella es médica y él es abogado",
+      "Que ella es profesora y él es bombero",
+      "Que ella es una ministra religiosa y él es médico",
+      "Que ella es enfermera y él es director de escuela"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La agencia confunde los expedientes y Erica atribuye esas profesiones a la pareja. Chandler termina diciendo la verdad sobre el error.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_erica_archivos_adopcion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_156",
+    "enunciado": "¿Qué cambia la productora sin respetar a Phoebe en el videoclip de su canción Smelly Cat?",
+    "opciones": [
+      "Sustituye su voz por la de otra cantante",
+      "Reemplaza a Phoebe por Ursula en todas las escenas",
+      "Convierte la letra en una canción sobre perros",
+      "Elimina la guitarra y graba solo al público"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Phoebe aparece en el videoclip, pero la voz que se escucha pertenece a otra cantante. Sus amigos detectan enseguida la sustitución.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_smelly_cat_voz_doblada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_157",
+    "enunciado": "Al buscar los regalos de Navidad de Monica, ¿qué encuentran Rachel, Phoebe y Chandler en una bolsa bajo el sofá?",
+    "opciones": [
+      "Los regalos de Joey escondidos entre zapatos",
+      "Un mapa que señala el armario donde están los regalos",
+      "Un recibo que demuestra que Monica aún no compró nada",
+      "Una nota que anticipa que Chandler se sumaría a la búsqueda"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Monica deja una pista falsa con una nota burlona. Incluso había previsto que Rachel y Phoebe convencerían a Chandler de ayudarlas.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_trampa_regalos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_158",
+    "enunciado": "¿Cómo logra un supuesto comprador dejar a Joey atrapado y robar el departamento que comparte con Chandler?",
+    "opciones": [
+      "Le pide que busque una herramienta en el sótano",
+      "Lo convence de bajar a medir su camioneta",
+      "Lo encierra en el mueble que Joey intenta venderle",
+      "Lo deja encerrado en el balcón mientras revisa el sofá"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey entra en el mueble para demostrar que cabe un adulto. El visitante lo encierra y aprovecha para llevarse casi todas sus pertenencias.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_mueble_robo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_159",
+    "enunciado": "¿Cómo termina la disputa entre Ross y Monica en el partido de Acción de Gracias por la Copa Geller?",
+    "opciones": [
+      "Ross acepta perder para que todos puedan cenar",
+      "Los dos siguen sujetando el balón sin querer soltarlo",
+      "Monica entrega el trofeo a Rachel como desempate",
+      "Joey se lleva el balón y declara ganador a Chandler"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Mientras los demás regresan a cenar, los hermanos permanecen en el campo aferrados al mismo balón. Ninguno quiere ceder la victoria.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_geller_balon_final",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_160",
+    "enunciado": "¿Con qué construyen los amigos un palo enorme para comprobar si el vecino de enfrente sigue vivo?",
+    "opciones": [
+      "Con palillos de comida china unidos entre sí",
+      "Con perchas de Joey y Chandler encajadas",
+      "Con mangos de escoba del armario de Monica",
+      "Con varillas de las cortinas de Ross"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El grupo une los palillos que guardaba de pedidos de comida china. Con el artefacto alcanza al vecino y comprueba que estaba dormido.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_dispositivo_palillos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_161",
+    "enunciado": "Al enseñarle a navegar a Joey, ¿qué descubre Rachel sobre su propia manera de dar instrucciones?",
+    "opciones": [
+      "Que olvidó todo lo que aprendió sobre navegación",
+      "Que Joey entiende mejor sus indicaciones en francés",
+      "Que está repitiendo los gritos y exigencias de su padre",
+      "Que solo puede enseñar si Ross dirige la clase"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey protesta por cómo lo trata y Rachel reconoce el tono de su padre. La lección deja de ser divertida por sus órdenes y reproches.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_velero_padre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_162",
+    "enunciado": "¿Por qué Ross acepta jugar rugby con los amigos de Emily, pese a no estar preparado para sus golpes?",
+    "opciones": [
+      "Para ganar una apuesta que hizo con Chandler",
+      "Para conseguir entradas para un partido profesional",
+      "Para demostrar que puede entrenar al equipo de Ben",
+      "Para impresionarla y no parecer cobarde"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Ross no quiere quedar mal ante Emily y sus amigos ingleses. La decisión lo deja golpeado, aunque insiste en seguir jugando.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_rugby_emily",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_163",
+    "enunciado": "En el final de Friends, ¿por qué necesitan romper la mesa de futbolín de Joey y Chandler?",
+    "opciones": [
+      "Porque un pollito y un patito quedaron atrapados dentro",
+      "Porque no cabe por la puerta de la nueva casa",
+      "Porque Chandler perdió la llave del cajón de puntajes",
+      "Porque Monica quiere convertirla en una cuna"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Las nuevas aves quedan dentro de la mesa. Joey y Chandler están demasiado encariñados con ella para romperla, y Monica se encarga.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_futbolin_aves_final",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_164",
+    "enunciado": "¿Por qué Chandler termina llevando a Monica en su espalda durante una salida?",
+    "opciones": [
+      "Porque ella se torció el tobillo en una clase de baile",
+      "Porque sus botas caras le lastiman tanto que no puede caminar",
+      "Porque perdió una apuesta sobre quién hacía más ejercicio",
+      "Porque ella se quedó dormida durante un viaje en taxi"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Monica insiste en usar unas botas costosas aunque le destrozan los pies. El dolor es tan fuerte que Chandler debe cargarla de regreso.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_botas_dolor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_165",
+    "enunciado": "Cuando Chandler no logra sonreír bien para la foto de compromiso, ¿qué solución acaba usando Monica?",
+    "opciones": [
+      "Usa una foto antigua en la que aparece con Richard",
+      "Publica solo sus manos con los anillos",
+      "Pide que dibujen una sonrisa sobre la cara de Chandler",
+      "Publica una foto en la que posa con Joey"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los intentos de enseñarle a Chandler una sonrisa natural fracasan. La foto que aparece en el periódico termina mostrando a Monica con Joey.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_foto_compromiso_joey",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_166",
+    "enunciado": "¿Cómo se vengan Ross y Ben de Rachel después de que ella le enseña al niño varias bromas?",
+    "opciones": [
+      "Hacen caer por la escalera un muñeco vestido como Ross",
+      "Esconden un altavoz que reproduce la voz de Carol",
+      "Cambian las llaves de Rachel por las de Heckles",
+      "Fingen que Ben se mudó sin avisarle a Ross"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rachel cree que Ross acaba de sufrir una caída terrible. Al acercarse descubre el muñeco y comprende que padre e hijo le devolvieron la broma.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_ben_maniqui",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_167",
+    "enunciado": "¿Qué accesorio recomendado por Rachel le gusta tanto a Joey que acaba perjudicándolo en una audición?",
+    "opciones": [
+      "Un sombrero de copa",
+      "Un bastón elegante",
+      "Un bolso de mano",
+      "Un reloj de bolsillo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rachel incorpora el bolso a su nuevo estilo y Joey no quiere dejarlo. Los responsables del reparto tienen problemas con ese accesorio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_bolso_audicion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_168",
+    "enunciado": "Después de horas pasándose una pelota sin dejarla caer, ¿cómo termina Phoebe el juego que obsesiona a Monica?",
+    "opciones": [
+      "La esconde dentro del refrigerador de Joey",
+      "Deja la pelota sobre la mesa en lugar de devolverla",
+      "La lanza por la ventana hacia el patio",
+      "Se la entrega a Gunther para que continúe jugando"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe recibe la pelota, pero no se suma a la competencia: la apoya y se sienta. El gesto corta el interminable desafío del grupo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_fin_pelota",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_169",
+    "enunciado": "¿Qué declaración de Joey en una entrevista provoca que maten a Drake Ramoray en la novela?",
+    "opciones": [
+      "Que él escribe muchas de sus propias líneas",
+      "Que quiere abandonar la televisión",
+      "Que no se lleva bien con su coprotagonista",
+      "Que nunca mira los capítulos de la novela"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los guionistas se ofenden al leerlo y hacen que Drake caiga por el hueco de un ascensor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_entrevista_guionistas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_170",
+    "enunciado": "¿Con qué operación vuelve Drake Ramoray a la trama después de estar en coma?",
+    "opciones": [
+      "Un trasplante de corazón",
+      "Un trasplante de cerebro",
+      "Una operación experimental de la columna",
+      "Una reconstrucción facial"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Drake recibe el cerebro de Jessica Lockhart, el personaje de Cecilia Monroe.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_drake_trasplante_jessica",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_171",
+    "enunciado": "¿Qué hábito de Richard Crosby molesta a Joey mientras filman juntos una película?",
+    "opciones": [
+      "Improvisar todas sus escenas",
+      "Comerse la comida del equipo",
+      "Escupir al pronunciar sus diálogos",
+      "Quedarse dormido entre tomas"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Richard lo presenta como una técnica de buena pronunciación; Joey acaba imitándolo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_richard_crosby_diccion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_172",
+    "enunciado": "En una película, ¿qué parte del cuerpo de Al Pacino debe doblar Joey?",
+    "opciones": [
+      "Las manos",
+      "Los pies",
+      "La espalda",
+      "El trasero"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Joey consigue el trabajo de doble corporal, pero lo pierde por sobreactuar incluso en esa toma.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_doble_pacino",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_173",
+    "enunciado": "¿A qué médico interpreta Joey en el musical que sus amigos van a ver al comienzo de la serie?",
+    "opciones": [
+      "Sigmund Freud",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Carl Jung"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey protagoniza un musical sobre Freud; la función es una de sus primeras actuaciones que ve el grupo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_musical_freud",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_174",
+    "enunciado": "¿Cómo termina el intento de Joey de sabotear a un alumno que compite con él por un papel?",
+    "opciones": [
+      "Los dos quedan fuera de la audición",
+      "El alumno consigue el papel siguiendo su mal consejo",
+      "Joey consigue el papel y despiden al alumno",
+      "El alumno abandona la actuación"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Joey le da un consejo que cree perjudicial, pero esa interpretación convence a quienes hacen el casting.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_alumno_sabotaje",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_175",
+    "enunciado": "¿Qué nombre artístico le propone Chandler a Joey sin advertir inicialmente su carga histórica?",
+    "opciones": [
+      "Joseph Conrad",
+      "Joe Cocker",
+      "Joseph Stalin",
+      "Joseph Kennedy"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Chandler sugiere Joseph Stalin y luego se da cuenta de a quién pertenecía ese nombre.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_nombre_stalin",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_176",
+    "enunciado": "Cuando recortan su aparición en Law & Order, ¿qué graba Joey para engañar a su abuela?",
+    "opciones": [
+      "Un falso anuncio de la próxima temporada",
+      "Una entrevista con Chandler como conductor",
+      "Una escena de hospital con Ross como paciente",
+      "Una escena policial casera con su pato"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Joey prepara una escena casera y la reproduce para que su abuela crea que aparece en el programa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_law_order_abuela",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_177",
+    "enunciado": "Tras perder su categoría en los Soapie, ¿cómo llega Joey a tener un trofeo en sus manos?",
+    "opciones": [
+      "Acepta el premio en nombre de una actriz ausente",
+      "Gana una segunda categoría por sorpresa",
+      "Estelle compra una réplica del premio",
+      "El presentador le entrega un premio honorífico"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey recibe el premio por Jessica Ashley, que no está en la ceremonia, y se encariña con la estatuilla.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_soapie_trofeo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_178",
+    "enunciado": "Cuando se cancela su película en Las Vegas, ¿con qué disfraz trabaja Joey en el casino?",
+    "opciones": [
+      "De vaquero",
+      "De gladiador",
+      "De mago",
+      "De astronauta"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Joey termina trabajando en el Caesars Palace vestido de gladiador, en lugar de filmar la película.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_vegas_gladiador",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_179",
+    "enunciado": "¿A qué ciudad acepta Chandler que lo trasladen después de quedarse dormido en una reunión?",
+    "opciones": [
+      "Chicago",
+      "Boston",
+      "Tulsa",
+      "Seattle"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Chandler asiente medio dormido y termina comprometido con un traslado a Tulsa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_traslado_tulsa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_180",
+    "enunciado": "Al empezar de nuevo en publicidad, ¿qué condición tiene el primer puesto de Chandler?",
+    "opciones": [
+      "Es un contrato como director creativo",
+      "Es un trabajo remoto desde Tulsa",
+      "Es un empleo reservado para excontadores",
+      "Es una pasantía sin sueldo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler comienza como pasante sin sueldo y debe competir con compañeros mucho más jóvenes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_pasantia_publicidad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_181",
+    "enunciado": "¿Qué hace Rachel por error durante una entrevista con el señor Zelner?",
+    "opciones": [
+      "Lo besa al interpretar mal un gesto",
+      "Le ofrece una propina",
+      "Lo confunde con el portero",
+      "Le entrega el currículum de Monica"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rachel interpreta mal un gesto y lo besa; el incómodo incidente no le impide terminar trabajando allí.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_entrevista_zelner_beso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_182",
+    "enunciado": "¿Para qué marca se entrevista Rachel en un restaurante donde su jefe de Ralph Lauren la descubre?",
+    "opciones": [
+      "Prada",
+      "Gucci",
+      "Versace",
+      "Armani"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su jefe está en una mesa cercana, escucha la entrevista y Rachel pierde su empleo en Ralph Lauren.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_entrevista_gucci",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_183",
+    "enunciado": "¿Qué incidente lleva a que Ross deba tomarse una licencia de su trabajo en el museo?",
+    "opciones": [
+      "Romper una pieza durante una visita escolar",
+      "Olvidar cerrar la sala de paleontología",
+      "Gritarle a su jefe por haber comido su sándwich",
+      "Dormirse durante una conferencia del museo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La reacción de Ross al enterarse de que su jefe comió su sándwich termina en una licencia obligatoria.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_sandwich_licencia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_184",
+    "enunciado": "¿Qué recurso usa Ross, por nervios, al dar su primera clase en la universidad?",
+    "opciones": [
+      "Fingir que perdió la voz",
+      "Pedir que Rachel dé la clase",
+      "Leer toda la clase en francés",
+      "Hablar con un falso acento británico"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Ross empieza a hablar con acento británico y luego tiene que explicar a sus alumnos el cambio de voz.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_clase_acento_britanico",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_185",
+    "enunciado": "¿Para qué contrata Monica a Joey como camarero en Alessandro’s?",
+    "opciones": [
+      "Para despedirlo y afirmar su autoridad ante el personal",
+      "Para reemplazarla como jefe de cocina",
+      "Para que escriba una buena crítica del restaurante",
+      "Para que enseñe actuación a los camareros"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El personal desafía a Monica; despedir a Joey delante de todos le permite hacerse respetar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_joey_despido_alessandros",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_186",
+    "enunciado": "¿Cómo se llama el sustituto sintético del chocolate con el que Monica acepta desarrollar recetas?",
+    "opciones": [
+      "Chocotastic",
+      "Mockolate",
+      "Sweetolate",
+      "CocoLite"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Monica intenta cocinar con Mockolate, un producto cuyo sabor resulta tan poco apetitoso como su nombre.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_mockolate_recetas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_187",
+    "enunciado": "¿Por qué Rachel empieza a fumar cuando trabaja con Kim y Nancy?",
+    "opciones": [
+      "Para conseguir un descuento de su empresa",
+      "Para reemplazar el café en sus descansos",
+      "Para participar de decisiones tomadas durante las pausas para fumar",
+      "Para preparar una campaña de perfumes"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rachel descubre que sus compañeras deciden asuntos laborales mientras fuman y busca no quedar afuera.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_fumar_decisiones",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_188",
+    "enunciado": "¿Con qué nombre equivocado llama Bob a Chandler en la oficina?",
+    "opciones": [
+      "Bobby",
+      "Gary",
+      "Jimmy",
+      "Toby"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler deja pasar la confusión durante tanto tiempo que corregir a Bob se vuelve cada vez más incómodo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_bob_toby",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_189",
+    "enunciado": "¿Qué problema causa el mueble para el televisor que construye Joey para el departamento?",
+    "opciones": [
+      "Es tan ancho que bloquea parte de las puertas de los dormitorios",
+      "Tapa la ventana y deja la sala a oscuras",
+      "Hace caer el televisor por falta de estantes",
+      "Impide abrir la puerta de entrada"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey mide mal el espacio y su enorme mueble invade las entradas de las habitaciones.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_mueble_puertas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_190",
+    "enunciado": "¿Qué aparato termina siendo la causa del incendio en el departamento de Phoebe y Rachel?",
+    "opciones": [
+      "El microondas de Phoebe",
+      "La planchita de pelo de Rachel",
+      "La cafetera de Rachel",
+      "El calefactor de Phoebe"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Al principio sospechan de las velas, pero después descubren que el incendio empezó por la planchita de Rachel.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_incendio_planchita_rachel",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_191",
+    "enunciado": "¿Qué hace Joey con Treeger para evitar que Monica y Rachel pierdan su departamento?",
+    "opciones": [
+      "Le pinta gratis todo el edificio",
+      "Le consigue una audición para televisión",
+      "Lo ayuda a practicar baile de salón",
+      "Le cocina la cena durante un mes"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Treeger necesita practicar para un baile; Joey se convierte en su compañero y acaba disfrutándolo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_treeger_baile",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_192",
+    "enunciado": "Al mudarse, ¿a qué aporte se niega Ross y se gana el rechazo de sus nuevos vecinos?",
+    "opciones": [
+      "A comprar otro sofá para el vestíbulo",
+      "A pagar una fiesta de bienvenida para él",
+      "A instalar un gimnasio comunitario",
+      "Al regalo de jubilación del encargado del edificio"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Le piden cien dólares para el regalo de Howard; Ross protesta porque acaba de llegar y no lo conoce.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_vecinos_regalo_howard",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_193",
+    "enunciado": "¿Cómo se venga Joey cuando Chandler esconde su ropa interior?",
+    "opciones": [
+      "Se pone toda la ropa de Chandler a la vez",
+      "Esconde los zapatos de Chandler en el horno",
+      "Regala los trajes de Chandler a Gunther",
+      "Tiñe de rojo las camisas de Chandler"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey aparece vestido con múltiples capas de ropa de Chandler como respuesta a la broma.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_ropa_chandler_venganza",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_194",
+    "enunciado": "¿Qué origen inventa Rachel para la mesa que compró en Pottery Barn y llevó al departamento de Phoebe?",
+    "opciones": [
+      "Que la heredó de su abuela",
+      "Que la encontró en un mercado de pulgas",
+      "Que Joey la construyó a mano",
+      "Que la rescató de un estudio de televisión"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe detesta los muebles producidos en masa, así que Rachel presenta la compra como una pieza antigua.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_mesa_pottery_barn",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_195",
+    "enunciado": "Tras devolver un sofá cortado por la mitad, ¿qué crédito para gastar en la tienda le ofrecen a Ross?",
+    "opciones": [
+      "Diez dólares",
+      "Veinte dólares",
+      "Cuatro dólares",
+      "Cincuenta dólares"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Después del desastroso intento de subirlo por la escalera, Ross acepta un crédito de apenas cuatro dólares.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_sofa_devolucion_credito",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_196",
+    "enunciado": "¿Qué pasa con la primera cena de Acción de Gracias del grupo cuando salen a ver el globo de Underdog?",
+    "opciones": [
+      "Se la come Marcel antes de que regresen",
+      "La recoge un vecino que cree que es para él",
+      "Se enfría porque Monica olvida encender el horno",
+      "Queda quemada porque se quedan afuera sin llave"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Todos salen a ver el globo suelto y quedan encerrados afuera mientras se quema la comida.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_thanksgiving_underdog_cena",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_197",
+    "enunciado": "¿Qué plan permite a Chandler librarse de Eddie como compañero de departamento?",
+    "opciones": [
+      "Cambiar la cerradura y fingir que Joey nunca se había mudado",
+      "Convencer a Eddie de que lo trasladaron a Tulsa",
+      "Mandar a Eddie a una audición en Las Vegas",
+      "Alquilarle a Eddie el departamento de Ross"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey vuelve a instalarse y ambos actúan como si Eddie jamás hubiera vivido allí; él termina aceptándolo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_eddie_cerradura",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_198",
+    "enunciado": "¿Cómo se muda Phoebe cuando ya no soporta convivir con la obsesión por la limpieza de Monica?",
+    "opciones": [
+      "Organiza una mudanza mientras Monica está de viaje",
+      "Saca sus cosas de a poco sin decirle que se está mudando",
+      "Le pide a Ross que le dé la noticia",
+      "Finge que el edificio le prohibió seguir viviendo allí"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe se lleva sus pertenencias gradualmente para evitar lastimar a Monica con una confrontación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_monica_mudanza_gradual",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_199",
+    "enunciado": "¿Por qué Rachel se decepciona de su primer empleo en Fortunata Fashions?",
+    "opciones": [
+      "Termina preparando café y ordenando perchas",
+      "Debe diseñar ropa deportiva",
+      "Le exigen vender ropa puerta a puerta",
+      "La envían a trabajar a otra ciudad"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rachel espera empezar una carrera en moda, pero sus tareas siguen siendo preparar café y ordenar perchas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_fortunata_tareas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_200",
+    "enunciado": "Cuando Joey trabaja como camarero del Central Perk, ¿qué hace para impresionar a clientas que le gustan?",
+    "opciones": [
+      "Les promete contratos de actuación",
+      "Les ofrece comida y bebidas gratis",
+      "Les consigue entradas para conciertos",
+      "Les reserva la cafetería fuera de horario"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Gunther lo reprende porque regala productos a las mujeres que le atraen, en lugar de cobrárselos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_camarero_regalos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_201",
+    "enunciado": "¿Qué puesto le ofrece Pete a Monica después de comprar un restaurante?",
+    "opciones": [
+      "Gerenta de un hotel",
+      "Crítica gastronómica",
+      "Jefa de cocina",
+      "Organizadora de sus viajes"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Pete compra el restaurante y quiere contratar a Monica como jefa de cocina; ella teme que el ofrecimiento tenga motivos románticos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_pete_restaurante_monica",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_202",
+    "enunciado": "¿Qué decisión toma Chandler cuando su trabajo en Tulsa lo mantiene lejos de Monica durante Navidad?",
+    "opciones": [
+      "Pide que Monica se mude de inmediato",
+      "Acepta dirigir otra oficina más lejana",
+      "Cancela las vacaciones de sus compañeros",
+      "Renuncia y vuelve a casa"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler comprende cuánto le pesa ese trabajo, renuncia y regresa para pasar Navidad con Monica.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_renuncia_navidad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_203",
+    "enunciado": "En la cafetería del museo, ¿cómo enfrenta Ross la separación entre científicos y guías después de discutir con Joey?",
+    "opciones": [
+      "Se sienta con Joey entre los guías",
+      "Exige que despidan al encargado",
+      "Deja de comer en el museo",
+      "Reserva una mesa exclusiva para científicos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ross rompe la división informal entre batas blancas y blazers azules al sentarse con su amigo entre los guías.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_joey_museo_mesas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_204",
+    "enunciado": "¿Por qué Phoebe trata de ocultar que trabaja en una gran cadena de spas?",
+    "opciones": [
+      "Había prometido trabajar solo de noche",
+      "Había criticado esas cadenas por perjudicar a los negocios pequeños",
+      "No quería que Mike supiera que daba masajes",
+      "Sus compañeros creían que era médica"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe había condenado las grandes cadenas, pero trabaja en una de ellas y hasta disimula su identidad ante Rachel.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_spa_contradiccion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_205",
+    "enunciado": "Joey llega sin bañarse a un rodaje con Charlton Heston. ¿Qué hace para intentar solucionar el problema?",
+    "opciones": [
+      "Pide que filmen solo sus primeros planos",
+      "Se cambia por un doble durante toda la escena",
+      "Se ducha a escondidas en el camarín de Heston",
+      "Abandona el rodaje para ir a su departamento"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey usa la ducha del camarín de Heston sin permiso y el actor lo sorprende allí.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_heston_ducha",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_206",
+    "enunciado": "Cuando Monica empieza a invertir en bolsa, ¿por qué elige inicialmente las acciones identificadas como MEG?",
+    "opciones": [
+      "Porque Pete le garantiza sus ganancias",
+      "Porque Ross trabaja para esa empresa",
+      "Porque son las únicas que no pueden bajar",
+      "Porque coinciden con sus iniciales"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Monica elige MEG por las iniciales de Monica E. Geller, no por un análisis del negocio.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_acciones_meg",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_207",
+    "enunciado": "En la audición para un anuncio de sopa, ¿qué ingrediente menciona Joey por error una y otra vez?",
+    "opciones": [
+      "Fideos",
+      "Arroz",
+      "Pollo",
+      "Verduras"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey insiste en describirla como sopa de fideos cuando el anuncio exige que diga simplemente sopa.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_anuncio_sopa_fideos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_208",
+    "enunciado": "¿Por qué Joanna perjudica a Rachel durante una entrevista para un ascenso en otro departamento?",
+    "opciones": [
+      "Cree que Rachel piensa mudarse a París",
+      "No quiere perderla como asistente",
+      "Quiere darle el puesto a Sophie",
+      "Descubre que Rachel falsificó su experiencia"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Joanna admite que desacreditó a Rachel porque no quería perder a su asistente. Después intenta retenerla con una oferta mejor.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joanna_sabotea_ascenso",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_209",
+    "enunciado": "¿Qué delata que Chandler recicló una cinta romántica cuando se la regala a Monica?",
+    "opciones": [
+      "La etiqueta tiene el nombre de Rachel",
+      "La música está grabada al revés",
+      "Se escucha la voz de Janice",
+      "Incluye un mensaje de Richard"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La grabación contiene un mensaje de Janice, revelando que ella había preparado la cinta para Chandler.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_cinta_janice_regalo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_210",
+    "enunciado": "¿Qué libro consigue Chandler como un regalo especialmente significativo para el cumpleaños de Kathy?",
+    "opciones": [
+      "El viento en los sauces",
+      "El principito",
+      "Alicia en el país de las maravillas",
+      "El conejo de terciopelo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler consigue una edición antigua de The Velveteen Rabbit, el libro favorito de Kathy, y permite que Joey se lo regale.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_kathy_libro_conejo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_211",
+    "enunciado": "¿Por qué el broche que Ross regala a Rachel por su cumpleaños resulta especialmente significativo?",
+    "opciones": [
+      "Se parece al que tenía la abuela de Rachel",
+      "Contiene la primera foto de Emma",
+      "Es el único objeto que Rachel conservó de su boda",
+      "Monica lo había diseñado en secreto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ross recuerda un broche que Rachel vio en una vidriera y que le recordó al de su abuela. El detalle revela cuánto la escucha.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_rachel_broche_abuela",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_212",
+    "enunciado": "¿Qué ocurre con la extravagante casa de muñecas que construye Phoebe para competir con la de Monica?",
+    "opciones": [
+      "Joey la vende en una subasta",
+      "Se incendia en el departamento de Ross",
+      "Monica la entrega a una escuela",
+      "Termina expuesta en el museo"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe construye su propia casa para incluir los elementos fantásticos que Monica no acepta en la suya. Más tarde se incendia en casa de Ross.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_casa_munecas_incendio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_213",
+    "enunciado": "¿Por qué Joey ofrece una enorme suma por un barco en una subasta benéfica sin entender que deberá pagarla?",
+    "opciones": [
+      "Cree que Chandler ya pagó por él",
+      "Confunde el barco con una maqueta",
+      "Cree que se trata de adivinar el precio del premio",
+      "Piensa que todas las ofertas se cobran al organizador"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey interpreta la subasta como un concurso para adivinar el precio y descubre que su oferta ganadora implica comprar el barco.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_subasta_barco_error",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_214",
+    "enunciado": "¿Qué hace que Phoebe finalmente renuncie a usar el abrigo de piel que había recibido?",
+    "opciones": [
+      "Rachel demuestra que el abrigo es falso",
+      "Monica lo cambia por otro sin avisarle",
+      "Mike le prohíbe usarlo",
+      "Siente que una ardilla la está juzgando"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Aunque el abrigo le encanta, Phoebe interpreta la mirada de una ardilla como un reproche y vuelve a priorizar su rechazo a las pieles.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_abrigo_ardilla",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_215",
+    "enunciado": "Después del robo de sus pertenencias, ¿por qué objeto cambian Joey y Chandler el enorme mueble del televisor?",
+    "opciones": [
+      "Una canoa",
+      "Una mesa de billar",
+      "Una bicicleta doble",
+      "Un piano"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El intercambio los deja con una canoa en un departamento casi vacío, una solución tan poco práctica como cómica.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_mueble_robo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_216",
+    "enunciado": "¿Qué color insiste Ross que tiene la camisa que los demás describen como rosa?",
+    "opciones": [
+      "Coral",
+      "Salmón",
+      "Durazno",
+      "Bordó"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ross defiende que su camisa favorita es de color salmón, aunque los demás la llaman rosa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_camisa_salmon",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_217",
+    "enunciado": "¿Qué tomo de una enciclopedia compra Joey al no poder pagar la colección completa?",
+    "opciones": [
+      "El de la letra J",
+      "El de la letra A",
+      "El de la letra V",
+      "El de la letra R"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey compra solo el tomo V e intenta conducir las conversaciones hacia temas incluidos en ese volumen.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_enciclopedia_v",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_218",
+    "enunciado": "¿Qué objeto de un juego se traga Marcel, obligando a Ross a buscar atención médica para él?",
+    "opciones": [
+      "Un dado de Monopoly",
+      "Una pieza de ajedrez",
+      "Una bolita de un juego de mesa",
+      "Una ficha de Scrabble"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Marcel se traga una ficha de Scrabble, lo que provoca la visita al hospital con Ross y sus amigos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_marcel_ficha_scrabble",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_219",
+    "enunciado": "Después de casarse con Rachel en Las Vegas, ¿qué mentira le dice Ross para evitar afrontar otro divorcio?",
+    "opciones": [
+      "Que ya consiguió anular el matrimonio",
+      "Que la boda nunca se registró",
+      "Que Joey firmó en su lugar",
+      "Que el matrimonio caduca después de un mes"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ross le asegura que obtuvo la anulación, pero siguen casados: quiere evitar convertirse en alguien con tres divorcios.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_anulacion_mentira",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_220",
+    "enunciado": "¿Por qué Chandler se preocupa después de limpiar y reorganizar el departamento de Monica?",
+    "opciones": [
+      "Rompió la puerta de entrada sin querer",
+      "No recuerda dónde iba cada cosa y teme que Monica lo note",
+      "Tiró todos los utensilios de cocina",
+      "Mezcló sus documentos con los de Ross"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ross le advierte cuánto le importa a Monica la ubicación exacta de sus cosas. Chandler intenta deshacer los cambios sin recordar el orden original.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_limpieza_orden_monica",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_221",
+    "enunciado": "¿Por qué Phoebe se resiste a devolver un gato que resulta tener una dueña que lo está buscando?",
+    "opciones": [
+      "Cree que Ross lo adoptó para ella",
+      "Piensa que pertenece a Ursula",
+      "Cree que contiene el espíritu de su madre",
+      "Asegura que Joey ganó el gato en un concurso"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Phoebe cree reconocer el espíritu de su madre en el gato, pero finalmente acepta devolverlo a la niña que lo busca.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_gato_madre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_222",
+    "enunciado": "¿Para qué contrata Joey a Carl, un hombre que intenta hacerse pasar por su hermano gemelo?",
+    "opciones": [
+      "Para rendir una audición en su lugar",
+      "Para distraer a Gunther mientras falta al trabajo",
+      "Para reclamar una herencia familiar",
+      "Para cobrar por participar en un estudio de gemelos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Joey intenta entrar en un estudio remunerado para gemelos, pero los responsables no creen que Carl sea su hermano.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_carl_gemelo_estudio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_223",
+    "enunciado": "¿Qué creación de Ross le devuelve Phoebe cuando descubren que ella lo había asaltado de adolescentes?",
+    "opciones": [
+      "Su historieta Science Boy",
+      "Un cuaderno titulado Dinosaur World",
+      "Su novela Space Professor",
+      "Un álbum llamado Fossil Adventures"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ross había creado Science Boy de niño. Phoebe conservó la historieta del asalto y se la devuelve cuando reconocen aquella conexión.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_ross_science_boy",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_224",
+    "enunciado": "Cuando Rachel busca dónde vivir, ¿cómo se llama la compañera de departamento que Phoebe menciona y nadie conocía?",
+    "opciones": [
+      "Debbie",
+      "Denise",
+      "Daphne",
+      "Donna"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe dice que comparte el departamento con Denise y se indigna porque sus amigos nunca hayan oído hablar de ella.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_companera_denise",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_225",
+    "enunciado": "¿Qué malentendido lleva a Joey a ofrecerle matrimonio a Phoebe al inicio de la octava temporada?",
+    "opciones": [
+      "Cree que Mike la abandonó el día de su boda",
+      "Piensa que debe casarse para conservar su casa",
+      "Cree que Phoebe está embarazada y necesitará ayuda",
+      "Confunde un pedido de consejo con una propuesta"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Phoebe había fingido ser la embarazada para proteger a Rachel. Joey se ofrece a casarse con ella para ayudarla.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_prueba_embarazo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_226",
+    "enunciado": "¿Quién termina comunicándole a Precious que Mike quiere terminar su relación?",
+    "opciones": [
+      "Monica",
+      "Rachel",
+      "Joey",
+      "Phoebe"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Phoebe encuentra a Precious en el departamento de Mike y termina dándole la noticia que él todavía no había comunicado.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_precious_ruptura",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_227",
+    "enunciado": "Chandler besa a Monica delante de Rachel y Phoebe cuando aún ocultan su relación. ¿Cómo intenta disimularlo?",
+    "opciones": [
+      "Besa también a Rachel y Phoebe",
+      "Dice que están ensayando una obra de Joey",
+      "Finge haber confundido a Monica con Janice",
+      "Asegura que todos están jugando a las prendas"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Chandler besa también a las otras dos para hacer pasar el gesto por una nueva forma de saludar, no por una señal de su noviazgo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_besos_disimular",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_228",
+    "enunciado": "¿Por qué fracasa la actuación de Phoebe cuando usa una placa policial encontrada para reprender a Gary?",
+    "opciones": [
+      "Gary reconoce a Phoebe por un anuncio de televisión",
+      "Gary es el policía al que pertenece la placa",
+      "La placa lleva el nombre de Monica",
+      "Ross le había contado a Gary todo el plan"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe intenta hacerse pasar por policía ante el dueño de la placa. Gary descubre el engaño y termina invitándola a salir.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_gary_placa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_229",
+    "enunciado": "¿Por qué los amigos organizan dos fiestas simultáneas para el cumpleaños de Rachel, una en cada departamento?",
+    "opciones": [
+      "Para evitar que sus padres separados se encuentren",
+      "Para que Rachel pueda celebrar con dos grupos de trabajo",
+      "Para ocultarle que Ross invitó a Julie",
+      "Para separar a los invitados que quieren bailar de los que quieren cenar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La madre de Rachel está invitada y su padre llega inesperadamente. Los amigos dividen la celebración y trasladan a los invitados para mantenerlos separados.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_cumple_dos_fiestas_padres",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_230",
+    "enunciado": "¿Cómo termina Joey la cena de cumpleaños de Phoebe cuando los demás se van del restaurante?",
+    "opciones": [
+      "Sale a comprar una torta para Phoebe",
+      "Se queda para comer los platos de los seis",
+      "Se lleva todas las sillas al departamento",
+      "Convence al camarero de cancelar los pedidos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los amigos llegan tarde y vuelven a marcharse por distintos motivos. Joey permanece en la mesa, entusiasmado ante una cena preparada para seis personas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_cumple_joey_cena_seis",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_231",
+    "enunciado": "Cuando llegan tarde a la cena de Acción de Gracias y Monica no los deja entrar, ¿qué le ocurre a Joey al asomarse?",
+    "opciones": [
+      "Se le cae el teléfono dentro de una olla",
+      "Rompe la cadena con la manga de su abrigo",
+      "Su cabeza queda atrapada en la abertura de la puerta",
+      "Pierde un zapato debajo de la mesa"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey mete la cabeza por la puerta entreabierta para pedir que los dejen pasar. Después no puede retirarla, y la discusión se convierte en un rescate absurdo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_accion_gracias_tarde_joey_puerta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_232",
+    "enunciado": "¿Qué intentan conseguir Ross y Monica al ejecutar su antigua coreografía en la grabación del especial de Año Nuevo?",
+    "opciones": [
+      "Un contrato como bailarines profesionales",
+      "Que Joey renuncie a acompañar a Janine",
+      "Ganar entradas para la próxima grabación",
+      "Un lugar en una plataforma para aparecer en televisión"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los hermanos creen que su rutina llamará la atención y les dará un lugar destacado frente a las cámaras. No advierten que el director quiere grabarlos como blooper.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_monica_rutina_plataforma",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_233",
+    "enunciado": "¿Por qué Chandler deja ganar a Ross en el pulso que disputan durante la fiesta de Halloween?",
+    "opciones": [
+      "Para que Ross impresione a Mona",
+      "Para que Monica le permita elegir su disfraz",
+      "Para saldar una apuesta pendiente con Joey",
+      "Para evitar que Rachel descubra su lesión"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Tras un largo empate, Chandler cede para que Ross luzca bien ante su cita. Más tarde le explica a Monica que la derrota fue deliberada.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_halloween_pulso_chandler_mona",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_234",
+    "enunciado": "Cuando una tormenta de nieve arruina los planes de boda de Phoebe y Mike, ¿cómo consiguen celebrar la ceremonia ese día?",
+    "opciones": [
+      "La trasladan al departamento de Ross",
+      "La hacen en la calle frente al Central Perk",
+      "La celebran dentro de un taxi detenido",
+      "La transmiten desde dos habitaciones distintas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La nieve impide que se cumpla el plan original. Rachel propone aprovechar la calle nevada, y el grupo reorganiza la ceremonia para que la pareja pueda casarse.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_mike_boda_nieve_calle",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_235",
+    "enunciado": "¿Qué problema en el rodaje retrasa a Joey cuando debe oficiar la boda de Monica y Chandler?",
+    "opciones": [
+      "El director pierde la grabación del día anterior",
+      "Joey no puede quitarse un disfraz de robot",
+      "Su compañero Richard Crosby está demasiado borracho para filmar",
+      "El estudio cambia el rodaje a otra ciudad"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey necesita terminar a tiempo, pero Crosby no está en condiciones de actuar. La situación retrasa su salida hacia la boda y lo obliga a llegar con su vestuario de rodaje.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_boda_joey_crosby_borracho",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_236",
+    "enunciado": "En el recuerdo de su cumpleaños número 30, ¿cómo reacciona Joey al darse cuenta de que también está envejeciendo?",
+    "opciones": [
+      "Anuncia que dejará de actuar para estudiar medicina",
+      "Finge un desmayo para que cancelen la fiesta",
+      "Decide regalar todas sus pertenencias",
+      "Protesta ante Dios como si hubiera incumplido un trato"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Joey se lamenta y reclama por un supuesto acuerdo para que envejecieran los demás, pero él no. Su reacción contradice la tranquilidad que intenta transmitirle a Rachel.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_cumple_treinta_trato",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_237",
+    "enunciado": "Al cumplir 30, Rachel calcula cuándo quiere casarse y tener hijos. ¿Qué conclusión toma sobre su relación con Tag?",
+    "opciones": [
+      "Que están en etapas distintas y debe terminarla",
+      "Que deben casarse antes de su siguiente cumpleaños",
+      "Que Tag ya había planeado pedirle matrimonio",
+      "Que pueden resolver todo mudándose con Ross"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rachel convierte sus deseos familiares en un calendario y reconoce que Tag no está en la misma etapa. Aunque le cuesta, decide poner fin a la relación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_rachel_treinta_tag_plan_futuro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_238",
+    "enunciado": "Al creer perdidas las cámaras desechables de la boda, ¿cómo intentan Chandler y Ross reemplazar las fotos?",
+    "opciones": [
+      "Fotografían una maqueta del salón",
+      "Se cuelan en otra boda y toman fotos para simular la suya",
+      "Piden a Joey que recree la boda con muñecos",
+      "Cambian la fecha de fotos de una fiesta anterior"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Vuelven al mismo salón durante otra celebración para fabricar imágenes del festejo. El plan resulta innecesario: Monica tenía las cámaras originales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_boda_camaras_chandler_ross_fotos_falsas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_239",
+    "enunciado": "¿Qué desacuerdo frena la mudanza de Phoebe y Mike a un mismo departamento?",
+    "opciones": [
+      "Él quiere vivir con Ross y ella con Joey",
+      "Ella quiere mudarse a Minsk y él quedarse",
+      "Ella quiere poder casarse y él dice que no volverá a hacerlo",
+      "Él exige que Phoebe deje de tocar la guitarra"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Mike afirma que no quiere volver a casarse después de su primer matrimonio. Phoebe no desea iniciar una convivencia que descarte por completo ese futuro.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_mike_convivencia_matrimonio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_240",
+    "enunciado": "Cuando Ross vive con Joey y Chandler, ¿qué costumbre suya los irrita además del ruido de su purificador de aire?",
+    "opciones": [
+      "Les obliga a cocinar por orden alfabético",
+      "Les esconde los controles dentro del congelador",
+      "Les cobra por sentarse en sus sillones",
+      "Les exige silencio con gestos de las manos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Ross intenta imponer silencio mientras trabaja y usa una señal insistente con las manos. Sus hábitos chocan con la convivencia relajada de Joey y Chandler.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_convive_silencio_gestos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_241",
+    "enunciado": "¿Por qué Joey termina su relación con Janine, la bailarina con quien comparte departamento?",
+    "opciones": [
+      "Porque ella no soporta a Monica y Chandler",
+      "Porque ella acepta un trabajo en Minsk",
+      "Porque ella vende el futbolín sin consultarle",
+      "Porque ella quiere que Joey deje la actuación"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Janine critica a los amigos de Joey y el conflicto empeora después de intentar reconciliarse. Joey comprende que no puede sostener una relación que los excluya.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_janine_rechazo_monica_chandler",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_242",
+    "enunciado": "¿Qué cambia la discusión entre Monica y Rachel en su última noche como compañeras de departamento?",
+    "opciones": [
+      "Joey confiesa que rompió las cajas de la mudanza",
+      "Monica recuerda los gestos cariñosos de Rachel como compañera",
+      "Ross anuncia que compró otro departamento para ambas",
+      "Chandler promete vivir solo para que no se separen"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Al explicar a Phoebe las cualidades de Rachel, Monica recuerda sus pequeños cuidados cotidianos. La pelea da paso a las lágrimas por dejar de vivir juntas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_rachel_ultima_noche_recuerdos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_243",
+    "enunciado": "Después de separarse de Richard, ¿qué empieza a preparar Monica en grandes cantidades para mantenerse ocupada?",
+    "opciones": [
+      "Pan para todos los restaurantes del barrio",
+      "Helado para vender en Central Perk",
+      "Mermelada",
+      "Comida para los animales del zoológico"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Monica intenta superar la ruptura con un proyecto que le permita concentrarse en otra cosa. La producción de mermelada invade su rutina y entusiasma a Joey.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_mermelada_superar_richard",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_244",
+    "enunciado": "¿Qué descubrimiento hace que Phoebe comprenda que la rata a la que llamaba Bob era hembra?",
+    "opciones": [
+      "Mike encuentra una ficha veterinaria en la cocina",
+      "La rata responde cuando la llaman Susie",
+      "Ross reconoce una marca en una de sus patas",
+      "Encuentra una camada de crías en el departamento"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Phoebe descubre las crías de Bob y comprende que era su madre. Después de que Bob muere, Phoebe y Mike se hacen cargo de las pequeñas ratas.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_bob_rata_crias",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_245",
+    "enunciado": "¿Qué quiere colocar Chandler en el cuarto que queda libre al mudarse con Monica, mientras ella propone un dormitorio de invitados?",
+    "opciones": [
+      "Máquinas de videojuegos de arcade",
+      "Una colección de fósiles de Ross",
+      "Un estudio de grabación para Phoebe",
+      "Un taller de carpintería para Joey"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Chandler imagina una sala de juegos con máquinas clásicas como Asteroids. Monica quiere una habitación para invitados con antigüedades, y la diferencia provoca una pelea.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_chandler_cuarto_arcade",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_246",
+    "enunciado": "¿Por qué el bombero identifica a Phoebe como quien arrojó el detector de humo al conducto de basura?",
+    "opciones": [
+      "Joey había escrito su dirección en el detector",
+      "Está envuelto en una manta que lleva su nombre",
+      "El aparato reproduce una grabación de Smelly Cat",
+      "Rachel deja una nota firmada junto al conducto"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe intenta librarse del pitido envolviendo el aparato en una manta. El nombre escrito en ella permite al bombero devolvérselo y reprenderla.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_detector_humo_manta_nombre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_247",
+    "enunciado": "¿En qué se convierte el gesto de Monica de dejar dulces junto a su puerta para conocer a los vecinos?",
+    "opciones": [
+      "En un concurso secreto entre todos los departamentos",
+      "En una prohibición de cocinar dentro del edificio",
+      "En una exigencia constante de que prepare más dulces",
+      "En una colecta para que Monica abra un restaurante"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los vecinos se acostumbran a recibir los dulces y empiezan a reclamarlos. Lo que buscaba crear amistad termina sometiendo a Monica a una presión agotadora.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_dulces_vecinos_demanda",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_248",
+    "enunciado": "¿Por qué Jack Geller le regala su Porsche a Monica después de revisar las cajas de su infancia?",
+    "opciones": [
+      "Para premiarla por ganar una competencia de cocina",
+      "Para que lleve a Ross a la universidad todos los días",
+      "Para pagar una deuda que tenía con Richard",
+      "Para compensarla por los recuerdos arruinados en una inundación"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Jack había usado las cajas de Monica para proteger el auto del agua y sus recuerdos quedaron dañados. Al reconocer el daño y el trato desigual, decide darle el Porsche.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_monica_porsche_cajas_inundacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_249",
+    "enunciado": "Cuando Ross les encarga cuidar a Ben, ¿dónde olvidan al bebé Joey y Chandler después de distraerse hablando con unas mujeres?",
+    "opciones": [
+      "En un autobús",
+      "En una lavandería",
+      "En el vestuario del gimnasio",
+      "En una tienda de muebles"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Bajan del autobús sin Ben y corren a recuperarlo. El favor de cuidarlo se convierte en una búsqueda que intentan ocultarle a Ross.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_chandler_ben_olvidado_bus",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_250",
+    "enunciado": "Cuando Phoebe se ofrece a enseñarle guitarra a Joey, ¿qué regla inesperada le impone al comenzar?",
+    "opciones": [
+      "Aprender primero a leer partituras de piano",
+      "Practicar las posiciones sin tocar una guitarra",
+      "Cantar todas las notas antes de sentarse",
+      "Tocar únicamente con los ojos cerrados"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe quiere que memorice las formas de los acordes antes de usar el instrumento. Joey se frustra porque las clases no le permiten tocar una guitarra real.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_joey_guitarra_sin_instrumento",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_251",
+    "enunciado": "¿Cómo consigue Chandler que Monica deje de insistir con sus entrenamientos para ponerlo en forma?",
+    "opciones": [
+      "Le compra una inscripción a un gimnasio exclusivo",
+      "Convence a Ross de reemplazarlo en cada sesión",
+      "Le recuerda sus problemas hasta desanimarla y ofrecerle descansar",
+      "Finge que ganó una carrera y ya no necesita entrenar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Chandler está agotado por la intensidad de Monica. Le recuerda sus dificultades laborales y sentimentales hasta que ella acepta acostarse en vez de salir a correr.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_monica_entrenamiento_desanimo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_252",
+    "enunciado": "¿Por qué la donación de Phoebe a PBS no resuelve su discusión con Joey sobre hacer una buena acción sin beneficio personal?",
+    "opciones": [
+      "PBS le devuelve el dinero antes de emitir el programa",
+      "Joey descubre que la donación estaba a nombre de Ursula",
+      "Phoebe recibe automáticamente un premio en efectivo",
+      "La donación hace aparecer a Joey en televisión y eso la alegra"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Phoebe cree que donar a una organización que le desagrada será desinteresado. Cuando su aporte consigue que Joey salga en pantalla, se siente feliz y su ejemplo falla.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_pbs_donacion_alegria_joey",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_253",
+    "enunciado": "¿Qué hacen Phoebe y Joey al organizar citas desastrosas para Ross y Rachel la misma noche?",
+    "opciones": [
+      "Intentan que valoren lo que tenían juntos y se reconcilien",
+      "Intentan que olviden a sus amigos para siempre",
+      "Buscan reemplazarlos en el grupo con dos personas nuevas",
+      "Preparan una competencia de citas para el Central Perk"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Phoebe elige una mala cita para Rachel y Joey hace que la de Ross no se presente. Esperan que la decepción acerque de nuevo a ambos, pero ellos descubren el plan.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_joey_citas_malas_reconciliar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_254",
+    "enunciado": "¿Qué oportunidad profesional deja pasar Ross para acompañar a Rachel al hospital cuando cree que tiene una costilla rota?",
+    "opciones": [
+      "Dirigir una excavación en Egipto",
+      "Participar en un programa del Discovery Channel",
+      "Dar una conferencia en Londres",
+      "Presentar un libro en el Central Perk"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ross prioriza ayudar a Rachel en lugar de asistir a la participación televisiva que tenía prevista. Ella descubre después, por Joey, lo que él había dejado pasar.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_ross_rachel_costilla_discovery",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_255",
+    "enunciado": "¿Por qué la primera carta de Joey para apoyar la adopción de Monica y Chandler resulta casi incomprensible?",
+    "opciones": [
+      "Escribe los párrafos en orden inverso",
+      "Confunde la carta con el guion de una audición",
+      "Reemplaza demasiadas palabras usando un diccionario de sinónimos",
+      "Traduce cada oración a un idioma distinto"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey quiere sonar sofisticado y cambia palabras sencillas por términos que no encajan. Sus amigos le piden que escriba con sinceridad en lugar de complicar el texto.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_joey_adopcion_carta_sinonimos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_256",
+    "enunciado": "¿Qué ocurre cuando Chandler recibe una llamada con un cambio en la audición de Joey para Mac and C.H.E.E.S.E.?",
+    "opciones": [
+      "Confirma que Joey no quiere volver a actuar",
+      "Acepta hacer él mismo la audición en lugar de Joey",
+      "Le comunica por error que la serie ya fue cancelada",
+      "Olvida transmitirle el nuevo horario y Joey pierde la cita"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler se distrae antes de terminar el mensaje. Joey llega sin saber que debía presentarse antes, y el descuido pone en riesgo una oportunidad importante.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_mensaje_audicion_mac_cheese",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_257",
+    "enunciado": "¿Qué hace Chandler para darle dinero a Joey cuando este se niega a recibir ayuda antes de quedarse viviendo solo?",
+    "opciones": [
+      "Inventa un juego de cartas y hace que Joey gane dinero",
+      "Le compra en secreto todas las entradas de una obra",
+      "Paga a Gunther para que aumente su sueldo",
+      "Organiza una falsa devolución de impuestos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Chandler inventa Cups y acomoda las reglas para que Joey gane. El plan se complica cuando Joey juega después con Ross y pierde el dinero que había recibido.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_chandler_joey_ayuda_juego_cups",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_258",
+    "enunciado": "¿Por qué Phoebe llama a Joey imitando la voz de Estelle después de enterarse de que la agente murió?",
+    "opciones": [
+      "Para conseguirle un papel usando el teléfono de Estelle",
+      "Para evitarle otra noticia dolorosa en un momento de muchos cambios",
+      "Para recuperar una comisión que Estelle había cobrado",
+      "Para convencerlo de abandonar la actuación"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Phoebe teme que Joey no soporte otra pérdida mientras sus amigos cambian de vida. Intenta protegerlo fingiendo ser Estelle, pero el engaño complica aún más la situación.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_phoebe_estelle_voz_proteger_joey",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_259",
+    "enunciado": "En el test de Ross, ¿qué costumbre le resulta especialmente irritante a Monica?",
+    "opciones": [
+      "Vestir animales como personas",
+      "Hablar durante las películas",
+      "Mezclar comida en el plato",
+      "Doblar las páginas de los libros"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey identifica esa manía y consigue el primer acierto del concurso.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_monica_animales_vestidos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_260",
+    "enunciado": "¿Qué artista le provoca miedo a Chandler, según el concurso de Ross?",
+    "opciones": [
+      "David Copperfield",
+      "Michael Flatley, de Lord of the Dance",
+      "Marcel Marceau",
+      "Harry Houdini"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Monica acierta. El baile le resulta inquietante a Chandler por el movimiento de las piernas.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_chandler_michael_flatley",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_261",
+    "enunciado": "En el test de Ross, ¿con qué nombre llega la revista TV Guide al departamento de los chicos?",
+    "opciones": [
+      "Mr. Chandler Bing",
+      "Joey Tribbiani",
+      "Miss Chanandler Bong",
+      "Chandler Geller"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rachel responde con el nombre habitual de su amigo, pero la suscripción tiene un error muy peculiar.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_tv_guide_chanandler_bong",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_262",
+    "enunciado": "En el concurso por el departamento, ¿qué película dice Rachel que es su favorita?",
+    "opciones": [
+      "Pretty Woman",
+      "Cuando Harry conoció a Sally",
+      "Weekend at Bernie’s",
+      "Dangerous Liaisons"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Chandler acierta la preferencia que Rachel declara. La pregunta siguiente distingue esa afirmación de su gusto real.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_rachel_peliculas_favoritas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_263",
+    "enunciado": "Según el test de Ross, ¿cuál es la verdadera película favorita de Rachel?",
+    "opciones": [
+      "Weekend at Bernie’s",
+      "Dangerous Liaisons",
+      "Ghost",
+      "Dirty Dancing"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Joey acierta esta segunda pregunta sobre cine. Para evitar diferencias entre títulos regionales, las opciones usan los originales.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_rachel_peliculas_favoritas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_264",
+    "enunciado": "Según la pregunta de Ross, ¿dónde se le quedó un lápiz atascado a Monica cuando tenía 14 años?",
+    "opciones": [
+      "En la nariz",
+      "En la oreja",
+      "En la mano",
+      "En el pie"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ross revela la respuesta después de que Chandler se la susurra equivocada. Es el fallo de los chicos en la ronda rápida.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_monica_lapiz_oreja",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_265",
+    "enunciado": "En el concurso de Ross, ¿cuántas categorías de toallas tiene Monica?",
+    "opciones": [
+      "7",
+      "9",
+      "11",
+      "13"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Joey consigue el acierto justo antes de que termine el tiempo. Su organización doméstica es más detallada de lo que parece.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_monica_once_toallas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_266",
+    "enunciado": "¿Cuál es la comida favorita de Joey que Monica identifica en la ronda rápida de Ross?",
+    "opciones": [
+      "Pizza",
+      "Lasaña",
+      "Hamburguesas",
+      "Sándwiches"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Monica responde de inmediato. La pregunta aprovecha una de las preferencias más reconocibles de Joey.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_joey_comida_sandwiches",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_267",
+    "enunciado": "Según el test de Ross, ¿a qué edad Chandler tocó por primera vez el pecho de una chica?",
+    "opciones": [
+      "19 años",
+      "14 años",
+      "16 años",
+      "21 años"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rachel lo sitúa en una edad menor, pero Ross la corrige. Esta pregunta queda fuera del modo Familiar.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_chandler_primera_experiencia_19",
+    "activa": true,
+    "aptaFamilia": false,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_268",
+    "enunciado": "En el test de Ross, ¿cómo se llamaba el amigo imaginario de la infancia de Joey?",
+    "opciones": [
+      "Marcel",
+      "Maurice",
+      "Murray",
+      "Marshall"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Monica recuerda el nombre. Ross continúa con otra pregunta sobre ese mismo personaje imaginario.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_joey_maurice_amigo_imaginario",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "fri_269",
+    "enunciado": "¿A qué se dedicaba el amigo imaginario de Joey, según la pregunta que Ross hace en el concurso?",
+    "opciones": [
+      "Detective submarino",
+      "Domador de dragones",
+      "Vaquero espacial",
+      "Pirata del desierto"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Rachel responde correctamente a esta continuación de la pregunta anterior. Ambas comparten grupo de variantes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "familia",
+      "lobo_solitario"
+    ],
+    "grupoVariantes": "friends_quiz_joey_maurice_amigo_imaginario",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
   }
 ]

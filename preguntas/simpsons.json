@@ -1718,14 +1718,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_itchy_scratchy",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-24"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_073",
@@ -2270,14 +2269,13 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
-      "lobo_solitario",
-      "familia"
+      "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_fudd_beer",
     "activa": true,
-    "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-24"
+    "aptaFamilia": false,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_096",
@@ -3734,13 +3732,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_primeras_palabras",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_157",
@@ -3757,13 +3756,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_sr_teeny",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_158",
@@ -3780,13 +3780,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_michael_jackson",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_159",
@@ -3803,13 +3804,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_segundo_nombre_bart",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_160",
@@ -3826,13 +3828,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_pelos_homero",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_161",
@@ -3849,13 +3852,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_padres_milhouse",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_162",
@@ -3872,13 +3876,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_voz_bart",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_163",
@@ -3895,13 +3900,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_phil_hartman",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_164",
@@ -3918,13 +3924,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_hugo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_165",
@@ -3941,13 +3948,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_edad_burns",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_166",
@@ -3964,17 +3972,18 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_iq_lisa",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_167",
-    "enunciado": "¿Qué actriz mexicana le dio la voz latina a Bart en las primeras 15 temporadas?",
+    "enunciado": "¿Qué actriz mexicana fue la primera voz de Bart Simpson en el doblaje latinoamericano?",
     "opciones": [
       "Patricia Acevedo",
       "Marina Huerta",
@@ -3982,18 +3991,19 @@
       "Claudia Motta"
     ],
     "respuestaCorrecta": 1,
-    "explicacion": "Junto a Humberto Vélez como Homero formó el elenco clásico. Patricia Acevedo, en cambio, era la voz de Lisa.",
+    "explicacion": "Marina Huerta fue la primera voz latina de Bart. Claudia Motta la reemplazó durante la novena temporada y continuó hasta la decimoquinta.",
     "dificultad": "dificil",
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_voz_latina_bart",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_168",
@@ -4010,13 +4020,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_hijos_flanders",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_169",
@@ -4033,13 +4044,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simpsons_presentacion_hd",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "simp_170",
@@ -4996,6 +5008,1446 @@
       "familia"
     ],
     "grupoVariantes": "simpsons_lisa_playa_anuario",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_210",
+    "enunciado": "¿Con quién intercambia Bart su examen de inteligencia para que lo envíen a una escuela de superdotados?",
+    "opciones": [
+      "Con Martin Prince",
+      "Con Milhouse",
+      "Con Ralph Gorgory",
+      "Con Nelson Muntz"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Bart cambia su examen por el de Martin y el resultado hace que lo consideren un genio.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_examen_martin",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_211",
+    "enunciado": "¿Qué profesión le pronostica a Bart el test vocacional que lo lleva a ayudar en la escuela?",
+    "opciones": [
+      "Médico",
+      "Policía",
+      "Maestro",
+      "Astronauta"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El resultado dice que Bart sería policía; Skinner lo convierte en monitor de pasillos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_test_policia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_212",
+    "enunciado": "Durante la huelga de maestros, ¿quién termina siendo la maestra suplente de Bart?",
+    "opciones": [
+      "Patty Bouvier",
+      "Luann Van Houten",
+      "Marge Simpson",
+      "La señora Hoover"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Tras espantar a otros suplentes, Bart tiene que soportar a su propia madre frente a la clase.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_huelga_marge_suplente",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_213",
+    "enunciado": "Para su falsa correspondencia romántica con Edna, ¿de qué deportista toma Bart una foto?",
+    "opciones": [
+      "Wayne Gretzky",
+      "Michael Jordan",
+      "Joe Montana",
+      "Gordie Howe"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Bart usa la foto del jugador de hockey Gordie Howe para darle rostro a su pretendiente inventado.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_edna_woodrow_foto",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_214",
+    "enunciado": "Castigado a ayudar a Skinner con astronomía, ¿qué descubre Bart al mirar por el telescopio?",
+    "opciones": [
+      "Un cometa",
+      "Una nueva luna de Júpiter",
+      "Una nave extraterrestre",
+      "Un eclipse solar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Bart encuentra por accidente el cometa que después amenaza a Springfield.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_telescopio_cometa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_215",
+    "enunciado": "¿Qué travesura con megáfonos lleva a Bart a una escuela militar?",
+    "opciones": [
+      "Transmitir la voz de Skinner por la radio",
+      "Alinear varios megáfonos y romper los vidrios con el sonido",
+      "Tapar los parlantes del gimnasio",
+      "Hacer sonar la alarma de incendios"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Bart amplifica su voz con megáfonos y la onda sonora rompe cristales por la ciudad.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_megafonos_cristales",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_216",
+    "enunciado": "¿Qué animal lleva Bart a la escuela y termina provocando el despido de Skinner?",
+    "opciones": [
+      "El gato Bola de Nieve II",
+      "Un elefante",
+      "Su perro Ayudante de Santa",
+      "El mono de Krusty"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El perro se mete en los conductos de ventilación y el caos termina costándole el puesto a Skinner.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_escuela_perro_skinner_despido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_217",
+    "enunciado": "En una excursión escolar aburridísima, ¿qué fábrica abandona Bart antes de acabar trabajando para Krusty?",
+    "opciones": [
+      "Una fábrica de rosquillas",
+      "Una planta de galletas",
+      "Una fábrica de juguetes",
+      "Una fábrica de cajas"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Bart se escapa de la visita a la fábrica de cajas y aparece en el estudio de Krusty.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_fabrica_cajas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_218",
+    "enunciado": "¿Con qué videojuego se distrae Lisa antes de copiar en un examen que da dinero a la escuela?",
+    "opciones": [
+      "Dash Dingo",
+      "Bonestorm",
+      "Escape from Grandma’s House",
+      "Kevin Costner’s Waterworld"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Lisa se engancha con Dash Dingo mientras está enferma, descuida la lectura y acaba haciendo trampa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_dash_dingo_examen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_219",
+    "enunciado": "¿Sobre qué libro debía rendir Lisa cuando copió en el examen que otorgó una subvención a la escuela?",
+    "opciones": [
+      "La isla del tesoro",
+      "El viento en los sauces",
+      "Alicia en el país de las maravillas",
+      "Mujercitas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El examen era sobre El viento en los sauces, libro que Lisa había dejado de leer por jugar a Dash Dingo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_dash_dingo_examen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_220",
+    "enunciado": "¿Qué muñeco de televisión le quita audiencia a Krusty hasta provocar la cancelación de su programa?",
+    "opciones": [
+      "Bobo",
+      "Poochie",
+      "Gabbo",
+      "Funtastic Flandy"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El programa del muñeco Gabbo desplaza al de Krusty y Bart y Lisa organizan su regreso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_gabbo_krusty_cancela",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_221",
+    "enunciado": "Para que acepten sus guiones de Tomy y Daly, ¿qué nombre ponen Bart y Lisa como autor?",
+    "opciones": [
+      "El del Sr. Burns",
+      "El de Krusty",
+      "El de Milhouse",
+      "El del Abuelo Simpson"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Cuando rechazan su guion por ser niños, lo reenvían bajo el nombre de Abraham Simpson.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_tomy_daly_guion_abuelo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_222",
+    "enunciado": "¿A qué escuela se anota Homero para trabajar como doble de Krusty?",
+    "opciones": [
+      "A la escuela de payasos de Krusty",
+      "A la academia de bomberos",
+      "A la escuela de cine de Troy McClure",
+      "A la academia de magia de Springfield"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Homero se forma como imitador de Krusty y luego hasta la mafia lo confunde con el payaso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_escuela_payasos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_223",
+    "enunciado": "¿Qué servicio hace instalar Homero ilegalmente en su casa, provocando la protesta de Lisa?",
+    "opciones": [
+      "Internet satelital",
+      "Televisión por cable",
+      "Radio de onda corta",
+      "Una línea telefónica extra"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Lisa se niega a ver la televisión por cable robada porque considera que hacerlo está mal.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lisa_cable_ilegal",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_224",
+    "enunciado": "En la película del Hombre Radioactivo filmada en Springfield, ¿quién consigue el papel de Niño Fisión?",
+    "opciones": [
+      "Bart",
+      "Nelson",
+      "Milhouse",
+      "Ralph"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Aunque Bart quiere el papel, los productores eligen a Milhouse como compañero del héroe.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_milhouse_nino_fision",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_225",
+    "enunciado": "En el parque de Tomy y Daly, ¿qué atracción se vuelve contra los visitantes?",
+    "opciones": [
+      "Los barcos de la laguna",
+      "Las montañas rusas",
+      "Los juegos de puntería",
+      "Los robots de los personajes"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los muñecos robóticos que debían entretener a las familias empiezan a atacarlas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_parque_tomy_daly_robots",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_226",
+    "enunciado": "¿Qué trabajo consigue Homero en el periódico local después de colarse en una fiesta de la redacción?",
+    "opciones": [
+      "Crítico gastronómico",
+      "Reportero policial",
+      "Fotógrafo deportivo",
+      "Corrector de crucigramas"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Su entusiasmo por comer lo lleva a escribir críticas de restaurantes para el diario de Springfield.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_critico_restaurantes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_227",
+    "enunciado": "Cuando la taberna de Moe se hace famosa por su bebida especial, ¿qué banda toca allí?",
+    "opciones": [
+      "Queen",
+      "Aerosmith",
+      "Guns N’ Roses",
+      "Red Hot Chili Peppers"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Aerosmith aparece en la taberna durante el auge del trago que Moe se atribuye.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_moe_bar_aerosmith",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_228",
+    "enunciado": "¿Qué detalle de los zapatos ayuda a Bart a desenmascarar a quien inculpó a Krusty por un robo?",
+    "opciones": [
+      "Las huellas de barro de Homero",
+      "Los cordones rojos de Moe",
+      "Los pies enormes de Bob Patiño",
+      "Las suelas rotas de Apu"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Krusty tiene pies normales; Bob llena realmente los enormes zapatos del ladrón.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bob_krusty_robo_pies",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_229",
+    "enunciado": "¿Qué transporte compra Springfield después de que Lyle Lanley entusiasma al pueblo en una asamblea?",
+    "opciones": [
+      "Un teleférico",
+      "Una red de tranvías",
+      "Una flota de taxis",
+      "Un monorriel"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Lanley convence a los vecinos de gastar la multa cobrada a Burns en un monorriel.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_lanley_monorriel_venta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_230",
+    "enunciado": "¿A qué chico elige el Sr. Burns como heredero de su fortuna?",
+    "opciones": [
+      "A Bart",
+      "A Milhouse",
+      "A Nelson",
+      "A Martin"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Burns cree ver en Bart la malicia necesaria para continuar su legado.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_heredero_bart",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_231",
+    "enunciado": "El supuesto extraterrestre que Homero ve brillar en el bosque resulta ser...",
+    "opciones": [
+      "El profesor Frink",
+      "El Sr. Burns",
+      "Kang",
+      "El jefe Gorgory"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La figura es Burns, desorientado por sus tratamientos y con un resplandor verdoso.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_extraterrestre_bosque",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_232",
+    "enunciado": "Cuando Smithers se toma vacaciones, ¿quién ocupa temporalmente su puesto junto al Sr. Burns?",
+    "opciones": [
+      "Ned Flanders",
+      "Barney",
+      "Homero",
+      "El Abuelo Simpson"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Smithers deja a Homero como sustituto con la esperanza de que Burns valore su ayuda.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_homero_suplente_smithers",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_233",
+    "enunciado": "Tras perder su fortuna, ¿qué actividad le enseña Lisa al Sr. Burns para que empiece a recuperarla?",
+    "opciones": [
+      "La jardinería",
+      "La repostería",
+      "La pesca deportiva",
+      "El reciclaje"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Burns empieza recogiendo y vendiendo material reciclable, aunque luego traiciona el espíritu del proyecto.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_lisa_reciclaje",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_234",
+    "enunciado": "En el retiro de la planta en la montaña, ¿qué provoca la avalancha que encierra a Homero y Burns?",
+    "opciones": [
+      "El brindis en el que chocan sus copas",
+      "Una pelea de bolas de nieve",
+      "El ladrido de Ayudante de Santa",
+      "El rugido de un oso"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Al brindar en la cabaña, el sonido desencadena la avalancha que la sepulta.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_homero_avalancha_brindis",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_235",
+    "enunciado": "Después de un huracán, ¿qué casa de Springfield queda destruida y los vecinos reconstruyen mal?",
+    "opciones": [
+      "La del Sr. Burns",
+      "La de Ned Flanders",
+      "La de Moe",
+      "La de la familia Van Houten"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El huracán arrasa únicamente la casa de los Flanders; la reconstrucción vecinal sale bastante mal.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_huracan_casa_flanders",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_236",
+    "enunciado": "Cuando los hijos de Homero y Marge quedan temporalmente bajo cuidado de otra familia, ¿quién los recibe?",
+    "opciones": [
+      "Patty y Selma",
+      "Kirk y Luann Van Houten",
+      "Ned y Maude Flanders",
+      "Apu y Manjula"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los servicios sociales alojan a Bart, Lisa y Maggie en la casa de al lado, con los Flanders.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_hijos_acogida_flanders",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_237",
+    "enunciado": "¿Qué debe hacer quien pierda la apuesta entre Homero y Ned en el torneo de minigolf de sus hijos?",
+    "opciones": [
+      "Pagar unas vacaciones familiares",
+      "Pintar la escuela de Springfield",
+      "Trabajar una semana en la taberna de Moe",
+      "Cortar el césped del otro con un vestido de su esposa"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Bart y Todd empatan; por la redacción de la apuesta, ambos padres terminan cortando el césped vestidos así.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_ned_minigolf_apuesta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_238",
+    "enunciado": "¿Qué entrada comparte Ned con Homero y desata una amistad tan intensa que Ned se agobia?",
+    "opciones": [
+      "La de un partido de fútbol americano",
+      "La de un concierto de jazz",
+      "La de una función de cine",
+      "La de una feria de ciencias"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Ned gana entradas para el partido y lleva a Homero, que empieza a buscar su compañía a todas horas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_ned_homero_partido_amistad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_239",
+    "enunciado": "Tras la separación de los padres de Milhouse, ¿qué hace Homero por miedo a que su matrimonio termine igual?",
+    "opciones": [
+      "Se muda con Flanders",
+      "Organiza una nueva boda con Marge",
+      "Se anota en un concurso de parejas",
+      "Compra una casa en Shelbyville"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La ruptura de Kirk y Luann lo inquieta y prepara otra ceremonia para Marge.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_marge_boda_renovacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_240",
+    "enunciado": "Durante la huelga por el plan dental, ¿qué hace Burns para intentar doblegar a los trabajadores?",
+    "opciones": [
+      "Corta la electricidad de Springfield",
+      "Cierra todas las escuelas",
+      "Compra el sindicato rival",
+      "Prohíbe vender comida a los obreros"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Burns y Smithers apagan la electricidad de la ciudad. Los trabajadores siguen unidos, por lo que el apagón no consigue quebrar la huelga.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_dental_plan",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_241",
+    "enunciado": "En «Homero al bate», ¿cómo consigue Homero impulsar la carrera que gana el partido para la planta?",
+    "opciones": [
+      "Batea un cuadrangular",
+      "La pelota del lanzador lo golpea",
+      "Roba la base de home",
+      "Atrapa una pelota fuera del estadio"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Con las bases llenas, Burns pone a Homero a batear. El lanzamiento lo golpea y obliga a avanzar a los corredores, produciendo la carrera ganadora.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_bate_pelotazo_final",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_242",
+    "enunciado": "Tras vender la planta a empresarios alemanes, ¿qué convence a Burns de que quiere recuperarla?",
+    "opciones": [
+      "Los nuevos dueños borran su retrato",
+      "Smithers se convierte en el director",
+      "Los empleados ya no le tienen miedo",
+      "Descubre petróleo debajo del edificio"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Burns comprueba que el dinero no reemplaza el poder que tenía como jefe. La libertad con que los empleados lo tratan lo impulsa a comprar la planta otra vez.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_recupera_planta_poder",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_243",
+    "enunciado": "Durante la campaña de Burns a gobernador, ¿qué le sirve Marge en la cena televisada que arruina su imagen?",
+    "opciones": [
+      "Una dona radiactiva",
+      "Un pastel con su retrato",
+      "Una hamburguesa de su fábrica",
+      "Un pez de tres ojos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Marge le sirve un pez como el que Burns había defendido públicamente. Él escupe el bocado ante las cámaras y contradice su propio discurso.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_blinky",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_244",
+    "enunciado": "En la historia del oso Bobo, ¿qué termina convenciendo a Maggie de devolvérselo a Burns?",
+    "opciones": [
+      "Ver lo triste que está sin su oso",
+      "Recibir una montaña de juguetes",
+      "Que Smithers se lo cambie por otro",
+      "Que Burns compre la casa de los Simpson"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Maggie ve la tristeza de Burns y le entrega el peluche por voluntad propia. El gesto consigue lo que sus presiones y ofertas no habían logrado.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bobo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_245",
+    "enunciado": "Cuando Homero trabaja desde casa por su peso, ¿cómo termina evitando la fuga del tanque de la planta?",
+    "opciones": [
+      "La controla con su computadora",
+      "Su cuerpo tapa la abertura del tanque",
+      "La sella con un barril de cemento",
+      "Usa un camión para cerrar una válvula"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Homero llega a la planta y termina atascado en la abertura del tanque. Su cuerpo impide la salida del gas y evita el desastre.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_king_size_homer",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_246",
+    "enunciado": "En «Homero definido», ¿cómo elige Homero el botón que evita la fusión del reactor?",
+    "opciones": [
+      "Sigue las instrucciones de Lisa",
+      "Recuerda una capacitación reciente",
+      "Lo elige al azar con una rima",
+      "Recibe la respuesta de Smithers"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Sin saber qué control usar, Homero hace una elección al azar. El acierto lo convierte en héroe, aunque él sabe que fue pura suerte.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_definido_boton_azar",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_247",
+    "enunciado": "Cuando una nueva ingeniera atrae a Homero en la planta, ¿qué descubre que tienen en común?",
+    "opciones": [
+      "El deseo de comprar la planta",
+      "Una afición por la música clásica",
+      "El interés por estudiar física nuclear",
+      "Sus gustos por la comida y la televisión"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Homero descubre que la ingeniera comparte placeres cotidianos que él disfruta. Esa afinidad lo sorprende y sostiene la tentación del episodio.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_ingeniera_gustos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_248",
+    "enunciado": "Cuando Marge trabaja en la planta, ¿a qué cantante lleva Burns para intentar conquistarla con un concierto privado?",
+    "opciones": [
+      "Tom Jones",
+      "Elton John",
+      "Rod Stewart",
+      "Paul McCartney"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Burns organiza una presentación de Tom Jones para impresionar a Marge. El cantante termina actuando para ella y Homero.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_marge_tom_jones",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_249",
+    "enunciado": "En el retiro de la planta en la montaña, ¿qué acaba impulsando la cabaña de Burns y Homero fuera de la nieve?",
+    "opciones": [
+      "Un trineo escondido bajo el piso",
+      "Un tanque de gas que se enciende",
+      "Un helicóptero de rescate",
+      "Un motor que construye Homero"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Durante el enfrentamiento, Burns prende accidentalmente el gas del tanque. La cabaña sale propulsada y se desliza montaña abajo como un cohete.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_burns_homero_avalancha_brindis",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_250",
+    "enunciado": "Cuando el negocio para zurdos de Ned está por cerrar, ¿cómo ayuda Homero a salvarlo?",
+    "opciones": [
+      "Le compra todas las mercancías",
+      "Consigue que Burns compre el local",
+      "Reúne a conocidos zurdos para que compren",
+      "Convierte la tienda en una cafetería"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Homero supera su alegría por el fracaso de Ned y avisa a conocidos que necesitan productos para zurdos. La llegada de clientes salva el negocio.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_leftorium",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_251",
+    "enunciado": "Tras explotar de furia por la mala reconstrucción de su casa, ¿qué decide hacer Ned?",
+    "opciones": [
+      "Mudarse definitivamente a Shelbyville",
+      "Demandar a todos los vecinos",
+      "Demoler las casas que siguen en pie",
+      "Internarse voluntariamente para buscar ayuda"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Ned se alarma por su propia reacción y busca ayuda voluntariamente. Allí se exploran los antecedentes de su forma de reprimir el enojo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_huracan_casa_flanders",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_252",
+    "enunciado": "Cuando los Flanders intentan alejarse de su nuevo amigo Homero en auto, ¿qué usa él para aferrarse al vehículo?",
+    "opciones": [
+      "Palos de golf",
+      "Un paraguas y una cuerda",
+      "Dos perchas de ropa",
+      "Las ramas de un arbusto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La amistad se vuelve tan invasiva que Ned intenta escapar con su familia. Homero corre detrás del auto y se engancha usando palos de golf.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_ned_homero_partido_amistad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_253",
+    "enunciado": "Cuando Ned intenta rescatar a Homero de su casa en llamas con un colchón, ¿qué sale mal en el primer intento?",
+    "opciones": [
+      "El colchón queda atrapado en un árbol",
+      "Homero rebota y vuelve a entrar por la ventana",
+      "Homero cae dentro del auto de Ned",
+      "Ned termina entrando a la casa con él"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Ned arroja a Homero sobre un colchón para amortiguar la caída. El rebote lo devuelve al incendio, obligando a intentar el rescate otra vez.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_ned_rescate_colchon_rebote",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_254",
+    "enunciado": "En el episodio del viaje de Homero y Ned a Las Vegas, ¿qué edad revela Ned que sorprende a todos?",
+    "opciones": [
+      "45 años",
+      "50 años",
+      "60 años",
+      "70 años"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En ese episodio Ned cuenta que tiene sesenta años pese a su aspecto juvenil. Homero lo convence de que necesita vivir una aventura.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_ned_vegas_edad_sesenta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_255",
+    "enunciado": "En la final de minigolf entre Bart y Todd, ¿qué decisión toman los chicos ante la presión de sus padres?",
+    "opciones": [
+      "Cambiar de entrenadores",
+      "Pedir que jueguen sus padres",
+      "Resolver el torneo con una carrera",
+      "Dejar de jugar y aceptar un empate"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Bart y Todd están cansados de la rivalidad de los adultos y prefieren empatar. Homero y Ned terminan compartiendo la consecuencia de su apuesta.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_ned_minigolf_apuesta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_256",
+    "enunciado": "Cuando Ned reemplaza a Skinner como director, ¿qué hace que Chalmers lo despida de inmediato?",
+    "opciones": [
+      "Dirige una oración por los altavoces",
+      "Deja que Bart dirija las clases",
+      "Vende la escuela a la iglesia",
+      "Reemplaza los exámenes por canciones"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Chalmers tolera el desorden escolar, pero cambia de postura al oír a Ned guiar una oración. Ese hecho permite el regreso de Skinner.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_ned_director_oracion_despido",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_257",
+    "enunciado": "Cuando Ned intenta bautizar a los hijos Simpson, ¿cómo lo impide Homero en el último instante?",
+    "opciones": [
+      "Se lleva a los niños en un bote",
+      "Se interpone y recibe él el agua",
+      "Le cambia el agua por jugo",
+      "Convence a Ned de cancelar la ceremonia"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Homero salta entre Ned y Bart justo cuando cae el agua. El bautismo termina recayendo en él, y los niños vuelven con sus padres.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_hijos_acogida_flanders",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_258",
+    "enunciado": "En el recuerdo de la infancia de Ned tras el huracán, ¿qué actitud de sus padres explica sus problemas de conducta?",
+    "opciones": [
+      "Lo castigaban por cualquier ruido",
+      "Le prohibían hablar con otros niños",
+      "Evitaban imponerle límites",
+      "Le exigían ganar todos los concursos"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El recuerdo muestra a unos padres que rehúyen disciplinar a Ned. La falta de límites contrasta con la conducta extremadamente contenida que tiene de adulto.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_huracan_casa_flanders",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_259",
+    "enunciado": "Cuando George Bush se muda frente a los Simpson, ¿qué incidente con Bart desata la guerra vecinal con Homero?",
+    "opciones": [
+      "Bush confisca la patineta de Bart",
+      "Bush cancela el programa de Krusty",
+      "Bush manda a Bart a otra escuela",
+      "Bush le da unas nalgadas a Bart"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Tras los problemas que provoca Bart en su casa, Bush lo castiga físicamente. Homero exige una disculpa y el conflicto escala a una cadena de venganzas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bush_bart_conflicto_vecinos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_260",
+    "enunciado": "Tras descubrir el desastre de su campamento, ¿a qué ciudad lleva Krusty a los chicos para compensarlos?",
+    "opciones": [
+      "Tijuana",
+      "Acapulco",
+      "Cancún",
+      "Las Vegas"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Krusty encuentra el campamento convertido en una revuelta y acepta su responsabilidad. Su compensación es llevar a los chicos de viaje a Tijuana.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "bart_lisa_kamp_krusty",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_261",
+    "enunciado": "¿De qué artista toma Bart el argumento que finalmente convence al padre de Krusty de reconciliarse con su hijo?",
+    "opciones": [
+      "Groucho Marx",
+      "Sammy Davis Jr.",
+      "Jerry Lewis",
+      "Mel Brooks"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los argumentos religiosos no consiguen convencer al padre. Bart recurre a las palabras de Sammy Davis Jr., un artista que el rabino respeta.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_krusty_padre_reconciliacion_argumento",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_262",
+    "enunciado": "Además de los zapatos, ¿qué detalle del robo hace sospechar a Lisa que el ladrón no era Krusty?",
+    "opciones": [
+      "Cobra un cheque con la firma de Krusty",
+      "Compra maquillaje de payaso",
+      "Usa un microondas pese al aviso para marcapasos",
+      "Saluda a Homero por su nombre"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La grabación muestra al ladrón usando el microondas junto a una advertencia para portadores de marcapasos. Lisa recuerda que Krusty tiene uno.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bob_krusty_robo_pies",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_263",
+    "enunciado": "Cuando la mafia los confunde, ¿qué número deben completar juntos Homero y Krusty para salir del problema?",
+    "opciones": [
+      "Hacer malabares con cinco bolos",
+      "Caminar sobre una cuerda floja",
+      "Escapar de una caja cerrada",
+      "Recorrer un aro en una bicicleta diminuta"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El jefe quiere ver el número de la bicicleta atravesando un aro con vuelta completa. Krusty y Homero lo realizan juntos y consiguen que los dejen ir.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_homero_krusty_bicicleta_aro",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_264",
+    "enunciado": "¿Qué termina con la fama de Bart basada en «Yo no fui» en el programa de Krusty?",
+    "opciones": [
+      "El público deja de reírse de la frase",
+      "Lisa demuestra que copió la frase",
+      "Krusty pierde su licencia de televisión",
+      "Bart se muda a Hollywood"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Bart intenta seguir como siempre, pero la frase de pronto deja de divertir. Su popularidad se termina tan rápido como había empezado.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_yo_no_fui",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_265",
+    "enunciado": "¿Qué explicación aparece en pantalla para eliminar a Poochie del dibujo animado, contra la voluntad de Homero?",
+    "opciones": [
+      "Se fue a trabajar con Krusty",
+      "Murió al regresar a su planeta",
+      "Quedó encerrado en una computadora",
+      "Se convirtió en el nuevo villano"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La emisión sustituye la intervención que Homero había preparado. Un cartel anuncia que Poochie murió de camino a su planeta y cierra su participación.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "homero_voz_poochie",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_266",
+    "enunciado": "En el parque de Tomy y Daly, ¿qué descubren los Simpson que puede detener a los robots fuera de control?",
+    "opciones": [
+      "La música de Krusty",
+      "El agua de las fuentes",
+      "Los flashes de las cámaras",
+      "Los controles de las atracciones"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Un flash provoca una falla en un robot. La familia reúne cámaras de una tienda y usa los destellos para detener a los demás.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_parque_tomy_daly_robots",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_267",
+    "enunciado": "Cuando Bart vuelve a portarse mal, ¿qué castigo mantiene Homero aunque el chico insiste una y otra vez?",
+    "opciones": [
+      "Prohibirle entrar al Kwik-E-Mart",
+      "Quitarle los cómics para siempre",
+      "Obligarlo a dejar de ver a Milhouse",
+      "No dejarlo ver la película de Tomy y Daly"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Homero convierte la película que Bart más espera en un límite real. Esta vez sostiene el castigo pese a los intentos del chico de hacerlo ceder.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bart_castigo_pelicula_tomy_daly",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_268",
+    "enunciado": "¿Qué fraude descubren Bart y Lisa en los votos que llevan a Bob Patiño a la alcaldía?",
+    "opciones": [
+      "Hay votos de personas fallecidas",
+      "Todos los votos son de Shelbyville",
+      "Solo cuentan votos de adultos zurdos",
+      "Los votos de Quimby valen la mitad"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los registros incluyen electores que ya habían muerto, incluso una mascota de Lisa. Esa evidencia desenmascara el fraude de Bob.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_bob_alcalde_votantes_muertos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "simp_269",
+    "enunciado": "Durante el viaje espacial de Homero, ¿qué malinterpreta Kent Brockman al ver una hormiga cerca de la cámara?",
+    "opciones": [
+      "Que la tripulación se volvió diminuta",
+      "Que insectos gigantes tomaron la nave",
+      "Que están filmando en un zoológico",
+      "Que la NASA encontró una nueva especie"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La hormiga parece enorme por estar pegada a la cámara. Brockman cree que unos insectos dominan la nave y se apresura a ponerse de su lado.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "simpsons_brockman_hormigas_amos",
     "activa": true,
     "aptaFamilia": true,
     "revision": 1,

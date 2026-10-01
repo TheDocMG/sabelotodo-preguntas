@@ -841,15 +841,15 @@
   },
   {
     "id": "cult_036",
-    "enunciado": "¿Qué civilización construyó Machu Picchu?",
+    "enunciado": "¿Qué civilización construyó la antigua ciudad de Tikal?",
     "opciones": [
-      "Maya",
       "Inca",
+      "Maya",
       "Azteca",
       "Olmeca"
     ],
     "respuestaCorrecta": 1,
-    "explicacion": "La ciudadela pertenece al mundo inca y se encuentra en un entorno montañoso del actual Perú.",
+    "explicacion": "Tikal fue una gran ciudad maya en el actual norte de Guatemala. Sus templos monumentales se conservan en un parque reconocido por su patrimonio cultural y natural.",
     "dificultad": "medio",
     "modosPermitidos": [
       "supervivencia",
@@ -857,11 +857,11 @@
       "lobo_solitario",
       "familia"
     ],
-    "grupoVariantes": "civilizacion_machu_picchu",
+    "grupoVariantes": "tikal_civilizacion_maya",
     "activa": true,
     "aptaFamilia": true,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_037",
@@ -1022,13 +1022,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simbolo_w",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_044",
@@ -1045,13 +1046,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "creador_sherlock_holmes",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_045",
@@ -1068,13 +1070,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ano_apolo_11",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_046",
@@ -1091,13 +1094,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "nobel_fisica_1921",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_047",
@@ -1114,13 +1118,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "capital_tenochtitlan",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_048",
@@ -1137,13 +1142,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "relojes_dali",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_049",
@@ -1160,13 +1166,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "urano_entre_saturno_neptuno",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_050",
@@ -1183,13 +1190,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "emperador_taj_mahal",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_051",
@@ -1974,13 +1982,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "triton_orbita_retrograda",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_084",
@@ -1997,13 +2006,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "simbolo_k",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_085",
@@ -2020,13 +2030,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "wegener_deriva_continental",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_086",
@@ -2043,13 +2054,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "io_volcanes",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_087",
@@ -2066,13 +2078,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cupula_florencia_brunelleschi",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_088",
@@ -2089,13 +2102,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "autora_orgullo_prejuicio",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_089",
@@ -2112,13 +2126,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "etna_sicilia",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_090",
@@ -2135,13 +2150,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "teorema_pitagoras",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_091",
@@ -2542,13 +2558,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pepe_the_frog_comic",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-25"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_108",
@@ -5085,13 +5102,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "shakira_magia",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_214",
@@ -5108,13 +5126,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "waka_waka",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_215",
@@ -5131,13 +5150,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "shakira_zaghrouta",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_216",
@@ -5154,13 +5174,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "arjona_origen",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_217",
@@ -5177,13 +5198,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "luciano_guarany",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_218",
@@ -5200,13 +5222,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "abel_gieco",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_219",
@@ -5223,13 +5246,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "maria_becerra_quilmes",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_220",
@@ -5246,13 +5270,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "stones_argentina",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_221",
@@ -5269,13 +5294,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "michael_jackson_river",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_222",
@@ -5292,13 +5318,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "freddie_mercury",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_223",
@@ -5315,13 +5342,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pink_floyd",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_224",
@@ -5361,13 +5389,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "piazzolla_libertango",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_226",
@@ -5384,13 +5413,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "mozart_prodigio",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_227",
@@ -5407,13 +5437,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "papa_francisco_muerte",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_228",
@@ -5430,13 +5461,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "papa_leon_xiv",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_229",
@@ -5453,13 +5485,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "isabel_ii",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_230",
@@ -5476,13 +5509,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "isabel_ii",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_231",
@@ -5522,13 +5556,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "zelenski_actor",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_233",
@@ -5545,13 +5580,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "maradona_muerte",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_234",
@@ -5568,13 +5604,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pele_muerte",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_235",
@@ -5637,13 +5674,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "matthew_perry",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_238",
@@ -5660,13 +5698,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "covid_wuhan",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_239",
@@ -5683,13 +5722,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "chatgpt_openai",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_240",
@@ -5706,13 +5746,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "twitter_x",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_241",
@@ -5729,13 +5770,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "will_smith_oscar",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_242",
@@ -5775,13 +5817,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "notre_dame",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_244",
@@ -5798,13 +5841,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "milei_motosierra",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_245",
@@ -5867,13 +5911,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "mundial_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_248",
@@ -5890,13 +5935,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "nobel_paz_2025",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_249",
@@ -5913,13 +5959,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "robo_louvre",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_250",
@@ -5936,13 +5983,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ozzy_osbourne",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_251",
@@ -5982,13 +6030,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "apagon_iberico",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_253",
@@ -6005,13 +6054,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "artemis_ii",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_254",
@@ -6028,13 +6078,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "valentino_muerte",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_255",
@@ -6051,13 +6102,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "papa_leon_xiv",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_256",
@@ -6074,13 +6126,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "papa_francisco_tumba",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_257",
@@ -6235,13 +6288,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "crowdstrike",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_264",
@@ -6281,13 +6335,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "kate_cancer",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_266",
@@ -6304,13 +6359,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "harry_memorias",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_267",
@@ -6373,13 +6429,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "jane_goodall",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_270",
@@ -6396,13 +6453,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "robert_redford",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_271",
@@ -6419,13 +6477,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "diane_keaton",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_272",
@@ -6442,13 +6501,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "val_kilmer",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_273",
@@ -6465,13 +6525,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "vargas_llosa",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_274",
@@ -6511,13 +6572,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "jimmy_carter",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_276",
@@ -6534,13 +6596,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "boric_chile",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_277",
@@ -6557,13 +6620,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cfk_vialidad",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_278",
@@ -6580,13 +6644,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "bolsonaro_condena",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_279",
@@ -6603,13 +6668,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "oscar_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_280",
@@ -6626,13 +6692,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "paris_2024_sena",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_281",
@@ -6718,13 +6785,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "nobel_literatura_2025",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_285",
@@ -6741,13 +6809,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "artemis_ii",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_286",
@@ -6833,13 +6902,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hunga_tonga",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_290",
@@ -6902,13 +6972,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "brexit",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_293",
@@ -6925,13 +6996,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "margarita_dinamarca",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_294",
@@ -6971,13 +7043,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "bitcoin_el_salvador",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_296",
@@ -6994,13 +7067,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "mundial_2026",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_297",
@@ -8407,13 +8481,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "saavedra_lamas",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_356",
@@ -8430,13 +8505,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "quirino_cristiani",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_357",
@@ -8453,13 +8529,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "himno_nacional",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_358",
@@ -8476,13 +8553,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tehuelches",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_359",
@@ -8499,13 +8577,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "rivadavia_presidente",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_360",
@@ -8522,13 +8601,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "constitucion_1853",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_361",
@@ -8545,13 +8625,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "plaza_de_mayo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_362",
@@ -8591,13 +8672,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "vucetich",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_364",
@@ -8614,13 +8696,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "evita",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_365",
@@ -8637,13 +8720,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "talampaya",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_366",
@@ -8660,13 +8744,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "feliz_domingo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_367",
@@ -10027,13 +10112,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ornitorrinco_huevos",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_424",
@@ -10050,13 +10136,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "koala",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_425",
@@ -10073,13 +10160,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "charran_artico",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_426",
@@ -10096,13 +10184,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "rafflesia",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_427",
@@ -10119,13 +10208,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "medusa_inmortal",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_428",
@@ -10142,13 +10232,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cachalote",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_429",
@@ -10165,13 +10256,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "rana_dardo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_430",
@@ -10188,13 +10280,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tigre",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_431",
@@ -10211,13 +10304,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ombu",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_432",
@@ -10234,13 +10328,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cumulonimbo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_433",
@@ -10257,13 +10352,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "kiwi",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_434",
@@ -10280,13 +10376,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "cocodrilo_mordida",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_435",
@@ -10303,13 +10400,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "narval",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_436",
@@ -10326,13 +10424,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tiburon_groenlandia",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_437",
@@ -11309,13 +11408,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "siam_di_tella",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_478",
@@ -11332,13 +11432,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "titanes_ring",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_479",
@@ -11355,13 +11456,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "billiken",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_480",
@@ -11378,13 +11480,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "patoruzu",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_481",
@@ -11401,13 +11504,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "family_game",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_482",
@@ -11424,13 +11528,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "sabados_circulares",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_483",
@@ -11447,13 +11552,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "olmedo_porcel",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_484",
@@ -11470,13 +11576,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ford_falcon",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_485",
@@ -11493,13 +11600,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "hijitus",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_486",
@@ -11516,13 +11624,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "grande_pa",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_487",
@@ -12499,13 +12608,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pong",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_528",
@@ -12522,13 +12632,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "nintendo_naipes",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_529",
@@ -12545,13 +12656,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "miyamoto",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_530",
@@ -12568,13 +12680,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pacman",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_531",
@@ -12591,13 +12704,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ps2",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_532",
@@ -12614,13 +12728,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "tajiri",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_533",
@@ -12637,13 +12752,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "ganondorf",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_534",
@@ -12660,13 +12776,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "halo",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_535",
@@ -12683,13 +12800,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "pacman",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_536",
@@ -12706,13 +12824,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "gta",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-26"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_537",
@@ -12729,13 +12848,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_tini_cupido_flecha",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_538",
@@ -12847,13 +12967,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_joaqui_butakera_piloto",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_543",
@@ -12870,13 +12991,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_joaqui_monoblock_crocs",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_544",
@@ -13130,13 +13252,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_shakira_bzrp_casio",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_555",
@@ -13177,13 +13300,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_tini_loto_vela",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_557",
@@ -13200,13 +13324,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_joaqui_traidora_rumores",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_558",
@@ -13390,13 +13515,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_joaqui_dos_besitos_youtube",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_566",
@@ -13413,13 +13539,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "letra_emanero_peligrosa_contacto",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 2,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 3,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_567",
@@ -14108,13 +14235,14 @@
     "modosPermitidos": [
       "supervivencia",
       "supremo",
+      "familia",
       "lobo_solitario"
     ],
     "grupoVariantes": "roma_diocleciano_tetrarquia",
     "activa": true,
-    "aptaFamilia": false,
-    "revision": 1,
-    "fechaActualizacion": "2026-09-28"
+    "aptaFamilia": true,
+    "revision": 2,
+    "fechaActualizacion": "2026-10-01"
   },
   {
     "id": "cult_596",
@@ -14139,5 +14267,2885 @@
     "aptaFamilia": true,
     "revision": 1,
     "fechaActualizacion": "2026-09-28"
+  },
+  {
+    "id": "cult_597",
+    "enunciado": "Al entrar en una habitación muy iluminada, ¿qué ocurre normalmente con las pupilas?",
+    "opciones": [
+      "Se contraen",
+      "Se dilatan",
+      "Cambian de color",
+      "Dejan de reaccionar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El iris reduce el tamaño de las pupilas para limitar la luz que entra al ojo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_pupilas_luz",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_598",
+    "enunciado": "¿Por qué una comida suele parecer menos sabrosa cuando tenés la nariz tapada?",
+    "opciones": [
+      "Porque desaparecen las papilas gustativas",
+      "Porque el olfato aporta parte de la percepción del sabor",
+      "Porque baja la temperatura de la lengua",
+      "Porque los dientes dejan de percibir texturas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los aromas llegan a receptores olfativos; con la nariz tapada, esa parte de la experiencia disminuye.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_olfato_sabor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_599",
+    "enunciado": "¿Qué esparce sobre la superficie del ojo cada parpadeo?",
+    "opciones": [
+      "Una capa de sudor",
+      "Una capa de grasa de las pestañas",
+      "Una fina película de lágrimas",
+      "Sangre de los párpados"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Parpadear distribuye la película lagrimal sobre la córnea y ayuda a mantenerla húmeda.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_parpadeo_lagrimas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_600",
+    "enunciado": "Cuando se te pone la «piel de gallina», ¿qué ocurre alrededor de los vellos?",
+    "opciones": [
+      "Se multiplican los folículos",
+      "Los vellos se vuelven más largos",
+      "Se abren por completo los poros",
+      "Se contraen pequeños músculos de la piel"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los músculos erectores del pelo se contraen y levantan los vellos; también pueden activarse por emociones.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_piel_gallina",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_601",
+    "enunciado": "¿Qué estructuras del oído interno detectan especialmente los giros de la cabeza?",
+    "opciones": [
+      "Los conductos semicirculares",
+      "El tímpano",
+      "Los huesecillos del oído medio",
+      "El lóbulo de la oreja"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El movimiento del líquido en los conductos semicirculares informa al cerebro sobre la rotación de la cabeza.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_oido_conductos_semicirculares",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_602",
+    "enunciado": "¿En qué zona se producen las células que hacen crecer una uña?",
+    "opciones": [
+      "En la punta libre",
+      "En la matriz de la base",
+      "En la cutícula ya desprendida",
+      "En toda la superficie por igual"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La matriz ungueal, situada bajo la piel en la base, forma material nuevo y empuja la uña hacia delante.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_unas_matriz",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_603",
+    "enunciado": "¿Qué células de la retina permiten distinguir los colores con buena iluminación?",
+    "opciones": [
+      "Los bastones",
+      "Los glóbulos rojos",
+      "Los conos",
+      "Las células del nervio óptico"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los conos participan en la visión del color; los bastones son más sensibles cuando hay poca luz.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_retina_conos_color",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_604",
+    "enunciado": "¿Qué estructura del ojo cambia de forma para enfocar objetos a distintas distancias?",
+    "opciones": [
+      "La pupila",
+      "La retina",
+      "El nervio óptico",
+      "El cristalino"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Al modificar su curvatura, el cristalino contribuye a enfocar objetos cercanos o lejanos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_cristalino_enfoque",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_605",
+    "enunciado": "¿Por qué solemos ver borroso bajo el agua si abrimos los ojos sin antiparras?",
+    "opciones": [
+      "Porque la córnea pierde gran parte de su poder de enfoque",
+      "Porque el nervio óptico se apaga",
+      "Porque la pupila desaparece",
+      "Porque la retina deja de detectar colores"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El agua tiene un índice de refracción parecido al de la córnea; sin aire delante, esta refracta mucho menos.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_corneas_vision_submarina",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_606",
+    "enunciado": "¿Por qué existe un punto ciego natural en cada ojo?",
+    "opciones": [
+      "Porque el cristalino tapa una parte de la retina",
+      "Porque donde sale el nervio óptico no hay fotorreceptores",
+      "Porque el iris no tiene color en ese punto",
+      "Porque los párpados bloquean permanentemente esa zona"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El disco óptico es el lugar por donde salen las fibras del nervio; allí faltan conos y bastones.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "cuerpo_punto_ciego_disco_optico",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_607",
+    "enunciado": "¿Por qué el cielo despejado se ve azul durante el día?",
+    "opciones": [
+      "Porque refleja el color del mar",
+      "Porque el Sol solo emite luz azul",
+      "Porque el aire dispersa más la luz azul que la roja",
+      "Porque las nubes lo pintan de azul"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las moléculas atmosféricas dispersan con mayor eficacia las longitudes de onda cortas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_cielo_azul_dispersion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_608",
+    "enunciado": "En un arcoíris, ¿qué hacen las gotas con la luz solar?",
+    "opciones": [
+      "La convierten en luz propia",
+      "Solo la absorben",
+      "La transforman en electricidad",
+      "La refractan, la reflejan y separan sus colores"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La luz cambia de dirección al entrar y salir de las gotas, se refleja en su interior y sus colores se separan.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_arcoiris_optica_gotas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_609",
+    "enunciado": "¿Por qué vemos un relámpago antes de oír el trueno que lo acompaña?",
+    "opciones": [
+      "Porque la luz viaja mucho más rápido que el sonido",
+      "Porque el trueno ocurre al día siguiente",
+      "Porque el aire detiene la luz",
+      "Porque el oído tarda varios minutos en activarse"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El destello y el trueno se originan casi juntos, pero la luz llega mucho antes que el sonido.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_relampago_trueno_velocidad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_610",
+    "enunciado": "Si escuchás un eco en una montaña, ¿qué le pasó al sonido?",
+    "opciones": [
+      "Se convirtió en luz",
+      "Rebotó en una superficie y volvió",
+      "Se aceleró hasta volverse inaudible",
+      "Fue creado por una segunda voz"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Un eco es una reflexión del sonido que regresa con suficiente demora para distinguirse del sonido original.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_eco_reflexion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_611",
+    "enunciado": "¿Por qué flotan los cubos de hielo en un vaso de agua?",
+    "opciones": [
+      "Porque el hielo pesa exactamente cero",
+      "Porque el vidrio repele el hielo",
+      "Porque el hielo es menos denso que el agua líquida",
+      "Porque el agua caliente siempre empuja hacia arriba"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Al congelarse en condiciones normales, el agua forma hielo menos denso que el líquido que lo rodea.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_hielo_densidad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_612",
+    "enunciado": "¿Por qué una olla a presión permite cocinar con agua a más de 100 °C?",
+    "opciones": [
+      "Porque elimina el vapor por completo",
+      "Porque convierte el agua en aceite",
+      "Porque el metal agrega sal al agua",
+      "Porque aumenta la presión y sube el punto de ebullición"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La mayor presión dentro de la olla eleva la temperatura a la que hierve el agua.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_olla_presion_ebullicion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_613",
+    "enunciado": "Si una cuchara de metal y una de madera están a igual temperatura, ¿por qué el metal suele sentirse más frío?",
+    "opciones": [
+      "Porque saca calor de la mano más rápido",
+      "Porque siempre está a menor temperatura",
+      "Porque refleja más luz visible",
+      "Porque contiene agua congelada"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El metal conduce el calor mejor que la madera y acelera la transferencia de calor desde la mano.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_metal_madera_conduccion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_614",
+    "enunciado": "Las gotas que aparecen por fuera de un vaso con hielo provienen principalmente de...",
+    "opciones": [
+      "Agua que atravesó el vidrio",
+      "Vapor de agua del aire que se condensó",
+      "Hielo que salió por los poros del vaso",
+      "Oxígeno líquido formado en la superficie"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El aire cercano a la pared fría se enfría y parte de su vapor de agua se convierte en gotas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_vaso_frio_condensacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_615",
+    "enunciado": "En una ruta muy caliente, ¿qué produce el aparente «charco» que desaparece al acercarse?",
+    "opciones": [
+      "Una fina película de agua que se evapora de golpe",
+      "La sombra del vehículo que viene detrás",
+      "La refracción de la luz en capas de aire a distinta temperatura",
+      "Una reflexión en el asfalto mojado"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El aire cercano al suelo está más caliente; la luz cambia de trayectoria al atravesar capas de aire diferentes.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_espejismo_ruta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_616",
+    "enunciado": "¿Por qué el Sol cerca del horizonte puede verse rojizo al atardecer?",
+    "opciones": [
+      "Porque el Sol enfría su superficie por la tarde",
+      "Porque la Luna le agrega luz roja",
+      "Porque la atmósfera deja de contener oxígeno",
+      "Porque su luz atraviesa más aire y se dispersan más los tonos azules"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En su recorrido más largo por la atmósfera, gran parte de la luz azul se dispersa fuera del haz directo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "fenomenos_atardecer_rojo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_617",
+    "enunciado": "¿Qué inspiró el cierre de gancho y bucle conocido como Velcro?",
+    "opciones": [
+      "Las semillas con ganchitos que se pegaban al pelo y la ropa",
+      "Los dientes de un tiburón",
+      "Las alas de una mariposa",
+      "Las teclas de un piano"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "George de Mestral observó cómo los abrojos de bardana quedaban adheridos a su ropa y al pelaje de su perro.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_velcro_bardana",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_618",
+    "enunciado": "¿Qué producto fue el primero en pasar por un lector comercial de código de barras en 1974?",
+    "opciones": [
+      "Una lata de sopa",
+      "Un paquete de chicles Wrigley",
+      "Una caja de cereales",
+      "Una botella de gaseosa"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "En un supermercado de Ohio se escaneó un paquete de chicles Juicy Fruit de Wrigley.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_primera_lectura_upc",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_619",
+    "enunciado": "Según la historia del horno microondas, ¿qué se derritió cerca de un magnetrón y despertó la idea?",
+    "opciones": [
+      "Un vaso de hielo",
+      "Un rollo de película",
+      "Una barra de chocolate",
+      "Una cuchara de acero"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Percy Spencer observó que una barra de chocolate en su bolsillo se derretía cerca del equipo de microondas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_microondas_chocolate",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_620",
+    "enunciado": "¿Qué propiedad del adhesivo hizo posibles las notas Post-it?",
+    "opciones": [
+      "Que se endurece al contacto con el agua",
+      "Que pega solo sobre metal",
+      "Que cambia de color con la luz",
+      "Que se pega y despega sin fijarse permanentemente"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Las microesferas del adhesivo permiten sujetar la nota y volver a retirarla.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_postit_adhesivo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_621",
+    "enunciado": "¿Qué ofrecía una cámara Polaroid de película instantánea frente a una cámara tradicional de rollo?",
+    "opciones": [
+      "Obtener una foto revelada poco después de tomarla",
+      "Transmitir una foto por satélite",
+      "Grabar varias horas de video",
+      "Guardar mil fotos en una tarjeta digital"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La fotografía instantánea permitía revelar la imagen en la propia película sin llevar el rollo a un laboratorio.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_polaroid_foto_instantanea",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_622",
+    "enunciado": "¿Para qué servía el freno de seguridad que popularizó Elisha Otis en los ascensores?",
+    "opciones": [
+      "Para cerrar la puerta más rápido",
+      "Para detener la caída si se rompía el cable",
+      "Para iluminar la cabina en un apagón",
+      "Para llevar el ascensor sin motor"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Otis demostró un mecanismo que detenía la plataforma cuando fallaba la cuerda de elevación.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_otis_freno_ascensor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_623",
+    "enunciado": "En una fotocopiadora de tipo xerográfico, ¿qué polvo forma la imagen sobre el papel?",
+    "opciones": [
+      "La tiza",
+      "El grafito de lápiz",
+      "El tóner",
+      "La arena de sílice"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El tóner se adhiere gracias a cargas eléctricas y luego se fija en el papel.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_xerografia_toner",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_624",
+    "enunciado": "¿Cómo se proyecta la imagen dentro de una cámara oscura sencilla?",
+    "opciones": [
+      "Derecha gracias a una pantalla electrónica",
+      "Siempre en blanco y negro por el aire",
+      "Solo sobre un espejo colocado afuera",
+      "Invertida sobre la pared opuesta a un pequeño orificio"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los rayos de luz que pasan por una abertura pequeña forman una imagen invertida en la pared opuesta.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_camara_oscura_inversion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_625",
+    "enunciado": "Antes de aparecer en menús y entradas, ¿para qué se desarrolló el código QR?",
+    "opciones": [
+      "Para identificar piezas en la producción automotriz",
+      "Para transmitir señales de radio a aviones",
+      "Para hacer pagos entre teléfonos",
+      "Para controlar semáforos mediante GPS"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "DENSO WAVE desarrolló el QR para gestionar piezas durante la fabricación de automóviles.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_qr_origen_automotriz",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_626",
+    "enunciado": "¿Qué ajuste físico necesitan los relojes atómicos de los satélites GPS para ubicarte con precisión?",
+    "opciones": [
+      "Compensar la rotación de las agujas",
+      "Correcciones por efectos de la relatividad",
+      "Sincronizarse con los relojes de arena",
+      "Ajustarse al sonido del celular"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La velocidad orbital y la gravedad hacen que sus relojes transcurran a un ritmo diferente del de los terrestres.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "inventos_gps_relativity_relojes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_627",
+    "enunciado": "¿Por qué la Estatua de la Libertad tiene hoy un color verde si su recubrimiento es de cobre?",
+    "opciones": [
+      "Por las reacciones del cobre con el ambiente",
+      "Porque fue pintada de verde al inaugurarla",
+      "Porque está recubierta de vidrio verde",
+      "Porque recibe una capa de algas del puerto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El cobre reaccionó con el ambiente y formó una pátina verde. Su aspecto original era cobrizo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "monumentos_libertad_patina_cobre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_628",
+    "enunciado": "¿Sobre qué tipo de entorno acuático se extienden las islas de la Venecia histórica?",
+    "opciones": [
+      "Un lago de agua dulce",
+      "Una laguna costera",
+      "El delta de un gran río",
+      "Una bahía de mar abierto"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Venecia se desarrolló sobre islas de una laguna conectada con el mar Adriático, no sobre un lago de agua dulce.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_venecia_laguna",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_629",
+    "enunciado": "¿Qué significa literalmente «acrópolis», el nombre del conjunto elevado donde está el Partenón?",
+    "opciones": [
+      "Mercado del pueblo",
+      "Palacio del rey",
+      "Ciudad alta",
+      "Puerto sagrado"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La palabra combina raíces griegas que aluden a altura y ciudad: una ciudadela ubicada en un lugar elevado.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_acropolis_significado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_630",
+    "enunciado": "¿Qué arquitecto dio a la Sagrada Familia de Barcelona el diseño singular por el que es mundialmente reconocida?",
+    "opciones": [
+      "Santiago Calatrava",
+      "Le Corbusier",
+      "Frank Gehry",
+      "Antoni Gaudí"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Gaudí transformó el proyecto inicial y desarrolló el diseño de la basílica, que otros arquitectos continuaron tras su muerte.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "monumentos_sagrada_familia_gaudi",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_631",
+    "enunciado": "¿Qué fenómeno natural rodea de agua el Mont-Saint-Michel francés durante las grandes pleamares?",
+    "opciones": [
+      "La subida de la marea",
+      "El desborde de un río de montaña",
+      "El derretimiento de un glaciar",
+      "Las lluvias de un monzón"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El monte está en una bahía con mareas intensas. Las grandes pleamares pueden devolverle su aspecto de isla.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_mont_saint_michel_mareas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_632",
+    "enunciado": "¿Qué pueblo convirtió Petra, famosa por sus fachadas talladas en roca, en una capital y centro de comercio?",
+    "opciones": [
+      "Los hititas",
+      "Los nabateos",
+      "Los etruscos",
+      "Los minoicos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los nabateos hicieron de Petra un centro de caravanas que conectaba rutas de incienso, especias y otros productos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_petra_nabateos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_633",
+    "enunciado": "¿A quiénes representan principalmente los moáis de Rapa Nui, según la tradición de sus constructores?",
+    "opciones": [
+      "A espíritus de los volcanes",
+      "A navegantes llegados de Europa",
+      "A antepasados venerados",
+      "A personificaciones del Sol y la Luna"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Estas esculturas monumentales representan antepasados y se vinculan con su culto y con las plataformas ceremoniales llamadas ahu.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_rapanui_moais_antepasados",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_634",
+    "enunciado": "¿En qué ciudad española se puede recorrer la Alhambra y los jardines del Generalife?",
+    "opciones": [
+      "Córdoba",
+      "Sevilla",
+      "Toledo",
+      "Granada"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La Alhambra y el Generalife forman parte del conjunto histórico de Granada, reconocido por su arquitectura y el uso del agua en sus jardines.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_alhambra_granada",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_635",
+    "enunciado": "¿En qué país está Borobudur, el gran monumento budista organizado en terrazas en la isla de Java?",
+    "opciones": [
+      "Indonesia",
+      "Camboya",
+      "Tailandia",
+      "Sri Lanka"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Borobudur está en Java, Indonesia. Sus terrazas y plataformas expresan aspectos de la cosmología budista.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lugares_borobudur_indonesia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_636",
+    "enunciado": "¿Por qué se desmontaron y trasladaron los templos egipcios de Abu Simbel durante el siglo XX?",
+    "opciones": [
+      "Para alejarlos de una zona de terremotos",
+      "Para evitar que los inundara el embalse de una represa",
+      "Para llevarlos a un museo europeo",
+      "Para protegerlos de las dunas del Sahara"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La construcción de la gran represa de Asuán amenazaba con sumergirlos. Una campaña internacional permitió trasladarlos a un lugar más alto.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "monumentos_abu_simbel_traslado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_637",
+    "enunciado": "¿Qué producto arrojaron al agua los manifestantes del Motín de Boston de 1773 para protestar contra el poder británico?",
+    "opciones": [
+      "Tabaco",
+      "Café",
+      "Té",
+      "Azúcar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Los manifestantes destruyeron cargamentos de té en una protesta ligada al impuesto británico y a la falta de representación colonial.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_boston_motin_te",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_638",
+    "enunciado": "¿Qué movimiento de personas buscaba impedir el gobierno de Alemania Oriental al levantar el Muro de Berlín?",
+    "opciones": [
+      "La llegada de turistas desde el Oeste",
+      "El regreso de soldados desde Francia",
+      "La entrada de refugiados desde Escandinavia",
+      "La salida de habitantes hacia el Oeste"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El muro cerró una importante vía de escape de Alemania Oriental hacia Berlín Occidental y separó familias durante décadas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_berlin_muro_impedir_salida",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_639",
+    "enunciado": "¿A qué ciudad se dirigía el Titanic en su viaje inaugural cuando naufragó en 1912?",
+    "opciones": [
+      "Nueva York",
+      "Boston",
+      "Liverpool",
+      "Montreal"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El Titanic viajaba de Southampton a Nueva York. Chocó con un iceberg en el Atlántico Norte antes de llegar a destino.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_titanic_destino_nueva_york",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_640",
+    "enunciado": "¿Qué se negó a hacer Rosa Parks en un autobús de Montgomery, en un episodio clave contra la segregación racial?",
+    "opciones": [
+      "Pagar un boleto más caro",
+      "Ceder su asiento a un pasajero blanco",
+      "Viajar sin acompañante",
+      "Cambiar de autobús en la frontera estatal"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Su negativa y arresto en 1955 impulsaron el boicot a los autobuses de Montgomery, una protesta central del movimiento por los derechos civiles.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_rosa_parks_asiento",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_641",
+    "enunciado": "¿Por qué la piedra de Rosetta fue tan importante para descifrar los jeroglíficos egipcios?",
+    "opciones": [
+      "Contiene dibujos que traducen cada símbolo",
+      "Es un diccionario egipcio con alfabeto latino",
+      "Repite un decreto en tres escrituras, incluido el griego",
+      "Incluye instrucciones de un faraón para leerlos"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El mismo decreto aparece en jeroglíficos, demótico y griego. El griego conocido permitió comparar los textos y avanzar en el desciframiento.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_rosetta_tres_escrituras",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_642",
+    "enunciado": "¿Quién comandó la nave Victoria al completar la primera vuelta al mundo, después de la muerte de Magallanes?",
+    "opciones": [
+      "Vasco da Gama",
+      "Cristóbal Colón",
+      "Francis Drake",
+      "Juan Sebastián Elcano"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Elcano regresó a España en 1522 con la Victoria, completando la expedición iniciada por Magallanes.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_elcano_victoria_circunnavegacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_643",
+    "enunciado": "¿Qué documento aceptó el rey Juan de Inglaterra en 1215 bajo presión de los barones para limitar su poder?",
+    "opciones": [
+      "La Carta Magna",
+      "La Declaración de Independencia",
+      "El Edicto de Nantes",
+      "La Paz de Westfalia"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La Carta Magna estableció límites y garantías frente a ciertas decisiones reales. Fue un antecedente importante de la limitación del poder.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_carta_magna_juan_1215",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_644",
+    "enunciado": "¿Qué buscaba principalmente el Plan Marshall después de la Segunda Guerra Mundial?",
+    "opciones": [
+      "Reorganizar las fronteras de Asia",
+      "Ayudar a reconstruir las economías europeas",
+      "Financiar la independencia de colonias africanas",
+      "Crear un ejército europeo único"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Estados Unidos ofreció ayuda económica para la recuperación de países europeos devastados por la guerra.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_plan_marshall_reconstruccion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_645",
+    "enunciado": "¿Qué país caribeño declaró su independencia de Francia en 1804 tras una revolución de personas esclavizadas?",
+    "opciones": [
+      "Jamaica",
+      "Cuba",
+      "Haití",
+      "Barbados"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La Revolución haitiana culminó con la independencia en 1804 y convirtió a Haití en un símbolo de la lucha contra la esclavitud.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_haiti_independencia_1804",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_646",
+    "enunciado": "Durante el bloqueo soviético de 1948-1949, ¿cómo abastecieron los aliados occidentales a Berlín Occidental?",
+    "opciones": [
+      "Con trenes que atravesaban túneles secretos",
+      "Con barcos por una nueva salida al mar",
+      "Con convoyes militares que rompieron el bloqueo",
+      "Con un puente aéreo de aviones de carga"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Aviones transportaron alimentos, combustible y otros suministros mientras estaban bloqueadas las rutas terrestres y acuáticas.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_berlin_puente_aereo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_647",
+    "enunciado": "¿Para qué se colocan las comidas favoritas de los fallecidos en las ofrendas mexicanas del Día de Muertos?",
+    "opciones": [
+      "Para recibirlos simbólicamente y recordarlos",
+      "Para pedir abundancia en la próxima cosecha",
+      "Para agradecer el nacimiento de nuevos hijos",
+      "Para celebrar la fundación de la comunidad"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Las ofrendas recuerdan a los seres queridos y acompañan la creencia en su regreso temporal, junto con flores, velas y otros objetos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_mexico_muertos_ofrendas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_648",
+    "enunciado": "¿En qué celebración de origen indio es característico lanzarse polvos de colores y agua?",
+    "opciones": [
+      "Diwali",
+      "Holi",
+      "Vesak",
+      "Obon"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Holi celebra la llegada de la primavera y es conocido por los juegos colectivos con colores y agua.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_holi_colores",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_649",
+    "enunciado": "Aunque no lleve pescado crudo, ¿qué ingrediente caracteriza al sushi japonés?",
+    "opciones": [
+      "Fideos de arroz",
+      "Masa de trigo al vapor",
+      "Arroz condimentado con vinagre",
+      "Puré de soja fermentada"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Lo que define al sushi es su arroz avinagrado; puede acompañarse con pescado crudo, ingredientes cocidos o vegetales.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "comidas_sushi_arroz_vinagre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_650",
+    "enunciado": "¿Qué celebración de origen indio es conocida como la fiesta de las luces?",
+    "opciones": [
+      "Holi",
+      "Navaratri",
+      "Pongal",
+      "Diwali"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Durante Diwali se encienden lámparas y se iluminan hogares. Entre sus significados está la victoria de la luz sobre la oscuridad.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_diwali_luces",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_651",
+    "enunciado": "¿Qué proceso da a muchas variedades de kimchi coreano su sabor ácido característico?",
+    "opciones": [
+      "La fermentación de los vegetales",
+      "El ahumado con madera de cerezo",
+      "La cocción en leche de coco",
+      "La caramelización del azúcar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los vegetales sazonados pasan por fermentación, que aporta acidez y ayuda a conservarlos. El kimjang incluye prepararlos y compartirlos.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "comidas_kimchi_fermentacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_652",
+    "enunciado": "¿Entre qué momentos del día se realiza el ayuno de quienes lo practican durante el Ramadán?",
+    "opciones": [
+      "Desde el mediodía hasta la medianoche",
+      "Desde el alba hasta la puesta del sol",
+      "Desde la puesta del sol hasta el alba",
+      "Durante las veinticuatro horas sin interrupción"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El ayuno diario se realiza del alba al atardecer; las comidas se toman fuera de ese período. Hay excepciones previstas en la tradición religiosa.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_ramadan_horario_ayuno",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_653",
+    "enunciado": "¿Qué actividad reúne a muchas familias y amigos durante el hanami de primavera en Japón?",
+    "opciones": [
+      "Ver competiciones de sumo nocturnas",
+      "Subir al monte Fuji con antorchas",
+      "Contemplar los cerezos en flor",
+      "Soltar faroles flotantes en el mar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El hanami es la contemplación de flores, especialmente las del cerezo, a menudo acompañada de reuniones o comidas al aire libre.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_japon_hanami_cerezos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_654",
+    "enunciado": "En la tradición española de las doce uvas de Nochevieja, ¿cómo se comen al llegar el año nuevo?",
+    "opciones": [
+      "Seis antes de cenar y seis después",
+      "Todas al terminar la primera canción",
+      "Una cada hora desde el mediodía",
+      "Una por cada campanada de medianoche"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Se comen al ritmo de las doce campanadas que marcan la medianoche, como un deseo de suerte para el año que empieza.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_espana_uvas_campanadas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_655",
+    "enunciado": "¿Con qué acontecimiento astronómico coincide el Nowruz, el año nuevo de origen persa?",
+    "opciones": [
+      "El equinoccio de marzo",
+      "El solsticio de junio",
+      "La primera luna llena de enero",
+      "El solsticio de diciembre"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El Nowruz marca la llegada de la primavera en el hemisferio norte y coincide con el equinoccio de marzo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_nowruz_equinoccio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_656",
+    "enunciado": "¿Qué cereal se utiliza tradicionalmente para hacer injera, el pan esponjoso que acompaña platos de Etiopía?",
+    "opciones": [
+      "Centeno",
+      "Teff",
+      "Avena",
+      "Cebada"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El teff se muele para preparar la masa fermentada de la injera. Este pan sirve de base y también para recoger porciones de comida.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "comidas_etiopia_injera_teff",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_657",
+    "enunciado": "En el videoclip de Take on Me, de a-ha, ¿a qué mundo entra la joven cuando toma la mano que sale de una revista?",
+    "opciones": [
+      "A una historieta dibujada a lápiz",
+      "A una película de piratas",
+      "A un videojuego de carreras",
+      "A un cuadro de un museo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La mano del protagonista atraviesa la página y atrae a la joven al mundo de la historieta. El video alterna imágenes reales y dibujos animados.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_aha_take_on_me_mundo_historieta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_658",
+    "enunciado": "¿Qué patrón de percusión corporal identifica a We Will Rock You, de Queen?",
+    "opciones": [
+      "Dos palmadas y un chasquido",
+      "Dos golpes de pies y una palmada",
+      "Un golpe de pies y dos palmadas",
+      "Tres palmadas y un golpe de pies"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La combinación de dos pisadas y una palmada permite seguir el ritmo sin instrumentos. Queen la convirtió en una invitación a participar desde la tribuna.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_queen_we_will_rock_you_patron",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_659",
+    "enunciado": "En el inicio del videoclip Thriller, ¿por qué la joven sale del cine mientras Michael Jackson sigue disfrutando la película?",
+    "opciones": [
+      "Porque descubre que perdió su entrada",
+      "Porque Michael se queda dormido",
+      "Porque la película de terror la asusta",
+      "Porque el proyector deja de funcionar"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La joven no disfruta las escenas de terror y sale de la sala. Michael la sigue; después, el propio paseo se convierte en una escena de monstruos y baile.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_thriller_salida_cine_miedo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_660",
+    "enunciado": "En el videoclip Billie Jean, ¿qué sucede con las baldosas que pisa Michael Jackson?",
+    "opciones": [
+      "Se convierten en teclas de piano",
+      "Se levantan formando una escalera",
+      "Desaparecen y dejan un rastro de agua",
+      "Se iluminan bajo sus pasos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Las baldosas se encienden al contacto con sus pies. Ese efecto visual acompaña su recorrido y se convirtió en una imagen emblemática del video.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_billie_jean_baldosas_luz",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_661",
+    "enunciado": "¿Qué tipo de coro refuerza el sonido de Like a Prayer, de Madonna?",
+    "opciones": [
+      "Un coro de góspel",
+      "Un coro de ópera",
+      "Un coro de canto gregoriano",
+      "Un coro de música militar"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "La canción combina pop con voces de góspel. El coro aporta una respuesta colectiva y una intensidad característica de esa tradición musical.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_madonna_like_a_prayer_gospel",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_662",
+    "enunciado": "¿Qué himno nacional se escucha en la introducción de All You Need Is Love, de los Beatles?",
+    "opciones": [
+      "God Save the King, del Reino Unido",
+      "La Marsellesa, de Francia",
+      "Il Canto degli Italiani, de Italia",
+      "The Star-Spangled Banner, de Estados Unidos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La grabación comienza con una cita instrumental de La Marsellesa. Luego entra la canción, que también incorpora otras referencias musicales en su cierre.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_beatles_all_you_need_intro_marsellesa",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_663",
+    "enunciado": "¿Qué acción imita el paso más reconocible del baile de Gangnam Style, de PSY?",
+    "opciones": [
+      "Remar en una canoa",
+      "Pedalear en una bicicleta",
+      "Montar a caballo sujetando las riendas",
+      "Boxear frente a un espejo"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "PSY cruza las manos como si sostuviera riendas y rebota con las piernas. El paso del caballo fue una de las claves de la expansión del videoclip.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_psy_gangnam_baile_caballo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_664",
+    "enunciado": "En el videoclip de La incondicional, ¿qué nueva vida lleva a Luis Miguel a cortarse el cabello?",
+    "opciones": [
+      "Su incorporación a un equipo de fútbol",
+      "Su trabajo en una fábrica",
+      "Su preparación como piloto de carreras",
+      "Su ingreso a una academia militar"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El video presenta al cantante como un joven que entra en la vida militar. El corte de cabello marca visualmente esa transformación del personaje.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_luis_miguel_incondicional_academia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_665",
+    "enunciado": "En Smooth, ¿qué cantante pone la voz junto a la guitarra de Carlos Santana?",
+    "opciones": [
+      "Rob Thomas",
+      "Lenny Kravitz",
+      "Adam Levine",
+      "Chris Martin"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Rob Thomas, cantante de Matchbox Twenty, interpreta Smooth con Santana. La colaboración combina su voz con la guitarra y el ritmo latino del tema.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_santana_smooth_rob_thomas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_666",
+    "enunciado": "En el videoclip Clint Eastwood, de Gorillaz, ¿de qué integrante surge el espíritu que interpreta el rap?",
+    "opciones": [
+      "De 2-D, el cantante",
+      "De Russel, el baterista",
+      "De Murdoc, el bajista",
+      "De Noodle, la guitarrista"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El espíritu de Del aparece desde Russel y toma el tramo de rap. La escena integra la historia ficticia de los personajes con la interpretación del tema.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "musica_gorillaz_clint_eastwood_del_russel",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_667",
+    "enunciado": "En el episodio donde Mr. Bean redecora su casa, ¿qué método absurdo usa para pintar de golpe toda la habitación?",
+    "opciones": [
+      "Una aspiradora que absorbe las paredes",
+      "Un robot que dispara brochas",
+      "Un petardo dentro de una lata de pintura",
+      "Un ventilador cubierto de rodillos"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "En Do-It-Yourself Mr. Bean, el personaje provoca una explosión de pintura. El gag culmina con una silueta sin pintar donde estaba su visitante.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tv_mr_bean_pintura_petardo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_668",
+    "enunciado": "En El Chapulín Colorado, ¿qué suele provocar la pregunta «¿Y ahora quién podrá defenderme?»?",
+    "opciones": [
+      "La llegada del Profesor Jirafales",
+      "El comienzo de una carrera de vecinos",
+      "La transformación del protagonista en villano",
+      "La aparición del Chapulín para ofrecer ayuda"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La pregunta funciona como llamada de auxilio y da pie a la entrada del Chapulín. Su respuesta y sus errores forman parte del humor del programa.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tv_chapulin_llamada_auxilio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_669",
+    "enunciado": "En la ronda inicial de The Price Is Right, ¿qué oferta gana al intentar adivinar el precio de un artículo?",
+    "opciones": [
+      "La más cercana sin superar el precio real",
+      "La más cercana, aunque supere el precio",
+      "La que iguala el promedio de las ofertas",
+      "La primera que se anuncia, si queda por debajo"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "En One Bid se compara cada oferta con el precio del producto. Gana quien más se aproxima sin pasarse; superar el precio deja esa oferta fuera.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tv_price_is_right_one_bid_sin_pasarse",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_670",
+    "enunciado": "En Deal or No Deal, conocido como Trato hecho, ¿qué propone normalmente el banquero al llamar durante el juego?",
+    "opciones": [
+      "Revelar gratis el contenido de dos maletines",
+      "Comprar el maletín del concursante por una suma ofrecida",
+      "Duplicar cualquier premio a cambio de una respuesta",
+      "Cambiar todos los importes por nuevos valores"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El jugador puede aceptar la oferta y terminar o rechazarla para seguir. El suspenso surge de comparar una suma segura con el valor desconocido de su maletín.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tv_deal_no_deal_oferta_banquero",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_671",
+    "enunciado": "En The Force, el anuncio de Volkswagen con un niño vestido de Darth Vader, ¿qué hace que crea haber encendido el auto?",
+    "opciones": [
+      "Su madre empuja el auto desde atrás",
+      "El niño encuentra la llave bajo el casco",
+      "Su padre lo enciende con el control remoto",
+      "El auto responde a una orden de voz"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El padre activa el encendido a distancia mientras el niño intenta usar la Fuerza. El pequeño atribuye el resultado a sus propios poderes.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "publicidad_vw_the_force_padre_control",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_672",
+    "enunciado": "En el anuncio 1984 de Apple, ¿qué hace la atleta para interrumpir el discurso del personaje que domina la pantalla?",
+    "opciones": [
+      "Desconecta los cables del proyector",
+      "Rompe la cámara con una pelota",
+      "Pinta un mensaje sobre la pared",
+      "Arroja un martillo contra la pantalla"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "La atleta irrumpe en una sala de espectadores uniformados y lanza el martillo. La destrucción de la pantalla simboliza la ruptura con la uniformidad.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "publicidad_apple_1984_martillo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_673",
+    "enunciado": "¿Qué canción acompaña al gorila que toca la batería en el famoso anuncio de Cadbury de 2007?",
+    "opciones": [
+      "In the Air Tonight, de Phil Collins",
+      "Sussudio, de Phil Collins",
+      "Another Day in Paradise, de Phil Collins",
+      "Easy Lover, de Philip Bailey y Phil Collins"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El gorila espera la entrada de la batería de In the Air Tonight y luego toca con entusiasmo. La publicidad juega con la expectativa de ese momento musical.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "publicidad_cadbury_gorila_in_the_air_tonight",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_674",
+    "enunciado": "En el anuncio original de Old Spice de 2010, el protagonista pasa de una ducha a un barco. ¿Sobre qué termina montado?",
+    "opciones": [
+      "Una motocicleta",
+      "Un caballo",
+      "Un camello",
+      "Una tabla de surf"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El anuncio encadena cambios de escenario sin cortar el discurso a cámara. El remate revela al protagonista sobre un caballo, después de la escena del barco.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "publicidad_old_spice_2010_final_caballo",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_675",
+    "enunciado": "En el anuncio Where’s the Beef? de Wendy’s de 1984, ¿qué decepciona a las mujeres al revisar la hamburguesa?",
+    "opciones": [
+      "Un pan quemado que esconde demasiada carne",
+      "Una hamburguesa de juguete en el plato",
+      "Una porción de carne diminuta dentro de un pan enorme",
+      "Una montaña de queso sin ningún pan"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las mujeres admiran el gran pan, pero descubren muy poca carne dentro. La pregunta del anuncio convierte esa desproporción en una burla a los competidores.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "publicidad_wendys_where_beef_pan_carne",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_676",
+    "enunciado": "¿Qué novela inspira el nombre de Gran Hermano, el reality donde los participantes son observados continuamente?",
+    "opciones": [
+      "Un mundo feliz, de Aldous Huxley",
+      "Fahrenheit 451, de Ray Bradbury",
+      "La máquina del tiempo, de H. G. Wells",
+      "1984, de George Orwell"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "En 1984, el Gran Hermano representa una vigilancia permanente. El reality toma ese nombre para una casa cuyos participantes son filmados de manera continua.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "tv_gran_hermano_nombre_orwell",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_677",
+    "enunciado": "¿Qué enfermedad buscaba visibilizar el Ice Bucket Challenge que se volvió viral en 2014?",
+    "opciones": [
+      "La esclerosis lateral amiotrófica, o ELA",
+      "La esclerosis múltiple",
+      "La enfermedad de Parkinson",
+      "La enfermedad de Alzheimer"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El reto del balde de agua helada ayudó a difundir información sobre la ELA y a recaudar fondos. Su expansión conectó una acción viral con una causa concreta.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_ice_bucket_2014_ela",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_678",
+    "enunciado": "En el Mannequin Challenge, ¿qué debían hacer los participantes mientras la cámara recorría la escena?",
+    "opciones": [
+      "Caminar todos hacia atrás",
+      "Quedarse inmóviles como maniquíes",
+      "Cambiar de ropa sin salir de cuadro",
+      "Imitar los movimientos de quien filmaba"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Cada persona mantiene una pose congelada mientras la cámara se mueve entre ellas. La escena parece detenida aunque el video continúa grabándose.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_mannequin_challenge_inmovilidad",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_679",
+    "enunciado": "En los videos virales del Harlem Shake de 2013, ¿qué cambio suele ocurrir cuando entra la parte fuerte de la música?",
+    "opciones": [
+      "Todos se duermen excepto quien filmaba",
+      "El bailarín inicial desaparece y queda la sala vacía",
+      "Todos pasan a bailar de forma disparatada",
+      "El grupo repite el mismo paso en perfecta sincronía"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La fórmula empieza con una sola persona bailando mientras el resto sigue su rutina. Tras el cambio musical, todo el grupo aparece en un baile caótico.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_harlem_shake_2013_cambio",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_680",
+    "enunciado": "El vestido viral de 2015 dividió a quienes lo veían blanco y dorado o azul y negro. ¿De qué colores era la prenda real?",
+    "opciones": [
+      "Blanco y dorado",
+      "Gris y rosa",
+      "Violeta y verde",
+      "Azul y negro"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El fabricante confirmó que la prenda era azul y negra. La iluminación de la fotografía y la interpretación visual explican que se percibiera de formas distintas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_the_dress_colores_reales",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_681",
+    "enunciado": "¿Qué característica de Pokémon GO llevó a sus jugadores a recorrer calles y parques al lanzarse en 2016?",
+    "opciones": [
+      "Los Pokémon aparecían vinculados a lugares del mundo real",
+      "Los Pokémon solo se obtenían viendo anuncios",
+      "Cada batalla exigía visitar una tienda de videojuegos",
+      "Solo se podía jugar con otros usuarios conectados por cable"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El juego utiliza la ubicación del jugador para conectar el mapa con su entorno. Buscar criaturas y visitar puntos del mapa convirtió caminar en parte de la experiencia.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_pokemon_go_lugares_reales",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_682",
+    "enunciado": "¿Por qué los resultados compartidos de Wordle usan cuadrados de colores sin mostrar las letras?",
+    "opciones": [
+      "Para que todos reciban una palabra distinta",
+      "Para mostrar los intentos sin revelar la palabra del día",
+      "Para ocultar cuántos intentos hizo el jugador",
+      "Para permitir cambiar una respuesta después de compartirla"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La cuadrícula conserva el patrón de aciertos de cada intento, pero omite las letras. Así permite comparar resultados sin arruinar el desafío a quienes aún no jugaron.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_wordle_compartir_sin_spoiler",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_683",
+    "enunciado": "Pese al nombre Dramatic Chipmunk, ¿qué animal aparece en el meme que gira la cabeza mientras la cámara se acerca?",
+    "opciones": [
+      "Una ardilla listada",
+      "Una marmota alpina",
+      "Un perrito de las praderas",
+      "Un hámster sirio"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "El animal del breve clip es un perrito de las praderas, no una ardilla listada. El giro, el acercamiento y la música transforman la mirada en una reacción dramática.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_dramatic_chipmunk_animal_real",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_684",
+    "enunciado": "¿Qué interrumpió la entrevista de Robert Kelly con la BBC que se volvió viral en 2017 como BBC Dad?",
+    "opciones": [
+      "Su mascota apagó la computadora",
+      "Un vecino comenzó a cantar frente a la cámara",
+      "El entrevistador confundió su nombre con el de un actor",
+      "Sus hijos entraron en la habitación durante la transmisión"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Los niños entraron mientras Kelly comentaba sobre política en directo. Su esposa intentó retirarlos, y la inesperada escena familiar se difundió por todo el mundo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_bbc_dad_hijos_entrevista",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_685",
+    "enunciado": "En Me at the zoo, el primer video subido a YouTube en 2005, ¿qué animales aparecen detrás de Jawed Karim?",
+    "opciones": [
+      "Elefantes",
+      "Jirafas",
+      "Gorilas",
+      "Rinocerontes"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Karim habla brevemente frente al recinto de los elefantes del zoológico de San Diego. Ese clip de 19 segundos inauguró las publicaciones de YouTube.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_youtube_me_at_zoo_elefantes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_686",
+    "enunciado": "En Twitch Plays Pokémon de 2014, ¿cómo podían miles de espectadores controlar la misma partida?",
+    "opciones": [
+      "Votando qué jugador profesional debía continuar",
+      "Escribiendo órdenes de movimiento y botones en el chat",
+      "Enviando videos de sus propias partidas",
+      "Comprando turnos individuales para usar un control remoto"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Un programa convertía mensajes del chat en entradas del juego. Las órdenes de miles de personas se mezclaban para dirigir colectivamente una sola partida.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "internet_twitch_plays_pokemon_comandos_chat",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_687",
+    "enunciado": "¿Qué llegó primero: las latas de conserva o los abrelatas diseñados específicamente para abrirlas?",
+    "opciones": [
+      "Las latas de conserva",
+      "Los abrelatas",
+      "Ambos aparecieron juntos en la misma patente",
+      "El abrelatas manual existía desde la Edad Media"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Las conservas en lata se comercializaban décadas antes de los primeros abrelatas específicos. Las primeras latas debían abrirse con herramientas como martillos y cinceles.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_conservas_antes_abrelatas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_688",
+    "enunciado": "¿Qué usaba el telar de Jacquard para seguir diseños complejos, mucho antes de que lo hicieran algunas computadoras?",
+    "opciones": [
+      "Cilindros con grabaciones de voz",
+      "Tarjetas perforadas",
+      "Discos de vidrio con fotografías",
+      "Cintas magnéticas con dibujos"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los agujeros de las tarjetas determinaban qué hilos se levantaban en cada paso. Ese modo de dar instrucciones a una máquina fue un antecedente de la programación con tarjetas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_jacquard_tarjetas_instrucciones",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_689",
+    "enunciado": "¿Qué coordenada pudieron calcular mejor los navegantes gracias a los relojes marinos precisos de John Harrison?",
+    "opciones": [
+      "La latitud",
+      "La altitud sobre el nivel del mar",
+      "La longitud",
+      "La profundidad del fondo marino"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Un reloj que conservaba la hora del lugar de referencia permitía compararla con la hora solar local. La diferencia ayudaba a calcular cuánto había avanzado el barco hacia el este o el oeste.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_harrison_cronometro_longitud",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_690",
+    "enunciado": "¿Por qué Louis Braille redujo de doce a seis los puntos de cada celda del sistema que inspiró su escritura?",
+    "opciones": [
+      "Para que cada letra necesitara exactamente seis puntos",
+      "Para eliminar todas las vocales del alfabeto",
+      "Para poder leer únicamente con ambas manos a la vez",
+      "Para reconocer toda la celda con la yema de un dedo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Braille adaptó las ideas de Charles Barbier a una celda más compacta. Sus seis posiciones caben bajo un dedo y permiten reconocer los signos con mayor facilidad.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_braille_seis_puntos_yema",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_691",
+    "enunciado": "¿Qué invento explosivo está ligado a Alfred Nobel, cuyo nombre llevan los premios científicos y culturales?",
+    "opciones": [
+      "La dinamita",
+      "La pólvora negra",
+      "La nitroglicerina",
+      "El trinitrotolueno o TNT"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Nobel desarrolló la dinamita al incorporar nitroglicerina a un material absorbente. Parte de la fortuna que dejó permitió establecer los premios que llevan su apellido.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_nobel_dinamita_premios",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_692",
+    "enunciado": "¿Qué función simbólica tenían los guerreros de terracota enterrados cerca del primer emperador de China?",
+    "opciones": [
+      "Anunciar a los visitantes los precios del mercado",
+      "Proteger y acompañar al emperador después de morir",
+      "Representar a atletas vencedores en competencias",
+      "Enseñar a los niños a fabricar armas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El ejército de figuras formaba parte del enorme complejo funerario de Qin Shi Huang. Sus soldados y caballos recreaban una fuerza que custodiaba al emperador en la otra vida.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_qin_terracota_ejercito_funerario",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_693",
+    "enunciado": "¿Qué elemento se combina con el caucho y calor en la vulcanización clásica que lo vuelve más útil para neumáticos?",
+    "opciones": [
+      "Sodio",
+      "Mercurio",
+      "Azufre",
+      "Aluminio"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La vulcanización con azufre crea enlaces entre cadenas del caucho. El material conserva mejor su elasticidad y resiste los cambios de temperatura que afectaban al caucho sin tratar.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_vulcanizacion_caucho_azufre",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_694",
+    "enunciado": "¿Qué hacía elevarse a los globos de los hermanos Montgolfier, anteriores a los aviones?",
+    "opciones": [
+      "Helio dentro de una envoltura sellada",
+      "Hidrógeno dentro de una envoltura sellada",
+      "Vapor de agua a alta presión",
+      "Aire calentado dentro del globo"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El aire caliente es menos denso que el aire exterior. En una demostración de 1783 en Versalles, un globo de los Montgolfier llevó una oveja, un pato y un gallo.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_montgolfier_globo_aire_caliente",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_695",
+    "enunciado": "¿Qué ventaja ofrecían los tipos móviles metálicos de Gutenberg al preparar distintas páginas para imprimir?",
+    "opciones": [
+      "Las mismas letras podían reorganizarse y reutilizarse",
+      "Cada página se escribía sin utilizar tinta",
+      "El papel se fabricaba al presionar las letras",
+      "Las letras corregían automáticamente los errores"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los caracteres individuales se ordenaban para formar textos y podían usarse en otras páginas. El sistema evitaba tener que tallar un bloque completo para cada texto nuevo.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_gutenberg_tipos_moviles_reutilizacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_696",
+    "enunciado": "¿Por qué se eligió SOS como señal internacional de socorro en código Morse?",
+    "opciones": [
+      "Porque era la abreviatura oficial de una frase latina",
+      "Por su patrón sencillo y fácil de reconocer",
+      "Porque coincidía con el nombre del primer barco que la usó",
+      "Porque solo podía transmitirse desde grandes distancias"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La señal reúne tres puntos, tres rayas y tres puntos. Fue elegida por su claridad; las frases inglesas que suelen asociarse a sus letras se añadieron después.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_sos_patron_morse_no_sigla",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_697",
+    "enunciado": "¿Qué marca los límites del mar de los Sargazos, que no está rodeado por costas como otros mares?",
+    "opciones": [
+      "Una cadena continua de islas",
+      "Una barrera de hielo permanente",
+      "Corrientes oceánicas",
+      "Montañas submarinas que sobresalen del agua"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Esta región del Atlántico está delimitada por corrientes que forman un gran giro oceánico. Recibe su nombre de las algas flotantes llamadas sargazo.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geografia_sargazos_limites_corrientes",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_698",
+    "enunciado": "¿Qué lago siberiano, el más profundo del mundo, también almacena un enorme volumen de agua dulce?",
+    "opciones": [
+      "El Titicaca",
+      "El Victoria",
+      "El Superior",
+      "El Baikal"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El Baikal alcanza más de 1.600 metros de profundidad. Su enorme cuenca lo convierte en una reserva excepcional de agua dulce, aunque otros lagos tengan mayor superficie.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geografia_baikal_profundidad_volumen",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_699",
+    "enunciado": "¿Qué sucede entre las placas norteamericana y euroasiática en la zona de Þingvellir, en Islandia?",
+    "opciones": [
+      "Se separan progresivamente",
+      "Se acercan y una se hunde bajo la otra",
+      "Se deslizan lateralmente sin separarse",
+      "Se mantienen unidas como una sola placa"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Islandia está atravesada por la dorsal mesoatlántica. En Þingvellir se observan fracturas y un valle asociados a la separación de esas dos placas tectónicas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geografia_islandia_thingvellir_placas_separacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_700",
+    "enunciado": "¿Por qué un oso polar no caza pingüinos en su hábitat natural?",
+    "opciones": [
+      "Porque los pingüinos son venenosos para los osos",
+      "Porque sus poblaciones silvestres no comparten región",
+      "Porque los pingüinos viven siempre en aguas profundas",
+      "Porque los osos polares solo comen plantas"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Los osos polares viven en el Ártico. Los pingüinos no son aves nativas de esa región: sus poblaciones se encuentran en zonas del hemisferio sur y en las Galápagos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "naturaleza_oso_polar_pinguinos_distribucion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_701",
+    "enunciado": "En las monarcas que pasan el invierno en México, ¿cómo se completa la expansión hacia el norte en primavera y verano?",
+    "opciones": [
+      "Las mismas mariposas hacen el recorrido durante diez años",
+      "Los huevos viajan sujetos a las plumas de otras aves",
+      "Mediante varias generaciones sucesivas",
+      "Las orugas recorren todo el trayecto antes de tener alas"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Las monarcas que parten de México se reproducen durante el regreso. Sus descendientes continúan poblando zonas más al norte; otra generación hará después el viaje hacia los sitios de invierno.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "naturaleza_monarca_migracion_norte_generaciones",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_702",
+    "enunciado": "¿Para qué sirven principalmente las raíces del mangle negro que sobresalen del barro como pequeños tubos?",
+    "opciones": [
+      "Para capturar insectos y digerirlos",
+      "Para almacenar agua dulce como una cisterna",
+      "Para expulsar semillas a gran distancia",
+      "Para obtener oxígeno del aire"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Esas raíces aéreas permiten el intercambio de gases. Son una adaptación a suelos encharcados donde las raíces enterradas no encontrarían suficiente oxígeno.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "naturaleza_mangle_negro_raices_oxigeno",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_703",
+    "enunciado": "¿Qué grupo reúne a los únicos mamíferos terrestres nativos actuales de Nueva Zelanda?",
+    "opciones": [
+      "Los murciélagos",
+      "Los canguros",
+      "Los zorros",
+      "Los erizos"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Los murciélagos son los mamíferos terrestres nativos del país. Otros mamíferos de tierra fueron introducidos por personas; las ballenas y los delfines pertenecen a su fauna marina.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "naturaleza_nueva_zelanda_mamiferos_nativos_murcielagos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_704",
+    "enunciado": "¿Qué espectáculo natural hace famosa a la región venezolana del Catatumbo, junto al lago de Maracaibo?",
+    "opciones": [
+      "Auroras visibles durante todo el año",
+      "Tormentas con muchísimos relámpagos",
+      "Géiseres que expulsan agua salada",
+      "Mareas que dejan el lago completamente seco"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La zona es conocida por su intensa actividad eléctrica. Observaciones satelitales han identificado el lago de Maracaibo como uno de los grandes focos de relámpagos del planeta.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "geografia_catatumbo_maracaibo_relampagos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_705",
+    "enunciado": "¿Por qué las crecidas anuales del Nilo eran valiosas para la agricultura del antiguo Egipto?",
+    "opciones": [
+      "Convertían el agua salada del río en agua dulce",
+      "Impedían que aparecieran plantas silvestres",
+      "Dejaban agua y sedimentos fértiles en los campos",
+      "Hacían que el río fluyera en ambas direcciones"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Al retirarse las aguas, quedaban suelos renovados por sedimentos. Ese ciclo hacía posible cultivar junto al río en una región rodeada en gran parte por desiertos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "historia_nilo_crecidas_sedimentos_agricultura",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_706",
+    "enunciado": "Cuando un coral se blanquea por estrés térmico, ¿qué relación pierde o altera?",
+    "opciones": [
+      "La que mantiene con peces limpiadores de su superficie",
+      "La que mantiene con hongos que endurecen su esqueleto",
+      "La que mantiene con algas grandes adheridas a la roca",
+      "La que mantiene con las microalgas de sus tejidos"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Muchos corales viven asociados a microalgas que aportan alimento y color. Si esa asociación se rompe, puede verse el esqueleto blanco; el blanqueamiento no implica siempre una muerte inmediata.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "naturaleza_coral_blanqueamiento_microalgas",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_707",
+    "enunciado": "Así como abecedario recuerda a A, B y C, ¿qué dos nombres de letras forman el origen de alfabeto?",
+    "opciones": [
+      "Alfa y beta",
+      "Alfa y omega",
+      "Beta y gamma",
+      "Delta y épsilon"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "Alfabeto llega del griego a través del latín y reúne los nombres de las primeras dos letras griegas. Abecedario sigue una idea parecida con las primeras letras latinas.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_alfabeto_origen_alfa_beta",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_708",
+    "enunciado": "¿Por qué la palabra reconocer es un palíndromo?",
+    "opciones": [
+      "Porque contiene todas las vocales",
+      "Porque se lee igual en ambos sentidos",
+      "Porque tiene dos significados opuestos",
+      "Porque cambia de sentido al quitarle una letra"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "Al invertir el orden de sus letras, reconocer sigue siendo reconocer. Esa simetría puede aparecer tanto en palabras como en frases, dejando de lado espacios y signos.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_palindromo_reconocer_simetria",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_709",
+    "enunciado": "¿Qué combinación de ideas da origen a la palabra japonesa emoji?",
+    "opciones": [
+      "Emoción y movimiento",
+      "Sonido y color",
+      "Dibujo y carácter de escritura",
+      "Mensaje y teléfono"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "Emoji combina e, relacionado con dibujo, y moji, carácter escrito. Aunque se parezca a emoción, su origen japonés no depende de esa palabra española.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_emoji_origen_dibujo_caracter",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_710",
+    "enunciado": "¿Con qué idea se relaciona robota, la palabra checa de la que surgió robot?",
+    "opciones": [
+      "Con la electricidad estática",
+      "Con la inteligencia superior",
+      "Con una armadura de metal",
+      "Con el trabajo forzado"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "Robot se difundió gracias a la obra R.U.R. de Karel Čapek, quien atribuyó la propuesta a su hermano Josef. Su raíz está asociada al trabajo obligatorio, no a las piezas metálicas.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_robot_robota_trabajo_forzado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_711",
+    "enunciado": "¿Qué práctica portuaria está detrás del origen de la palabra cuarentena?",
+    "opciones": [
+      "Hacer esperar a los barcos cuarenta días antes de desembarcar",
+      "Revisar cuarenta muestras de agua antes de permitir la entrada",
+      "Mantener a cuarenta marineros de guardia durante una epidemia",
+      "Dejar cuarenta metros entre los barcos que llegaban al puerto"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El nombre se relaciona con períodos históricos de cuarenta días de espera en puertos europeos. Hoy la palabra no exige que el período dure ese número exacto de días.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_cuarentena_cuarenta_dias_puertos",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_712",
+    "enunciado": "La palabra siesta viene de la hora sexta latina. ¿A qué momento del día se refería esa expresión?",
+    "opciones": [
+      "A las seis de la mañana",
+      "Al mediodía",
+      "A las seis de la tarde",
+      "A la medianoche"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "La hora sexta se contaba desde el comienzo del día y correspondía al mediodía. La palabra terminó asociada al descanso o sueño que se toma después de comer.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_siesta_hora_sexta_mediodia",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_713",
+    "enunciado": "¿Qué invita a hacer la expresión latina carpe diem?",
+    "opciones": [
+      "A olvidar toda experiencia pasada",
+      "A esperar siempre un momento perfecto",
+      "A aprovechar el presente",
+      "A evitar cualquier cambio de rutina"
+    ],
+    "respuestaCorrecta": 2,
+    "explicacion": "La expresión anima a aprovechar el día o el momento presente. Se asocia al poeta Horacio y a la idea de no confiar todo a un futuro incierto.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "lenguaje_carpe_diem_aprovechar_presente",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_714",
+    "enunciado": "En una casa japonesa, ¿qué suele hacerse en el genkan antes de subir al piso interior?",
+    "opciones": [
+      "Lavar toda la ropa del visitante",
+      "Colocar los platos usados durante la comida",
+      "Encender el calentador de agua",
+      "Dejar el calzado de la calle"
+    ],
+    "respuestaCorrecta": 3,
+    "explicacion": "El genkan marca la transición entre el exterior y el interior. Allí se dejan los zapatos para evitar llevar suciedad a los espacios donde se vive, incluidos los pisos de tatami.",
+    "dificultad": "facil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_japon_genkan_calzado",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_715",
+    "enunciado": "En Songkran, el año nuevo tradicional tailandés, ¿qué simboliza verter agua sobre otras personas?",
+    "opciones": [
+      "Limpieza, respeto y buenos augurios",
+      "El inicio de una competencia de pesca",
+      "Una promesa de no volver a la ciudad",
+      "El final obligatorio de toda actividad agrícola"
+    ],
+    "respuestaCorrecta": 0,
+    "explicacion": "El agua tiene un sentido de renovación y respeto, además de protagonizar festejos callejeros. Songkran también incluye reuniones familiares y gestos de consideración hacia las personas mayores.",
+    "dificultad": "medio",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_songkran_agua_renovacion",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
+  },
+  {
+    "id": "cult_716",
+    "enunciado": "¿Qué regalo del first-footing escocés de Año Nuevo simboliza el deseo de que no falte calor en una casa?",
+    "opciones": [
+      "Una moneda de plata",
+      "Un trozo de carbón",
+      "Unas galletas de mantequilla",
+      "Un poco de sal"
+    ],
+    "respuestaCorrecta": 1,
+    "explicacion": "El primer visitante después de medianoche lleva regalos con significados de buena suerte. El carbón representa calor para el hogar; las galletas, alimento, y la moneda, prosperidad.",
+    "dificultad": "dificil",
+    "modosPermitidos": [
+      "supervivencia",
+      "supremo",
+      "lobo_solitario",
+      "familia"
+    ],
+    "grupoVariantes": "costumbres_escocia_first_footing_carbon_calor",
+    "activa": true,
+    "aptaFamilia": true,
+    "revision": 1,
+    "fechaActualizacion": "2026-10-01"
   }
 ]
